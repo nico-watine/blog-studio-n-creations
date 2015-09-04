@@ -1086,7 +1086,7 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "assets",
-	"displayValue": "New Project (PHP)",
+	"displayValue": "blog.SNC",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets_gray"
 	},
@@ -1233,7 +1233,7 @@
 	"coffeeMinifyOutput": 1,
 	"coffeeOutputStyle": 0,
 	"coffeeSyntaxCheckerStyle": 1,
-	"externalServerAddress": "http:\/\/new-project.static",
+	"externalServerAddress": "http:\/\/blog.snc.static\/",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
 	"hamlAutoOutputPathEnabled": 1,
