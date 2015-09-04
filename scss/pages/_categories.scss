@@ -1,0 +1,25 @@
+@import "../settings/_settings.scss";
+
+.page-title {
+	text-align: center;
+}
+
+.post-categories {
+	@include row;
+
+	.category {
+		@include span-columns(4 of 16);
+		@include shift(1);
+		// height: 300px;
+		height: 150px;
+		text-align: center;
+
+		h3 a {
+			text-decoration: none;
+
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+}

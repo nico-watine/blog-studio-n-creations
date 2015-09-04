@@ -1,0 +1,31 @@
+body.style-tile {
+	margin-top: 2.5em;
+
+	section {
+		margin-bottom: 2.5em;
+		@include outer-container;
+	}
+}
+
+h1.style-category-title {
+	text-align: center;
+}
+
+.btn-style-examples {
+	@include span-columns(3 of 9);
+	text-align: center;
+
+	a {
+		margin-bottom: 1.25em;
+	}
+
+	.hover {
+		background-color: $btn-bg; //#eee
+		color: $btn-text-hover; //#2d2d2d
+		text-shadow: rem(1) rem(1) 0 #fff;
+
+		&:hover {
+			@extend .hover;
+		}
+	}
+}

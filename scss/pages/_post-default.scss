@@ -1,0 +1,103 @@
+@import "../settings/_settings.scss";
+
+.main-post {
+	padding: 0 1em;
+	margin-top: em(20);
+	@include outer-container;
+	text-align: center;
+}
+
+.post-intro {
+	background: #fff;
+	box-shadow: 0px 0px rem(2) 0px #333;
+	width: 100%;
+	padding: 0 0 em(15) 0;
+	margin-bottom: em(15);
+	text-align: center;
+
+	h1 {
+		margin-bottom: rem(6);
+	}
+
+	h1,
+	h2,
+	h5 {
+		@include span-columns(12 of 16);
+		@include shift(2);
+
+		@include media($large) {
+			@include span-columns(10 of 12);
+			@include shift(1);
+		}
+
+		@include media($small-plus) {
+			@include span-columns(7 of 8);
+			@include shift(0.5);
+		}
+
+		@include media($small) {
+			@include span-columns(8 of 8);
+			@include shift(0);
+			padding: 0 rem(10) 0 rem(10);
+		}
+	}
+}
+
+.post-content {
+	@include span-columns(16 of 16);
+}
+
+.post-image {
+	margin-bottom: em(20);
+}
+
+.large-post-image {
+	@include span-columns(12 of 16);
+	@include shift(2);
+	margin-bottom: em(20);
+
+	@include media($large) {
+		@include span-columns(10 of 12);
+		@include shift(1);
+	}
+
+	@include media($small) {
+		@include span-columns(8 of 8);
+		@include shift(0);
+	}
+}
+
+.full-width-image {
+	@include span-columns(16 of 16);
+	margin-bottom: em(20);
+}
+
+.post-date-box {
+	@include span-columns(2 of 16);
+	@include shift(7);
+	margin-bottom: em(10);
+
+	@include media($small) {
+		@include span-columns(2 of 8);
+		@include shift(3);
+	}
+
+	h3#day {
+		padding-top: rem(6);
+	}
+
+	h3#month {
+		padding-bottom: rem(6);
+	}
+
+	h3#day,
+	h3#month {
+		padding-left: rem(6);
+		padding-right: rem(6);
+		background: $dark-blue;
+		margin: 0;
+		text-transform: uppercase;
+		color: #fff;
+	}
+}
+
