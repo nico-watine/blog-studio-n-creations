@@ -1,25 +1,24 @@
+<?php 
+	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
+?>
 <!DOCTYPE html>
-<html lang="en">
+<html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-	<link type="text/plain" rel="author" href="/humans.txt" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
 	<title>A Great Analytics App | Studio N Creations</title>
 	<meta name="description" content="Keep up with the latest projects and happenings here at the Studio N Creations blog" />
-	<link rel="shortcut icon" href="/favicon.ico" />
-	<link rel="icon" sizes="192x192" href="/touch-icon-192x192.png" />
-
-	<link rel="stylesheet" href="/css/style.css" />
+	<link type="text/plain" rel="author" href="/humans.txt">
+	
+	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
 
 	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="<?php autoVer('/css/ie.css'); ?>"/>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<![endif]-->
-
-	<!--<script>
-		google-analytics
-	</script>-->
 </head>
-
 
 <body>
 <header class="top-bar">
@@ -31,9 +30,8 @@
 			<nav class="nav-collapse">
 				<ul>
 					<li><a href="/">Home</a></li>
-					<li><a href="http://studioncreations.com/contact.html">Categories</a></li>
-					<li><a href="/tags">Tags</a></li>
-					<li class="active"><a href="/">Blog</a></li>
+					<li><a href="/categories/">Categories</a></li>
+					<li><a href="/tags/">Tags</a></li>
 				</ul>
 			</nav>
 		</div>
@@ -50,13 +48,13 @@
 				<h3 id="day">9</h3>
 				<h3 id="month">apr</h3>
 			</div>
-			<h5><a href="/web-development/">web-development</a> | <a href="/tags/apps.html">apps</a></h5>
+			<h5><a href="/web-development/">web-development</a> | <a href="/tags/apps">apps</a></h5>
 			<h5>
 		     
-		        <a href="/web-design/lemon-peel-facial-logo.html" title="Previous Post: One of Our Favorite Logos">&laquo; Previous</a> -
+		        <a href="/web-design/lemon-peel-facial-logo" title="Previous Post: One of Our Favorite Logos">&laquo; Previous</a> -
 		    
 		     
-		            <a href="/web-design/houston-uncovered-post.html" title="next Post: A Houston|Uncovered Post">Next &raquo; </a> 
+		            <a href="/web-design/houston-uncovered-post" title="next Post: A Houston|Uncovered Post">Next &raquo; </a> 
 		    
 		    </h5>
 		</div>
@@ -112,9 +110,11 @@
 </main>
 
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="/js/scripts.min.js"></script>
-<script src="/js/src/rem.min.js"></script>
+<script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
+
+<!--[if lt IE 9]>
+	<script src="<?php autoVer('/js/ie-min.js'); ?>"></script>
+<![endif]-->
 
  
 
