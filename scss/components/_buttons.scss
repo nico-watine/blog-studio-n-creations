@@ -1,0 +1,53 @@
+@import "../settings/_settings.scss";
+
+button,
+.btn,
+a.btn {
+	border: 0;
+	border-radius: $btn-radius; //6px
+
+	background-color: $btn-bg-hover; //#ccc
+
+	color: $btn-text; //#333
+	cursor: pointer;
+
+	line-height: 1em;
+	text-decoration: none;
+
+	display: inline-block;
+	padding: .75em 1.5em;
+
+	&:hover {
+		background-color: $btn-bg; //#eee
+		color: $btn-text-hover; //#2d2d2d
+		text-shadow: rem(1) rem(1) 0 #fff;
+	}
+}
+
+.btn-small {
+	@extend .btn;
+
+	font-size: $btn-small-font;
+}
+
+.btn-large {
+	@extend .btn;
+
+	font-size: $btn-large-font;
+	padding: .5em 1em;
+}
+
+.btn-red {
+	background-color: $light-red;
+	color: #fff;
+	@include transition (background-color 200ms ease-out 0s);
+	@include transition (color 200ms ease-out 0s);
+	text-decoration: underline;
+
+	&:hover {
+		background-color: scale-color($light-red, $lightness: 20%);
+		color: #333;
+		text-shadow: none;
+		text-decoration: none;
+	}
+}
