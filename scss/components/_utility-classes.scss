@@ -1,0 +1,26 @@
+@import "../settings/_settings.scss";
+
+
+.outer-container {
+	@include outer-container;
+}
+
+.row {
+	@include row;
+}
+
+.padding {
+	padding: 0 1em; // 0 16px
+}
+
+.inline-block {
+	display: inline-block;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+.margin-bottom {
+	margin-bottom: rem(20);
+}

@@ -1,0 +1,34 @@
+@import "../settings/_settings.scss";
+
+
+
+
+
+body {
+	
+	@include media($max-1070) {
+		background: red; 
+	}
+
+	@include media($max-970) {
+		background: purple;
+	}
+
+	@include media($max-770) {
+		background: blue; 
+	}
+
+	@include media($max-610) {
+		background: yellow; 
+	}
+
+	@include media($max-480) {
+		background: green; 
+	}
+
+	@include media($max-320) {
+		background: purple;
+	}
+}
+
+

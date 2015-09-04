@@ -1,0 +1,6 @@
+
+CSS SNIPPETS
+
+.background-shorthand {
+	background: background-color | background-image | background-repeat | background-attachment | background-position;
+}
