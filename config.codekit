@@ -2,15 +2,6 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19051",
 "files": {
-	"\/-index.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/-index.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/403.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -247,7 +238,7 @@
 		},
 	"\/assets\/bower_components\/REM-unit-polyfill\/js\/rem.min.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/bower_components\/REM-unit-polyfill\/js\/rem.min.js",
 		"outputAbbreviatedPath": "\/assets\/bower_components\/REM-unit-polyfill\/rem.min-min.js",
@@ -1632,65 +1623,41 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/index.html": {
+	"\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.html",
+		"inputAbbreviatedPath": "\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/js\/dev\/modernizr.min.js": {
-		"fileType": 64,
+	"\/index2.html": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/dev\/modernizr.min.js",
-		"outputAbbreviatedPath": "\/js\/modernizr.min-min.js",
+		"inputAbbreviatedPath": "\/index2.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"outputPathIsSetByUser": 0
 		},
-	"\/js\/php-js\/ie-min.js": {
+	"\/js\/ie-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/php-js\/ie-min.js",
-		"outputAbbreviatedPath": "\/js\/ie-min-min.js",
+		"inputAbbreviatedPath": "\/js\/ie-min.js",
+		"outputAbbreviatedPath": "\/ie-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/js\/php-js\/scripts-min.js": {
+	"\/js\/scripts-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/php-js\/scripts-min.js",
-		"outputAbbreviatedPath": "\/js\/scripts-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/php-js\/src\/ie.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/php-js\/src\/ie.js",
-		"outputAbbreviatedPath": "\/js\/php-js\/ie-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/php-js\/src\/scripts.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/php-js\/src\/scripts.js",
-		"outputAbbreviatedPath": "\/js\/php-js\/scripts-min.js",
+		"inputAbbreviatedPath": "\/js\/scripts-min.js",
+		"outputAbbreviatedPath": "\/scripts-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -1707,23 +1674,23 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/js\/src\/rem.min.js": {
+	"\/js\/src\/ie.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/src\/rem.min.js",
-		"outputAbbreviatedPath": "\/js\/rem.min-min.js",
+		"inputAbbreviatedPath": "\/js\/src\/ie.js",
+		"outputAbbreviatedPath": "\/js\/ie-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/js\/src\/responsive-nav.js": {
+	"\/js\/src\/nav\/responsive-nav.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/src\/responsive-nav.js",
-		"outputAbbreviatedPath": "\/js\/responsive-nav-min.js",
+		"inputAbbreviatedPath": "\/js\/src\/nav\/responsive-nav.js",
+		"outputAbbreviatedPath": "\/js\/src\/responsive-nav-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -2776,10 +2743,18 @@
 	],
 "lastSavedByUser": "Nico Watine",
 "manualImportLinks": {
-	"\/js\/php-js\/src\/ie.js": [
+	"\/js\/src\/ie.js": [
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/bower_components\/REM-unit-polyfill\/js\/rem.js",
+			"linkedFileAbbreviatedPath": "\/assets\/bower_components\/REM-unit-polyfill\/js\/rem.min.js",
+			"position": 0,
+			"type": 0
+			}
+		],
+	"\/js\/src\/scripts.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/js\/src\/nav\/responsive-nav.js",
 			"position": 0,
 			"type": 0
 			}
