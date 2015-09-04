@@ -1,33 +1,53 @@
 @import "../settings/_settings.scss";
 
-button {
-    border: none;
+button,
+.btn,
+a.btn {
+	border: 0;
+	border-radius: $btn-radius; //6px
+
+	background-color: $btn-bg-hover; //#ccc
+
+	color: $btn-text; //#333
+	cursor: pointer;
+
+	line-height: 1em;
+	text-decoration: none;
+
+	display: inline-block;
+	padding: .75em 1.5em;
+
+	&:hover {
+		background-color: $btn-bg; //#eee
+		color: $btn-text-hover; //#2d2d2d
+		text-shadow: rem(1) rem(1) 0 #fff;
+	}
 }
 
-a.button,
-button {
-    cursor: pointer;
-    line-height: normal;
-    position: relative;
-    text-align: center;
-    display: inline-block;
-    border-radius: rem(5);
-    font-size: $h4-size; 
-    padding: rem(16) rem(32); 
-    text-decoration: none;
-    color: #fff;
-    background-color: #777;
+.btn-small {
+	@extend .btn;
 
-    @include transition (background-color 200ms ease-out 0s);
-    @include transition (color 200ms ease-out 0s);
+	font-size: $btn-small-font;
+}
 
-    &:hover {
-        color: #000;
-        background-color: #ccc;
-    }
+.btn-large {
+	@extend .btn;
 
-    @include media($max-770) {
-        font-size: $h5-size; 
-        padding: rem(13) rem(21) rem(16); 
-    }
+	font-size: $btn-large-font;
+	padding: .5em 1em;
+}
+
+.btn-red {
+	background-color: $light-red;
+	color: #fff;
+	@include transition (background-color 200ms ease-out 0s);
+	@include transition (color 200ms ease-out 0s);
+	text-decoration: underline;
+
+	&:hover {
+		background-color: scale-color($light-red, $lightness: 20%);
+		color: #333;
+		text-shadow: none;
+		text-decoration: none;
+	}
 }

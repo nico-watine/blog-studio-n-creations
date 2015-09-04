@@ -1,0 +1,14 @@
+@import url("http://fonts.googleapis.com/css?family=Ubuntu:300,400");
+
+@font-face {
+  font-family: 'Knul Bold';
+  src: url('knul.eot'); /* IE9 Compat Modes */
+  src: url('knul.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('knul.woff') format('woff'), /* Modern Browsers */
+       url('knul.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('knul.svg#c9ed98ad6151f24c78c3584113b0c935') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  700;
+}
+
