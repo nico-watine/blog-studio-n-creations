@@ -1,25 +1,24 @@
+<?php 
+	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
+?>
 <!DOCTYPE html>
-<html lang="en">
+<html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-	<link type="text/plain" rel="author" href="/humans.txt" />
-	<title>Houston Oculofacial Tags | Studio N Creations</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<title>Dribbble Tags | Studio N Creations</title>
 	<meta name="description" content="Keep up with the latest projects and happenings here at the Studio N Creations blog" />
-	<link rel="shortcut icon" href="/favicon.ico" />
-	<link rel="icon" sizes="192x192" href="/touch-icon-192x192.png" />
-
-	<link rel="stylesheet" href="/css/style.css" />
+	<link type="text/plain" rel="author" href="/humans.txt">
+	
+	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
 
 	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="<?php autoVer('/css/ie.css'); ?>"/>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<![endif]-->
-
-	<!--<script>
-		google-analytics
-	</script>-->
 </head>
-
 
 <body>
 <header class="top-bar">
@@ -31,9 +30,8 @@
 			<nav class="nav-collapse">
 				<ul>
 					<li><a href="/">Home</a></li>
-					<li><a href="http://studioncreations.com/contact.html">Categories</a></li>
-					<li><a href="/tags">Tags</a></li>
-					<li class="active"><a href="/">Blog</a></li>
+					<li><a href="/categories/">Categories</a></li>
+					<li class="active"><a href="/tags/">Tags</a></li>
 				</ul>
 			</nav>
 		</div>
@@ -46,24 +44,24 @@
 			<section class="post-link">
 				<div class="row" id="post-details">
 					<div class="post-date"> 
-						<h3 id="day">1</h3>
-						<h3 id="month">apr</h3>
+						<h3 id="day">16</h3>
+						<h3 id="month">mar</h3>
 					</div>
 					<div class="post-head">
-						<a href="/print-work/houston-oculofacial-spring-postcard.html" class="index-page-post-link">
-							<h2 class="link-title">Promotional Spring Postcard for Houston Oculofacial Plastic Surgery</h2>
+						<a href="/social/dribbble-meetup-sxsw" class="index-page-post-link">
+							<h2 class="link-title">Annual Dribbble Meetup at SXSW Austin</h2>
 						</a>	
-						<h4 class="link-subtitle">Got this copy in today</h4>
+						<h4 class="link-subtitle">2015 - what a blast!</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="/print-work/houston-oculofacial-spring-postcard.html"> 
-						<img src="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" alt="">
+					<a href="/social/dribbble-meetup-sxsw"> 
+						<img src="/img/post-attachments/cool-beans/atx-dribble/link-banner.png" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
-					<h6>Filed Under: <a href="/print-work/">print-work</a></h6>
-					<h6>Tags: <a href="/tags/houston-oculofacial.html">houston-oculofacial</a></h6>
+					<h6>Filed Under: <a href="/social/">social</a></h6>
+					<h6>Tags: <a href="/tags/dribbble">dribbble</a></h6>
 				</div>
 			</section>
 		
@@ -72,7 +70,7 @@
 		<div class="widget" id="category-title">
 	<div class="row">
 		<h5>TAGGED</h5>
-		<h1>Houston Oculofacial</h1>
+		<h1>Dribbble</h1>
 	</div>
 </div>
 		<div class="widget" id="post-categories">
@@ -98,11 +96,11 @@
 	</section>
 </div>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="/js/scripts.min.js"></script>
-<script src="/js/src/rem.min.js"></script>
+<script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 
- 
+<!--[if lt IE 9]>
+	<script src="<?php autoVer('/js/ie-min.js'); ?>"></script>
+<![endif]-->
 
 </body>
-</html> 
+</html>  

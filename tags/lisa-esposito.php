@@ -1,25 +1,24 @@
+<?php 
+	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
+?>
 <!DOCTYPE html>
-<html lang="en">
+<html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-	<link type="text/plain" rel="author" href="/humans.txt" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
 	<title>Lisa Esposito Tags | Studio N Creations</title>
 	<meta name="description" content="Keep up with the latest projects and happenings here at the Studio N Creations blog" />
-	<link rel="shortcut icon" href="/favicon.ico" />
-	<link rel="icon" sizes="192x192" href="/touch-icon-192x192.png" />
-
-	<link rel="stylesheet" href="/css/style.css" />
+	<link type="text/plain" rel="author" href="/humans.txt">
+	
+	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
 
 	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="<?php autoVer('/css/ie.css'); ?>"/>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<![endif]-->
-
-	<!--<script>
-		google-analytics
-	</script>-->
 </head>
-
 
 <body>
 <header class="top-bar">
@@ -31,9 +30,8 @@
 			<nav class="nav-collapse">
 				<ul>
 					<li><a href="/">Home</a></li>
-					<li><a href="http://studioncreations.com/contact.html">Categories</a></li>
-					<li><a href="/tags">Tags</a></li>
-					<li class="active"><a href="/">Blog</a></li>
+					<li><a href="/categories/">Categories</a></li>
+					<li class="active"><a href="/tags/">Tags</a></li>
 				</ul>
 			</nav>
 		</div>
@@ -50,20 +48,20 @@
 						<h3 id="month">mar</h3>
 					</div>
 					<div class="post-head">
-						<a href="/web-design/dr-esposito-wrap-up.html" class="index-page-post-link">
+						<a href="/web-design/dr-esposito-wrap-up" class="index-page-post-link">
 							<h2 class="link-title">Project Wrapped Up! lisaesposito.com</h2>
 						</a>	
 						<h4 class="link-subtitle">All done! Here are the highlights...</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="/web-design/dr-esposito-wrap-up.html"> 
+					<a href="/web-design/dr-esposito-wrap-up"> 
 						<img src="/img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/lisa-esposito.html">lisa-esposito</a></h6>
+					<h6>Tags: <a href="/tags/lisa-esposito">lisa-esposito</a></h6>
 				</div>
 			</section>
 		
@@ -74,20 +72,20 @@
 						<h3 id="month">mar</h3>
 					</div>
 					<div class="post-head">
-						<a href="/web-design/new-lisa-esposito-project.html" class="index-page-post-link">
+						<a href="/web-design/new-lisa-esposito-project" class="index-page-post-link">
 							<h2 class="link-title">Excited to be working with Boston-area artist Dr. Lisa Esposito</h2>
 						</a>	
 						<h4 class="link-subtitle">Site redesign in the works</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="/web-design/new-lisa-esposito-project.html"> 
+					<a href="/web-design/new-lisa-esposito-project"> 
 						<img src="/img/post-attachments/projects/lisa-esposito/3-17/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/lisa-esposito.html">lisa-esposito</a></h6>
+					<h6>Tags: <a href="/tags/lisa-esposito">lisa-esposito</a></h6>
 				</div>
 			</section>
 		
@@ -122,11 +120,11 @@
 	</section>
 </div>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="/js/scripts.min.js"></script>
-<script src="/js/src/rem.min.js"></script>
+<script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 
- 
+<!--[if lt IE 9]>
+	<script src="<?php autoVer('/js/ie-min.js'); ?>"></script>
+<![endif]-->
 
 </body>
-</html> 
+</html>
