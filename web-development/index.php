@@ -102,7 +102,5 @@
 	<script src="<?php autoVer('/js/ie-min.js'); ?>"></script>
 <![endif]-->
 
- 
-
 </body>
 </html> 

@@ -2529,20 +2529,20 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/social\/dribbble-meetup-sxsw.html": {
+	"\/social\/dribbble-meetup-sxsw.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/social\/dribbble-meetup-sxsw.html",
+		"inputAbbreviatedPath": "\/social\/dribbble-meetup-sxsw.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/social\/index.html": {
+	"\/social\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/social\/index.html",
+		"inputAbbreviatedPath": "\/social\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
