@@ -1,25 +1,24 @@
+<?php 
+	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
+?>
 <!DOCTYPE html>
-<html lang="en">
+<html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-	<link type="text/plain" rel="author" href="/humans.txt" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
 	<title>Greencare Site Structure Setup | Studio N Creations</title>
 	<meta name="description" content="Keep up with the latest projects and happenings here at the Studio N Creations blog" />
-	<link rel="shortcut icon" href="/favicon.ico" />
-	<link rel="icon" sizes="192x192" href="/touch-icon-192x192.png" />
-
-	<link rel="stylesheet" href="/css/style.css" />
+	<link type="text/plain" rel="author" href="/humans.txt">
+	
+	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
 
 	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="<?php autoVer('/css/ie.css'); ?>"/>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<![endif]-->
-
-	<!--<script>
-		google-analytics
-	</script>-->
 </head>
-
 
 <body>
 <header class="top-bar">
@@ -31,9 +30,8 @@
 			<nav class="nav-collapse">
 				<ul>
 					<li><a href="/">Home</a></li>
-					<li><a href="http://studioncreations.com/contact.html">Categories</a></li>
-					<li><a href="/tags">Tags</a></li>
-					<li class="active"><a href="/">Blog</a></li>
+					<li class="active"><a href="/categories/">Categories</a></li>
+					<li><a href="/tags/">Tags</a></li>
 				</ul>
 			</nav>
 		</div>
@@ -49,13 +47,13 @@
 				<h3 id="day">31</h3>
 				<h3 id="month">mar</h3>
 			</div>
-			<h5><a href="/web-design/">web-design</a> | <a href="/tags/greencare.html">greencare</a></h5>
+			<h5><a href="/web-design/">web-design</a> | <a href="/tags/greencare">greencare</a></h5>
 			<h5>
 		     
-		        <a href="/print-work/jardin-de-france-tag-examples.html" title="Previous Post: The Jardin de France Tags - Examples">&laquo; Previous</a> -
+		        <a href="/print-work/jardin-de-france-tag-examples" title="Previous Post: The Jardin de France Tags - Examples">&laquo; Previous</a> -
 		    
 		     
-		            <a href="/print-work/houston-oculofacial-spring-postcard.html" title="next Post: Promotional Spring Postcard for Houston Oculofacial Plastic Surgery">Next &raquo; </a> 
+		            <a href="/print-work/houston-oculofacial-spring-postcard" title="next Post: Promotional Spring Postcard for Houston Oculofacial Plastic Surgery">Next &raquo; </a> 
 		    
 		    </h5>
 		</div>
@@ -95,11 +93,11 @@
 </main>
 
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="/js/scripts.min.js"></script>
-<script src="/js/src/rem.min.js"></script>
+<script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 
- 
+<!--[if lt IE 9]>
+	<script src="<?php autoVer('/js/ie-min.js'); ?>"></script>
+<![endif]-->
 
 </body>
 </html>

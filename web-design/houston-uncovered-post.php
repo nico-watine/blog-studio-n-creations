@@ -1,25 +1,24 @@
+<?php 
+	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
+?>
 <!DOCTYPE html>
-<html lang="en">
+<html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-	<link type="text/plain" rel="author" href="/humans.txt" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
 	<title>A Houston|Uncovered Post | Studio N Creations</title>
 	<meta name="description" content="Keep up with the latest projects and happenings here at the Studio N Creations blog" />
-	<link rel="shortcut icon" href="/favicon.ico" />
-	<link rel="icon" sizes="192x192" href="/touch-icon-192x192.png" />
-
-	<link rel="stylesheet" href="/css/style.css" />
+	<link type="text/plain" rel="author" href="/humans.txt">
+	
+	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
 
 	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="<?php autoVer('/css/ie.css'); ?>"/>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<![endif]-->
-
-	<!--<script>
-		google-analytics
-	</script>-->
 </head>
-
 
 <body>
 <header class="top-bar">
@@ -31,9 +30,8 @@
 			<nav class="nav-collapse">
 				<ul>
 					<li><a href="/">Home</a></li>
-					<li><a href="http://studioncreations.com/contact.html">Categories</a></li>
-					<li><a href="/tags">Tags</a></li>
-					<li class="active"><a href="/">Blog</a></li>
+					<li class="active"><a href="/categories/">Categories</a></li>
+					<li><a href="/tags/">Tags</a></li>
 				</ul>
 			</nav>
 		</div>
@@ -50,13 +48,13 @@
 				<h3 id="day">18</h3>
 				<h3 id="month">apr</h3>
 			</div>
-			<h5><a href="/web-design/">web-design</a> | <a href="/tags/houston-uncovered.html">houston-uncovered</a></h5>
+			<h5><a href="/web-design/">web-design</a> | <a href="/tags/houston-uncovered">houston-uncovered</a></h5>
 			<h5>
 		     
-		        <a href="/web-development/gaget-analytics-app.html" title="Previous Post: A Great Analytics App">&laquo; Previous</a> -
+		        <a href="/web-development/gaget-analytics-app" title="Previous Post: A Great Analytics App">&laquo; Previous</a> -
 		    
 		     
-		            <a href="/web-design/updating-jardin-de-france-brand.html" title="next Post: Updating the 'Jardin de France' brand">Next &raquo; </a> 
+		            <a href="/web-design/updating-jardin-de-france-brand" title="next Post: Updating the 'Jardin de France' brand">Next &raquo; </a> 
 		    
 		    </h5>
 		</div>
@@ -87,12 +85,11 @@
 </main>
 
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="/js/scripts.min.js"></script>
-<script src="/js/src/rem.min.js"></script>
+<script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 
- 
+<!--[if lt IE 9]>
+	<script src="<?php autoVer('/js/ie-min.js'); ?>"></script>
+<![endif]-->
 
 </body>
 </html>
-
