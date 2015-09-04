@@ -65,6 +65,61 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/apple-touch-icon-120x120-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1395,
+		"inputAbbreviatedPath": "\/apple-touch-icon-120x120-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-120x120-precomposed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon-152x152-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1658,
+		"inputAbbreviatedPath": "\/apple-touch-icon-152x152-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-152x152-precomposed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon-180x180-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1919,
+		"inputAbbreviatedPath": "\/apple-touch-icon-180x180-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-180x180-precomposed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon-76x76-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1032,
+		"inputAbbreviatedPath": "\/apple-touch-icon-76x76-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-76x76-precomposed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1658,
+		"inputAbbreviatedPath": "\/apple-touch-icon.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/bower_components\/REM-unit-polyfill\/bower.json": {
 		"fileType": 524288,
 		"ignore": 1,
@@ -680,6 +735,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/favicon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 389,
+		"inputAbbreviatedPath": "\/favicon.png",
+		"outputAbbreviatedPath": "\/favicon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/fonts\/knul\/bold\/font.css": {
 		"fileType": 16,
@@ -2243,6 +2309,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/touch-icon-192x192.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2049,
+		"inputAbbreviatedPath": "\/touch-icon-192x192.png",
+		"outputAbbreviatedPath": "\/touch-icon-192x192.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/web-design\/dr-esposito-wrap-up.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2360,7 +2437,7 @@
 	"bowerAbbreviatedPath": "assets",
 	"displayValue": "blog.SNC",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "brackets_gray"
+	"iconImageName": "\/touch-icon-192x192.png"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 1,
