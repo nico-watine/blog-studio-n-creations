@@ -64,7 +64,7 @@ svg:not(:root) { overflow: hidden; }
 figure { margin: 1em 40px; }
 
 /** Address differences between Firefox and other browsers. */
-hr { -moz-box-sizing: content-box; box-sizing: content-box; height: 0; }
+hr { box-sizing: content-box; height: 0; }
 
 /** Contain overflow in all browsers. */
 pre { overflow: auto; }
@@ -102,7 +102,7 @@ input[type="checkbox"], input[type="radio"] { box-sizing: border-box; /* 1 */ pa
 input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-outer-spin-button { height: auto; }
 
 /** 1. Address `appearance` set to `searchfield` in Safari and Chrome. 2. Address `box-sizing` set to `border-box` in Safari and Chrome (include `-moz` to future-proof). */
-input[type="search"] { -webkit-appearance: textfield; /* 1 */ -moz-box-sizing: content-box; -webkit-box-sizing: content-box; /* 2 */ box-sizing: content-box; }
+input[type="search"] { -webkit-appearance: textfield; /* 1 */ /* 2 */ box-sizing: content-box; }
 
 /** Remove inner padding and search cancel button in Safari and Chrome on OS X. Safari (but not Chrome) clips the cancel button when the search input has padding (and `textfield` appearance). */
 input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration { -webkit-appearance: none; }
@@ -126,9 +126,9 @@ table { border-collapse: collapse; border-spacing: 0; }
 td, th { padding: 0; }
 
 /* Neat 1.7.0 http://neat.bourbon.io Copyright 2012-2014 thoughtbot, inc. MIT License */
-html { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+html { box-sizing: border-box; }
 
-*, *:before, *:after { -webkit-box-sizing: inherit; -moz-box-sizing: inherit; box-sizing: inherit; }
+*, *:before, *:after { box-sizing: inherit; }
 
 @font-face { font-family: 'Knul Bold'; src: url("/fonts/knul/bold/knul.eot");
   /* IE9 Compat Modes */
@@ -204,7 +204,7 @@ button:hover, .btn:hover, .btn-small:hover, .btn-large:hover, a.btn:hover, a.btn
 
 .btn-large { font-size: 2em; padding: .5em 1em; }
 
-.btn-red { background-color: #f16a6c; color: #fff; -webkit-transition: background-color 200ms ease-out 0s; -moz-transition: background-color 200ms ease-out 0s; transition: background-color 200ms ease-out 0s; -webkit-transition: color 200ms ease-out 0s; -moz-transition: color 200ms ease-out 0s; transition: color 200ms ease-out 0s; text-decoration: underline; }
+.btn-red { background-color: #f16a6c; color: #fff; -webkit-transition: background-color 200ms ease-out 0s; transition: background-color 200ms ease-out 0s; -webkit-transition: color 200ms ease-out 0s; transition: color 200ms ease-out 0s; text-decoration: underline; }
 .btn-red:hover { background-color: #f48889; color: #333; text-shadow: none; text-decoration: none; }
 
 .outer-container { max-width: 75em; margin-left: auto; margin-right: auto; padding-top: 1.5625em; }
@@ -272,13 +272,13 @@ header#top-bar .row::after { clear: both; content: ""; display: table; }
 
 .nav-toggle { -webkit-tap-highlight-color: transparent; -webkit-touch-callout: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; -o-user-select: none; user-select: none; }
 
-.mask { -webkit-transition: opacity 300ms; -moz-transition: opacity 300ms; transition: opacity 300ms; background: rgba(0, 0, 0, 0.5); visibility: hidden; position: fixed; opacity: 0; z-index: 2; bottom: 0; right: 0; left: 0; top: 0; }
+.mask { -webkit-transition: opacity 300ms; transition: opacity 300ms; background: rgba(0, 0, 0, 0.5); visibility: hidden; position: fixed; opacity: 0; z-index: 2; bottom: 0; right: 0; left: 0; top: 0; }
 
 .android .mask { -webkit-transition: none; transition: none; }
 
 .js-nav-active .mask { visibility: visible; opacity: 1; }
 
-.nav-collapse, .nav-collapse * { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+.nav-collapse, .nav-collapse * { box-sizing: border-box; }
 
 .nav-collapse, .nav-collapse ul { list-style: none; width: 100%; float: left; }
 
@@ -321,13 +321,13 @@ ul.widget-nav { list-style: none; padding: 0; margin: 0; }
 .featured-container { width: 100%; padding: 1.5625em 1.5625em 1.5625em 1.5625em; box-shadow: 0px 0px 0.125rem 0px #333; background: #fff; text-align: center; }
 @media screen and (max-width: 40em) { .featured-container { padding: 2em 0em 0em 0em; } }
 
-.featured-slide { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; background: #556371; -webkit-transition: background 50ms ease-out 0s; -moz-transition: background 50ms ease-out 0s; transition: background 50ms ease-out 0s; text-align: center; }
+.featured-slide { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; background: #556371; -webkit-transition: background 50ms ease-out 0s; transition: background 50ms ease-out 0s; text-align: center; }
 .featured-slide:last-child { margin-right: 0; }
 @media screen and (max-width: 40em) { .featured-slide { float: left; display: block; margin-right: 3.57866%; width: 74.10533%; margin-left: 12.94733%; margin-bottom: 1.25em; }
   .featured-slide:last-child { margin-right: 0; } }
 @media screen and (max-width: 32.813em) { .featured-slide { float: left; display: block; margin-right: 3.57866%; width: 87.05267%; margin-left: 6.47367%; }
   .featured-slide:last-child { margin-right: 0; } }
-.featured-slide h2 { -webkit-transition: text-shadow 200ms ease-out 0s; -moz-transition: text-shadow 200ms ease-out 0s; transition: text-shadow 200ms ease-out 0s; text-shadow: none; text-decoration: underline; width: 100%; margin: 0; padding: 0.3125rem; font-weight: 300; }
+.featured-slide h2 { -webkit-transition: text-shadow 200ms ease-out 0s; transition: text-shadow 200ms ease-out 0s; text-shadow: none; text-decoration: underline; width: 100%; margin: 0; padding: 0.3125rem; font-weight: 300; }
 .featured-slide:hover { background: #798a9b; color: #fff !important; }
 .featured-slide:hover h2 { text-shadow: 0.125rem 0.125rem #000; color: #fff; text-decoration: none; }
 .featured-slide img { border: 0.0625em solid #444; }
