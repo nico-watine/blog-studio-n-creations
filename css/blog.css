@@ -125,10 +125,9 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 td, th { padding: 0; }
 
-/* Neat 1.7.0 http://neat.bourbon.io Copyright 2012-2014 thoughtbot, inc. MIT License */
 html { box-sizing: border-box; }
 
-*, *:before, *:after { box-sizing: inherit; }
+*, *::after, *::before { box-sizing: inherit; }
 
 @font-face { font-family: 'Knul Bold'; src: url("/fonts/knul/bold/knul.eot");
   /* IE9 Compat Modes */
