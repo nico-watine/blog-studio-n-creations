@@ -1,16 +1,17 @@
 // NORMALIZE.CSS
-// @import "settings/_normalize.scss";
+// TAKEN CARE OF BY CDN.STUDIONCREATIONS.COM/CSS/CORE.CSS
 
 // BOURBON-NEAT FILES
+// THESE MATCH THE 'NEAT' STYLES OF CORE.CSS
 @import "bourbon";
 @import "grid-settings";
 @import "neat";
 
 // BASIC COMPONENTS
-// @import "style/components/_typography.scss";
-// @import "style/components/_resets.scss";
-// @import "style/components/_buttons.scss";
-// @import "style/components/_utility-classes.scss";
+// STANDARD BASIC COMPONENTS ARE USED FROM CORE.CSS // THESE ARE INCLUDED FOR CUSTOM OVERWRITE STYLES WITHIN BLOG.CSS
+@import "style/components/_resets.scss";
+@import "style/components/_typography.scss";
+@import "style/components/_utility-classes.scss";
 
 // PAGE BLOCKS
 @import "style/blocks/_body.scss";
@@ -33,4 +34,4 @@
 @import "style/posts/_lpf.scss";
 
 // LASTLY IMPORT DEVELOPMENT STYLES, TO BE REMOVED UPON PRODUCTION
-@import "settings/_development-styles.scss";
+// @import "settings/_development-styles.scss";
