@@ -1477,7 +1477,7 @@
 		"outputAbbreviatedPath": "\/css\/style-tile.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -1493,7 +1493,7 @@
 		"outputAbbreviatedPath": "\/css\/style.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -1782,10 +1782,10 @@
 		"outputAbbreviatedPath": "\/css\/_grid-settings.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/_neat-helpers.scss": {
 		"createSourceMap": 0,
@@ -1798,10 +1798,10 @@
 		"outputAbbreviatedPath": "\/css\/_neat-helpers.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/_neat.scss": {
 		"createSourceMap": 0,
@@ -1814,10 +1814,10 @@
 		"outputAbbreviatedPath": "\/css\/_neat.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/functions\/_new-breakpoint.scss": {
 		"createSourceMap": 0,
@@ -1830,10 +1830,10 @@
 		"outputAbbreviatedPath": "\/css\/_new-breakpoint.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/functions\/_private.scss": {
 		"createSourceMap": 0,
@@ -1846,10 +1846,10 @@
 		"outputAbbreviatedPath": "\/css\/_private.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/grid\/_box-sizing.scss": {
 		"createSourceMap": 0,
@@ -1862,10 +1862,10 @@
 		"outputAbbreviatedPath": "\/css\/_box-sizing.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/grid\/_direction-context.scss": {
 		"createSourceMap": 0,
@@ -1878,10 +1878,10 @@
 		"outputAbbreviatedPath": "\/css\/_direction-context.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/grid\/_display-context.scss": {
 		"createSourceMap": 0,
@@ -1894,10 +1894,10 @@
 		"outputAbbreviatedPath": "\/css\/_display-context.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/grid\/_fill-parent.scss": {
 		"createSourceMap": 0,
@@ -1910,10 +1910,10 @@
 		"outputAbbreviatedPath": "\/css\/_fill-parent.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/grid\/_media.scss": {
 		"createSourceMap": 0,
@@ -1926,10 +1926,10 @@
 		"outputAbbreviatedPath": "\/css\/_media.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/grid\/_omega.scss": {
 		"createSourceMap": 0,
@@ -1942,10 +1942,10 @@
 		"outputAbbreviatedPath": "\/css\/_omega.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/grid\/_outer-container.scss": {
 		"createSourceMap": 0,
@@ -1958,10 +1958,10 @@
 		"outputAbbreviatedPath": "\/css\/_outer-container.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/grid\/_pad.scss": {
 		"createSourceMap": 0,
@@ -1974,10 +1974,10 @@
 		"outputAbbreviatedPath": "\/css\/_pad.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/grid\/_private.scss": {
 		"createSourceMap": 0,
@@ -1990,10 +1990,10 @@
 		"outputAbbreviatedPath": "\/css\/_private.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/grid\/_row.scss": {
 		"createSourceMap": 0,
@@ -2006,10 +2006,10 @@
 		"outputAbbreviatedPath": "\/css\/_row.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/grid\/_shift.scss": {
 		"createSourceMap": 0,
@@ -2022,10 +2022,10 @@
 		"outputAbbreviatedPath": "\/css\/_shift.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/grid\/_span-columns.scss": {
 		"createSourceMap": 0,
@@ -2038,10 +2038,10 @@
 		"outputAbbreviatedPath": "\/css\/_span-columns.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/grid\/_to-deprecate.scss": {
 		"createSourceMap": 0,
@@ -2054,10 +2054,10 @@
 		"outputAbbreviatedPath": "\/css\/_to-deprecate.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/grid\/_visual-grid.scss": {
 		"createSourceMap": 0,
@@ -2070,10 +2070,10 @@
 		"outputAbbreviatedPath": "\/css\/_visual-grid.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/settings\/_disable-warnings.scss": {
 		"createSourceMap": 0,
@@ -2086,10 +2086,10 @@
 		"outputAbbreviatedPath": "\/css\/_disable-warnings.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/settings\/_grid.scss": {
 		"createSourceMap": 0,
@@ -2102,10 +2102,10 @@
 		"outputAbbreviatedPath": "\/css\/_grid.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/assets\/neat\/settings\/_visual-grid.scss": {
 		"createSourceMap": 0,
@@ -2118,10 +2118,10 @@
 		"outputAbbreviatedPath": "\/css\/_visual-grid.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/config.rb": {
 		"fileType": 131072,
@@ -2129,6 +2129,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/config.rb",
 		"outputAbbreviatedPath": "\/config.rb",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/blog.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/blog.css",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -2796,10 +2805,10 @@
 		"outputAbbreviatedPath": "\/css\/_body.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/scss\/blocks\/_feature-slider.scss": {
 		"createSourceMap": 0,
@@ -2812,7 +2821,7 @@
 		"outputAbbreviatedPath": "\/css\/_feature-slider.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -2828,10 +2837,10 @@
 		"outputAbbreviatedPath": "\/css\/_footer.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/scss\/blocks\/_header.scss": {
 		"createSourceMap": 0,
@@ -2844,10 +2853,10 @@
 		"outputAbbreviatedPath": "\/css\/_header.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/scss\/blocks\/_nav-old.scss": {
 		"createSourceMap": 0,
@@ -2860,10 +2869,10 @@
 		"outputAbbreviatedPath": "\/css\/_nav-old.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/scss\/blocks\/_nav.scss": {
 		"createSourceMap": 0,
@@ -2876,10 +2885,10 @@
 		"outputAbbreviatedPath": "\/css\/_nav.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
-		"useLibsass": 0
+		"useLibsass": 1
 		},
 	"\/scss\/blocks\/_shared-styles.scss": {
 		"createSourceMap": 0,
@@ -2892,7 +2901,7 @@
 		"outputAbbreviatedPath": "\/css\/_shared-styles.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -2908,7 +2917,23 @@
 		"outputAbbreviatedPath": "\/css\/_side-bar.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/blog.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/blog.scss",
+		"outputAbbreviatedPath": "\/css\/blog.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -2924,7 +2949,7 @@
 		"outputAbbreviatedPath": "\/css\/_buttons.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -2940,7 +2965,7 @@
 		"outputAbbreviatedPath": "\/css\/_fonts.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -2956,7 +2981,7 @@
 		"outputAbbreviatedPath": "\/css\/_resets.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -2972,7 +2997,7 @@
 		"outputAbbreviatedPath": "\/css\/_style-tile.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -2988,7 +3013,7 @@
 		"outputAbbreviatedPath": "\/css\/_tabs.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -3004,7 +3029,7 @@
 		"outputAbbreviatedPath": "\/css\/_typography.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -3020,7 +3045,7 @@
 		"outputAbbreviatedPath": "\/css\/_utility-classes.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -3036,7 +3061,7 @@
 		"outputAbbreviatedPath": "\/css\/_blog-roll.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -3052,7 +3077,7 @@
 		"outputAbbreviatedPath": "\/css\/_categories.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -3068,7 +3093,7 @@
 		"outputAbbreviatedPath": "\/css\/_post-default.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -3084,7 +3109,7 @@
 		"outputAbbreviatedPath": "\/css\/_greencare.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -3100,7 +3125,7 @@
 		"outputAbbreviatedPath": "\/css\/_houston-oculofacial.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -3116,7 +3141,7 @@
 		"outputAbbreviatedPath": "\/css\/_jdf.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -3132,7 +3157,7 @@
 		"outputAbbreviatedPath": "\/css\/_lpf.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -3148,7 +3173,7 @@
 		"outputAbbreviatedPath": "\/css\/_development-styles.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -3164,7 +3189,7 @@
 		"outputAbbreviatedPath": "\/css\/_normalize.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -3180,7 +3205,7 @@
 		"outputAbbreviatedPath": "\/css\/_settings.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -3196,7 +3221,7 @@
 		"outputAbbreviatedPath": "\/css\/style-tile.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -3212,10 +3237,410 @@
 		"outputAbbreviatedPath": "\/css\/style.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 3,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 1,
-		"useLibsass": 0
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/blocks\/_body.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/blocks\/_body.scss",
+		"outputAbbreviatedPath": "\/css\/_body.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/blocks\/_feature-slider.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/blocks\/_feature-slider.scss",
+		"outputAbbreviatedPath": "\/css\/_feature-slider.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/blocks\/_footer.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/blocks\/_footer.scss",
+		"outputAbbreviatedPath": "\/css\/_footer.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/blocks\/_header.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/blocks\/_header.scss",
+		"outputAbbreviatedPath": "\/css\/_header.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/blocks\/_nav-old.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/blocks\/_nav-old.scss",
+		"outputAbbreviatedPath": "\/css\/_nav-old.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/blocks\/_nav.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/blocks\/_nav.scss",
+		"outputAbbreviatedPath": "\/css\/_nav.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/blocks\/_shared-styles.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/blocks\/_shared-styles.scss",
+		"outputAbbreviatedPath": "\/css\/_shared-styles.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/blocks\/_side-bar.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/blocks\/_side-bar.scss",
+		"outputAbbreviatedPath": "\/css\/_side-bar.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/components\/_buttons.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/components\/_buttons.scss",
+		"outputAbbreviatedPath": "\/css\/_buttons.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/components\/_fonts.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/components\/_fonts.scss",
+		"outputAbbreviatedPath": "\/css\/_fonts.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/components\/_resets.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/components\/_resets.scss",
+		"outputAbbreviatedPath": "\/css\/_resets.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/components\/_style-tile.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/components\/_style-tile.scss",
+		"outputAbbreviatedPath": "\/css\/_style-tile.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/components\/_tabs.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/components\/_tabs.scss",
+		"outputAbbreviatedPath": "\/css\/_tabs.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/components\/_typography.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/components\/_typography.scss",
+		"outputAbbreviatedPath": "\/css\/_typography.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/components\/_utility-classes.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/components\/_utility-classes.scss",
+		"outputAbbreviatedPath": "\/css\/_utility-classes.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/pages\/_blog-roll.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/pages\/_blog-roll.scss",
+		"outputAbbreviatedPath": "\/css\/_blog-roll.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/pages\/_categories.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/pages\/_categories.scss",
+		"outputAbbreviatedPath": "\/css\/_categories.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/pages\/_post-default.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/pages\/_post-default.scss",
+		"outputAbbreviatedPath": "\/css\/_post-default.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/posts\/_greencare.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/posts\/_greencare.scss",
+		"outputAbbreviatedPath": "\/css\/_greencare.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/posts\/_houston-oculofacial.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/posts\/_houston-oculofacial.scss",
+		"outputAbbreviatedPath": "\/css\/_houston-oculofacial.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/posts\/_jdf.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/posts\/_jdf.scss",
+		"outputAbbreviatedPath": "\/css\/_jdf.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/posts\/_lpf.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/posts\/_lpf.scss",
+		"outputAbbreviatedPath": "\/css\/_lpf.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/settings\/_development-styles.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/settings\/_development-styles.scss",
+		"outputAbbreviatedPath": "\/css\/_development-styles.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/settings\/_normalize.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/settings\/_normalize.scss",
+		"outputAbbreviatedPath": "\/css\/_normalize.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/settings\/_settings.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/settings\/_settings.scss",
+		"outputAbbreviatedPath": "\/css\/_settings.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
 		},
 	"\/social\/index.html": {
 		"fileType": 8192,
@@ -3947,7 +4372,7 @@
 	"sassCreateSourceMap": 0,
 	"sassDebugStyle": 0,
 	"sassDecimalPrecision": 10,
-	"sassOutputStyle": 0,
+	"sassOutputStyle": 2,
 	"sassUseLibsass": 1,
 	"shouldRunAutoprefixer": 1,
 	"shouldRunBless": 0,

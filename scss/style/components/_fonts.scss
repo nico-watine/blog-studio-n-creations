@@ -1,0 +1,28 @@
+@import "../settings/_settings.scss";
+
+
+@import url("http://fonts.googleapis.com/css?family=Ubuntu:300,400");
+
+@font-face {
+  font-family: 'Knul Bold';
+  src: url('/fonts/knul/bold/knul.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/knul/bold/knul.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/knul/bold/knul.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/knul/bold/knul.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/knul/bold/knul.svg#c9ed98ad6151f24c78c3584113b0c935') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  700;
+}
+
+@font-face {
+  font-family: 'nav';
+  src: url('/fonts/nav/nav.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/nav/nav.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/nav/nav.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/nav/nav.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/nav/nav.svg#1da3456e837ae6ef244abd56d21c2bc6') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
