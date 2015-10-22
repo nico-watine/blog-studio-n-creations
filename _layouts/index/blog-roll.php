@@ -57,6 +57,8 @@
 	</section>
 </div>
 
+{% include blocks/nav.html %}
+
 {% include components/scripts/scripts.php %}
  
 

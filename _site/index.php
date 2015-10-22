@@ -394,8 +394,27 @@
 	</section>
 </div>
 
+<nav class="overlay overlay-slidedown">
+	<ul>
+		<li class="parent">
+			<a href="/">Home</a>
+		</li>
+		<li class="parent">Categories</li>
+		<li class="child">
+			<a href="/web-design">Web Design</a>
+		</li>
+		<li class="child last">
+			<a href="/web-development">Web Development</a>
+		</li>
+		<li class="parent last">
+			<a href="/tags">Tags</a>
+		</li>
+	</ul>
+</nav>
+
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="http://cdn.studioncreations.com/js/nav-min.js"></script>
+<script src="<?php autoVer('/js/nav-min.js'); ?>"></script>
 
  
 
