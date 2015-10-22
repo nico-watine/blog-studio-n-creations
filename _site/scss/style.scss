@@ -1,0 +1,39 @@
+// NORMALIZE.CSS
+@import "settings/_normalize.scss";
+
+// BOURBON-NEAT FILES
+@import "bourbon";
+@import "grid-settings";
+@import "neat";
+
+// BASIC COMPONENTS
+@import "components/_typography.scss";
+@import "components/_resets.scss";
+@import "components/_buttons.scss";
+@import "components/_utility-classes.scss";
+
+// PAGE BLOCKS
+@import "blocks/_body.scss";
+@import "blocks/_header.scss";
+@import "blocks/_nav.scss"; 
+@import "blocks/_footer.scss";
+@import "blocks/_side-bar.scss"; 
+@import "blocks/_shared-styles.scss";
+@import "blocks/_feature-slider.scss";
+
+// INDIVIDUAL PAGE STYLES
+@import "pages/_blog-roll.scss";
+@import "pages/_categories.scss";
+@import "pages/_post-default.scss";
+
+// INDIVIDUAL POST STYLES
+@import "posts/_greencare.scss";
+@import "posts/_jdf.scss";
+@import "posts/_houston-oculofacial.scss";
+@import "posts/_lpf.scss";
+
+// LASTLY IMPORT DEVELOPMENT STYLES, TO BE REMOVED UPON PRODUCTION
+// @import "settings/_development-styles.scss";
+
+
+

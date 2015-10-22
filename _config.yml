@@ -1,0 +1,14 @@
+# Dependencies
+markdown:         rdiscount
+highlighter:      pygments
+ 
+# Permalinks
+permalink:        /:categories/:title.html
+ 
+# Server
+destination:      _site
+host:             localhost
+port:             9001
+url:       		  http://localhost:9001
+baseurl:          /
+encoding:         UTF-8

@@ -1,0 +1,22 @@
+@import "../settings/_settings.scss";
+
+
+.post-link,
+.widget,
+.category {
+	background: #fff;
+	box-shadow: 0px 0px rem(2) 0px #333;
+	border-radius: em(4);
+	padding: 1em;
+	margin-bottom: em(25);
+}
+
+.post-date {
+	h3#day,
+	h3#month {
+		background: $dark-blue;
+		margin: 0;
+		text-transform: uppercase;
+		color: #fff;
+	}
+}

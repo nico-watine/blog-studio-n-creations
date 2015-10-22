@@ -1,0 +1,71 @@
+@import "../settings/_settings.scss";
+
+.outer-container {
+	@include outer-container;
+	padding-top: em(25);
+}
+
+.row {
+	@include row;
+}
+
+.bottom {
+	margin-bottom: em(25);
+}
+
+.side-padding {
+	padding: 0 1em;
+}
+
+.padding-vertical {
+	padding: 1em 0;
+}
+
+.img-container {
+	text-align: center;
+}
+
+.light-text {
+	color: #fff;
+	text-shadow: rem(2) rem(2) 0 #222;
+}
+
+.centered {
+	text-align: center;
+}
+
+.margin-bottom-2em,
+.margin-bottom {
+	margin-bottom: 2em;
+}
+
+.shadow {
+	box-shadow: 0px 0px rem(2) 0px #333;
+}
+
+.white-border {
+	border: em(2) solid #fff;
+}
+
+.half {
+	@include span-columns(8 of 16);
+
+	@include media($medium) {
+		@include span-columns(10 of 12);
+		@include shift(1);
+	}
+	@include media($small-plus) {
+		@include shift(0.5);
+		@include span-columns(7 of 8);
+	}
+	@include media($small) {
+		@include shift(0);
+		@include span-columns(8 of 8);
+	}
+}
+
+header.top-bar {
+	.outer-container {
+		padding-top: 0;
+	}
+}
