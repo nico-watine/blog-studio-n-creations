@@ -20,7 +20,7 @@ $height-380: "only screen and (max-height : 23.75em)";
 	left: 0;
 	background: $dark-blue;
 	background: rgba(115,133,151,0.85);
-	overflow: scroll-y;
+	overflow: scroll;
 }
 
 .overlay ul {
@@ -72,7 +72,8 @@ $height-380: "only screen and (max-height : 23.75em)";
 	}
 
 	ul.snc-links {
-		margin-top: rem(22);
+		height: auto;
+		margin: rem(22) auto rem(18);
 
 		li {
 			display: inline-block;
