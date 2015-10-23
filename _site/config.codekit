@@ -269,65 +269,65 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_layouts\/category\/category-name.html": {
+	"\/_layouts\/category\/category-name.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_layouts\/category\/category-name.html",
+		"inputAbbreviatedPath": "\/_layouts\/category\/category-name.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_layouts\/category\/index.html": {
+	"\/_layouts\/category\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_layouts\/category\/index.html",
+		"inputAbbreviatedPath": "\/_layouts\/category\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_layouts\/category\/print-work.html": {
+	"\/_layouts\/category\/print-work.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_layouts\/category\/print-work.html",
+		"inputAbbreviatedPath": "\/_layouts\/category\/print-work.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_layouts\/category\/projects.html": {
+	"\/_layouts\/category\/projects.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_layouts\/category\/projects.html",
+		"inputAbbreviatedPath": "\/_layouts\/category\/projects.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_layouts\/category\/social.html": {
+	"\/_layouts\/category\/social.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_layouts\/category\/social.html",
+		"inputAbbreviatedPath": "\/_layouts\/category\/social.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_layouts\/category\/web-design.html": {
+	"\/_layouts\/category\/web-design.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_layouts\/category\/web-design.html",
+		"inputAbbreviatedPath": "\/_layouts\/category\/web-design.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_layouts\/category\/web-development.html": {
+	"\/_layouts\/category\/web-development.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_layouts\/category\/web-development.html",
+		"inputAbbreviatedPath": "\/_layouts\/category\/web-development.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -341,38 +341,38 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_layouts\/post\/borderless-feature.html": {
+	"\/_layouts\/post\/borderless-feature.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_layouts\/post\/borderless-feature.html",
+		"inputAbbreviatedPath": "\/_layouts\/post\/borderless-feature.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_layouts\/post\/default.html": {
+	"\/_layouts\/post\/default.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_layouts\/post\/default.html",
+		"inputAbbreviatedPath": "\/_layouts\/post\/default.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_layouts\/post\/no-feature.html": {
+	"\/_layouts\/post\/no-feature.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_layouts\/post\/no-feature.html",
+		"inputAbbreviatedPath": "\/_layouts\/post\/no-feature.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_layouts\/tags\/apps.html": {
+	"\/_layouts\/tags\/apps.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_layouts\/tags\/apps.html",
+		"inputAbbreviatedPath": "\/_layouts\/tags\/apps.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1470,11 +1470,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/print-work\/index.html": {
+	"\/_site\/print-work\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/print-work\/index.html",
+		"inputAbbreviatedPath": "\/_site\/print-work\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1522,11 +1522,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/social\/index.html": {
+	"\/_site\/social\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/social\/index.html",
+		"inputAbbreviatedPath": "\/_site\/social\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1677,11 +1677,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/web-design\/index.html": {
+	"\/_site\/web-design\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/web-design\/index.html",
+		"inputAbbreviatedPath": "\/_site\/web-design\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1722,11 +1722,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/web-development\/index.html": {
+	"\/_site\/web-development\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/web-development\/index.html",
+		"inputAbbreviatedPath": "\/_site\/web-development\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -2870,11 +2870,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/print-work\/index.html": {
+	"\/print-work\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/print-work\/index.html",
+		"inputAbbreviatedPath": "\/print-work\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3247,11 +3247,11 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
-	"\/social\/index.html": {
+	"\/social\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/social\/index.html",
+		"inputAbbreviatedPath": "\/social\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3357,20 +3357,20 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/web-design\/index.html": {
+	"\/web-design\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/web-design\/index.html",
+		"inputAbbreviatedPath": "\/web-design\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/web-development\/index.html": {
+	"\/web-development\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/web-development\/index.html",
+		"inputAbbreviatedPath": "\/web-development\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

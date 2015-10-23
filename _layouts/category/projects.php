@@ -1,11 +1,11 @@
-{% include components/head.html %}
+{% include components/head.php %}
 
 <body>
 {% include blocks/top-bar.html %}
 
 <div class="outer-container">
 	<main class="blog-roll">
-		{% for post in site.tags.apps %}
+		{% for post in site.categories.projects %}
 			<section class="post-link">
 				<div class="row" id="post-details">
 					<div class="post-date"> 
@@ -32,12 +32,14 @@
 		{% endfor %}
 	</main>
 	<section class="sidebar">
-		{% include blocks/side-bar/tag-title.html %}
+		{% include blocks/side-bar/category-title.html %}
 		{% include blocks/side-bar/category-widget.html %}
 	</section>
 </div>
 
-{% include components/scripts/scripts.html %}
+{% include blocks/nav.html %}
+
+{% include components/scripts/scripts.php %}
  
 
 </body>

@@ -1,8 +1,7 @@
-{% include components/head.html %}
+{% include components/head.php %}
 
 <body>
 {% include blocks/top-bar.html %}
-
 
 <div class="post-intro">
 	<div class="outer-container">
@@ -25,6 +24,11 @@
 		</div>
 	</div>
 </div>
+<div class="outer-container">
+	<div class="row">
+		<img src="{{ page.post-image }}" class="large-post-image" alt="">
+	</div>
+</div>
 <main class="main-post centered">
 	<div class="post-content">
 		{{ content }}
@@ -37,4 +41,3 @@
 
 </body>
 </html>
-

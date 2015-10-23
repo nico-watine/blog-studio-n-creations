@@ -6,16 +6,19 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="preconnect" href="http://cdn.studioncreations.com">
-	<title>Web Development | Studio N Creations</title>
+	<title>Web Development | Studio N Creations Blog</title>
 	<meta name="description" content="Keep up with the latest projects and happenings here at the Studio N Creations blog" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 	
-	<link rel="stylesheet" href="http://cdn.studioncreations.com<?php autoVer('/css/core.css'); ?>" />
-	<link rel="stylesheet" href="/css/style.css" />
+	<link rel="stylesheet" href="http://cdn.studioncreations.com/css/core.css" />
+	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
+
+	<script src="http://cdn.studioncreations.com/js/modernizr-min.js"></script>
 
 	<!--[if lt IE 9]>
-		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<link rel="stylesheet" href="http://cdn.studioncreations.com/css/ie.css" />
+		<script src="http://cdn.studioncreations.com/js/ie-min.js"></script>
 	<![endif]-->
 </head>
 
@@ -23,7 +26,7 @@
 <body>
 <header>
 	<div class="row" id="nav-bar">
-		<a href="/" class="title" id="index-link"><span id="large">Studio N Creations</span><span id="mini">SNC</span></a>
+		<a href="/" class="title" id="index-link"><span id="large">Blog.Studio N Creations</span><span id="mini">BLOG.SNC</span></a>
 		<div id="button-wrapper">
 			<button id="menu-toggle" type="button"><span id="word">Menu</span><span id="hamburger"></span></button>
 		</div>
@@ -88,9 +91,40 @@
 	</section>
 </div>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="/js/scripts.min.js"></script>
-<script src="/js/src/rem.min.js"></script>
+<nav class="overlay overlay-slidedown">
+	<ul>
+		<li class="blog-link">
+			<a href="/">Home<span>Blog Roll</span></a>
+		</li>
+		<li class="blog-link">
+			<a href="/web-design">Web Design<span>Category</span></a>
+		</li>
+		<li class="blog-link">
+			<a href="/web-development">Web Development<span>Category</span></a>
+		</li>
+		<li class="blog-link">
+			<a href="/print-work">Print Work<span>Category</span></a>
+		</li>
+		<ul class="snc-links">
+			<li id="services">
+				<a href="#" target="_blank">Services<span>Our Services</span></a>
+			</li>
+			<li id="portfolio">
+				<a href="#" target="_blank">Portfolio<span>Our Portfolio</span></a>
+			</li>
+			<li id="about">
+				<a href="#" target="_blank">About<span>About Us</span></a>
+			</li>
+			<li id="email">
+				<a href="#">Contact<span>Get In Touch</span></a>
+			</li>
+		</ul>
+	</ul>
+</nav>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="http://cdn.studioncreations.com/js/nav-min.js"></script>
+<script src="<?php autoVer('/js/nav-min.js'); ?>"></script>
 
  
 

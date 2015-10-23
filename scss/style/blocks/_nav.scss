@@ -28,7 +28,7 @@ $height-380: "only screen and (max-height : 23.75em)";
 	padding: 0;
 	margin: em(80) auto 0;
 	display: inline-block;
-	height: 100%;
+	height: auto;
 	position: relative;
 
 	li.blog-link {
@@ -106,55 +106,9 @@ $height-380: "only screen and (max-height : 23.75em)";
 				}
 			}
 		}
-
-		// li#email {
-		// 	display: block;
-		// 	margin-top: rem(8);
-
-		// 	a {
-		// 		font-size: rem(22);
-		// 		font-family: $body-font-family;
-		// 		text-transform: none;
-		// 		display: inline;
-
-		// 		&:hover {
-		// 			background: none;
-		// 			color: #fff;
-		// 			box-shadow: none;
-		// 			text-shadow: 0 rem(1) rem(1) #000;
-		// 			text-decoration: underline;
-		// 		}
-		// 	}
-
-		// 	&:hover {
-		// 		background: none;
-		// 		box-shadow: none;
-
-		// 		a {
-		// 			text-shadow: 0 rem(1) rem(1) #000;
-		// 			background: none;
-		// 			color: #fff;
-		// 			box-shadow: none;
-		// 		}
-		// 	}
-		// }
 	}
 }
 
-
-// .child {
-// 	margin-bottom: rem(54);
-
-// 	a {
-// 		font-size: rem(30);
-// 		padding: rem(10) rem(5);
-// 		text-shadow: 0 rem(2) rem(1) #000;
-
-// 		&:hover {
-// 			text-shadow: 0 rem(1) 0 #000;
-// 		}
-// 	}
-// }
 
 
 

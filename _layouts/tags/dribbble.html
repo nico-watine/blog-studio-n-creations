@@ -1,4 +1,4 @@
-{% include components/head.html %}
+{% include components/head.php %}
 
 <body>
 {% include blocks/top-bar.html %}

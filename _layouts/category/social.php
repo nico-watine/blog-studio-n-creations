@@ -1,11 +1,11 @@
-{% include components/head.html %}
+{% include components/head.php %}
 
 <body>
 {% include blocks/top-bar.html %}
 
 <div class="outer-container">
 	<main class="blog-roll">
-		{% for post in site.categories.print-work %}
+		{% for post in site.categories.social %}
 			<section class="post-link">
 				<div class="row" id="post-details">
 					<div class="post-date"> 
@@ -37,8 +37,10 @@
 	</section>
 </div>
 
-{% include components/scripts/scripts.html %}
+{% include blocks/nav.html %}
+
+{% include components/scripts/scripts.php %}
  
 
 </body>
-</html> 
+</html>
