@@ -5,7 +5,7 @@
 
 <div class="outer-container">
 	<main class="blog-roll">
-		{% for post in site.tags.lemon-peel-facial %}
+		{% for post in site.tags.houston-oculofacial %}
 			<section class="post-link">
 				<div class="row" id="post-details">
 					<div class="post-date"> 
@@ -37,7 +37,9 @@
 	</section>
 </div>
 
-{% include components/scripts/scripts.html %}
+{% include blocks/nav.html %}
+
+{% include components/scripts/scripts.php %}
  
 
 </body>

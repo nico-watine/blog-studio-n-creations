@@ -36,30 +36,6 @@
 <div class="outer-container">
 	<main class="blog-roll">
 		
-			<section class="post-link">
-				<div class="row" id="post-details">
-					<div class="post-date"> 
-						<h3 id="day">16</h3>
-						<h3 id="month">mar</h3>
-					</div>
-					<div class="post-head">
-						<a href="/social/dribbble-meetup-sxsw.html" class="index-page-post-link">
-							<h2 class="link-title">Annual Dribbble Meetup at SXSW Austin</h2>
-						</a>	
-						<h4 class="link-subtitle">2015 - what a blast!</h4>
-					</div>
-				</div>
-				<div class="row" id="img-row">
-					<a href="/social/dribbble-meetup-sxsw.html"> 
-						<img src="/img/post-attachments/cool-beans/atx-dribble/link-banner.png" alt="">
-					</a>
-				</div>
-				<div class="row" id="post-taxonomy">
-					<h6>Filed Under: <a href="/social/">social</a></h6>
-					<h6>Tags: <a href="/tags/dribbble.html">dribbble</a></h6>
-				</div>
-			</section>
-		
 	</main>
 	<section class="sidebar">
 		<div class="widget" id="category-title">
@@ -107,16 +83,16 @@
 		</li>
 		<ul class="snc-links">
 			<li id="services">
-				<a href="#" target="_blank">Services<span>Our Services</span></a>
+				<a href="http://studioncreations.com/what-we-do/" target="_blank">Services<span>Our Services</span></a>
 			</li>
 			<li id="portfolio">
-				<a href="#" target="_blank">Portfolio<span>Our Portfolio</span></a>
+				<a href="http://studioncreations.com/portfolio/" target="_blank">Portfolio<span>Our Portfolio</span></a>
 			</li>
 			<li id="about">
-				<a href="#" target="_blank">About<span>About Us</span></a>
+				<a href="http://studioncreations.com/about-us" target="_blank">About<span>About Us</span></a>
 			</li>
 			<li id="email">
-				<a href="#">Contact<span>Get In Touch</span></a>
+				<a href="http://studioncreations.com/contact/" target="_blank">Contact<span>Get In Touch</span></a>
 			</li>
 		</ul>
 	</ul>
