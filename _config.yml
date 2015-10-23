@@ -3,7 +3,7 @@ markdown:         rdiscount
 highlighter:      pygments
  
 # Permalinks
-permalink:        /:categories/:title.html
+permalink:        /:categories/:title
  
 # Server
 destination:      _site

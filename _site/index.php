@@ -64,20 +64,20 @@
 						<h3 id="month">jun</h3>
 					</div>
 					<div class="post-head">
-						<a href="web-design/updating-jardin-de-france-brand.html" class="index-page-post-link">
+						<a href="web-design/updating-jardin-de-france-brand" class="index-page-post-link">
 							<h2 class="link-title">Updating the 'Jardin de France' brand</h2>
 						</a>	
 						<h4 class="link-subtitle">It's time for 2.0!</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="web-design/updating-jardin-de-france-brand.html"> 
+					<a href="web-design/updating-jardin-de-france-brand"> 
 						<img src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/jardin-de-france.html">jardin-de-france</a></h6>
+					<h6>Tags: <a href="/tags/jardin-de-france">jardin-de-france</a></h6>
 				</div>
 			</section>
 		
@@ -88,20 +88,20 @@
 						<h3 id="month">apr</h3>
 					</div>
 					<div class="post-head">
-						<a href="web-design/houston-uncovered-post.html" class="index-page-post-link">
+						<a href="web-design/houston-uncovered-post" class="index-page-post-link">
 							<h2 class="link-title">A Houston|Uncovered Post</h2>
 						</a>	
 						<h4 class="link-subtitle">Here's a clip of a featured post</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="web-design/houston-uncovered-post.html"> 
+					<a href="web-design/houston-uncovered-post"> 
 						<img src="/img/post-attachments/projects/houston-uncovered/4-18/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/houston-uncovered.html">houston-uncovered</a></h6>
+					<h6>Tags: <a href="/tags/houston-uncovered">houston-uncovered</a></h6>
 				</div>
 			</section>
 		
@@ -112,20 +112,20 @@
 						<h3 id="month">apr</h3>
 					</div>
 					<div class="post-head">
-						<a href="web-development/gaget-analytics-app.html" class="index-page-post-link">
+						<a href="web-development/gaget-analytics-app" class="index-page-post-link">
 							<h2 class="link-title">A Great Analytics App</h2>
 						</a>	
 						<h4 class="link-subtitle">GAget 2.0 just released</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="web-development/gaget-analytics-app.html"> 
+					<a href="web-development/gaget-analytics-app"> 
 						<img src="/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-development/">web-development</a></h6>
-					<h6>Tags: <a href="/tags/apps.html">apps</a></h6>
+					<h6>Tags: <a href="/tags/apps">apps</a></h6>
 				</div>
 			</section>
 		
@@ -136,20 +136,20 @@
 						<h3 id="month">apr</h3>
 					</div>
 					<div class="post-head">
-						<a href="web-design/lemon-peel-facial-logo.html" class="index-page-post-link">
+						<a href="web-design/lemon-peel-facial-logo" class="index-page-post-link">
 							<h2 class="link-title">One of Our Favorite Logos</h2>
 						</a>	
 						<h4 class="link-subtitle">Created for lemonpeelfacial.com</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="web-design/lemon-peel-facial-logo.html"> 
+					<a href="web-design/lemon-peel-facial-logo"> 
 						<img src="/img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/lemon-peel-facial.html">lemon-peel-facial</a></h6>
+					<h6>Tags: <a href="/tags/lemon-peel-facial">lemon-peel-facial</a></h6>
 				</div>
 			</section>
 		
@@ -160,20 +160,20 @@
 						<h3 id="month">apr</h3>
 					</div>
 					<div class="post-head">
-						<a href="print-work/houston-oculofacial-spring-postcard.html" class="index-page-post-link">
+						<a href="print-work/houston-oculofacial-spring-postcard" class="index-page-post-link">
 							<h2 class="link-title">Promotional Spring Postcard for Houston Oculofacial Plastic Surgery</h2>
 						</a>	
 						<h4 class="link-subtitle">Got this copy in today</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="print-work/houston-oculofacial-spring-postcard.html"> 
+					<a href="print-work/houston-oculofacial-spring-postcard"> 
 						<img src="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/print-work/">print-work</a></h6>
-					<h6>Tags: <a href="/tags/houston-oculofacial.html">houston-oculofacial</a></h6>
+					<h6>Tags: <a href="/tags/houston-oculofacial">houston-oculofacial</a></h6>
 				</div>
 			</section>
 		
@@ -184,20 +184,20 @@
 						<h3 id="month">mar</h3>
 					</div>
 					<div class="post-head">
-						<a href="web-design/greencare-skeleton-setup.html" class="index-page-post-link">
+						<a href="web-design/greencare-skeleton-setup" class="index-page-post-link">
 							<h2 class="link-title">Greencare Site Structure Setup</h2>
 						</a>	
 						<h4 class="link-subtitle">It adapts nicely to all screen sizes</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="web-design/greencare-skeleton-setup.html"> 
+					<a href="web-design/greencare-skeleton-setup"> 
 						<img src="/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/greencare.html">greencare</a></h6>
+					<h6>Tags: <a href="/tags/greencare">greencare</a></h6>
 				</div>
 			</section>
 		
@@ -208,20 +208,20 @@
 						<h3 id="month">mar</h3>
 					</div>
 					<div class="post-head">
-						<a href="print-work/jardin-de-france-tag-examples.html" class="index-page-post-link">
+						<a href="print-work/jardin-de-france-tag-examples" class="index-page-post-link">
 							<h2 class="link-title">The Jardin de France Tags - Examples</h2>
 						</a>	
 						<h4 class="link-subtitle">the tags have been attached to their latest shipment of antiques</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="print-work/jardin-de-france-tag-examples.html"> 
+					<a href="print-work/jardin-de-france-tag-examples"> 
 						<img src="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/print-work/">print-work</a></h6>
-					<h6>Tags: <a href="/tags/jardin-de-france.html">jardin-de-france</a></h6>
+					<h6>Tags: <a href="/tags/jardin-de-france">jardin-de-france</a></h6>
 				</div>
 			</section>
 		
@@ -232,20 +232,20 @@
 						<h3 id="month">mar</h3>
 					</div>
 					<div class="post-head">
-						<a href="web-design/dr-esposito-wrap-up.html" class="index-page-post-link">
+						<a href="web-design/dr-esposito-wrap-up" class="index-page-post-link">
 							<h2 class="link-title">Project Wrapped Up! lisaesposito.com</h2>
 						</a>	
 						<h4 class="link-subtitle">All done! Here are the highlights...</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="web-design/dr-esposito-wrap-up.html"> 
+					<a href="web-design/dr-esposito-wrap-up"> 
 						<img src="/img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/lisa-esposito.html">lisa-esposito</a></h6>
+					<h6>Tags: <a href="/tags/lisa-esposito">lisa-esposito</a></h6>
 				</div>
 			</section>
 		
@@ -256,20 +256,20 @@
 						<h3 id="month">mar</h3>
 					</div>
 					<div class="post-head">
-						<a href="web-design/greencare-project.html" class="index-page-post-link">
+						<a href="web-design/greencare-project" class="index-page-post-link">
 							<h2 class="link-title">Introducing the Greencare Project</h2>
 						</a>	
 						<h4 class="link-subtitle">We're giving the company's site a fresh, new look</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="web-design/greencare-project.html"> 
+					<a href="web-design/greencare-project"> 
 						<img src="/img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/greencare.html">greencare</a></h6>
+					<h6>Tags: <a href="/tags/greencare">greencare</a></h6>
 				</div>
 			</section>
 		
@@ -280,20 +280,20 @@
 						<h3 id="month">mar</h3>
 					</div>
 					<div class="post-head">
-						<a href="web-design/houston-uncovered-preview.html" class="index-page-post-link">
+						<a href="web-design/houston-uncovered-preview" class="index-page-post-link">
 							<h2 class="link-title">Sneak Peak of a Work In Progress</h2>
 						</a>	
 						<h4 class="link-subtitle">Houston|Uncovered - my personal photo blog of our fair city</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="web-design/houston-uncovered-preview.html"> 
+					<a href="web-design/houston-uncovered-preview"> 
 						<img src="/img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/houston-uncovered.html">houston-uncovered</a></h6>
+					<h6>Tags: <a href="/tags/houston-uncovered">houston-uncovered</a></h6>
 				</div>
 			</section>
 		
@@ -304,20 +304,20 @@
 						<h3 id="month">mar</h3>
 					</div>
 					<div class="post-head">
-						<a href="print-work/jdf-branding.html" class="index-page-post-link">
+						<a href="print-work/jdf-branding" class="index-page-post-link">
 							<h2 class="link-title">New Print Material for 'Jardin de France'</h2>
 						</a>	
 						<h4 class="link-subtitle">creating a brand for an antiques-import company</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="print-work/jdf-branding.html"> 
+					<a href="print-work/jdf-branding"> 
 						<img src="/img/post-attachments/projects/jdf/3-16/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/print-work/">print-work</a></h6>
-					<h6>Tags: <a href="/tags/jardin-de-france.html">jardin-de-france</a></h6>
+					<h6>Tags: <a href="/tags/jardin-de-france">jardin-de-france</a></h6>
 				</div>
 			</section>
 		
@@ -328,20 +328,20 @@
 						<h3 id="month">mar</h3>
 					</div>
 					<div class="post-head">
-						<a href="social/dribbble-meetup-sxsw.html" class="index-page-post-link">
+						<a href="social/dribbble-meetup-sxsw" class="index-page-post-link">
 							<h2 class="link-title">Annual Dribbble Meetup at SXSW Austin</h2>
 						</a>	
 						<h4 class="link-subtitle">2015 - what a blast!</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="social/dribbble-meetup-sxsw.html"> 
+					<a href="social/dribbble-meetup-sxsw"> 
 						<img src="/img/post-attachments/cool-beans/atx-dribble/link-banner.png" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/social/">social</a></h6>
-					<h6>Tags: <a href="/tags/dribbble.html">dribbble</a></h6>
+					<h6>Tags: <a href="/tags/dribbble">dribbble</a></h6>
 				</div>
 			</section>
 		
@@ -352,20 +352,20 @@
 						<h3 id="month">mar</h3>
 					</div>
 					<div class="post-head">
-						<a href="web-design/new-lisa-esposito-project.html" class="index-page-post-link">
+						<a href="web-design/new-lisa-esposito-project" class="index-page-post-link">
 							<h2 class="link-title">Excited to be working with Boston-area artist Dr. Lisa Esposito</h2>
 						</a>	
 						<h4 class="link-subtitle">Site redesign in the works</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="web-design/new-lisa-esposito-project.html"> 
+					<a href="web-design/new-lisa-esposito-project"> 
 						<img src="/img/post-attachments/projects/lisa-esposito/3-17/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/lisa-esposito.html">lisa-esposito</a></h6>
+					<h6>Tags: <a href="/tags/lisa-esposito">lisa-esposito</a></h6>
 				</div>
 			</section>
 		
