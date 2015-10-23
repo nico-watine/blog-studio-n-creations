@@ -58,13 +58,17 @@ header#top-bar .row::after { clear: both; content: ""; display: table; }
 .overlay { position: fixed; text-align: center; z-index: 55; width: 100%; height: 100%; top: 0; left: 0; background: #566270; background: rgba(115, 133, 151, 0.85); overflow: scroll-y; }
 
 .overlay ul { list-style: none; padding: 0; margin: 5em auto 0; display: inline-block; height: 100%; position: relative; }
-.overlay ul * { color: #fff; display: block; text-shadow: 0 0.125rem 0.0625rem #000; }
-.overlay ul li:hover a { color: #333; text-decoration: none; text-shadow: none; background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border-radius: 0.3125rem; }
-.overlay ul li.parent { font-size: 2.375rem; font-family: "Lintel ExtraBold", sans-serif; letter-spacing: 0.0625rem; text-transform: uppercase; margin: 0.625rem 0; }
-.overlay ul li.parent a { padding: 0.5rem 0.3125rem; }
-.overlay ul li.child { font-size: 1.9375em; font-family: "Open Sans", sans-serif; margin: 0.5rem 0; }
-.overlay ul li.child.last { margin-bottom: 1.25rem; }
-.overlay ul li.parent.last { margin-bottom: 0; }
+.overlay ul li.blog-link * { color: #fff; display: block; text-shadow: 0 0.125rem 0.0625rem #000; }
+.overlay ul li.blog-link a { font-size: 2.375rem; font-family: "Lintel ExtraBold", sans-serif; letter-spacing: 0.0625rem; text-transform: uppercase; margin: 0.625rem 0; padding: 0.3125rem 0.5rem 0.5rem; }
+.overlay ul li.blog-link a span { font-family: "Lintel Medium", sans-serif; letter-spacing: 0.075rem; font-size: 0.75rem; text-shadow: 0 0.0625rem 0.0625rem #000; }
+.overlay ul li.blog-link:hover a { color: #000; text-decoration: none; text-shadow: none; background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border-radius: 0.3125rem; }
+.overlay ul li.blog-link:hover a span { color: #333; text-shadow: none; }
+.overlay ul ul.snc-links { margin-top: 1.375rem; }
+.overlay ul ul.snc-links li { display: inline-block; }
+.overlay ul ul.snc-links li a { font-size: 1.9375rem; font-family: "Lintel Medium", sans-serif; letter-spacing: 0.075rem; text-transform: uppercase; margin: 0 0.625rem; padding: 0.5rem; text-shadow: 0 0.0625rem 0.0625rem #000; }
+.overlay ul ul.snc-links li a span { display: block; visibility: hidden; font-size: 0.875rem; }
+.overlay ul ul.snc-links li:hover a { color: #000; background: #fff; text-shadow: none; }
+.overlay ul ul.snc-links li:hover a span { visibility: visible; }
 
 /* Effects */
 ul.widget-nav { list-style: none; padding: 0; margin: 0; }
