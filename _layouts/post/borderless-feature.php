@@ -35,8 +35,9 @@
 	</div>
 </main>
 
+{% include blocks/nav.html %}
 
-{% include components/scripts/scripts.html %}
+{% include components/scripts/scripts.php %}
  
 
 </body>
