@@ -122,7 +122,7 @@
 		<ul class="widget-nav">
 			<li><a href="/web-design/">Web Design</a></li>
 			<li><a href="/print-work/">Print Work</a></li>
-			<li><a href="/social/">Social</a></li>
+			<!-- <li><a href="/social/">Social</a></li> -->
 			<li><a href="/web-development/">Web Development</a></li>
 		</ul>
 	</div>

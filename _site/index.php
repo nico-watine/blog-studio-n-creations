@@ -324,30 +324,6 @@
 			<section class="post-link">
 				<div class="row" id="post-details">
 					<div class="post-date"> 
-						<h3 id="day">16</h3>
-						<h3 id="month">mar</h3>
-					</div>
-					<div class="post-head">
-						<a href="social/dribbble-meetup-sxsw" class="index-page-post-link">
-							<h2 class="link-title">Annual Dribbble Meetup at SXSW Austin</h2>
-						</a>	
-						<h4 class="link-subtitle">2015 - what a blast!</h4>
-					</div>
-				</div>
-				<div class="row" id="img-row">
-					<a href="social/dribbble-meetup-sxsw"> 
-						<img src="/img/post-attachments/cool-beans/atx-dribble/link-banner.png" alt="">
-					</a>
-				</div>
-				<div class="row" id="post-taxonomy">
-					<h6>Filed Under: <a href="/social/">social</a></h6>
-					<h6>Tags: <a href="/tags/dribbble">dribbble</a></h6>
-				</div>
-			</section>
-		
-			<section class="post-link">
-				<div class="row" id="post-details">
-					<div class="post-date"> 
 						<h3 id="day">13</h3>
 						<h3 id="month">mar</h3>
 					</div>
@@ -377,7 +353,7 @@
 		<ul class="widget-nav">
 			<li><a href="/web-design/">Web Design</a></li>
 			<li><a href="/print-work/">Print Work</a></li>
-			<li><a href="/social/">Social</a></li>
+			<!-- <li><a href="/social/">Social</a></li> -->
 			<li><a href="/web-development/">Web Development</a></li>
 		</ul>
 	</div>
@@ -433,4 +409,3 @@
 
 </body>
 </html>
-
