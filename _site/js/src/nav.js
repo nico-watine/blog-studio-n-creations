@@ -47,6 +47,3 @@
 	    triggerBttn.attachEvent( 'onclick', toggleOverlay);
 	}
 })();
-
-
-// 

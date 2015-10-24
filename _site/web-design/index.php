@@ -5,20 +5,19 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<link rel="preconnect" href="http://cdn.studioncreations.com">
 	<title>Web Design | Studio N Creations Blog</title>
 	<meta name="description" content="Keep up with the latest projects and happenings here at the Studio N Creations blog" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 	
-	<link rel="stylesheet" href="http://cdn.studioncreations.com/css/core.css" />
+	<link rel="stylesheet" href="/css/core.css" />
 	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
 
-	<script src="http://cdn.studioncreations.com/js/modernizr-min.js"></script>
+	<script src="/js/modernizr-min.js"></script>
 
 	<!--[if lt IE 9]>
-		<link rel="stylesheet" href="http://cdn.studioncreations.com/css/ie.css" />
-		<script src="http://cdn.studioncreations.com/js/ie-min.js"></script>
+		<link rel="stylesheet" href="/css/ie.css" />
+		<script src="/js/ie-min.js"></script>
 	<![endif]-->
 </head>
 
@@ -271,8 +270,8 @@
 			</ul>
 		</div>
 		<div class="row">
-			<h6>&copy; <a href="http://studioncreations.com" target="_blank" id="snc-link">STUDIO N CREATIONS</a> | 2015 <a href="https://www.facebook.com/studio.n.creations" target="_blank"><img id="facebook" src="http://cdn.studioncreations.com/img/footer/facebook.png" alt="Facebook Link"></a></h6>
-			<h6 id="html5-powered">powered by <img src="http://cdn.studioncreations.com/img/footer/html5-shield.png" alt="HTML5 Shield"></h6>
+			<h6>&copy; <a href="http://studioncreations.com" target="_blank" id="snc-link">STUDIO N CREATIONS</a> | 2015 <a href="https://www.facebook.com/studio.n.creations" target="_blank"><img id="facebook" src="/img/footer/facebook.png" alt="Facebook Link"></a></h6>
+			<h6 id="html5-powered">powered by <img src="/img/footer/html5-shield.png" alt="HTML5 Shield"></h6>
 		</div>
 	</div>
 </footer>
@@ -309,7 +308,7 @@
 </nav>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="http://cdn.studioncreations.com/js/nav-min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
 <script src="<?php autoVer('/js/nav-min.js'); ?>"></script>
 
  
