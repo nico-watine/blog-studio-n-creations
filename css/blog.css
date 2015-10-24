@@ -71,6 +71,7 @@ header#top-bar .row::after { clear: both; content: ""; display: table; }
 .overlay ul ul.snc-links li:hover a span { visibility: visible; }
 
 /* Effects */
+footer { margin-top: 5em; }
 footer h6 a#snc-link { color: #fff; }
 
 ul.widget-nav { list-style: none; padding: 0; margin: 0; }
