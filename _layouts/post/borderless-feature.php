@@ -35,6 +35,8 @@
 	</div>
 </main>
 
+{% include blocks/footer.html %}
+
 {% include blocks/nav.html %}
 
 {% include components/scripts/scripts.php %}
