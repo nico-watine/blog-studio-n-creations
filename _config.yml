@@ -9,6 +9,14 @@ permalink:        /:categories/:title
 destination:      _site
 host:             localhost
 port:             9001
-url:       		  http://localhost:9001
+url:       		  http://nicos-mbp.local:5757/
 baseurl:          /
 encoding:         UTF-8
+
+# LOCAL-DEV BRANCH
+base_cdn:         
+blog_cdn:         
+
+# CDN-PRODUCTION BRANSH
+# base_cdn:         http://cdn.studioncreations.com
+# blog_cdn:         http://cdn.studioncreations.com/blog

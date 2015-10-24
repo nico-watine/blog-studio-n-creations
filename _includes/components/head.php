@@ -10,10 +10,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 	
-	<link rel="stylesheet" href="/css/core.css" />
-	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
+	<link rel="stylesheet" href="{{ site.base_cdn }}/css/core.css" />
+	<link rel="stylesheet" href="{{ site.blog_cdn }}<?php autoVer('/css/blog.css'); ?>" />
 
-	<script src="/js/modernizr-min.js"></script>
+	<script src="{{ site.base_cdn }}/js/modernizr-min.js"></script>
 
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" href="/css/ie.css" />
