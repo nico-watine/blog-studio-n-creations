@@ -14,17 +14,15 @@ ul.widget-nav {
 
 	.widget-nav {
 		li {
-			margin: .7em 0;
+			margin: rem(12) 0;
 			background-color: #fff;
-			// @include transition (background-color 200ms ease-out 0s);
 
 			a {
 				border: em(1) solid $dark-blue;
 				display: block;
 				text-decoration: none;
-				padding: .5em;
+				padding: rem(8);
 				color: $text-color;
-				// @include transition (color 150ms ease-out 0s);
 
 				&:hover {
 					color: #fff;
