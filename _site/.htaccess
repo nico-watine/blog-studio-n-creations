@@ -613,7 +613,6 @@ RewriteRule ^(js|css)/(.+)\.(.+)\.(js|css)$ $1/$2.$4 [L]
 
 
 
-
 # ------------------------------------------------------------------------------
 # | Rules for Parsing HTML/HTM as PHP
 # ------------------------------------------------------------------------------
@@ -623,3 +622,4 @@ AddHandler php5-script .php .html .htm
 
 # CURRENTLY ONLINE PER HOSTGATOR SETUP ---------------
 # AddHandler application/x-httpd-php5 .html .htm
+
