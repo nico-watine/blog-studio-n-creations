@@ -6,7 +6,7 @@
 <div class="featured-container">
 	<div class="row">
 		<div class="featured-slide" id="web-design">
-			<a href="/web-design" class="simple-underline">
+			<a href="/web-design/" class="simple-underline">
 				<img src="/img/post-attachments/web-design/featured-banner.jpg" alt="">
 				<div class="category-label">
 					<h2>Web Design</h2>
@@ -14,7 +14,7 @@
 			</a>
 		</div>
 		<div class="featured-slide" id="print-work">
-			<a href="/print-work" class="simple-underline">
+			<a href="/print-work/" class="simple-underline">
 				<img src="/img/post-attachments/print-work/featured-slider.jpg" alt="">
 				<div class="category-label">
 					<h2>Print Work</h2>

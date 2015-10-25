@@ -5,7 +5,7 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Dribbble Tags | Studio N Creations Blog</title>
+	<title>Lisa Esposito Tags | Studio N Creations Blog</title>
 	<meta name="description" content="Keep up with the latest projects and happenings here at the Studio N Creations blog" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
@@ -21,7 +21,6 @@
 	<![endif]-->
 </head>
 
-
 <body>
 <header>
 	<div class="row" id="nav-bar">
@@ -35,12 +34,60 @@
 <div class="outer-container">
 	<main class="blog-roll">
 		
+			<section class="post-link">
+				<div class="row" id="post-details">
+					<div class="post-date"> 
+						<h3 id="day">27</h3>
+						<h3 id="month">mar</h3>
+					</div>
+					<div class="post-head">
+						<a href="/web-design/dr-esposito-wrap-up.html" class="index-page-post-link">
+							<h2 class="link-title">Project Wrapped Up! lisaesposito.com</h2>
+						</a>	
+						<h4 class="link-subtitle">All done! Here are the highlights...</h4>
+					</div>
+				</div>
+				<div class="row" id="img-row">
+					<a href="/web-design/dr-esposito-wrap-up.html"> 
+						<img src="/img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg" alt="">
+					</a>
+				</div>
+				<div class="row" id="post-taxonomy">
+					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
+					<h6>Tags: <a href="/tags/lisa-esposito.html">lisa-esposito</a></h6>
+				</div>
+			</section>
+		
+			<section class="post-link">
+				<div class="row" id="post-details">
+					<div class="post-date"> 
+						<h3 id="day">13</h3>
+						<h3 id="month">mar</h3>
+					</div>
+					<div class="post-head">
+						<a href="/web-design/new-lisa-esposito-project.html" class="index-page-post-link">
+							<h2 class="link-title">Excited to be working with Boston-area artist Dr. Lisa Esposito</h2>
+						</a>	
+						<h4 class="link-subtitle">Site redesign in the works</h4>
+					</div>
+				</div>
+				<div class="row" id="img-row">
+					<a href="/web-design/new-lisa-esposito-project.html"> 
+						<img src="/img/post-attachments/projects/lisa-esposito/3-17/link-banner@2x.jpg" alt="">
+					</a>
+				</div>
+				<div class="row" id="post-taxonomy">
+					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
+					<h6>Tags: <a href="/tags/lisa-esposito.html">lisa-esposito</a></h6>
+				</div>
+			</section>
+		
 	</main>
 	<section class="sidebar">
 		<div class="widget" id="category-title">
 	<div class="row">
 		<h5>TAGGED</h5>
-		<h1>Dribbble</h1>
+		<h1>Lisa Esposito</h1>
 	</div>
 </div>
 		<div class="widget" id="post-categories">
@@ -90,13 +137,13 @@
 			<a href="/">Home<span>Blog Roll</span></a>
 		</li>
 		<li class="blog-link">
-			<a href="/web-design">Web Design<span>Category</span></a>
+			<a href="/web-design/">Web Design<span>Category</span></a>
 		</li>
 		<li class="blog-link">
-			<a href="/web-development">Web Development<span>Category</span></a>
+			<a href="/web-development/">Web Development<span>Category</span></a>
 		</li>
 		<li class="blog-link">
-			<a href="/print-work">Print Work<span>Category</span></a>
+			<a href="/print-work/">Print Work<span>Category</span></a>
 		</li>
 		<ul class="snc-links">
 			<li id="services">
@@ -122,4 +169,4 @@
  
 
 </body>
-</html>
+</html> 

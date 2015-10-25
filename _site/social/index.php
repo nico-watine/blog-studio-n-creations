@@ -21,7 +21,6 @@
 	<![endif]-->
 </head>
 
-
 <body>
 <header>
 	<div class="row" id="nav-bar">
@@ -90,13 +89,13 @@
 			<a href="/">Home<span>Blog Roll</span></a>
 		</li>
 		<li class="blog-link">
-			<a href="/web-design">Web Design<span>Category</span></a>
+			<a href="/web-design/">Web Design<span>Category</span></a>
 		</li>
 		<li class="blog-link">
-			<a href="/web-development">Web Development<span>Category</span></a>
+			<a href="/web-development/">Web Development<span>Category</span></a>
 		</li>
 		<li class="blog-link">
-			<a href="/print-work">Print Work<span>Category</span></a>
+			<a href="/print-work/">Print Work<span>Category</span></a>
 		</li>
 		<ul class="snc-links">
 			<li id="services">

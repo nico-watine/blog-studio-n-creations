@@ -21,7 +21,6 @@
 	<![endif]-->
 </head>
 
-
 <body>
 <header>
 	<div class="row" id="nav-bar">
@@ -35,7 +34,7 @@
 <div class="featured-container">
 	<div class="row">
 		<div class="featured-slide" id="web-design">
-			<a href="/web-design" class="simple-underline">
+			<a href="/web-design/" class="simple-underline">
 				<img src="/img/post-attachments/web-design/featured-banner.jpg" alt="">
 				<div class="category-label">
 					<h2>Web Design</h2>
@@ -43,7 +42,7 @@
 			</a>
 		</div>
 		<div class="featured-slide" id="print-work">
-			<a href="/print-work" class="simple-underline">
+			<a href="/print-work/" class="simple-underline">
 				<img src="/img/post-attachments/print-work/featured-slider.jpg" alt="">
 				<div class="category-label">
 					<h2>Print Work</h2>
@@ -393,13 +392,13 @@
 			<a href="/">Home<span>Blog Roll</span></a>
 		</li>
 		<li class="blog-link">
-			<a href="/web-design">Web Design<span>Category</span></a>
+			<a href="/web-design/">Web Design<span>Category</span></a>
 		</li>
 		<li class="blog-link">
-			<a href="/web-development">Web Development<span>Category</span></a>
+			<a href="/web-development/">Web Development<span>Category</span></a>
 		</li>
 		<li class="blog-link">
-			<a href="/print-work">Print Work<span>Category</span></a>
+			<a href="/print-work/">Print Work<span>Category</span></a>
 		</li>
 		<ul class="snc-links">
 			<li id="services">

@@ -5,7 +5,7 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Greencare Tags | Studio N Creations Blog</title>
+	<title>Jardin de France Tags | Studio N Creations Blog</title>
 	<meta name="description" content="Keep up with the latest projects and happenings here at the Studio N Creations blog" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
@@ -20,7 +20,6 @@
 		<script src="/js/ie-min.js"></script>
 	<![endif]-->
 </head>
-
 
 <body>
 <header>
@@ -38,48 +37,72 @@
 			<section class="post-link">
 				<div class="row" id="post-details">
 					<div class="post-date"> 
-						<h3 id="day">31</h3>
-						<h3 id="month">mar</h3>
+						<h3 id="day">3</h3>
+						<h3 id="month">jun</h3>
 					</div>
 					<div class="post-head">
-						<a href="/web-design/greencare-skeleton-setup.html" class="index-page-post-link">
-							<h2 class="link-title">Greencare Site Structure Setup</h2>
+						<a href="/web-design/updating-jardin-de-france-brand.html" class="index-page-post-link">
+							<h2 class="link-title">Updating the 'Jardin de France' brand</h2>
 						</a>	
-						<h4 class="link-subtitle">It adapts nicely to all screen sizes</h4>
+						<h4 class="link-subtitle">It's time for 2.0!</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="/web-design/greencare-skeleton-setup.html"> 
-						<img src="/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg" alt="">
+					<a href="/web-design/updating-jardin-de-france-brand.html"> 
+						<img src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/greencare.html">greencare</a></h6>
+					<h6>Tags: <a href="/tags/jardin-de-france.html">jardin-de-france</a></h6>
 				</div>
 			</section>
 		
 			<section class="post-link">
 				<div class="row" id="post-details">
 					<div class="post-date"> 
-						<h3 id="day">24</h3>
+						<h3 id="day">30</h3>
 						<h3 id="month">mar</h3>
 					</div>
 					<div class="post-head">
-						<a href="/web-design/greencare-project.html" class="index-page-post-link">
-							<h2 class="link-title">Introducing the Greencare Project</h2>
+						<a href="/print-work/jardin-de-france-tag-examples.html" class="index-page-post-link">
+							<h2 class="link-title">The Jardin de France Tags - Examples</h2>
 						</a>	
-						<h4 class="link-subtitle">We're giving the company's site a fresh, new look</h4>
+						<h4 class="link-subtitle">the tags have been attached to their latest shipment of antiques</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="/web-design/greencare-project.html"> 
-						<img src="/img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg" alt="">
+					<a href="/print-work/jardin-de-france-tag-examples.html"> 
+						<img src="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
-					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/greencare.html">greencare</a></h6>
+					<h6>Filed Under: <a href="/print-work/">print-work</a></h6>
+					<h6>Tags: <a href="/tags/jardin-de-france.html">jardin-de-france</a></h6>
+				</div>
+			</section>
+		
+			<section class="post-link">
+				<div class="row" id="post-details">
+					<div class="post-date"> 
+						<h3 id="day">17</h3>
+						<h3 id="month">mar</h3>
+					</div>
+					<div class="post-head">
+						<a href="/print-work/jdf-branding.html" class="index-page-post-link">
+							<h2 class="link-title">New Print Material for 'Jardin de France'</h2>
+						</a>	
+						<h4 class="link-subtitle">creating a brand for an antiques-import company</h4>
+					</div>
+				</div>
+				<div class="row" id="img-row">
+					<a href="/print-work/jdf-branding.html"> 
+						<img src="/img/post-attachments/projects/jdf/3-16/link-banner@2x.jpg" alt="">
+					</a>
+				</div>
+				<div class="row" id="post-taxonomy">
+					<h6>Filed Under: <a href="/print-work/">print-work</a></h6>
+					<h6>Tags: <a href="/tags/jardin-de-france.html">jardin-de-france</a></h6>
 				</div>
 			</section>
 		
@@ -88,7 +111,7 @@
 		<div class="widget" id="category-title">
 	<div class="row">
 		<h5>TAGGED</h5>
-		<h1>Greencare</h1>
+		<h1>Jardin de France</h1>
 	</div>
 </div>
 		<div class="widget" id="post-categories">
@@ -138,13 +161,13 @@
 			<a href="/">Home<span>Blog Roll</span></a>
 		</li>
 		<li class="blog-link">
-			<a href="/web-design">Web Design<span>Category</span></a>
+			<a href="/web-design/">Web Design<span>Category</span></a>
 		</li>
 		<li class="blog-link">
-			<a href="/web-development">Web Development<span>Category</span></a>
+			<a href="/web-development/">Web Development<span>Category</span></a>
 		</li>
 		<li class="blog-link">
-			<a href="/print-work">Print Work<span>Category</span></a>
+			<a href="/print-work/">Print Work<span>Category</span></a>
 		</li>
 		<ul class="snc-links">
 			<li id="services">

@@ -5,7 +5,7 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Apps Tags | Studio N Creations Blog</title>
+	<title>Lemon Peel Facial Tags | Studio N Creations Blog</title>
 	<meta name="description" content="Keep up with the latest projects and happenings here at the Studio N Creations blog" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
@@ -20,7 +20,6 @@
 		<script src="/js/ie-min.js"></script>
 	<![endif]-->
 </head>
-
 
 <body>
 <header>
@@ -38,24 +37,24 @@
 			<section class="post-link">
 				<div class="row" id="post-details">
 					<div class="post-date"> 
-						<h3 id="day">9</h3>
+						<h3 id="day">2</h3>
 						<h3 id="month">apr</h3>
 					</div>
 					<div class="post-head">
-						<a href="/web-development/gaget-analytics-app.html" class="index-page-post-link">
-							<h2 class="link-title">A Great Analytics App</h2>
+						<a href="/web-design/lemon-peel-facial-logo.html" class="index-page-post-link">
+							<h2 class="link-title">One of Our Favorite Logos</h2>
 						</a>	
-						<h4 class="link-subtitle">GAget 2.0 just released</h4>
+						<h4 class="link-subtitle">Created for lemonpeelfacial.com</h4>
 					</div>
 				</div>
 				<div class="row" id="img-row">
-					<a href="/web-development/gaget-analytics-app.html"> 
-						<img src="/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg" alt="">
+					<a href="/web-design/lemon-peel-facial-logo.html"> 
+						<img src="/img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
-					<h6>Filed Under: <a href="/web-development/">web-development</a></h6>
-					<h6>Tags: <a href="/tags/apps.html">apps</a></h6>
+					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
+					<h6>Tags: <a href="/tags/lemon-peel-facial.html">lemon-peel-facial</a></h6>
 				</div>
 			</section>
 		
@@ -64,7 +63,7 @@
 		<div class="widget" id="category-title">
 	<div class="row">
 		<h5>TAGGED</h5>
-		<h1>Apps</h1>
+		<h1>Lemon Peel Facial</h1>
 	</div>
 </div>
 		<div class="widget" id="post-categories">
@@ -114,13 +113,13 @@
 			<a href="/">Home<span>Blog Roll</span></a>
 		</li>
 		<li class="blog-link">
-			<a href="/web-design">Web Design<span>Category</span></a>
+			<a href="/web-design/">Web Design<span>Category</span></a>
 		</li>
 		<li class="blog-link">
-			<a href="/web-development">Web Development<span>Category</span></a>
+			<a href="/web-development/">Web Development<span>Category</span></a>
 		</li>
 		<li class="blog-link">
-			<a href="/print-work">Print Work<span>Category</span></a>
+			<a href="/print-work/">Print Work<span>Category</span></a>
 		</li>
 		<ul class="snc-links">
 			<li id="services">
