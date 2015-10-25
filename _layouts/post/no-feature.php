@@ -1,4 +1,4 @@
-{% include components/head.html %}
+{% include components/head.php %}
 
 <body>
 {% include blocks/top-bar.html %}
@@ -35,7 +35,7 @@
 
 {% include blocks/nav.html %}
 
-{% include components/scripts/scripts.html %}
+{% include components/scripts/scripts.php %}
  
 
 </body>
