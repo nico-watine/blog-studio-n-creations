@@ -37,7 +37,7 @@ intro-text-h2: An awesome web analytics tool for Mac
 </div>
 <div class="row margin-bottom">
 	<h3>There's also an equally useful iPhone app. Personally, we think it might actually be better than Google's own iPhone Analytics app.</h3>
-	<a href="https://itunes.apple.com/us/app/gaget-simple-widget-for-google/id968487158?mt=12" target="_blank" class="white"><h3 class="btn btn-red">Check it out on the App Store!</h3></a>
+	<a href="https://itunes.apple.com/us/app/gaget-simple-widget-for-google/id968487158?mt=12" target="_blank" class="white"><h3 class="btn-red">Check it out on the App Store!</h3></a>
 </div>
 <div class="row bottom">
 	<a href="https://itunes.apple.com/us/app/gaget-simple-widget-for-google/id968487158?mt=12" target="_blank"><img src="/img/post-attachments/web-development/gaget/4-9/app-store.jpg" class="large-post-image white-border shadow" alt=""></a>

@@ -25,7 +25,7 @@
 		</div>
 	</div>
 </div>
-<main class="main-post centered">
+<main class="main-post">
 	<div class="post-content">
 		{{ content }}
 	</div>

@@ -1,5 +1,7 @@
 @import "../settings/_settings.scss";
 
-header#top-bar .row {
-	@include outer-container;
+header {
+    height: em(55);
+    padding-top: em(55);
+    width: 100%;
 }

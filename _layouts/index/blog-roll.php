@@ -3,31 +3,27 @@
 <body>
 {% include blocks/top-bar.html %}
 
-<div class="featured-container">
+<section class="featured-container">
 	<div class="row">
 		<div class="featured-slide" id="web-design">
-			<a href="/web-design/" class="simple-underline">
+			<a href="/web-design/">
 				<img src="/img/post-attachments/web-design/featured-banner.jpg" alt="">
-				<div class="category-label">
-					<h2>Web Design</h2>
-				</div>
+				<h2>Web Design</h2>
 			</a>
 		</div>
 		<div class="featured-slide" id="print-work">
-			<a href="/print-work/" class="simple-underline">
+			<a href="/print-work/">
 				<img src="/img/post-attachments/print-work/featured-slider.jpg" alt="">
-				<div class="category-label">
-					<h2>Print Work</h2>
-				</div>
+				<h2>Print Work</h2>
 			</a>
 		</div>
 	</div>
-</div>
+</section>
 
 <div class="outer-container">
 	<main class="blog-roll">
 		{% for post in site.posts %}
-			<section class="post-link">
+			<article class="post-link">
 				<div class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">{{ post.day }}</h3>
@@ -49,7 +45,7 @@
 					<h6>Filed Under: <a href="/{{ post.category }}/">{{ post.category }}</a></h6>
 					<h6>Tags: <a href="/tags/{{ post.tags }}">{{ post.tags }}</a></h6>
 				</div>
-			</section>
+			</article>
 		{% endfor %}
 	</main>
 	<section class="sidebar">
