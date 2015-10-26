@@ -31,10 +31,10 @@
 			</section>
 		{% endfor %}
 	</main>
-	<section class="sidebar">
+	<aside class="sidebar">
 		{% include blocks/side-bar/tag-title.html %}
 		{% include blocks/side-bar/category-widget.html %}
-	</section>
+	</aside>
 </div>
 
 {% include blocks/footer.html %}

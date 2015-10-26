@@ -9,7 +9,7 @@ main.blog-roll {
 	}
 }
 
-section.sidebar {
+.sidebar {
 	@include span-columns(5 of 16);
 	@include omega;
 
@@ -20,7 +20,7 @@ section.sidebar {
 	}
 }
 
-main.blog-roll {
+.blog-roll {
 
 	.post-link {
 		@include span-columns(11 of 11);
@@ -84,19 +84,4 @@ a.index-page-post-link {
 	}
 }
 
-// #post-taxonomy {
-// 	h6 {
-// 		a {
-// 			color: $dark-blue;
-// 			text-decoration: none;
-// 			// @include transition (color 100ms ease-out 0s);
-// 			// @include transition (text-decoration 200ms ease-out 0s);
 
-// 			&:hover {
-// 				color: #000;
-// 				// color: $light-blue;
-// 				text-decoration: underline;
-// 			}
-// 		}
-// 	}
-// }

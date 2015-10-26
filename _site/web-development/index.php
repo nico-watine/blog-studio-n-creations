@@ -59,7 +59,7 @@
 			</section>
 		
 	</main>
-	<section class="sidebar">
+	<aside class="sidebar">
 		<div class="widget" id="category-title">
 	<div class="row">
 		<h5>POST CATEGORY</h5>
@@ -86,7 +86,7 @@
 </div>
 
 
-	</section>
+	</aside>
 </div>
 
 <footer>

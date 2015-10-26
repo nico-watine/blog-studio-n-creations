@@ -340,7 +340,7 @@
 			</article>
 		
 	</main>
-	<section class="sidebar">
+	<aside class="sidebar">
 		<div class="widget" id="post-categories">
 	<div class="row">
 		<h5>CATEGORIES</h5>
@@ -361,7 +361,7 @@
 </div>
 
 
-	</section>
+	</aside>
 </div>
 
 <footer>
