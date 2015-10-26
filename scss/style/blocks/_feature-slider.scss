@@ -1,5 +1,5 @@
 .featured-container {
-	padding: em(25);
+	padding: em(20) em(20) 0;
 	box-shadow: $z-1;
 	background: #fff;
 	text-align: center;
@@ -12,7 +12,10 @@
 
 .featured-slide {
 	@include span-columns(8 of 16);
+	border: em(2) solid #fff;
+	margin-bottom: em(25);
 	background: $dark-blue;
+	box-shadow: $z-3;
 	@include transition (background 50ms ease-out 0s);
 	text-align: center;
 
@@ -31,7 +34,6 @@
 		color: #fff;
 
 		h2 {
-			@include transition (text-shadow 200ms ease-out 0s);
 			text-shadow: none;
 			width: 100%;
 			margin: 0;
@@ -40,21 +42,13 @@
 	}
 
 	&:hover {
-		background: scale-color($dark-blue, $lightness: 25%);
+		margin-top: em(3);
+		margin-bottom: 0;
+		box-shadow: $z-1;
 
 		a {
 			text-decoration: none;
-
-			h2 {
-				text-shadow: rem(2) rem(2) #000;
-				// text-decoration: none;
-			}
 		}
 	}
-
-	img {
-		border: em(1) solid #444;
-	}
 }
-
 

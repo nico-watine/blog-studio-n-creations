@@ -92,21 +92,19 @@ ul.widget-nav { list-style: none; padding: 0; margin: 0; }
 
 .post-date h3#day, .post-date h3#month { background: #566270; margin: 0; text-transform: uppercase; color: #fff; }
 
-.featured-container { padding: 1.5625em; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); background: #fff; text-align: center; }
+.featured-container { padding: 1.25em 1.25em 0; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); background: #fff; text-align: center; }
 @media screen and (max-width: 40em) { .featured-container { padding: 2em 0em 0em; } }
 
-.featured-slide { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; background: #566270; -webkit-transition: background 50ms ease-out 0s; transition: background 50ms ease-out 0s; text-align: center; }
+.featured-slide { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; border: 0.125em solid #fff; margin-bottom: 1.5625em; background: #566270; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); -webkit-transition: background 50ms ease-out 0s; transition: background 50ms ease-out 0s; text-align: center; }
 .featured-slide:last-child { margin-right: 0; }
 @media screen and (max-width: 40em) { .featured-slide { float: left; display: block; margin-right: 3.57866%; width: 74.10533%; margin-left: 12.94733%; margin-bottom: 1.25em; }
   .featured-slide:last-child { margin-right: 0; } }
 @media screen and (max-width: 32.813em) { .featured-slide { float: left; display: block; margin-right: 3.57866%; width: 87.05267%; margin-left: 6.47367%; }
   .featured-slide:last-child { margin-right: 0; } }
 .featured-slide a { color: #fff; }
-.featured-slide a h2 { -webkit-transition: text-shadow 200ms ease-out 0s; transition: text-shadow 200ms ease-out 0s; text-shadow: none; width: 100%; margin: 0; padding: 0.3125rem; }
-.featured-slide:hover { background: #7b8999; }
+.featured-slide a h2 { text-shadow: none; width: 100%; margin: 0; padding: 0.3125rem; }
+.featured-slide:hover { margin-top: 0.1875em; margin-bottom: 0; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
 .featured-slide:hover a { text-decoration: none; }
-.featured-slide:hover a h2 { text-shadow: 0.125rem 0.125rem #000; }
-.featured-slide img { border: 0.0625em solid #444; }
 
 main.blog-roll { float: left; display: block; margin-right: 1.75788%; width: 68.20066%; }
 main.blog-roll:last-child { margin-right: 0; }
