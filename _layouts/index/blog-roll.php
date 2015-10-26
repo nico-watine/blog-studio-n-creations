@@ -20,8 +20,8 @@
 	</div>
 </section>
 
-<div class="outer-container">
-	<main class="blog-roll">
+<main class="outer-container">
+	<section class="blog-roll">
 		{% for post in site.posts %}
 			<article class="post-link">
 				<div class="row" id="post-details">
@@ -47,11 +47,11 @@
 				</div>
 			</article>
 		{% endfor %}
-	</main>
+	</section>
 	<aside class="sidebar">
 		{% include blocks/side-bar/category-widget.html %}
 	</aside>
-</div>
+</main>
 
 {% include blocks/footer.html %}
 

@@ -3,10 +3,10 @@
 <body>
 {% include blocks/top-bar.html %}
 
-<div class="outer-container">
-	<main class="blog-roll">
+<main class="outer-container">
+	<section class="blog-roll">
 		{% for post in site.categories.web-development %}
-			<section class="post-link">
+			<article class="post-link">
 				<div class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">{{ post.day }}</h3>
@@ -28,14 +28,14 @@
 					<h6>Filed Under: <a href="/{{ post.category }}/">{{ post.category }}</a></h6>
 					<h6>Tags: <a href="/tags/{{ post.tags }}.html">{{ post.tags }}</a></h6>
 				</div>
-			</section>
+			</article>
 		{% endfor %}
-	</main>
+	</section>
 	<aside class="sidebar">
 		{% include blocks/side-bar/category-title.html %}
 		{% include blocks/side-bar/category-widget.html %}
 	</aside>
-</div>
+</main>
 
 {% include blocks/footer.html %}
 

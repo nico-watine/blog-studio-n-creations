@@ -31,10 +31,10 @@
 	</div>
 </header>
 
-<div class="outer-container">
-	<main class="blog-roll">
+<main class="outer-container">
+	<section class="blog-roll">
 		
-	</main>
+	</section>
 	<aside class="sidebar">
 		<div class="widget" id="category-title">
 	<div class="row">
@@ -63,7 +63,7 @@
 
 
 	</aside>
-</div>
+</main>
 
 <footer>
 	<div class="outer-container padding">

@@ -31,10 +31,10 @@
 	</div>
 </header>
 
-<div class="outer-container">
-	<main class="blog-roll">
+<main class="outer-container">
+	<section class="blog-roll">
 		
-			<section class="post-link">
+			<article class="post-link">
 				<div class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">1</h3>
@@ -56,9 +56,9 @@
 					<h6>Filed Under: <a href="/print-work/">print-work</a></h6>
 					<h6>Tags: <a href="/tags/houston-oculofacial.html">houston-oculofacial</a></h6>
 				</div>
-			</section>
+			</article>
 		
-			<section class="post-link">
+			<article class="post-link">
 				<div class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">30</h3>
@@ -80,9 +80,9 @@
 					<h6>Filed Under: <a href="/print-work/">print-work</a></h6>
 					<h6>Tags: <a href="/tags/jardin-de-france.html">jardin-de-france</a></h6>
 				</div>
-			</section>
+			</article>
 		
-			<section class="post-link">
+			<article class="post-link">
 				<div class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">17</h3>
@@ -104,9 +104,9 @@
 					<h6>Filed Under: <a href="/print-work/">print-work</a></h6>
 					<h6>Tags: <a href="/tags/jardin-de-france.html">jardin-de-france</a></h6>
 				</div>
-			</section>
+			</article>
 		
-	</main>
+	</section>
 	<aside class="sidebar">
 		<div class="widget" id="category-title">
 	<div class="row">
@@ -135,7 +135,7 @@
 
 
 	</aside>
-</div>
+</main>
 
 <footer>
 	<div class="outer-container padding">

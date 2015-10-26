@@ -31,10 +31,10 @@
 	</div>
 </header>
 
-<div class="outer-container">
-	<main class="blog-roll">
+<main class="outer-container">
+	<section class="blog-roll">
 		
-			<section class="post-link">
+			<article class="post-link">
 				<div class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">2</h3>
@@ -56,9 +56,9 @@
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
 					<h6>Tags: <a href="/tags/lemon-peel-facial.html">lemon-peel-facial</a></h6>
 				</div>
-			</section>
+			</article>
 		
-	</main>
+	</section>
 	<aside class="sidebar">
 		<div class="widget" id="category-title">
 	<div class="row">
@@ -87,7 +87,7 @@
 
 
 	</aside>
-</div>
+</main>
 
 <footer>
 	<div class="outer-container padding">

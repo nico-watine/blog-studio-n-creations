@@ -106,10 +106,10 @@ ul.widget-nav { list-style: none; padding: 0; margin: 0; }
 .featured-slide:hover { margin-top: 0.1875em; margin-bottom: 0; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
 .featured-slide:hover a { text-decoration: none; }
 
-main.blog-roll { float: left; display: block; margin-right: 1.75788%; width: 68.20066%; }
-main.blog-roll:last-child { margin-right: 0; }
-@media screen and (max-width: 50.9375em) { main.blog-roll { float: left; display: block; margin-right: 2.35765%; width: 100%; }
-  main.blog-roll:last-child { margin-right: 0; } }
+.blog-roll { float: left; display: block; margin-right: 1.75788%; width: 68.20066%; }
+.blog-roll:last-child { margin-right: 0; }
+@media screen and (max-width: 50.9375em) { .blog-roll { float: left; display: block; margin-right: 2.35765%; width: 100%; }
+  .blog-roll:last-child { margin-right: 0; } }
 
 .sidebar { float: left; display: block; margin-right: 1.75788%; width: 30.04146%; margin-right: 0; }
 .sidebar:last-child { margin-right: 0; }

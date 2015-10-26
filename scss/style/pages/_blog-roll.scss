@@ -1,7 +1,7 @@
 @import "../settings/_settings.scss";
 
 
-main.blog-roll {
+.blog-roll {
 	@include span-columns(11 of 16);
 
 	@include media($medium) {
@@ -75,9 +75,6 @@ a.index-page-post-link {
 		text-decoration: none !important;
 	}
 	&:hover {
-		h2 {
-			// text-decoration: underline;
-		}
 		h4 {
 			text-decoration: none !important;
 		}		

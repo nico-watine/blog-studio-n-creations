@@ -48,8 +48,8 @@
 	</div>
 </section>
 
-<div class="outer-container">
-	<main class="blog-roll">
+<main class="outer-container">
+	<section class="blog-roll">
 		
 			<article class="post-link">
 				<div class="row" id="post-details">
@@ -339,7 +339,7 @@
 				</div>
 			</article>
 		
-	</main>
+	</section>
 	<aside class="sidebar">
 		<div class="widget" id="post-categories">
 	<div class="row">
@@ -362,7 +362,7 @@
 
 
 	</aside>
-</div>
+</main>
 
 <footer>
 	<div class="outer-container padding">
