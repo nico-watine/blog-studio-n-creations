@@ -2,14 +2,18 @@ html { box-sizing: border-box; }
 
 *, *::after, *::before { box-sizing: inherit; }
 
+figure { text-align: center; }
+figure figcaption { margin-top: 0.5rem; }
+@media screen and (max-width: 46.875em) { figure figcaption { font-size: 0.875rem; } }
+
 .btn-red { background-color: #F26B6C; color: #fff; -webkit-transition: background-color 200ms ease-out 0s; transition: background-color 200ms ease-out 0s; -webkit-transition: color 200ms ease-out 0s; transition: color 200ms ease-out 0s; text-decoration: underline; }
 .btn-red:hover { background-color: #f58989; color: #333; text-shadow: none; text-decoration: none; }
 
 a.simple-underline { text-decoration: underline; color: #fff; }
 a.simple-underline:hover { text-decoration: none; }
 
-a.underlined-link { color: #566270; text-decoration: underline; }
-a.underlined-link:hover { text-decoration: none; }
+a.underlined-link, a.underlined { color: #566270; text-decoration: underline; }
+a.underlined-link:hover, a.underlined:hover { text-decoration: none; }
 
 .white { color: #fff; }
 
@@ -189,7 +193,20 @@ a.index-page-post-link:hover h4 { text-decoration: none !important; }
 @media only screen and (max-width: 31.25em) { .post-intro #calendar-nav time { font-size: 1.375rem; height: 5rem; width: 5rem; padding-top: 0.875rem; margin-bottom: 0.5rem; }
   .post-intro #calendar-nav nav a { font-size: 0.875rem; }
   .post-intro #post-taxonomy h5 { font-size: 0.875rem; } }
-#esposito-project-introduction figure#original-esposito-ipad, #esposito-project-introduction .verbiage { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
-#esposito-project-introduction figure#original-esposito-ipad:last-child, #esposito-project-introduction .verbiage:last-child { margin-right: 0; }
+#lisa-esposito-project-introduction p { font-size: 1.375rem; margin-bottom: 1rem; }
+#lisa-esposito-project-introduction h3 { font-size: 1.75rem; }
+#lisa-esposito-project-introduction .row { margin-bottom: 1.875em; }
+#lisa-esposito-project-introduction figure#original-esposito-ipad, #lisa-esposito-project-introduction .verbiage { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
+#lisa-esposito-project-introduction figure#original-esposito-ipad:last-child, #lisa-esposito-project-introduction .verbiage:last-child { margin-right: 0; }
+#lisa-esposito-project-introduction #two { text-align: center; }
+@media only screen and (max-width: 56.25em) { #lisa-esposito-project-introduction p { font-size: 1.25rem; margin-bottom: 0.875rem; } }
+@media screen and (max-width: 46.875em) { #lisa-esposito-project-introduction p { font-size: 1.25rem; }
+  #lisa-esposito-project-introduction h3 { font-size: 1.375em; } }
+@media only screen and (max-width: 41.875em) { #lisa-esposito-project-introduction p { font-size: 1.125rem; } }
+@media only screen and (max-width: 33.75em) { #lisa-esposito-project-introduction { text-align: center; }
+  #lisa-esposito-project-introduction figure#original-esposito-ipad, #lisa-esposito-project-introduction .verbiage { float: left; display: block; margin-right: 3.57866%; width: 100%; }
+  #lisa-esposito-project-introduction figure#original-esposito-ipad:last-child, #lisa-esposito-project-introduction .verbiage:last-child { margin-right: 0; }
+  #lisa-esposito-project-introduction figure { margin-bottom: 1.125em; }
+  #lisa-esposito-project-introduction h3 { font-size: 1.25rem; } }
 
 img#old-lpf-logo { max-width: 400px; }

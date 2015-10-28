@@ -1,4 +1,16 @@
 @import "../settings/_settings.scss";
 
+figure {
+	text-align: center;
 
+	figcaption {
+		margin-top: rem(8);
+	}
+
+	@include media($medium) {
+		figcaption {
+			font-size: rem(14);
+		}
+	}
+}
 
