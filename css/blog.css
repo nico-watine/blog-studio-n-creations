@@ -171,6 +171,7 @@ a.index-page-post-link:hover h4 { text-decoration: none !important; }
 @media only screen and (max-width: 50em) { .post-intro #post-titles h1 { font-size: 1.9375em; }
   .post-intro #post-titles h2 { font-size: 1.375em; } }
 .post-intro #post-taxonomy { padding-left: 1.25em; }
+.post-intro #post-taxonomy h5 { font-size: 1em; }
 
 #esposito-project-introduction figure#original-esposito-ipad, #esposito-project-introduction .verbiage { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
 #esposito-project-introduction figure#original-esposito-ipad:last-child, #esposito-project-introduction .verbiage:last-child { margin-right: 0; }

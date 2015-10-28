@@ -104,6 +104,10 @@ $max-800: "only screen and (max-width : 50em)";
 	}
 	#post-taxonomy {
 		padding-left: em(20);
+
+		h5 {
+			font-size: $h5-size;
+		}
 	}
 }
 
