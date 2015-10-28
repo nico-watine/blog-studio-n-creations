@@ -1,15 +1,6 @@
 @import "../settings/_settings.scss";
 
 
-.main-post {
-	padding: 0 1em;
-	margin-top: 0;
-}
-
-.post-content {
-	@include span-columns(16 of 16);
-}
-
 
 .post-image {
 	margin-bottom: em(20);
@@ -31,8 +22,8 @@
 	}
 }
 
-.full-width-image {
-	@include span-columns(16 of 16);
-	margin-bottom: em(20);
-}
+// .full-width-image {
+// 	@include span-columns(16 of 16);
+// 	margin-bottom: em(20);
+// }
 

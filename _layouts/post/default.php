@@ -4,7 +4,7 @@
 {% include blocks/top-bar.html %}
 
 
-<div class="post-intro">
+<section class="post-hero">
 	<div class="outer-container">
 		<div class="row">
 			<div id="calendar-nav">
@@ -27,11 +27,9 @@
 			<h5><a href="/{{ page.category }}/">{{ page.category }}</a> | <a href="/tags/{{ page.tags }}.html">{{ page.tags }}</a></h5>
 		</div>
 	</div>
-</div>
-<main class="main-post outer-container">
-	<div class="post-content">
+</section>
+<main class="article-body outer-container">
 		{{ content }}
-	</div>
 </main>
 
 {% include blocks/footer.html %}

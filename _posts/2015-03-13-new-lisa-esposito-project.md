@@ -9,15 +9,14 @@ tags: lisa-esposito
 datetime: 2014-03-12
 day: 13
 month: mar
-link-image: /img/post-attachments/projects/lisa-esposito/3-17/link-banner@2x.jpg
-post-image: /img/post-attachments/projects/lisa-esposito/3-17/index-old.png
+link-image: /img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg
 intro-text-h1: We're excited to be working with Boston-area artist Dr. Lisa Esposito
 intro-text-h2: A site redesign is in the works
 ---
 <article id="lisa-esposito-project-introduction">
 	<div class="row" id="one">
 		<figure id="original-esposito-ipad">
-			<img src="/img/post-attachments/projects/lisa-esposito/3-17/index-old.png" alt="Lisa Esposito iPad Mockup">
+			<img src="/img/post-attachments/projects/lisa-esposito/3-13/index-old.png" alt="Lisa Esposito iPad Mockup">
 			<figcaption>The current <a href="http://www.lisaesposito.com" target="_blank" class="underlined">Lisa Esposito</a> home page on an iPad</figcaption>
 		</figure>
 		<div class="verbiage">

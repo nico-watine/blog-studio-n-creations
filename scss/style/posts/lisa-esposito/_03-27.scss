@@ -1,0 +1,21 @@
+@import "../../settings/_settings.scss";
+
+#dr-esposito-wrap-up {
+	.verbiage {
+		@include span-columns(4 of 16);
+
+		p {
+			font-size: rem(22);
+			margin-bottom: rem(16);
+		}
+	}
+
+	figure {
+		@include span-columns(12 of 16);
+
+		img {
+			border: em(2) solid #fff;
+			box-shadow: $z-1;
+		}
+	}
+}
