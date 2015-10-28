@@ -1,5 +1,7 @@
 @import "../settings/_settings.scss";
 
+$max-800: "only screen and (max-width : 50em)";
+
 .main-post {
 	padding: 0 1em;
 	margin-top: 0;
@@ -42,8 +44,11 @@
 	margin-bottom: em(34);
 
 	#post-taxonomy {
-		@include span-columns(3 of 16);
+		width: em(170);
+		margin-right: em(10);
+		float: left;
 		text-align: center;
+		padding-left: em(10);
 
 		.post-date-box {
 			width: em(145);
@@ -75,8 +80,8 @@
 		}
 	}
 	#post-titles {
-		@include span-columns(13 of 16);
 		padding-right: em(22);
+		margin-left: rem(180);
 
 		h1 {
 			font-size: $h2-size;
@@ -84,6 +89,16 @@
 		h2 {
 			font-size: $h3-size;
 		}
+
+		@media #{$max-800} {
+			h1 {
+				font-size: $h3-size;
+			}
+			h2 {
+				font-size: $h4-size;
+			}
+		}
 	}
 }
+
 
