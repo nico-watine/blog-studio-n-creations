@@ -44,11 +44,10 @@ $max-800: "only screen and (max-width : 50em)";
 	margin-bottom: em(34);
 
 	#calendar-nav {
-		width: em(170);
-		margin-right: em(10);
+		width: em(180);
+		margin: 0 em(5) 0 em(10);
 		float: left;
 		text-align: center;
-		padding-left: em(10);
 
 		time {
 			width: em(145);
@@ -84,7 +83,6 @@ $max-800: "only screen and (max-width : 50em)";
 	}
 	#post-titles {
 		padding-right: em(22);
-		margin-left: rem(180);
 
 		h1 {
 			font-size: $h2-size;
