@@ -1,47 +1,23 @@
+// 11,471
 @import "../settings/_settings.scss";
 
+@import "_posts-extras.scss";
+
 $max-800: "only screen and (max-width : 50em)";
-
-.main-post {
-	padding: 0 1em;
-	margin-top: 0;
-}
-
-
-.post-content {
-	@include span-columns(16 of 16);
-}
-
-.post-image {
-	margin-bottom: em(20);
-}
-
-.large-post-image {
-	@include span-columns(12 of 16);
-	@include shift(2);
-	margin-bottom: em(20);
-
-	@include media($large) {
-		@include span-columns(10 of 12);
-		@include shift(1);
-	}
-
-	@include media($small) {
-		@include span-columns(8 of 8);
-		@include shift(0);
-	}
-}
-
-.full-width-image {
-	@include span-columns(16 of 16);
-	margin-bottom: em(20);
-}
+$max-750: "only screen and (max-width : 46.875em)";
+$max-540: "only screen and (max-width : 33.750em)";
+$max-500: "only screen and (max-width : 31.250em)";
 
 .post-intro {
 	background: #fff;
 	box-shadow: $z-2;
 	width: 100%;
 	margin-bottom: em(34);
+	padding: em(24) 0 em(12);
+
+	.outer-container {
+		padding-top: 0;
+	}
 
 	#calendar-nav {
 		width: em(180);
@@ -50,21 +26,17 @@ $max-800: "only screen and (max-width : 50em)";
 		text-align: center;
 
 		time {
-			width: em(145);
-			height: em(145);
+			width: rem(145);
+			height: rem(145);
 			background: $dark-blue;
-			padding-top: em(18);
-			margin: 0 auto em(14);
+			padding-top: rem(18);
+			margin: 0 auto rem(14);
 			display: block;
-
-			* {
-				font-size: $h2-size;
-				font-family: $header-font-family;
-				letter-spacing: rem(1);
-				margin-bottom: 0;
-				text-transform: uppercase;
-				color: #fff;
-			}
+			font-size: $h2-size; // 45px
+			color: #fff;
+			font-family: $header-font-family;
+			letter-spacing: rem(1);
+			text-transform: uppercase;
 
 			span {
 				display: block;
@@ -72,42 +44,145 @@ $max-800: "only screen and (max-width : 50em)";
 		}
 
 		nav {
-			margin-bottom: rem(14);
+			margin-bottom: rem(8);
 
 			a {
 				text-transform: uppercase;
-				font-size: $h5-size;
-				letter-spacing: $h5-h6-letter-spacing;
+				font-size: $h5-size; // 16px
+				letter-spacing: $h5-h6-letter-spacing; // 1.2px
 			}
 		}
 	}
 	#post-titles {
 		padding-right: em(22);
+		margin-bottom: em(16);
 
 		h1 {
-			font-size: $h2-size;
+			font-size: $h2-size; // 45px
 		}
 		h2 {
-			font-size: $h3-size;
-		}
-
-		@media #{$max-800} {
-			h1 {
-				font-size: $h3-size;
-			}
-			h2 {
-				font-size: $h4-size;
-			}
+			font-size: $h3-size; // 31px
 		}
 	}
 	#post-taxonomy {
 		padding-left: em(20);
 
 		h5 {
-			font-size: $h5-size;
+			font-size: $h5-size; // 16px
+			padding-left: rem(12);
+			margin-bottom: rem(8);
 		}
 	}
 }
+
+@media #{$max-800} {
+	.post-intro {
+		#post-titles {
+			h1 {
+				font-size: $h3-size; // 31px
+			}
+			h2 {
+				font-size: $h4-size; // 22px
+			}
+		}
+	}
+}
+
+@media #{$max-750} {
+	.post-intro {
+		#calendar-nav {
+			width: em(160);
+
+			time {
+				width: rem(100);
+				height: rem(100);
+				font-size: $h3-size; // 31px
+				padding-top: rem(13);
+			}
+
+			nav {
+				a {
+					font-size: rem(14);
+				}
+			}
+		}
+		#post-titles {
+			padding-right: em(16);
+			margin-left: em(170);
+		}
+		#post-taxonomy {
+			h5 {
+				font-size: rem(14);
+				padding-left: rem(8);
+			}
+		}
+	}
+}
+
+@media #{$max-540} {
+	.post-intro {
+		text-align: center;
+		padding: rem(12) 0 0;
+
+		#calendar-nav {
+			width: 100%;
+			margin: 0;
+
+			nav {
+				a {
+					font-size: rem(16);
+				}
+			}
+		}
+		#post-titles {
+			padding: 0 rem(10);
+			margin: 0;
+
+			h1 {
+				font-size: rem(24);
+			}
+			h2 {
+				font-size: rem(20);
+			}
+		}
+		#post-taxonomy {
+			margin: rem(4) 0 rem(8);
+			padding-left: 0;
+
+			h5 {
+				font-size: rem(16);
+			}
+		}
+	}
+}
+
+@media #{$max-500} {
+	.post-intro {
+
+		#calendar-nav {
+			time {
+				font-size: rem(22);
+				height: rem(80);
+				width: rem(80);
+				padding-top: rem(14);
+				margin-bottom: rem(8);
+			}
+
+			nav {
+				a {
+					font-size: rem(14);
+				}
+			}
+		}
+
+		#post-taxonomy {
+			h5 {
+				font-size: rem(14);
+			}
+		}
+	}
+}
+
 
 @import "_esposito.scss";
 @import "_greencare.scss";

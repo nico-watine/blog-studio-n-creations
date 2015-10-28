@@ -11,7 +11,7 @@
 				<time datetime="{{ page.datetime }}"><span id="day">{{ page.day }}</span><span id="month">{{ page.month }}</span></time>
 				<nav id="post-navigation">
 			    {% if page.previous.url %} 
-			        <a class="header" href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; Previous</a> -
+			        <a class="header" href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; Previous</a> <span id="divider">-</span>
 			    {% endif %}
 			    {% if page.next.url %} 
 			            <a class="header" href="{{page.next.url}}" title="next Post: {{page.next.title}}">Next &raquo; </a> 
