@@ -22,7 +22,7 @@
 </head>
 
 <body>
-<header>
+<header id="site-header">
 	<div class="row" id="nav-bar">
 		<a href="/" class="title" id="index-link"><span id="large">Blog.Studio N Creations</span><span id="mini">BLOG.SNC</span></a>
 		<div id="button-wrapper">
@@ -52,7 +52,7 @@
 	<section class="blog-roll">
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">3</h3>
 						<h3 id="month">jun</h3>
@@ -63,7 +63,7 @@
 						</a>	
 						<h4 class="link-subtitle">It's time for 2.0!</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
 					<a href="web-design/updating-jardin-de-france-brand"> 
 						<img src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="">
@@ -76,7 +76,7 @@
 			</article>
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">18</h3>
 						<h3 id="month">apr</h3>
@@ -87,7 +87,7 @@
 						</a>	
 						<h4 class="link-subtitle">Here's a clip of a featured post</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
 					<a href="web-design/houston-uncovered-post"> 
 						<img src="/img/post-attachments/projects/houston-uncovered/4-18/link-banner@2x.jpg" alt="">
@@ -100,7 +100,7 @@
 			</article>
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">9</h3>
 						<h3 id="month">apr</h3>
@@ -111,7 +111,7 @@
 						</a>	
 						<h4 class="link-subtitle">GAget 2.0 just released</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
 					<a href="web-development/gaget-analytics-app"> 
 						<img src="/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg" alt="">
@@ -124,7 +124,7 @@
 			</article>
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">2</h3>
 						<h3 id="month">apr</h3>
@@ -135,7 +135,7 @@
 						</a>	
 						<h4 class="link-subtitle">Created for lemonpeelfacial.com</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
 					<a href="web-design/lemon-peel-facial-logo"> 
 						<img src="/img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg" alt="">
@@ -148,7 +148,7 @@
 			</article>
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">1</h3>
 						<h3 id="month">apr</h3>
@@ -159,7 +159,7 @@
 						</a>	
 						<h4 class="link-subtitle">Got this copy in today</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
 					<a href="print-work/houston-oculofacial-spring-postcard"> 
 						<img src="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" alt="">
@@ -172,7 +172,7 @@
 			</article>
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">31</h3>
 						<h3 id="month">mar</h3>
@@ -183,7 +183,7 @@
 						</a>	
 						<h4 class="link-subtitle">It adapts nicely to all screen sizes</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
 					<a href="web-design/greencare-skeleton-setup"> 
 						<img src="/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg" alt="">
@@ -196,7 +196,7 @@
 			</article>
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">30</h3>
 						<h3 id="month">mar</h3>
@@ -207,7 +207,7 @@
 						</a>	
 						<h4 class="link-subtitle">the tags have been attached to their latest shipment of antiques</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
 					<a href="print-work/jardin-de-france-tag-examples"> 
 						<img src="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" alt="">
@@ -220,7 +220,7 @@
 			</article>
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">27</h3>
 						<h3 id="month">mar</h3>
@@ -231,7 +231,7 @@
 						</a>	
 						<h4 class="link-subtitle">All done! Here are the highlights...</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
 					<a href="web-design/dr-esposito-wrap-up"> 
 						<img src="/img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg" alt="">
@@ -244,7 +244,7 @@
 			</article>
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">24</h3>
 						<h3 id="month">mar</h3>
@@ -255,7 +255,7 @@
 						</a>	
 						<h4 class="link-subtitle">We're giving the company's site a fresh, new look</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
 					<a href="web-design/greencare-project"> 
 						<img src="/img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg" alt="">
@@ -268,7 +268,7 @@
 			</article>
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">18</h3>
 						<h3 id="month">mar</h3>
@@ -279,7 +279,7 @@
 						</a>	
 						<h4 class="link-subtitle">Houston|Uncovered - my personal photo blog of our fair city</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
 					<a href="web-design/houston-uncovered-preview"> 
 						<img src="/img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg" alt="">
@@ -292,7 +292,7 @@
 			</article>
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">17</h3>
 						<h3 id="month">mar</h3>
@@ -303,7 +303,7 @@
 						</a>	
 						<h4 class="link-subtitle">creating a brand for an antiques-import company</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
 					<a href="print-work/jdf-branding"> 
 						<img src="/img/post-attachments/projects/jdf/3-16/link-banner@2x.jpg" alt="">
@@ -316,7 +316,7 @@
 			</article>
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">13</h3>
 						<h3 id="month">mar</h3>
@@ -327,7 +327,7 @@
 						</a>	
 						<h4 class="link-subtitle">Site redesign in the works</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
 					<a href="web-design/new-lisa-esposito-project"> 
 						<img src="/img/post-attachments/projects/lisa-esposito/3-17/link-banner@2x.jpg" alt="">

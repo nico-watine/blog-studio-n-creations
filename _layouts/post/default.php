@@ -7,7 +7,7 @@
 <div class="post-intro">
 	<div class="outer-container">
 		<div class="row">
-			<h1>{{ page.intro-text-h1 }}</h1>
+			<h2>{{ page.intro-text-h1 }}</h2>
 			<h2>{{ page.intro-text-h2 }}</h2>
 			<div class="post-date-box"> 
 				<h3 id="day">{{ page.day }}</h3>

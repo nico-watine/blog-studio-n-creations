@@ -24,7 +24,7 @@
 	<section class="blog-roll">
 		{% for post in site.posts %}
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">{{ post.day }}</h3>
 						<h3 id="month">{{ post.month }}</h3>
@@ -35,7 +35,7 @@
 						</a>	
 						<h4 class="link-subtitle">{{ post.excerpt }}</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
 					<a href="{{ post.category-link }}/{{ post.slug }}"> 
 						<img src="{{ post.link-image }}" alt="">
