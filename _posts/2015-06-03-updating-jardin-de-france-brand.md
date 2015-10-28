@@ -6,6 +6,7 @@ slug: updating-jardin-de-france-brand
 category: web-design
 category-link: web-design
 tags: jardin-de-france
+datetime: 2015-06-03
 day: 3
 month: jun
 link-image: /img/post-attachments/projects/jdf/6-03/jdf-facebook.png

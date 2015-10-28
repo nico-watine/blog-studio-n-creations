@@ -1,11 +1,12 @@
 ---
-layout: post/no-feature
+layout: post/default
 title: Project Wrapped Up! lisaesposito.com
 excerpt: All done! Here are the highlights...
 slug: dr-esposito-wrap-up
 category: web-design
 category-link: web-design
 tags: lisa-esposito
+datetime: 2015-03-27
 day: 27
 month: mar
 link-image: /img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg

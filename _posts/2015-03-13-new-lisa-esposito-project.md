@@ -1,5 +1,5 @@
 ---
-layout: post/no-feature
+layout: post/default
 title: Excited to be working with Boston-area artist Dr. Lisa Esposito
 excerpt: Site redesign in the works
 slug: new-lisa-esposito-project

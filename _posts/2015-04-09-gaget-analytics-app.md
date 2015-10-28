@@ -6,6 +6,7 @@ slug: gaget-analytics-app
 category: web-development
 category-link: web-development
 tags: apps
+datetime: 2015-04-09
 day: 9
 month: apr
 link-image: /img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg
