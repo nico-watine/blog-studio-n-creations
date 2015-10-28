@@ -6,6 +6,7 @@ slug: new-lisa-esposito-project
 category: web-design
 category-link: web-design
 tags: lisa-esposito
+datetime: 2014-03-12
 day: 13
 month: mar
 link-image: /img/post-attachments/projects/lisa-esposito/3-17/link-banner@2x.jpg
