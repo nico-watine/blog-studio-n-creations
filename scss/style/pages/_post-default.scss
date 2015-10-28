@@ -46,26 +46,44 @@
 		text-align: center;
 
 		.post-date-box {
-			width: 100%;
+			width: em(145);
+			height: em(145);
 			background: $dark-blue;
-			padding: rem(6);
-			margin-bottom: em(14);
+			padding-top: em(18);
+			margin: 0 auto em(14);
 
 			h3 {
-				font-size: $h1-size;
-				font-family: $title-font-family;
+				font-size: $h2-size;
+				margin-bottom: 0;
 				text-transform: uppercase;
 				color: #fff;
+
+				span {
+					display: block;
+				}
 			}
 		}
 
-		h5 {
-			margin-bottom: rem(13);
+		nav {
+			margin-bottom: rem(14);
+
+			a {
+				text-transform: uppercase;
+				font-size: $h5-size;
+				letter-spacing: $h5-h6-letter-spacing;
+			}
 		}
 	}
 	#post-titles {
 		@include span-columns(13 of 16);
 		padding-right: em(22);
+
+		h1 {
+			font-size: $h2-size;
+		}
+		h2 {
+			font-size: $h3-size;
+		}
 	}
 }
 
