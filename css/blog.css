@@ -203,11 +203,23 @@ a.index-page-post-link:hover h4 { text-decoration: none !important; }
   #lisa-esposito-project-introduction figure { margin-bottom: 1.125em; }
   #lisa-esposito-project-introduction h3 { font-size: 1.25rem; } }
 
+#dr-esposito-wrap-up .row { margin-bottom: 1.5em; }
 #dr-esposito-wrap-up .verbiage { float: left; display: block; margin-right: 1.75788%; width: 23.68159%; }
 #dr-esposito-wrap-up .verbiage:last-child { margin-right: 0; }
 #dr-esposito-wrap-up .verbiage p { font-size: 1.375rem; margin-bottom: 1rem; }
-#dr-esposito-wrap-up figure { float: left; display: block; margin-right: 1.75788%; width: 74.56053%; }
+#dr-esposito-wrap-up figure { float: left; display: block; margin-right: 1.75788%; width: 74.56053%; margin-bottom: 1.5em; }
 #dr-esposito-wrap-up figure:last-child { margin-right: 0; }
 #dr-esposito-wrap-up figure img { border: 0.125em solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+#dr-esposito-wrap-up #two { text-align: center; }
+#dr-esposito-wrap-up #two a { font-size: 1.9375em; }
+@media only screen and (max-width: 56.25em) { #dr-esposito-wrap-up .verbiage { float: left; display: block; margin-right: 1.75788%; width: 36.40133%; }
+  #dr-esposito-wrap-up .verbiage:last-child { margin-right: 0; }
+  #dr-esposito-wrap-up figure { float: left; display: block; margin-right: 1.75788%; width: 61.8408%; }
+  #dr-esposito-wrap-up figure:last-child { margin-right: 0; } }
+@media screen and (max-width: 46.875em) { #dr-esposito-wrap-up .verbiage p { font-size: 1.25rem; }
+  #dr-esposito-wrap-up #two a { font-size: 1.375em; } }
+@media only screen and (max-width: 41.875em) { #dr-esposito-wrap-up .verbiage, #dr-esposito-wrap-up figure { width: 100%; margin: 0; }
+  #dr-esposito-wrap-up figure { text-align: left; margin-bottom: 1.5em; }
+  #dr-esposito-wrap-up #two { text-align: left; } }
 
 img#old-lpf-logo { max-width: 400px; }

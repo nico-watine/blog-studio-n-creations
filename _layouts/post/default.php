@@ -24,7 +24,7 @@
 			</div>
 		</div>
 		<div class="row" id="post-taxonomy">
-			<h5><a href="/{{ page.category }}/">{{ page.category }}</a> | <a href="/tags/{{ page.tags }}.html">{{ page.tags }}</a></h5>
+			<h5><a href="/{{ page.category }}/">{{ page.category }}</a> | <a href="/tags/{{ page.tags }}">{{ page.tags }}</a></h5>
 		</div>
 	</div>
 </section>

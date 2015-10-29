@@ -6,6 +6,7 @@
 			[
 				"posts",
 				"_posts-extras.scss"
+			],
 			[
 				"fad",
 				"fading_entrances/"
@@ -150,23 +151,39 @@
 			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/post/default.php",
 			"settings":
 			{
-				"buffer_size": 1282,
+				"buffer_size": 1256,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-13-new-lisa-esposito-project.md",
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_posts-extras.scss",
 			"settings":
 			{
-				"buffer_size": 1606,
+				"buffer_size": 446,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_lisa-esposito.scss",
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/lisa-esposito/_03-13.scss",
 			"settings":
 			{
-				"buffer_size": 947,
+				"buffer_size": 950,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/lisa-esposito/_03-27.scss",
+			"settings":
+			{
+				"buffer_size": 289,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/lisa-esposito/_lisa-esposito.scss",
+			"settings":
+			{
+				"buffer_size": 150,
 				"line_ending": "Unix"
 			}
 		},
@@ -174,15 +191,15 @@
 			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-27-dr-esposito-wrap-up.md",
 			"settings":
 			{
-				"buffer_size": 1050,
+				"buffer_size": 1738,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_posts.scss",
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-13-new-lisa-esposito-project.md",
 			"settings":
 			{
-				"buffer_size": 2802,
+				"buffer_size": 1530,
 				"line_ending": "Unix"
 			}
 		}
@@ -293,25 +310,25 @@
 	"expanded_folders":
 	[
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/post",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/pages",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts"
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/lisa-esposito"
 	],
 	"file_history":
 	[
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/components/_utility-classes.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_posts.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/blog.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-13-new-lisa-esposito-project.md",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/components/_resets.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/assets/neat/_grid-settings.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/css/core.css",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/components/_typography.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/settings/_settings.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/components/_utility-classes.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_posts-extras.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_posts.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-13-new-lisa-esposito-project.md",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-17-jdf-branding.md",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-18-houston-uncovered-preview.md",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-24-greencare-project.md",
@@ -323,7 +340,6 @@
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-04-09-gaget-analytics-app.md",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-04-18-houston-uncovered-post.md",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-06-03-updating-jardin-de-france-brand.md",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/blog.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/pages/_blog-roll.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/pages/_post-default.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/index/blog-roll.php",
@@ -449,6 +465,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"17",
+			"image",
+			".post-intro",
 			"body",
 			"h4",
 			"p",
@@ -573,10 +592,7 @@
 			"it",
 			"crawfish",
 			"burger",
-			"pre",
-			"events",
-			"event",
-			"oz"
+			"pre"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -584,6 +600,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			".post-hero",
 			"blog-link",
 			"http://cdn.studioncreations.com/img",
 			"http://cdn.studioncreations.com/imgs",
@@ -619,7 +636,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -628,15 +645,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1282,
+						"buffer_size": 1256,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								553,
-								553
+								190,
+								192
 							]
 						],
 						"settings":
@@ -705,27 +722,27 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 39.0,
+						"translation.y": 60.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-13-new-lisa-esposito-project.md",
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_posts-extras.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1606,
+						"buffer_size": 446,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1351,
-								1351
+								266,
+								266
 							]
 						],
 						"settings":
@@ -733,64 +750,65 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -801,19 +819,19 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_lisa-esposito.scss",
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/lisa-esposito/_03-13.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 947,
+						"buffer_size": 950,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								561,
-								561
+								395,
+								395
 							]
 						],
 						"settings":
@@ -821,237 +839,61 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 566.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-27-dr-esposito-wrap-up.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1050,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								236,
-								236
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_posts.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2802,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								461,
-								461
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
 							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
@@ -1062,6 +904,363 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/lisa-esposito/_03-27.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/lisa-esposito/_lisa-esposito.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-27-dr-esposito-wrap-up.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 146.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-13-new-lisa-esposito-project.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								589,
+								589
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1116,6 +1315,34 @@
 		"selected_items":
 		[
 			[
+				"uti",
+				"scss/style/components/_utility-classes.scss"
+			],
+			[
+				"possc",
+				"scss/style/posts/_posts.scss"
+			],
+			[
+				"blogscs",
+				"scss/blog.scss"
+			],
+			[
+				"lisasc",
+				"scss/style/posts/_lisa-esposito.scss"
+			],
+			[
+				"posc",
+				"scss/style/posts/_posts.scss"
+			],
+			[
+				"posde",
+				"_layouts/post/default.php"
+			],
+			[
+				"posdef",
+				"_layouts/post/default.php"
+			],
+			[
 				"rese",
 				"scss/style/components/_resets.scss"
 			],
@@ -1148,24 +1375,12 @@
 				"scss/style/settings/_settings.scss"
 			],
 			[
-				"uti",
-				"scss/style/components/_utility-classes.scss"
-			],
-			[
-				"blogscs",
-				"scss/blog.scss"
-			],
-			[
 				"blogs",
 				"scss/style/pages/_blog-roll.scss"
 			],
 			[
 				"postss",
 				"scss/style/posts/_posts.scss"
-			],
-			[
-				"posc",
-				"scss/style/pages/_post-default.scss"
 			],
 			[
 				"blo",
@@ -1610,22 +1825,6 @@
 			[
 				"ut",
 				"scss/style/components/_utility-classes.scss"
-			],
-			[
-				"porind",
-				"portfolio/index.php"
-			],
-			[
-				"scj",
-				"js/src/scripts.js"
-			],
-			[
-				"confir",
-				"config.rb"
-			],
-			[
-				"stscs",
-				"scss/style.scss"
 			]
 		],
 		"width": 0.0
@@ -1633,9 +1832,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "k",
+		"last_filter": "l",
 		"selected_items":
 		[
+			[
+				"l",
+				"~/SNC Projects/Lemon Peel Facial/Site Folder/lpf.static/_ignores/lpf.static.sublime-project"
+			],
 			[
 				"k",
 				"~/SNC Projects/Kelley J Brower/Site Folder/_ignores/kelleyjbrower.sublime-project"
@@ -1711,10 +1914,6 @@
 			[
 				"e",
 				"~/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_ignores/engaged-paris.sublime-project"
-			],
-			[
-				"l",
-				"~/SNC Projects/Lisa Esposito/Site Folder/lisaesposito.com/_ignores/lisa.sublime-project"
 			],
 			[
 				"snc",
