@@ -126,7 +126,6 @@ $max-500: "only screen and (max-width : 31.250em)";
 
 @media #{$max-540} {
 	.post-hero {
-		text-align: center;
 		padding: rem(12) 0 0;
 
 		#calendar-nav {

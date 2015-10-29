@@ -176,7 +176,7 @@ a.index-page-post-link:hover h4 { text-decoration: none !important; }
   .post-hero #calendar-nav nav a { font-size: 0.875rem; }
   .post-hero #post-titles { padding-right: 1em; margin-left: 10.625em; }
   .post-hero #post-taxonomy h5 { font-size: 0.875rem; padding-left: 0.5rem; } }
-@media only screen and (max-width: 33.75em) { .post-hero { text-align: center; padding: 0.75rem 0 0; }
+@media only screen and (max-width: 33.75em) { .post-hero { padding: 0.75rem 0 0; }
   .post-hero #calendar-nav { width: 100%; margin: 0; }
   .post-hero #calendar-nav nav a { font-size: 1rem; }
   .post-hero #post-titles { padding: 0 0.625rem; margin: 0; }

@@ -73,7 +73,7 @@
 				</div>
 				<div class="row" id="img-row">
 					<a href="/web-design/new-lisa-esposito-project.html"> 
-						<img src="/img/post-attachments/projects/lisa-esposito/3-17/link-banner@2x.jpg" alt="">
+						<img src="/img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
