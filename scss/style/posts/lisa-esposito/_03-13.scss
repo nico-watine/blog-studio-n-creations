@@ -52,7 +52,6 @@ $max-540: "only screen and (max-width : 33.750em)";
 	}
 
 	@media #{$max-540} {
-		text-align: center;
 
 		figure#original-esposito-ipad,
 		.verbiage {
@@ -65,6 +64,10 @@ $max-540: "only screen and (max-width : 33.750em)";
 
 		h3 {
 			font-size: rem(20);
+		}
+
+		#two {
+			text-align: left;
 		}
 	}
 }

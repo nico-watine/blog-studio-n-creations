@@ -197,11 +197,11 @@ a.index-page-post-link:hover h4 { text-decoration: none !important; }
 @media screen and (max-width: 46.875em) { #lisa-esposito-project-introduction p { font-size: 1.25rem; }
   #lisa-esposito-project-introduction h3 { font-size: 1.375em; } }
 @media only screen and (max-width: 41.875em) { #lisa-esposito-project-introduction p { font-size: 1.125rem; } }
-@media only screen and (max-width: 33.75em) { #lisa-esposito-project-introduction { text-align: center; }
-  #lisa-esposito-project-introduction figure#original-esposito-ipad, #lisa-esposito-project-introduction .verbiage { float: left; display: block; margin-right: 3.57866%; width: 100%; }
+@media only screen and (max-width: 33.75em) { #lisa-esposito-project-introduction figure#original-esposito-ipad, #lisa-esposito-project-introduction .verbiage { float: left; display: block; margin-right: 3.57866%; width: 100%; }
   #lisa-esposito-project-introduction figure#original-esposito-ipad:last-child, #lisa-esposito-project-introduction .verbiage:last-child { margin-right: 0; }
   #lisa-esposito-project-introduction figure { margin-bottom: 1.125em; }
-  #lisa-esposito-project-introduction h3 { font-size: 1.25rem; } }
+  #lisa-esposito-project-introduction h3 { font-size: 1.25rem; }
+  #lisa-esposito-project-introduction #two { text-align: left; } }
 
 #dr-esposito-wrap-up .row { margin-bottom: 1.5em; }
 #dr-esposito-wrap-up .verbiage { float: left; display: block; margin-right: 1.75788%; width: 23.68159%; }
