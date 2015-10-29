@@ -8,7 +8,7 @@ $max-750: "only screen and (max-width : 46.875em)";
 $max-540: "only screen and (max-width : 33.750em)";
 $max-500: "only screen and (max-width : 31.250em)";
 
-.post-intro {
+.post-hero {
 	background: #fff;
 	box-shadow: $z-2;
 	width: 100%;
@@ -75,8 +75,13 @@ $max-500: "only screen and (max-width : 31.250em)";
 	}
 }
 
+.article-body {
+	padding-top: 0;
+	margin-top: 0;
+}
+
 @media #{$max-800} {
-	.post-intro {
+	.post-hero {
 		#post-titles {
 			h1 {
 				font-size: $h3-size; // 31px
@@ -89,7 +94,7 @@ $max-500: "only screen and (max-width : 31.250em)";
 }
 
 @media #{$max-750} {
-	.post-intro {
+	.post-hero {
 		#calendar-nav {
 			width: em(160);
 
@@ -120,7 +125,7 @@ $max-500: "only screen and (max-width : 31.250em)";
 }
 
 @media #{$max-540} {
-	.post-intro {
+	.post-hero {
 		text-align: center;
 		padding: rem(12) 0 0;
 
@@ -157,7 +162,7 @@ $max-500: "only screen and (max-width : 31.250em)";
 }
 
 @media #{$max-500} {
-	.post-intro {
+	.post-hero {
 
 		#calendar-nav {
 			time {
@@ -184,7 +189,8 @@ $max-500: "only screen and (max-width : 31.250em)";
 }
 
 
-@import "_esposito.scss";
+
+@import "lisa-esposito/_lisa-esposito.scss";
 @import "_greencare.scss";
 @import "_houston-oculofacial.scss";
 @import "_jdf.scss";
