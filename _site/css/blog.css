@@ -187,6 +187,10 @@ a.index-page-post-link:hover h4 { text-decoration: none !important; }
 @media only screen and (max-width: 31.25em) { .post-hero #calendar-nav time { font-size: 1.375rem; height: 5rem; width: 5rem; padding-top: 0.875rem; margin-bottom: 0.5rem; }
   .post-hero #calendar-nav nav a { font-size: 0.875rem; }
   .post-hero #post-taxonomy h5 { font-size: 0.875rem; } }
+@media only screen and (max-width: 28.125em) { .post-hero #calendar-nav time { margin: 0 1rem 1rem; float: left; }
+  .post-hero #calendar-nav nav { float: left; }
+  .post-hero #calendar-nav nav a { display: block; font-size: 1rem; text-align: left; }
+  .post-hero #calendar-nav nav span#divider { visibility: hidden; } }
 #lisa-esposito-project-introduction p { font-size: 1.375rem; margin-bottom: 1rem; }
 #lisa-esposito-project-introduction h3 { font-size: 1.75rem; }
 #lisa-esposito-project-introduction .row { margin-bottom: 1.875em; }

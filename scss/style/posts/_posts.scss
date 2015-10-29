@@ -7,6 +7,7 @@ $max-800: "only screen and (max-width : 50em)";
 $max-750: "only screen and (max-width : 46.875em)";
 $max-540: "only screen and (max-width : 33.750em)";
 $max-500: "only screen and (max-width : 31.250em)";
+$max-450: "only screen and (max-width : 28.125em)";
 
 .post-hero {
 	background: #fff;
@@ -187,6 +188,29 @@ $max-500: "only screen and (max-width : 31.250em)";
 	}
 }
 
+@media #{$max-450} {
+	.post-hero {
+		#calendar-nav {
+			time {
+				margin: 0 rem(16) rem(16);
+				float: left;
+			}
+			nav {
+				float: left;
+
+				a {
+					display: block;
+					font-size: rem(16);
+					text-align: left;
+				}
+
+				span#divider {
+					visibility: hidden;
+				}
+			}
+		}
+	}
+}
 
 
 @import "lisa-esposito/_lisa-esposito.scss";
