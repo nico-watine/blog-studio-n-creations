@@ -136,6 +136,9 @@ a.index-page-post-link { color: #333; }
 a.index-page-post-link h4 { text-decoration: none !important; }
 a.index-page-post-link:hover h4 { text-decoration: none !important; }
 
+@media screen and (max-width: 46.875em) { .blog-roll .post-link .post-date { display: table-cell; width: 16.66667%; }
+  .blog-roll .post-link .post-head { display: table-cell; width: 83.33333%; } }
+@media only screen and (max-width: 28.125em) { .blog-roll .post-link .link-title { font-size: 1.375rem; } }
 .page-title { text-align: center; }
 
 .post-categories { display: block; }
