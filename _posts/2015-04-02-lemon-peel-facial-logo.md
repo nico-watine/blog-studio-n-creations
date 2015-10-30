@@ -1,11 +1,12 @@
 ---
-layout: post/no-feature
+layout: post/default
 title: One of Our Favorite Logos
 excerpt: Created for lemonpeelfacial.com
 slug: lemon-peel-facial-logo
 category: web-design
 category-link: web-design
 tags: lemon-peel-facial
+datetime: 2015-04-02
 day: 2
 month: apr
 link-image: /img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg

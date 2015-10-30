@@ -6,6 +6,7 @@ slug: jardin-de-france-tag-examples
 category: print-work
 category-link: print-work
 tags: jardin-de-france
+datetime: 2015-03-30
 day: 30
 month: mar
 link-image: /img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg

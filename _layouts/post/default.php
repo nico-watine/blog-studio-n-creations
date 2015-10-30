@@ -4,36 +4,32 @@
 {% include blocks/top-bar.html %}
 
 
-<div class="post-intro">
+<section class="post-hero">
 	<div class="outer-container">
 		<div class="row">
-			<h2>{{ page.intro-text-h1 }}</h2>
-			<h2>{{ page.intro-text-h2 }}</h2>
-			<div class="post-date-box"> 
-				<h3 id="day">{{ page.day }}</h3>
-				<h3 id="month">{{ page.month }}</h3>
+			<div id="calendar-nav">
+				<time datetime="{{ page.datetime }}"><span id="day">{{ page.day }}</span><span id="month">{{ page.month }}</span></time>
+				<nav id="post-navigation">
+			    {% if page.previous.url %} 
+			        <a class="header" id="previous" href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; Previous</a> <span id="divider">-</span>
+			    {% endif %}
+			    {% if page.next.url %} 
+			            <a class="header" id="next" href="{{page.next.url}}" title="next Post: {{page.next.title}}">Next &raquo; </a> 
+			    {% endif %}
+			    </nav>
+		   </div>
+		   <div id="post-titles">
+				<h1>{{ page.intro-text-h1 }}</h1>
+				<h2>{{ page.intro-text-h2 }}</h2>
 			</div>
-			<h5><a href="/{{ page.category }}/">{{ page.category }}</a> | <a href="/tags/{{ page.tags }}.html">{{ page.tags }}</a></h5>
-			<h5>
-		    {% if page.previous.url %} 
-		        <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; Previous</a> -
-		    {% endif %}
-		    {% if page.next.url %} 
-		            <a href="{{page.next.url}}" title="next Post: {{page.next.title}}">Next &raquo; </a> 
-		    {% endif %}
-		    </h5>
+		</div>
+		<div class="row" id="post-taxonomy">
+			<h5><a href="/{{ page.category }}/">{{ page.category }}</a> | <a href="/tags/{{ page.tags }}">{{ page.tags }}</a></h5>
 		</div>
 	</div>
-</div>
-<div class="outer-container">
-	<div class="row">
-		<img src="{{ page.post-image }}" class="large-post-image white-border shadow" alt="">
-	</div>
-</div>
-<main class="main-post centered">
-	<div class="post-content">
+</section>
+<main class="article-body outer-container">
 		{{ content }}
-	</div>
 </main>
 
 {% include blocks/footer.html %}

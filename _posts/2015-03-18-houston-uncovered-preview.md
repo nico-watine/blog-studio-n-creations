@@ -1,11 +1,12 @@
 ---
-layout: post/no-feature
+layout: post/default
 title: Sneak Peak of a Work In Progress
 excerpt: Houston|Uncovered - my personal photo blog of our fair city
 slug: houston-uncovered-preview
 category: web-design
 category-link: web-design
 tags: houston-uncovered
+datetime: 2015-03-18
 day: 18
 month: mar
 link-image: /img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg

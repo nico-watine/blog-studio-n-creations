@@ -1,11 +1,12 @@
 ---
-layout: post/borderless-feature
+layout: post/default
 title: Greencare Site Structure Setup
 excerpt: It adapts nicely to all screen sizes
 slug: greencare-skeleton-setup
 category: web-design
 category-link: web-design
 tags: greencare
+datetime: 2015-03-31
 day: 31
 month: mar
 link-image: /img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg

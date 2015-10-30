@@ -1,5 +1,6 @@
 @import "../settings/_settings.scss";
 
+$max-450: "only screen and (max-width : 28.125em)";
 
 .blog-roll {
 	@include span-columns(11 of 16);
@@ -81,4 +82,26 @@ a.index-page-post-link {
 	}
 }
 
+@include media($medium) {
+	.blog-roll {
+		.post-link {
+			.post-date {
+				@include span-columns(2 of 12);
+			}
 
+			.post-head {
+				@include span-columns(10 of 12);
+			}
+		}
+	}
+}
+
+@media #{$max-450} {
+	.blog-roll {
+		.post-link {
+			.link-title {
+				font-size: rem(22);
+			}
+		}
+	}
+}

@@ -6,6 +6,7 @@ slug: greencare-project
 category: web-design
 category-link: web-design
 tags: greencare
+datetime: 2015-03-24
 day: 24
 month: mar
 link-image: /img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg
