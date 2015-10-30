@@ -35,26 +35,26 @@
 	<section class="blog-roll">
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">1</h3>
 						<h3 id="month">apr</h3>
 					</div>
 					<div class="post-head">
-						<a href="/print-work/houston-oculofacial-spring-postcard.html" class="index-page-post-link">
+						<a href="/print-work/houston-oculofacial-spring-postcard" class="index-page-post-link">
 							<h2 class="link-title">Promotional Spring Postcard for Houston Oculofacial Plastic Surgery</h2>
 						</a>	
 						<h4 class="link-subtitle">Got this copy in today</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
-					<a href="/print-work/houston-oculofacial-spring-postcard.html"> 
+					<a href="/print-work/houston-oculofacial-spring-postcard"> 
 						<img src="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/print-work/">print-work</a></h6>
-					<h6>Tags: <a href="/tags/houston-oculofacial.html">houston-oculofacial</a></h6>
+					<h6>Tags: <a href="/tags/houston-oculofacial">houston-oculofacial</a></h6>
 				</div>
 			</article>
 		

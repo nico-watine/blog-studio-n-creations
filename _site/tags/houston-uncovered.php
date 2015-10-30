@@ -35,50 +35,50 @@
 	<section class="blog-roll">
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">18</h3>
 						<h3 id="month">apr</h3>
 					</div>
 					<div class="post-head">
-						<a href="/web-design/houston-uncovered-post.html" class="index-page-post-link">
+						<a href="/web-design/houston-uncovered-post" class="index-page-post-link">
 							<h2 class="link-title">A Houston|Uncovered Post</h2>
 						</a>	
 						<h4 class="link-subtitle">Here's a clip of a featured post</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
-					<a href="/web-design/houston-uncovered-post.html"> 
+					<a href="/web-design/houston-uncovered-post"> 
 						<img src="/img/post-attachments/projects/houston-uncovered/4-18/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/houston-uncovered.html">houston-uncovered</a></h6>
+					<h6>Tags: <a href="/tags/houston-uncovered">houston-uncovered</a></h6>
 				</div>
 			</article>
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">18</h3>
 						<h3 id="month">mar</h3>
 					</div>
 					<div class="post-head">
-						<a href="/web-design/houston-uncovered-preview.html" class="index-page-post-link">
+						<a href="/web-design/houston-uncovered-preview" class="index-page-post-link">
 							<h2 class="link-title">Sneak Peak of a Work In Progress</h2>
 						</a>	
 						<h4 class="link-subtitle">Houston|Uncovered - my personal photo blog of our fair city</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
-					<a href="/web-design/houston-uncovered-preview.html"> 
+					<a href="/web-design/houston-uncovered-preview"> 
 						<img src="/img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/houston-uncovered.html">houston-uncovered</a></h6>
+					<h6>Tags: <a href="/tags/houston-uncovered">houston-uncovered</a></h6>
 				</div>
 			</article>
 		

@@ -35,50 +35,50 @@
 	<section class="blog-roll">
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">31</h3>
 						<h3 id="month">mar</h3>
 					</div>
 					<div class="post-head">
-						<a href="/web-design/greencare-skeleton-setup.html" class="index-page-post-link">
+						<a href="/web-design/greencare-skeleton-setup" class="index-page-post-link">
 							<h2 class="link-title">Greencare Site Structure Setup</h2>
 						</a>	
 						<h4 class="link-subtitle">It adapts nicely to all screen sizes</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
-					<a href="/web-design/greencare-skeleton-setup.html"> 
+					<a href="/web-design/greencare-skeleton-setup"> 
 						<img src="/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/greencare.html">greencare</a></h6>
+					<h6>Tags: <a href="/tags/greencare">greencare</a></h6>
 				</div>
 			</article>
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">24</h3>
 						<h3 id="month">mar</h3>
 					</div>
 					<div class="post-head">
-						<a href="/web-design/greencare-project.html" class="index-page-post-link">
+						<a href="/web-design/greencare-project" class="index-page-post-link">
 							<h2 class="link-title">Introducing the Greencare Project</h2>
 						</a>	
 						<h4 class="link-subtitle">We're giving the company's site a fresh, new look</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
-					<a href="/web-design/greencare-project.html"> 
+					<a href="/web-design/greencare-project"> 
 						<img src="/img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/greencare.html">greencare</a></h6>
+					<h6>Tags: <a href="/tags/greencare">greencare</a></h6>
 				</div>
 			</article>
 		

@@ -35,50 +35,50 @@
 	<section class="blog-roll">
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">27</h3>
 						<h3 id="month">mar</h3>
 					</div>
 					<div class="post-head">
-						<a href="/web-design/dr-esposito-wrap-up.html" class="index-page-post-link">
+						<a href="/web-design/dr-esposito-wrap-up" class="index-page-post-link">
 							<h2 class="link-title">Project Wrapped Up! lisaesposito.com</h2>
 						</a>	
 						<h4 class="link-subtitle">All done! Here are the highlights...</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
-					<a href="/web-design/dr-esposito-wrap-up.html"> 
+					<a href="/web-design/dr-esposito-wrap-up"> 
 						<img src="/img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/lisa-esposito.html">lisa-esposito</a></h6>
+					<h6>Tags: <a href="/tags/lisa-esposito">lisa-esposito</a></h6>
 				</div>
 			</article>
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">13</h3>
 						<h3 id="month">mar</h3>
 					</div>
 					<div class="post-head">
-						<a href="/web-design/new-lisa-esposito-project.html" class="index-page-post-link">
+						<a href="/web-design/new-lisa-esposito-project" class="index-page-post-link">
 							<h2 class="link-title">Excited to be working with Boston-area artist Dr. Lisa Esposito</h2>
 						</a>	
 						<h4 class="link-subtitle">Site redesign in the works</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
-					<a href="/web-design/new-lisa-esposito-project.html"> 
+					<a href="/web-design/new-lisa-esposito-project"> 
 						<img src="/img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/lisa-esposito.html">lisa-esposito</a></h6>
+					<h6>Tags: <a href="/tags/lisa-esposito">lisa-esposito</a></h6>
 				</div>
 			</article>
 		

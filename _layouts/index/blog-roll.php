@@ -30,14 +30,14 @@
 						<h3 id="month">{{ post.month }}</h3>
 					</div>
 					<div class="post-head">
-						<a href="{{ post.category-link }}/{{ post.slug }}" class="index-page-post-link">
+						<a href="/{{ post.category-link }}/{{ post.slug }}" class="index-page-post-link">
 							<h2 class="link-title">{{ post.title }}</h2>
 						</a>	
 						<h4 class="link-subtitle">{{ post.excerpt }}</h4>
 					</div>
 				</header>
 				<div class="row" id="img-row">
-					<a href="{{ post.category-link }}/{{ post.slug }}"> 
+					<a href="/{{ post.category-link }}/{{ post.slug }}"> 
 						<img src="{{ post.link-image }}" alt="">
 					</a>
 				</div>

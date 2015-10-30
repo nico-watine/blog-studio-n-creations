@@ -35,26 +35,26 @@
 	<section class="blog-roll">
 		
 			<article class="post-link">
-				<div class="row" id="post-details">
+				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">2</h3>
 						<h3 id="month">apr</h3>
 					</div>
 					<div class="post-head">
-						<a href="/web-design/lemon-peel-facial-logo.html" class="index-page-post-link">
+						<a href="/web-design/lemon-peel-facial-logo" class="index-page-post-link">
 							<h2 class="link-title">One of Our Favorite Logos</h2>
 						</a>	
 						<h4 class="link-subtitle">Created for lemonpeelfacial.com</h4>
 					</div>
-				</div>
+				</header>
 				<div class="row" id="img-row">
-					<a href="/web-design/lemon-peel-facial-logo.html"> 
+					<a href="/web-design/lemon-peel-facial-logo"> 
 						<img src="/img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
 					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
-					<h6>Tags: <a href="/tags/lemon-peel-facial.html">lemon-peel-facial</a></h6>
+					<h6>Tags: <a href="/tags/lemon-peel-facial">lemon-peel-facial</a></h6>
 				</div>
 			</article>
 		
