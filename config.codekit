@@ -1217,35 +1217,35 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/post-attachments\/projects\/jdf\/3-16\/hero-splash.jpg": {
+	"\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/hero-splash.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 48513,
-		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/3-16\/hero-splash.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/3-16\/hero-splash.jpg",
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/hero-splash.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/hero-splash.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/post-attachments\/projects\/jdf\/3-16\/link-banner.jpg": {
+	"\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/link-banner.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 57417,
-		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/3-16\/link-banner.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/3-16\/link-banner.jpg",
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/link-banner.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/link-banner.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/post-attachments\/projects\/jdf\/3-16\/link-banner@2x.jpg": {
+	"\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/link-banner@2x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 155306,
-		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/3-16\/link-banner@2x.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/3-16\/link-banner@2x.jpg",
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/link-banner@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/link-banner@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2867,35 +2867,35 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/post-attachments\/projects\/jdf\/3-16\/hero-splash.jpg": {
+	"\/img\/post-attachments\/projects\/jdf\/3-17\/hero-splash.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 48513,
-		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/3-16\/hero-splash.jpg",
-		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/3-16\/hero-splash.jpg",
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/3-17\/hero-splash.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/3-17\/hero-splash.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/post-attachments\/projects\/jdf\/3-16\/link-banner.jpg": {
+	"\/img\/post-attachments\/projects\/jdf\/3-17\/link-banner.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 57417,
-		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/3-16\/link-banner.jpg",
-		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/3-16\/link-banner.jpg",
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/3-17\/link-banner.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/3-17\/link-banner.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/post-attachments\/projects\/jdf\/3-16\/link-banner@2x.jpg": {
+	"\/img\/post-attachments\/projects\/jdf\/3-17\/link-banner@2x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 155306,
-		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/3-16\/link-banner@2x.jpg",
-		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/3-16\/link-banner@2x.jpg",
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/3-17\/link-banner@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/3-17\/link-banner@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3631,22 +3631,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
-	"\/scss\/style\/posts\/_jdf.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/style\/posts\/_jdf.scss",
-		"outputAbbreviatedPath": "\/css\/_jdf.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 0,
-		"useLibsass": 1
-		},
 	"\/scss\/style\/posts\/_lpf.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -3688,6 +3672,70 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scss\/style\/posts\/_posts.scss",
 		"outputAbbreviatedPath": "\/css\/_posts.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/posts\/jdf\/_03-17.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/posts\/jdf\/_03-17.scss",
+		"outputAbbreviatedPath": "\/css\/_03-17.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/posts\/jdf\/_03-30.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/posts\/jdf\/_03-30.scss",
+		"outputAbbreviatedPath": "\/css\/_03-30.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/posts\/jdf\/_06-03.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/posts\/jdf\/_06-03.scss",
+		"outputAbbreviatedPath": "\/css\/_06-03.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/posts\/jdf\/_jdf.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/posts\/jdf\/_jdf.scss",
+		"outputAbbreviatedPath": "\/css\/_jdf.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
