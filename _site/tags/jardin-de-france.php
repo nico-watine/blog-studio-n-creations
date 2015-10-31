@@ -92,12 +92,12 @@
 						<a href="/print-work/jdf-branding" class="index-page-post-link">
 							<h2 class="link-title">New Print Material for 'Jardin de France'</h2>
 						</a>	
-						<h4 class="link-subtitle">creating a brand for an antiques-import company</h4>
+						<h4 class="link-subtitle">Creating a brand for a French-antiques import company</h4>
 					</div>
 				</header>
 				<div class="row" id="img-row">
 					<a href="/print-work/jdf-branding"> 
-						<img src="/img/post-attachments/projects/jdf/3-16/link-banner@2x.jpg" alt="">
+						<img src="/img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
@@ -193,4 +193,4 @@
  
 
 </body>
-</html> 
+</html>

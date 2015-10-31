@@ -3,6 +3,12 @@
 @import "_buttons.scss";
 
 
+article {
+	p {
+		font-size: rem(22);
+		margin-bottom: rem(12);
+	}
+}
 a.simple-underline {
 	text-decoration: underline;
 	color: #fff;

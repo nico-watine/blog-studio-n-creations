@@ -9,6 +9,8 @@ figure figcaption { margin-top: 0.5rem; }
 .btn-red { background-color: #F26B6C; color: #fff; -webkit-transition: background-color 200ms ease-out 0s; transition: background-color 200ms ease-out 0s; -webkit-transition: color 200ms ease-out 0s; transition: color 200ms ease-out 0s; text-decoration: underline; }
 .btn-red:hover { background-color: #f58989; color: #333; text-shadow: none; text-decoration: none; }
 
+article p { font-size: 1.375rem; margin-bottom: 0.75rem; }
+
 a.simple-underline { text-decoration: underline; color: #fff; }
 a.simple-underline:hover { text-decoration: none; }
 
@@ -231,4 +233,12 @@ a.index-page-post-link:hover h4 { text-decoration: none !important; }
   #dr-esposito-wrap-up figure { text-align: left; margin-bottom: 1.5em; }
   #dr-esposito-wrap-up #two { text-align: left; } }
 
+article#jdf-branding figure { float: left; display: block; margin-right: 1.75788%; width: 61.8408%; margin-bottom: 1.25em; }
+article#jdf-branding figure:last-child { margin-right: 0; }
+article#jdf-branding figure img { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border: 0.125em solid #fff; }
+article#jdf-branding .verbiage { float: left; display: block; margin-right: 1.75788%; width: 36.40133%; }
+article#jdf-branding .verbiage:last-child { margin-right: 0; }
+
+@media screen and (max-width: 46.875em) { article#jdf-branding figure, article#jdf-branding .verbiage { float: left; display: block; margin-right: 2.84259%; width: 100%; }
+  article#jdf-branding figure:last-child, article#jdf-branding .verbiage:last-child { margin-right: 0; } }
 img#old-lpf-logo { max-width: 400px; }
