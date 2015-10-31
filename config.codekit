@@ -3695,6 +3695,38 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
+	"\/scss\/style\/posts\/jdf\/_03-30.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/posts\/jdf\/_03-30.scss",
+		"outputAbbreviatedPath": "\/css\/_03-30.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/posts\/jdf\/_06-03.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/posts\/jdf\/_06-03.scss",
+		"outputAbbreviatedPath": "\/css\/_06-03.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
 	"\/scss\/style\/posts\/jdf\/_jdf.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
