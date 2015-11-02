@@ -101,7 +101,7 @@ ul.widget-nav { list-style: none; padding: 0; margin: 0; }
 .featured-container { padding: 1.25em 1.25em 0; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); background: #fff; text-align: center; }
 @media screen and (max-width: 40em) { .featured-container { padding: 2em 0em 0em; } }
 
-.featured-slide { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; border: 0.125em solid #fff; margin-bottom: 1.5625em; background: #566270; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); -webkit-transition: background 50ms ease-out 0s; transition: background 50ms ease-out 0s; text-align: center; }
+.featured-slide { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; border: 0.125em solid #fff; margin-bottom: 1.5625em; background: #566270; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); text-align: center; }
 .featured-slide:last-child { margin-right: 0; }
 @media screen and (max-width: 40em) { .featured-slide { float: left; display: block; margin-right: 3.57866%; width: 74.10533%; margin-left: 12.94733%; margin-bottom: 1.25em; }
   .featured-slide:last-child { margin-right: 0; } }
@@ -109,8 +109,7 @@ ul.widget-nav { list-style: none; padding: 0; margin: 0; }
   .featured-slide:last-child { margin-right: 0; } }
 .featured-slide a { color: #fff; }
 .featured-slide a h2 { text-shadow: none; width: 100%; margin: 0; padding: 0.3125rem; }
-.featured-slide:hover { margin-top: 0.1875em; margin-bottom: 0; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
-.featured-slide:hover a { text-decoration: none; }
+.featured-slide:hover a { text-decoration: underline; }
 
 .blog-roll { float: left; display: block; margin-right: 1.75788%; width: 68.20066%; }
 .blog-roll:last-child { margin-right: 0; }
@@ -149,15 +148,6 @@ a.index-page-post-link:hover h4 { text-decoration: none !important; }
 .post-categories .category:last-child { margin-right: 0; }
 .post-categories .category h3 a { text-decoration: none; }
 .post-categories .category h3 a:hover { text-decoration: underline; }
-
-.post-image { margin-bottom: 1.25em; }
-
-.large-post-image { float: left; display: block; margin-right: 1.75788%; width: 74.56053%; margin-left: 12.71973%; margin-bottom: 1.25em; }
-.large-post-image:last-child { margin-right: 0; }
-@media screen and (max-width: 63.75em) { .large-post-image { float: left; display: block; margin-right: 2.35765%; width: 82.94039%; margin-left: 8.5298%; }
-  .large-post-image:last-child { margin-right: 0; } }
-@media screen and (max-width: 32.813em) { .large-post-image { float: left; display: block; margin-right: 3.57866%; width: 100%; margin-left: 0%; }
-  .large-post-image:last-child { margin-right: 0; } }
 
 .post-hero { background: #fff; box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); width: 100%; margin-bottom: 2.125em; padding: 1.5em 0 0.75em; }
 .post-hero .outer-container { padding-top: 0; }
