@@ -13,12 +13,20 @@ link-image: /img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg
 intro-text-h1: One of Our Favorite Custom Logo Creations
 intro-text-h2:
 ---
-<div class="row">
-	<img src="/img/post-attachments/projects/lpf/4-2/lemon-peel-facial-logo@2x.jpg" alt="" class="white-border shadow post-image">
-</div>
-<div class="row">
-	<h3>We designed this logo for Michelle Wright of Lemon Peel Facial. It was inspired by the old version, having a similar layout. The lemon has been updated though to provide a more sophisticated look. Feel free to view it on her site, <a href="http://lemonpeelfacial.com" target="_blank" class="underlined-link">lemonpeelfacial.com</a>. Below is the original logo.</h3>
-</div>
-<div class="row bottom">
-	<img src="/img/post-attachments/projects/lpf/4-2/old-lemon-peel-facial-logo.jpg" alt="" class="post-image white-border shadow" id="old-lpf-logo">
-</div>
+<article id="lemon-peel-facial-logo">
+	<div class="row side-padding" id="one">
+		<figure>
+			<img src="/img/post-attachments/projects/lpf/4-2/lemon-peel-facial-logo@2x.jpg" alt="The New Lemon Peel Facial Logo">
+			<figcaption>The new LemonPeelFacial.com logo</figcaption>
+		</figure>
+	</div>
+	<div class="row side-padding" id="two">
+		<div class="verbiage">
+			<p>We designed the logo above for Michelle Wright of Lemon Peel Facial. It was inspired by the old version, having a similar layout. The lemon has been updated though to provide a more sophisticated look. Feel free to view it on her site, <a href="http://lemonpeelfacial.com" target="_blank" class="underlined">LemonPeelFacial.com</a>. Below is the original logo.</p>
+		</div>
+		<figure>
+			<img src="/img/post-attachments/projects/lpf/4-2/old-lemon-peel-facial-logo.jpg" alt="Original Lemon Peel Facial Logo">
+			<figcaption>The original LemonPeelFacial.com logo</figcaption>
+		</figure>
+	</div>
+</article>

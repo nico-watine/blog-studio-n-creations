@@ -939,15 +939,6 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/_site\/css\/blog.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/css\/blog.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/css\/core.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -3599,22 +3590,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
-	"\/scss\/style\/posts\/_lpf.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/style\/posts\/_lpf.scss",
-		"outputAbbreviatedPath": "\/css\/_lpf.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 0,
-		"useLibsass": 1
-		},
 	"\/scss\/style\/posts\/_posts-extras.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -3880,6 +3855,38 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scss\/style\/posts\/lisa-esposito\/_lisa-esposito.scss",
 		"outputAbbreviatedPath": "\/css\/_lisa-esposito.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/posts\/lpf\/_04-02.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/posts\/lpf\/_04-02.scss",
+		"outputAbbreviatedPath": "\/css\/_04-02.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/posts\/lpf\/_lpf.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/posts\/lpf\/_lpf.scss",
+		"outputAbbreviatedPath": "\/css\/_lpf.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,

@@ -21,7 +21,7 @@ intro-text-h2: Here's another sneak peak
 		</figure>
 		<div class="verbiage">
 			<p>This is a screen clipping of one of the site's featured posts.</p>
-			<a href="http://houstonuncovered.com" class="underlined" target="_blank">www.HoustonUncovered.com</a>
+			<a href="http://houstonuncovered.com" class="underlined header" target="_blank">www.HoustonUncovered.com</a>
 		</div>
 	</div>
 </article>

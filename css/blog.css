@@ -298,4 +298,14 @@ article#greencare-skeleton-setup .row#two video { max-width: 45em; width: 100%; 
 @media only screen and (max-width: 41.875em) { article#greencare-skeleton-setup .row#one figure, article#greencare-skeleton-setup .row#one .verbiage { float: left; display: block; margin-right: 3.57866%; width: 100%; }
   article#greencare-skeleton-setup .row#one figure:last-child, article#greencare-skeleton-setup .row#one .verbiage:last-child { margin-right: 0; }
   article#greencare-skeleton-setup .row#one .verbiage a { font-size: 1.375rem; } }
+article#lemon-peel-facial-logo .row#one figure { margin-bottom: 2.5em; }
+article#lemon-peel-facial-logo .row#one figure img { max-width: 62.5em; border: 0.125em solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+article#lemon-peel-facial-logo .row#two .verbiage { float: left; display: block; margin-right: 1.75788%; width: 55.48093%; margin-left: 6.35987%; }
+article#lemon-peel-facial-logo .row#two .verbiage:last-child { margin-right: 0; }
+article#lemon-peel-facial-logo .row#two figure { float: left; display: block; margin-right: 1.75788%; width: 30.04146%; margin-right: 0; }
+article#lemon-peel-facial-logo .row#two figure:last-child { margin-right: 0; }
+article#lemon-peel-facial-logo .row#two figure img { max-width: 17.5em; }
+
+@media only screen and (max-width: 38.125em) { article#lemon-peel-facial-logo .row#two .verbiage, article#lemon-peel-facial-logo .row#two figure { float: left; display: block; margin-right: 3.57866%; width: 100%; margin-bottom: 1.875em; }
+  article#lemon-peel-facial-logo .row#two .verbiage:last-child, article#lemon-peel-facial-logo .row#two figure:last-child { margin-right: 0; } }
 img#old-lpf-logo { max-width: 400px; }

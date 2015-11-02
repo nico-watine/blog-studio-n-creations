@@ -24,6 +24,6 @@ intro-text-h2: My personal photo blog of the city
 		</div>
 	</div>
 	<div class="row side-padding" id="two">
-		<a href="http://houstonuncovered.com" class="underlined" target="_blank">www.HoustonUncovered.com</a>
+		<a href="http://houstonuncovered.com" class="underlined header" target="_blank">www.HoustonUncovered.com</a>
 	</div>
 </article>
