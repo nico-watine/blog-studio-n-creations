@@ -14,7 +14,15 @@ post-image: /img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg
 intro-text-h1: New Project | Site Redesign
 intro-text-h2: Greencare Interior Plants
 ---
-<div class="row bottom">
-<h3>We're giving the company's website a total transformation, making it more welcoming and not so stiff. Logo differences should give an idea of the new direction.</h3>
-</div>
-
+<article id="greencare-project">
+	<div class="row side-padding">
+		<figure>
+			<img src="/img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg" alt="The Greencare Interior Plants logo update">
+			<figcaption>The Greencare Interior Plants logo update</figcaption>
+		</figure>
+		<div class="verbiage">
+			<p>We're giving the company's website a total transformation, making it more welcoming and not so stiff. Logo differences should give an idea of the new direction.</p>
+			<a href="http://greencaretx.com" class="underlined" target="_blank">www.GreencareTX.com</a>
+		</div>
+	</div>
+</article>

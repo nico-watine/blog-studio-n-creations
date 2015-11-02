@@ -1,0 +1,56 @@
+@import "../../settings/_settings.scss";
+
+$max-670: "only screen and (max-width : 41.875em)";
+
+article#greencare-skeleton-setup {
+	.row {
+		margin-bottom: em(40);
+	}
+
+	.row#one {
+		figure,
+		.verbiage {
+			@include span-columns(8 of 16);
+		}
+		figure {
+			margin-bottom: em(26);
+
+			img {
+				border: em(2) solid #fff;
+				box-shadow: $z-1;
+				max-width: em(700);
+			}
+		}
+		.verbiage {
+			a {
+				font-size: $h3-size;
+			}
+		}	
+	}
+	.row#two {
+		text-align: center;
+
+		video {
+			max-width: em(720);
+			width: 100%;
+			border: em(2) solid #fff;
+			box-shadow: $z-2;
+		}
+	}
+}
+
+@media #{$max-670} {
+	article#greencare-skeleton-setup {
+		.row#one {
+			figure,
+			.verbiage {
+				@include span-columns(8 of 8);
+			}
+			.verbiage {
+				a {
+					font-size: rem(22);
+				}
+			}	
+		}
+	}
+}
