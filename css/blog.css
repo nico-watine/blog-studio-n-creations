@@ -298,4 +298,20 @@ article#lemon-peel-facial-logo .row#two figure img { max-width: 17.5em; }
 
 @media only screen and (max-width: 38.125em) { article#lemon-peel-facial-logo .row#two .verbiage, article#lemon-peel-facial-logo .row#two figure { float: left; display: block; margin-right: 3.57866%; width: 100%; margin-bottom: 1.875em; }
   article#lemon-peel-facial-logo .row#two .verbiage:last-child, article#lemon-peel-facial-logo .row#two figure:last-child { margin-right: 0; } }
-img#old-lpf-logo { max-width: 400px; }
+article#gaget-analytics-app .row { margin-bottom: 2.5em; }
+article#gaget-analytics-app .row figure img { border: 0.125em solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+article#gaget-analytics-app .row#one h2, article#gaget-analytics-app .row#one p { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
+article#gaget-analytics-app .row#one h2:last-child, article#gaget-analytics-app .row#one p:last-child { margin-right: 0; }
+article#gaget-analytics-app .row#one h2 { text-align: center; }
+article#gaget-analytics-app .row#two figure { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
+article#gaget-analytics-app .row#two figure:last-child { margin-right: 0; }
+article#gaget-analytics-app .row#three .verbiage, article#gaget-analytics-app .row#three figure { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
+article#gaget-analytics-app .row#three .verbiage:last-child, article#gaget-analytics-app .row#three figure:last-child { margin-right: 0; }
+
+@media only screen and (max-width: 46.875em) { article#gaget-analytics-app .row#one h2, article#gaget-analytics-app .row#one p { float: left; display: block; margin-right: 3.57866%; width: 100%; }
+  article#gaget-analytics-app .row#one h2:last-child, article#gaget-analytics-app .row#one p:last-child { margin-right: 0; } }
+@media only screen and (max-width: 38.125em) { article#gaget-analytics-app .row#one h2 { text-align: left; margin-bottom: 1.125rem; }
+  article#gaget-analytics-app .row#two figure { float: left; display: block; margin-right: 3.57866%; width: 100%; }
+  article#gaget-analytics-app .row#two figure:last-child { margin-right: 0; }
+  article#gaget-analytics-app .row#three .verbiage, article#gaget-analytics-app .row#three figure { margin-bottom: 1.875rem; float: left; display: block; margin-right: 3.57866%; width: 100%; }
+  article#gaget-analytics-app .row#three .verbiage:last-child, article#gaget-analytics-app .row#three figure:last-child { margin-right: 0; } }

@@ -3606,6 +3606,38 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
+	"\/scss\/style\/posts\/apps\/_04-09-gaget.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/posts\/apps\/_04-09-gaget.scss",
+		"outputAbbreviatedPath": "\/css\/_04-09-gaget.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/style\/posts\/apps\/_apps.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/posts\/apps\/_apps.scss",
+		"outputAbbreviatedPath": "\/css\/_apps.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
 	"\/scss\/style\/posts\/gctx\/_03-24.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
