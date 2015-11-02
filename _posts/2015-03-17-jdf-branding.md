@@ -11,7 +11,6 @@ datetime: 2015-03-17
 day: 17
 month: mar
 link-image: /img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg
-post-image: /img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg
 intro-text-h1: New branding for 'Jardin de France'
 intro-text-h2: Branding an Houston-based importer of French antiques
 ---
