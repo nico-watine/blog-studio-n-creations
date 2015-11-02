@@ -1,2 +1,49 @@
 @import "../../settings/_settings.scss";
 
+$max-670: "only screen and (max-width : 41.875em)";
+
+article#houston-uncovered-preview {
+	.row#one {
+		figure,
+		.verbiage {
+			@include span-columns(8 of 16);
+		}
+		figure {
+			img {
+				border: em(2) solid #fff;
+				box-shadow: $z-1;
+			}
+		}		
+	}
+
+	.row#two {
+		text-align: center;
+		
+		a {
+			font-size: $h3-size;
+		}
+	}
+}
+
+@media #{$max-670} {
+	article#houston-uncovered-preview {
+		.row#one {
+			figure {
+				margin-bottom: em(20);
+			}
+			
+			figure,
+			.verbiage {
+				@include span-columns(8 of 8);
+			}		
+		}
+
+		.row#two {
+			text-align: left;
+
+			a {
+				font-size: rem(22);
+			}
+		}
+	}
+}

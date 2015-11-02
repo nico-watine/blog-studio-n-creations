@@ -249,6 +249,17 @@ article#updating-jdf-brand .row#two p { margin-bottom: 1.875rem; }
   article#updating-jdf-brand .row#one figure:last-child { margin-right: 0; }
   article#updating-jdf-brand .row#one .verbiage { margin-left: 6.47367%; float: left; display: block; margin-right: 3.57866%; width: 87.05267%; }
   article#updating-jdf-brand .row#one .verbiage:last-child { margin-right: 0; } }
+article#houston-uncovered-preview .row#one figure, article#houston-uncovered-preview .row#one .verbiage { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
+article#houston-uncovered-preview .row#one figure:last-child, article#houston-uncovered-preview .row#one .verbiage:last-child { margin-right: 0; }
+article#houston-uncovered-preview .row#one figure img { border: 0.125em solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+article#houston-uncovered-preview .row#two { text-align: center; }
+article#houston-uncovered-preview .row#two a { font-size: 1.9375em; }
+
+@media only screen and (max-width: 41.875em) { article#houston-uncovered-preview .row#one figure { margin-bottom: 1.25em; }
+  article#houston-uncovered-preview .row#one figure, article#houston-uncovered-preview .row#one .verbiage { float: left; display: block; margin-right: 3.57866%; width: 100%; }
+  article#houston-uncovered-preview .row#one figure:last-child, article#houston-uncovered-preview .row#one .verbiage:last-child { margin-right: 0; }
+  article#houston-uncovered-preview .row#two { text-align: left; }
+  article#houston-uncovered-preview .row#two a { font-size: 1.375rem; } }
 article#hof-spring-postcard .row { margin-bottom: 1.875em; }
 article#hof-spring-postcard figure, article#hof-spring-postcard .verbiage { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
 article#hof-spring-postcard figure:last-child, article#hof-spring-postcard .verbiage:last-child { margin-right: 0; }
