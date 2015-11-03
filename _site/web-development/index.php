@@ -10,10 +10,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 	
-	<link rel="stylesheet" href="http://cdn.studioncreations.com/css/core.css" />
-	<link rel="stylesheet" href="http://cdn.studioncreations.com/blog<?php autoVer('/css/blog.css'); ?>" />
+	<link rel="stylesheet" href="/css/core.css" />
+	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
 
-	<script src="http://cdn.studioncreations.com/js/modernizr-min.js"></script>
+	<script src="/js/modernizr-min.js"></script>
 
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" href="/css/ie.css" />
@@ -49,7 +49,7 @@
 				</header>
 				<div class="row" id="img-row">
 					<a href="/web-development/gaget-analytics-app"> 
-						<img src="http://cdn.studioncreations.com/blog/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg" alt="">
+						<img src="/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
