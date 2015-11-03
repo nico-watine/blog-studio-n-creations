@@ -5,15 +5,16 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
+	<link rel="preconnect" href="http://cdn.studioncreations.com">
 	<title>Blog Roll | Studio N Creations Blog</title>
 	<meta name="description" content="Keep up with the latest projects and happenings here at the Studio N Creations blog" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 	
-	<link rel="stylesheet" href="/css/core.css" />
-	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
+	<link rel="stylesheet" href="http://cdn.studioncreations.com<?php autoVer('/css/core.css'); ?>" />
+	<link rel="stylesheet" href="http://cdn.studioncreations.com/blog<?php autoVer('/css/blog.css'); ?>" />
 
-	<script src="/js/modernizr-min.js"></script>
+	<script src="http://cdn.studioncreations.com/js/modernizr-min.js"></script>
 
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" href="/css/ie.css" />
@@ -35,13 +36,13 @@
 	<div class="row">
 		<div class="featured-slide" id="web-design">
 			<a href="/web-design/">
-				<img src="/img/post-attachments/web-design/featured-banner.jpg" alt="">
+				<img src="http://cdn.studioncreations.com/blog/img/post-attachments/web-design/featured-banner.jpg" alt="">
 				<h2>Web Design</h2>
 			</a>
 		</div>
 		<div class="featured-slide" id="print-work">
 			<a href="/print-work/">
-				<img src="/img/post-attachments/print-work/featured-slider.jpg" alt="">
+				<img src="http://cdn.studioncreations.com/blog/img/post-attachments/print-work/featured-slider.jpg" alt="">
 				<h2>Print Work</h2>
 			</a>
 		</div>
@@ -66,7 +67,7 @@
 				</header>
 				<div class="row" id="img-row">
 					<a href="/web-design/updating-jardin-de-france-brand"> 
-						<img src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="">
+						<img src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
@@ -90,7 +91,7 @@
 				</header>
 				<div class="row" id="img-row">
 					<a href="/web-design/houston-uncovered-post"> 
-						<img src="/img/post-attachments/projects/houston-uncovered/4-18/link-banner@2x.jpg" alt="">
+						<img src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/houston-uncovered/4-18/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
@@ -114,7 +115,7 @@
 				</header>
 				<div class="row" id="img-row">
 					<a href="/web-development/gaget-analytics-app"> 
-						<img src="/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg" alt="">
+						<img src="http://cdn.studioncreations.com/blog/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
@@ -138,7 +139,7 @@
 				</header>
 				<div class="row" id="img-row">
 					<a href="/web-design/lemon-peel-facial-logo"> 
-						<img src="/img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg" alt="">
+						<img src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
@@ -162,7 +163,7 @@
 				</header>
 				<div class="row" id="img-row">
 					<a href="/print-work/houston-oculofacial-spring-postcard"> 
-						<img src="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" alt="">
+						<img src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
@@ -186,7 +187,7 @@
 				</header>
 				<div class="row" id="img-row">
 					<a href="/web-design/greencare-skeleton-setup"> 
-						<img src="/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg" alt="">
+						<img src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
@@ -210,7 +211,7 @@
 				</header>
 				<div class="row" id="img-row">
 					<a href="/print-work/jardin-de-france-tag-examples"> 
-						<img src="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" alt="">
+						<img src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
@@ -234,7 +235,7 @@
 				</header>
 				<div class="row" id="img-row">
 					<a href="/web-design/dr-esposito-wrap-up"> 
-						<img src="/img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg" alt="">
+						<img src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
@@ -258,7 +259,7 @@
 				</header>
 				<div class="row" id="img-row">
 					<a href="/web-design/greencare-project"> 
-						<img src="/img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg" alt="">
+						<img src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
@@ -282,7 +283,7 @@
 				</header>
 				<div class="row" id="img-row">
 					<a href="/web-design/houston-uncovered-preview"> 
-						<img src="/img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg" alt="">
+						<img src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
@@ -306,7 +307,7 @@
 				</header>
 				<div class="row" id="img-row">
 					<a href="/print-work/jdf-branding"> 
-						<img src="/img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg" alt="">
+						<img src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
@@ -330,7 +331,7 @@
 				</header>
 				<div class="row" id="img-row">
 					<a href="/web-design/new-lisa-esposito-project"> 
-						<img src="/img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg" alt="">
+						<img src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
@@ -415,8 +416,7 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
-<script src="<?php autoVer('/js/nav-min.js'); ?>"></script>
-
+<script src="http://cdn.studioncreations.com<?php autoVer('/js/nav-min.js'); ?>"></script>
  
 
 </body>
