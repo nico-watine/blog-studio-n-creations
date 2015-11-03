@@ -75,8 +75,7 @@ $max-450: "only screen and (max-width : 28.125em)";
 }
 
 .article-body {
-	padding-top: 0;
-	margin-top: 0;
+	padding: 0;
 }
 
 @media #{$max-800} {

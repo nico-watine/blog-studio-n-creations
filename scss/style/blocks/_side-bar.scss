@@ -41,6 +41,11 @@ ul.widget-nav {
 
 	h1 {
 		margin-bottom: 0;
+		font-size: $h2-size;
+
+		@include media($medium) {
+			font-size: $h3-size;
+		}
 	}
 }
 

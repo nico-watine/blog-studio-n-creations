@@ -73,7 +73,7 @@ header#site-header { height: 3.4375em; padding-top: 3.4375em; width: 100%; }
 .overlay ul ul.snc-links li:hover a span { visibility: visible; }
 
 /* Effects */
-main { text-align: left; margin-top: 0; padding-top: 1.5625em; }
+main { text-align: left; margin-top: 0; padding: 1.5625em 1em; }
 
 footer { margin-top: 5em; }
 footer h6 a#snc-link { color: #fff; }
@@ -87,7 +87,8 @@ ul.widget-nav { list-style: none; padding: 0; margin: 0; }
 .widget#post-categories .widget-nav li:hover, .widget#snc-link .widget-nav li:hover { background-color: #566270; }
 
 .widget#category-title { text-align: center; }
-.widget#category-title h1 { margin-bottom: 0; }
+.widget#category-title h1 { margin-bottom: 0; font-size: 2.8125em; }
+@media screen and (max-width: 46.875em) { .widget#category-title h1 { font-size: 1.9375em; } }
 
 .post-link, .widget, .category { background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border-radius: 0.25em; padding: 1em; margin-bottom: 1.5625em; }
 
@@ -157,7 +158,7 @@ a.index-page-post-link:hover h4 { text-decoration: none !important; }
 .post-hero #post-taxonomy { padding-left: 1.25em; }
 .post-hero #post-taxonomy h5 { font-size: 1em; padding-left: 0.75rem; margin-bottom: 0.5rem; }
 
-.article-body { padding-top: 0; margin-top: 0; }
+.article-body { padding: 0; }
 
 @media only screen and (max-width: 50em) { .post-hero #post-titles h1 { font-size: 1.9375em; }
   .post-hero #post-titles h2 { font-size: 1.375em; } }
