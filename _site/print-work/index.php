@@ -11,10 +11,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 	
-	<link rel="stylesheet" href="http://cdn.studioncreations.com<?php autoVer('/css/core.css'); ?>" />
-	<link rel="stylesheet" href="http://cdn.studioncreations.com/blog<?php autoVer('/css/blog.css'); ?>" />
+	<link rel="stylesheet" href="<?php autoVer('/css/core.css'); ?>" />
+	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
 
-	<script src="http://cdn.studioncreations.com/js/modernizr-min.js"></script>
+	<script src="/js/modernizr-min.js"></script>
 
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" href="/css/ie.css" />
@@ -50,7 +50,7 @@
 				</header>
 				<div class="row" id="img-row">
 					<a href="/print-work/houston-oculofacial-spring-postcard"> 
-						<img src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" alt="">
+						<img src="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
@@ -74,7 +74,7 @@
 				</header>
 				<div class="row" id="img-row">
 					<a href="/print-work/jardin-de-france-tag-examples"> 
-						<img src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" alt="">
+						<img src="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
@@ -98,7 +98,7 @@
 				</header>
 				<div class="row" id="img-row">
 					<a href="/print-work/jdf-branding"> 
-						<img src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg" alt="">
+						<img src="/img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">
@@ -189,7 +189,7 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
-<script src="http://cdn.studioncreations.com<?php autoVer('/js/nav-min.js'); ?>"></script>
+<script src="<?php autoVer('/js/nav-min.js'); ?>"></script>
  
 
 </body>
