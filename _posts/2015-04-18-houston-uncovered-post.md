@@ -16,7 +16,7 @@ intro-text-h2: Here's another sneak peak
 <article id="houston-uncovered-post">
 	<div class="row side-padding" id="one">
 		<figure>
-			<img src="/img/post-attachments/projects/houston-uncovered/4-18/post-mockup@2x.jpg" alt="Houston Uncovered feature post">
+			<img src="{{ site.blog_cdn }}/img/post-attachments/projects/houston-uncovered/4-18/post-mockup@2x.jpg" alt="Houston Uncovered feature post">
 			<figcaption>The 'Featured Post' layout on Houston Uncovered</figcaption>
 		</figure>
 		<div class="verbiage">

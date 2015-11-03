@@ -7,13 +7,13 @@
 	<div class="row">
 		<div class="featured-slide" id="web-design">
 			<a href="/web-design/">
-				<img src="/img/post-attachments/web-design/featured-banner.jpg" alt="">
+				<img src="{{ site.blog_cdn }}/img/post-attachments/web-design/featured-banner.jpg" alt="">
 				<h2>Web Design</h2>
 			</a>
 		</div>
 		<div class="featured-slide" id="print-work">
 			<a href="/print-work/">
-				<img src="/img/post-attachments/print-work/featured-slider.jpg" alt="">
+				<img src="{{ site.blog_cdn }}/img/post-attachments/print-work/featured-slider.jpg" alt="">
 				<h2>Print Work</h2>
 			</a>
 		</div>
@@ -38,7 +38,7 @@
 				</header>
 				<div class="row" id="img-row">
 					<a href="/{{ post.category-link }}/{{ post.slug }}"> 
-						<img src="{{ post.link-image }}" alt="">
+						<img src="{{ site.blog_cdn }}{{ post.link-image }}" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">

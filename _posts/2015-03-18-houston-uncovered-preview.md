@@ -16,7 +16,7 @@ intro-text-h2: My personal photo blog of the city
 <article id="houston-uncovered-preview">
 	<div class="row side-padding margin-bottom" id="one">
 		<figure>
-			<img src="/img/post-attachments/projects/houston-uncovered/3-18/header-scroll.gif" alt="Houston Uncovered Scrolling GIF">
+			<img src="{{ site.blog_cdn }}/img/post-attachments/projects/houston-uncovered/3-18/header-scroll.gif" alt="Houston Uncovered Scrolling GIF">
 			<figcaption>The Houston | Uncovered scrolling header</figcaption>
 		</figure>
 		<div class="verbiage">

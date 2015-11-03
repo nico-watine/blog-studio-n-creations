@@ -17,7 +17,7 @@ intro-text-h2:
 <article id="hof-spring-postcard">
 	<div class="row padding" id="one">
 		<figure>
-			<img src="/img/post-attachments/projects/houston-oculofacial/4-1/post-image.jpg" alt="">
+			<img src="{{ site.blog_cdn }}/img/post-attachments/projects/houston-oculofacial/4-1/post-image.jpg" alt="">
 			<figcaption>The Houston Oculofacial Sprint Postcard</figcaption>
 		</figure>
 		<div class="verbiage">

@@ -21,7 +21,7 @@
 				</header>
 				<div class="row" id="img-row">
 					<a href="/{{ post.category-link }}/{{ post.slug }}"> 
-						<img src="{{ post.link-image }}" alt="">
+						<img src="{{ site.blog_cdn }}{{ post.link-image }}" alt="">
 					</a>
 				</div>
 				<div class="row" id="post-taxonomy">

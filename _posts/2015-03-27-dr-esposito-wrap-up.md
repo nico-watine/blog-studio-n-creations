@@ -16,7 +16,7 @@ intro-text-h2: Well...the home page at least
 <article id="dr-esposito-wrap-up">
 	<div class="row side-padding" id="one">
 		<figure>
-			<img src="/img/post-attachments/projects/lisa-esposito/3-27/post-img@2x.jpg" alt="Lisa Esposito.com Index Mockups">
+			<img src="{{ site.blog_cdn }}/img/post-attachments/projects/lisa-esposito/3-27/post-img@2x.jpg" alt="Lisa Esposito.com Index Mockups">
 			<figcaption>The new <a href="http://www.lisaesposito.com" class="underline">LisaEsposito.com</a> home page adapts to any size device</figcaption>
 		</figure>
 		<div class="verbiage">

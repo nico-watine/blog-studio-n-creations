@@ -20,11 +20,11 @@ intro-text-h2: An awesome web analytics tool for Mac OS
 	</div>
 	<div class="row side-padding" id="two">
 		<figure>
-			<img src="/img/post-attachments/web-development/gaget/4-9/dashboard.jpg" alt="Old GAget Dashboard Widget">
+			<img src="{{ site.blog_cdn }}/img/post-attachments/web-development/gaget/4-9/dashboard.jpg" alt="Old GAget Dashboard Widget">
 			<figcaption>The old GAget dashboard Widget</figcaption>
 		</figure>
 		<figure>
-			<img src="/img/post-attachments/web-development/gaget/4-9/notification-center.jpg" alt="New GAget Notificiation Center Widget">
+			<img src="{{ site.blog_cdn }}/img/post-attachments/web-development/gaget/4-9/notification-center.jpg" alt="New GAget Notificiation Center Widget">
 			<figcaption>The new GAget Notificiation Center Widget</figcaption>
 		</figure>
 	</div>
@@ -34,7 +34,7 @@ intro-text-h2: An awesome web analytics tool for Mac OS
 			<h3><a href="https://itunes.apple.com/us/app/gaget-simple-widget-for-google/id968487158?mt=12" class="underlined" target="_blank">Check it out on the App Store!</a></h3>
 		</div>
 		<figure>
-			<img src="/img/post-attachments/web-development/gaget/4-9/app-store.jpg" alt="GAget in the App Store">
+			<img src="{{ site.blog_cdn }}/img/post-attachments/web-development/gaget/4-9/app-store.jpg" alt="GAget in the App Store">
 			<figcaption>The old GAget dashboard Widget</figcaption>
 		</figure>
 	</div>

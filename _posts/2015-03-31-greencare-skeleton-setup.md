@@ -16,7 +16,7 @@ intro-text-h2: Check out how it responds as screen size shrinks
 <article id="greencare-skeleton-setup">
 	<div class="row side-padding" id="one">
 		<figure>
-			<img src="/img/post-attachments/projects/gctx/3-31/desktop.png" alt="Greencare TX Desktop View">
+			<img src="{{ site.blog_cdn }}/img/post-attachments/projects/gctx/3-31/desktop.png" alt="Greencare TX Desktop View">
 			<figcaption>The GreencareTX.com website layout on a laptop</figcaption>
 		</figure>
 		<div class="verbiage">
@@ -25,10 +25,10 @@ intro-text-h2: Check out how it responds as screen size shrinks
 		</div>
 	</div>
 	<div class="row side-padding" id="two">
-		<video autoplay loop preload="auto" poster="/img/post-attachments/projects/gctx/3-31/vid/poster.png" >
-			<source src="/img/post-attachments/projects/gctx/3-31/vid/browser-response.mp4" type="video/mp4">
-			<source src="/img/post-attachments/projects/gctx/3-31/vid/browser-response.ogv" type="video/webm">
-			<source src="/img/post-attachments/projects/gctx/3-31/vid/browser-response.webm" type="video/ogg" >
+		<video autoplay loop preload="auto" poster="{{ site.blog_cdn }}/img/post-attachments/projects/gctx/3-31/vid/poster.png" >
+			<source src="{{ site.blog_cdn }}/img/post-attachments/projects/gctx/3-31/vid/browser-response.mp4" type="video/mp4">
+			<source src="{{ site.blog_cdn }}/img/post-attachments/projects/gctx/3-31/vid/browser-response.ogv" type="video/webm">
+			<source src="{{ site.blog_cdn }}/img/post-attachments/projects/gctx/3-31/vid/browser-response.webm" type="video/ogg" >
 		</video>
 	</div>
 </article>

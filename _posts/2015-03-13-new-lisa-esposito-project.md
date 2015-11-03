@@ -16,7 +16,7 @@ intro-text-h2: A site redesign is in the works
 <article id="lisa-esposito-project-introduction">
 	<div class="row side-padding" id="one">
 		<figure id="original-esposito-ipad">
-			<img src="/img/post-attachments/projects/lisa-esposito/3-13/index-old.png" alt="Lisa Esposito iPad Mockup">
+			<img src="{{ site.blog_cdn }}/img/post-attachments/projects/lisa-esposito/3-13/index-old.png" alt="Lisa Esposito iPad Mockup">
 			<figcaption>The current <a href="http://www.lisaesposito.com" target="_blank" class="underlined">Lisa Esposito</a> home page on an iPad</figcaption>
 		</figure>
 		<div class="verbiage">

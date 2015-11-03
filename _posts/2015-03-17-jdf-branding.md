@@ -17,7 +17,7 @@ intro-text-h2: Branding an Houston-based importer of French antiques
 <article id="jdf-branding">
 	<div class="row side-padding">
 		<figure>
-			<img src="/img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg" alt="Jardin de France Product Tag">
+			<img src="{{ site.blog_cdn }}/img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg" alt="Jardin de France Product Tag">
 			<figcaption>The new Jardin de France product tags</figcaption>
 		</figure>
 		<div class="verbiage">

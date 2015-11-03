@@ -16,7 +16,7 @@ intro-text-h1: We're updating the Jardin de France brand
 <article id="updating-jdf-brand">
 	<div class="row padding" id="one">
 		<figure>
-			<img src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="Jardin de France Facebook Cover">
+			<img src="{{ site.blog_cdn }}/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="Jardin de France Facebook Cover">
 			<figcaption>The new Jardin de France Facebook Cover</figcaption>
 		</figure>
 		<div class="verbiage">

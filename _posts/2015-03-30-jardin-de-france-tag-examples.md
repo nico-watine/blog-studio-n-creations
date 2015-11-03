@@ -19,13 +19,13 @@ intro-text-h1: The Jardin de France tags have been attached
 	</div>	
 	<hr>
 	<div class="row padding">
-		<img src="/img/post-attachments/projects/jdf/3-30/jdf-tag-1.jpg" class="large-post-image white-border shadow" alt="">
+		<img src="{{ site.blog_cdn }}/img/post-attachments/projects/jdf/3-30/jdf-tag-1.jpg" class="large-post-image white-border shadow" alt="">
 	</div>
 	<div class="row padding">
-		<img src="/img/post-attachments/projects/jdf/3-30/jdf-tag-2.jpg" class="large-post-image white-border shadow" alt="">
+		<img src="{{ site.blog_cdn }}/img/post-attachments/projects/jdf/3-30/jdf-tag-2.jpg" class="large-post-image white-border shadow" alt="">
 	</div>
 	<div class="row padding">
-		<img src="/img/post-attachments/projects/jdf/3-30/jdf-tag-3.jpg" class="large-post-image white-border shadow" alt="">
+		<img src="{{ site.blog_cdn }}/img/post-attachments/projects/jdf/3-30/jdf-tag-3.jpg" class="large-post-image white-border shadow" alt="">
 	</div>
 </article>
 

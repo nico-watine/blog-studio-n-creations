@@ -17,7 +17,7 @@ intro-text-h2: Greencare Interior Plants
 <article id="greencare-project">
 	<div class="row side-padding">
 		<figure>
-			<img src="/img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg" alt="The Greencare Interior Plants logo update">
+			<img src="{{ site.blog_cdn }}/img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg" alt="The Greencare Interior Plants logo update">
 			<figcaption>The Greencare Interior Plants logo update</figcaption>
 		</figure>
 		<div class="verbiage">
