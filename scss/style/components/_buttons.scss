@@ -1,17 +1,4 @@
 @import "../settings/_settings.scss";
 
 
-.btn-red {
-	background-color: $light-red;
-	color: #fff;
-	@include transition (background-color 200ms ease-out 0s);
-	@include transition (color 200ms ease-out 0s);
-	text-decoration: underline;
 
-	&:hover {
-		background-color: scale-color($light-red, $lightness: 20%);
-		color: #333;
-		text-shadow: none;
-		text-decoration: none;
-	}
-}
