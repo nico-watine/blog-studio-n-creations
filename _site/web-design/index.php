@@ -39,6 +39,30 @@
 				<header class="row" id="post-details">
 					<div class="post-date"> 
 						<h3 id="day">3</h3>
+						<h3 id="month">Nov</h3>
+					</div>
+					<div class="post-head">
+						<a href="/web-design/lisa-esposito-site-evolution" class="index-page-post-link">
+							<h2 class="link-title">Case Study - LisaEsposito.com</h2>
+						</a>	
+						<h4 class="link-subtitle">A look back on the site's evolution</h4>
+					</div>
+				</header>
+				<div class="row" id="img-row">
+					<a href="/web-design/lisa-esposito-site-evolution"> 
+						<img src="/img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg" alt="">
+					</a>
+				</div>
+				<div class="row" id="post-taxonomy">
+					<h6>Filed Under: <a href="/web-design/">web-design</a></h6>
+					<h6>Tags: <a href="/tags/lisa-esposito">lisa-esposito</a></h6>
+				</div>
+			</article>
+		
+			<article class="post-link">
+				<header class="row" id="post-details">
+					<div class="post-date"> 
+						<h3 id="day">3</h3>
 						<h3 id="month">jun</h3>
 					</div>
 					<div class="post-head">
