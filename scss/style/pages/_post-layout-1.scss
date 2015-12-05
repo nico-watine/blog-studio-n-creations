@@ -59,8 +59,30 @@ body.post-layout-1 {
 
 		aside {
 			@include span-columns(4 of 16);
-			height: 500px;
-			background: #000;
+			padding-top: em(16);
+			
+			.widget-nav {
+				li {
+					margin: rem(12) 0;
+					background-color: #fff;
+
+					a {
+						border: em(1) solid $dark-blue;
+						display: block;
+						text-decoration: none;
+						padding: rem(8);
+						color: $text-color;
+
+						&:hover {
+							color: #fff;
+						}
+					}
+
+					&:hover {
+						background-color: $dark-blue;
+					}
+				}
+			}
 		}
 	}
 }

@@ -16,8 +16,12 @@ body.post-layout-1 main article .article-body img.article-hero { border: 0.0625e
 body.post-layout-1 main article .article-body p { font-size: 1.25rem; }
 body.post-layout-1 main article .article-footer { display: block; }
 body.post-layout-1 main article .article-footer::after { clear: both; content: ""; display: table; }
-body.post-layout-1 main aside { float: left; display: block; margin-right: 1.75788%; width: 23.68159%; height: 500px; background: #000; }
+body.post-layout-1 main aside { float: left; display: block; margin-right: 1.75788%; width: 23.68159%; padding-top: 1em; }
 body.post-layout-1 main aside:last-child { margin-right: 0; }
+body.post-layout-1 main aside .widget-nav li { margin: 0.75rem 0; background-color: #fff; }
+body.post-layout-1 main aside .widget-nav li a { border: 0.0625em solid #566270; display: block; text-decoration: none; padding: 0.5rem; color: #333; }
+body.post-layout-1 main aside .widget-nav li a:hover { color: #fff; }
+body.post-layout-1 main aside .widget-nav li:hover { background-color: #566270; }
 
 @media screen and (max-width: 46.875em) { body.post-layout-1 main article, body.post-layout-1 main aside { float: left; display: block; margin-right: 2.35765%; width: 100%; }
   body.post-layout-1 main article:last-child, body.post-layout-1 main aside:last-child { margin-right: 0; } }

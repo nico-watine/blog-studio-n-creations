@@ -42,14 +42,14 @@
 		</div>
 	</article>
 	<aside>
-		
+		<h5>CATEGORIES</h5>
+		<ul class="widget-nav">
+			<li><a href="/web-design/">Web Design</a></li>
+			<li><a href="/print-work/">Print Work</a></li>
+			<li><a href="/web-development/">Web Development</a></li>
+		</ul>
 	</aside>
 </main>
-
-
-
-
-
 
 
 {% include blocks/footer.html %}
