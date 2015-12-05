@@ -1,5 +1,8 @@
 @import "../settings/_settings.scss";
 
+$max-610: "only screen and (max-width : 38.125em)";
+$max-500: "only screen and (max-width : 31.250em)";
+
 body.post-layout-1 {
 	main {
 		padding: em(22) em(12);
@@ -7,6 +10,7 @@ body.post-layout-1 {
 		article {
 			@include span-columns(12 of 16);
 			padding: em(16);
+			margin-bottom: em(26);
 			background: #fff;
 			box-shadow: $z-1;
 
@@ -56,7 +60,65 @@ body.post-layout-1 {
 		aside {
 			@include span-columns(4 of 16);
 			height: 500px;
+			background: #000;
 		}
 	}
 }
 
+@include media($medium) {
+	body.post-layout-1 {
+		main {
+			article,
+			aside {
+				@include span-columns(12 of 12);
+			}
+		}
+	}
+}
+
+@media #{$max-610} {
+	body.post-layout-1 {
+		main {
+			article {
+				.article-header {
+					margin-bottom: em(20);
+
+					h1 {
+						font-size: rem(31);
+					}
+
+					h4,
+					time {
+						font-size: rem(16);
+					}
+				}
+
+				.article-body {
+					margin-bottom: em(20);
+
+					img.article-hero {
+						margin-bottom: em(30);
+					}
+
+					p {
+						font-size: rem(18);
+					}
+				}
+			}
+		}
+	}	
+}
+
+@media #{$max-500} {
+	body.post-layout-1 {
+		main {
+			article {
+				.article-header {
+					h4 {
+						margin-bottom: rem(8);
+					}
+				}
+			}
+		}
+	}	
+}
