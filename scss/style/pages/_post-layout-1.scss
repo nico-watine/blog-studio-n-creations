@@ -1,0 +1,62 @@
+@import "../settings/_settings.scss";
+
+body.post-layout-1 {
+	main {
+		padding: em(22) em(12);
+
+		article {
+			@include span-columns(12 of 16);
+			padding: em(16);
+			background: #fff;
+			box-shadow: $z-1;
+
+			.article-header {
+				text-align: center;
+				@include row;
+				margin-bottom: em(40);
+
+				h4 {
+					text-transform: uppercase;
+					letter-spacing: rem(1.2);
+					font-size: rem(18);
+					margin: 0;
+				}
+
+				h1 {
+					font-size: rem(42);
+				}
+
+				time {
+					font-family: $header-font-family;
+					letter-spacing: rem(1.2);
+					font-size: rem(18);
+					text-transform: uppercase;
+				}
+			}
+
+			.article-body {
+				margin-bottom: em(40);
+				@include row;
+
+				img.article-hero {
+					border: em(1) solid #333;
+					margin-bottom: em(40);
+				}
+
+				p {
+					font-size: rem(20);
+				}
+			}
+
+			.article-footer {
+				@include row;
+			}
+		}
+
+		aside {
+			@include span-columns(4 of 16);
+			height: 500px;
+		}
+	}
+}
+
