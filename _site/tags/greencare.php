@@ -67,7 +67,7 @@
 					</div>
 					<div class="post-head">
 						<a href="/web-design/greencare-project" class="index-page-post-link">
-							<h2 class="link-title">Introducing the Greencare Project</h2>
+							<h2 class="link-title">Introducing the Greencare Interior Plants Project</h2>
 						</a>	
 						<h4 class="link-subtitle">We're giving the company's site a fresh, new look</h4>
 					</div>

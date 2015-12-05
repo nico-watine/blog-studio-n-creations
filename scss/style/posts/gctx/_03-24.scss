@@ -1,6 +1,6 @@
 @import "../../settings/_settings.scss";
 
-$max-670: "only screen and (max-width : 41.875em)";
+$max-900: "only screen and (max-width : 56.250em)";
 
 article#greencare-project {
 	.row {
@@ -22,7 +22,7 @@ article#greencare-project {
 	}
 }
 
-@media #{$max-670} {
+@media #{$max-900} {
 	article#greencare-project {
 		.row {
 			figure {

@@ -55,6 +55,30 @@
 			<article class="post-link">
 				<header class="row" id="post-details">
 					<div class="post-date"> 
+						<h3 id="day">6</h3>
+						<h3 id="month">Nov</h3>
+					</div>
+					<div class="post-head">
+						<a href="/web-development/where-have-we-been" class="index-page-post-link">
+							<h2 class="link-title">Where have we been for the past 6 months?</h2>
+						</a>	
+						<h4 class="link-subtitle">This is what we've been up to</h4>
+					</div>
+				</header>
+				<div class="row" id="img-row">
+					<a href="/web-development/where-have-we-been"> 
+						<img src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="">
+					</a>
+				</div>
+				<div class="row" id="post-taxonomy">
+					<h6>Filed Under: <a href="/web-development/">web-development</a></h6>
+					<h6>Tags: <a href="/tags/studio-n-creations">studio-n-creations</a></h6>
+				</div>
+			</article>
+		
+			<article class="post-link">
+				<header class="row" id="post-details">
+					<div class="post-date"> 
 						<h3 id="day">3</h3>
 						<h3 id="month">jun</h3>
 					</div>
@@ -252,7 +276,7 @@
 					</div>
 					<div class="post-head">
 						<a href="/web-design/greencare-project" class="index-page-post-link">
-							<h2 class="link-title">Introducing the Greencare Project</h2>
+							<h2 class="link-title">Introducing the Greencare Interior Plants Project</h2>
 						</a>	
 						<h4 class="link-subtitle">We're giving the company's site a fresh, new look</h4>
 					</div>

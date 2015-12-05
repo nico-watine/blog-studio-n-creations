@@ -269,7 +269,7 @@ article#greencare-project .row .verbiage:last-child { margin-right: 0; }
 article#greencare-project .row .verbiage a { font-size: 1.375rem; }
 article#greencare-project .row figure img { border: 0.125em solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
 
-@media only screen and (max-width: 41.875em) { article#greencare-project .row figure { margin-bottom: 1.25em; }
+@media only screen and (max-width: 56.25em) { article#greencare-project .row figure { margin-bottom: 1.25em; }
   article#greencare-project .row figure, article#greencare-project .row .verbiage { float: left; display: block; margin-right: 3.57866%; width: 100%; }
   article#greencare-project .row figure:last-child, article#greencare-project .row .verbiage:last-child { margin-right: 0; } }
 article#greencare-skeleton-setup .row { margin-bottom: 2.5em; }
