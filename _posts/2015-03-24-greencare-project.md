@@ -14,6 +14,9 @@ post-image: /img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg
 intro-text-h1: New Project | Greencare Interior Plants
 intro-text-h2: A full Site Redesign
 article-title: New Project - Greencare Interior Plants
+article-subtitle: We're giving Greencare Interior Plants a fresh, new look
+article-datetime: 2015-03-24
+article-datepublished: 2015-03-24
 article-category: Web Design
 article-category-link: web-design
 article-time: 13 March 2015
