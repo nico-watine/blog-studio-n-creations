@@ -42,14 +42,14 @@
 						<h3 id="month">Nov</h3>
 					</div>
 					<div class="post-head">
-						<a href="/web-development/where-have" class="index-page-post-link">
+						<a href="/web-development/where-have-we-been" class="index-page-post-link">
 							<h2 class="link-title">Where have we been for the past 6 months?</h2>
 						</a>	
-						<h4 class="link-subtitle">Here is what we've been up to</h4>
+						<h4 class="link-subtitle">This is what we've been up to</h4>
 					</div>
 				</header>
 				<div class="row" id="img-row">
-					<a href="/web-development/where-have"> 
+					<a href="/web-development/where-have-we-been"> 
 						<img src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="">
 					</a>
 				</div>
@@ -114,7 +114,7 @@
 	</aside>
 </main>
 
-<footer>
+<footer id="page-footer">
 	<div class="outer-container padding">
 		<div class="row">
 			<ul class="footer-menu">

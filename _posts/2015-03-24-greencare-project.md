@@ -1,5 +1,5 @@
 ---
-layout: post/layout-1
+layout: post/layout-2
 title: Introducing the Greencare Interior Plants Project
 excerpt: We're giving the company's site a fresh, new look
 slug: greencare-project

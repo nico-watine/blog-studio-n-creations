@@ -66,7 +66,7 @@
 	</aside>
 </main>
 
-<footer>
+<footer id="page-footer">
 	<div class="outer-container padding">
 		<div class="row">
 			<ul class="footer-menu">

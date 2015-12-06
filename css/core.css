@@ -508,7 +508,7 @@ main { margin-top: 3.75em; text-align: center; }
 .intro-text { margin-bottom: 2.6875em; }
 .intro-text h2, .intro-text h4 { margin-bottom: 1.5rem; }
 
-footer { background: #696969; padding: 2.1875em 0; box-shadow: 0 0 0.25rem 0.0625rem #000 inset; border: 0.0625em solid #000; text-align: right; color: #fff; font-family: "Lintel Medium", sans-serif; }
+footer#page-footer { background: #696969; padding: 2.1875em 0; box-shadow: 0 0 0.25rem 0.0625rem #000 inset; border: 0.0625em solid #000; text-align: right; color: #fff; font-family: "Lintel Medium", sans-serif; }
 @media screen and (max-width: 40em) { footer { text-align: center; } }
 footer h6 { margin-bottom: 1rem; }
 footer img#facebook { width: 1.875rem; height: 1.875rem; }
