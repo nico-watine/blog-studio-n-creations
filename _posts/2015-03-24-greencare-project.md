@@ -13,8 +13,17 @@ link-image: /img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg
 post-image: /img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg
 intro-text-h1: New Project | Greencare Interior Plants
 intro-text-h2: A full Site Redesign
+article-title: New Project - Greencare Interior Plants
+article-category: Web Design
+article-category-link: web-design
+article-time: 13 March 2015
+article-hero: /img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg
+article-hero-alt: Greencare Interior Plants Logo Update
+article-tag: Greencare Interior Plants
+article-tag-link: greencare
 ---
-<article id="greencare-project">
+<p>We're giving Houston-based Greencare Interior Plants's website a total transformation, making it more welcoming and not so stiff. Logo differences should give an idea of the new direction. Greencare Interior Plants provides commercial and residential indoor plant care services in Houston, Texas.</p>
+<!-- <article id="greencare-project">
 	<div class="row side-padding text-center" id="two">
 		<p>UPDATE JUNE 2015 :: <br>The redesigned site is complete! Coded in the latest web technologies, the website adapts beautifully on any device.</p>
 		<h3><a href="http://greencaretx.com" class="underlined header" target="_blank">www.GreencareTX.com</a></h3>
@@ -32,4 +41,4 @@ intro-text-h2: A full Site Redesign
 			<a href="http://greencaretx.com" class="underlined header" target="_blank">www.GreencareTX.com</a>
 		</div>
 	</div>
-</article>
+</article> -->

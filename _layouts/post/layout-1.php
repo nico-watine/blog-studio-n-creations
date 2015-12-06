@@ -29,16 +29,16 @@
 <main class="outer-container">
 	<article>
 		<div class="article-header">
-			<h4>Web Design</h4>
-			<h1>New Project - Greencare Interior Plants</h1>
-			<time>13 March 2015</time>
+			<h4><a href="/{{ page.article-category-link }}/">{{ page.article-category }}</a></h4>
+			<h1>{{ page.article-title }}</h1>
+			<time>{{ page.article-time }}</time>
 		</div>
 		<div class="article-body">
-			<img class="article-hero" src="/img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg" alt="Greencare Interior Plants Logo Update">
-			<p>We're giving Houston-based Greencare Interior Plants's website a total transformation, making it more welcoming and not so stiff. Logo differences should give an idea of the new direction. Greencare Interior Plants provides commercial and residential indoor plant care services in Houston, Texas.</p>
+			<img class="article-hero" src="{{ site.blog_cdn }}{{ page.article-hero }}" alt="{{ page.article-hero-alt }}">
+			{{ content }}
 		</div>
 		<div class="article-footer">
-			<h5>Tags | Greencare Interior Plants</h5>
+			<h5>Tags | <a href="/tags/{{ page.article-tag-link }}">{{ page.article-tag }}</a></h5>
 		</div>
 	</article>
 	<aside>
