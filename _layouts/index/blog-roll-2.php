@@ -26,15 +26,15 @@
 		{% for post in site.posts %}
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/{{ post.category-link }}/{{ post.slug }}"><span itemprop="name">{{ post.article-title }}</span></a></h1>
+					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/{{ post.article-category-link }}/{{ post.slug }}"><span itemprop="name">{{ post.article-title }}</span></a></h1>
 					<h2 itemprop="description" class="subtitle">{{ post.article-subtitle }}</h2>
 					<time datetime="{{ post.article-datetime }}T08:00:00-06:00">{{ post.article-time }}</time>
 					<meta itemprop="datePublished" content="{{ post.article-datetime }}T08:00:00-06:00"/>
-					<a itemprop="mainEntityOfPage" href="/{{ post.category-link }}/{{ post.slug }}" class="read-more blue floating">Read More</a>
+					<a itemprop="mainEntityOfPage" href="/{{ post.article-category-link }}/{{ post.slug }}" class="read-more blue floating">Read More</a>
 				</header>
 				<section id="hero-image">
-					<a itemprop="mainEntityOfPage" href="/{{ post.category-link }}/{{ post.slug }}"> 
-						<img itemprop="image" src="{{ site.blog_cdn }}{{ post.link-image }}" alt="{{ post.article-hero-alt }}">
+					<a itemprop="mainEntityOfPage" href="/{{ post.article-category-link }}/{{ post.slug }}"> 
+						<img itemprop="image" src="{{ site.blog_cdn }}{{ post.article-hero }}" alt="{{ post.article-hero-alt }}">
 					</a>
 				</section>
 				<footer id="post-taxonomy">

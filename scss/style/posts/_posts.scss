@@ -1,5 +1,7 @@
-
 @import "../settings/_settings.scss";
+
+@import "_article-layout.scss";
+@import "_standard-post.scss";
 
 $max-800: "only screen and (max-width : 50em)";
 $max-750: "only screen and (max-width : 46.875em)";

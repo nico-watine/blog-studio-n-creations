@@ -1,5 +1,5 @@
 {% include components/head-og.php %}
-<body class="post-layout-1">
+<body class="standard-post">
 {% include blocks/top-bar.html %}
 {% include blocks/nav.html %}
 

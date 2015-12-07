@@ -85,7 +85,7 @@
 		
 	</section>
 	<aside class="sidebar">
-		<div class="widget" id="category-title">
+		<div class="category-title">
 	<div class="row">
 		<h5>TAGGED</h5>
 		<h1>Lisa Esposito</h1>

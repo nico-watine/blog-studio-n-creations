@@ -6,8 +6,8 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="preconnect" href="http://cdn.studioncreations.com">
-	<title>Web Design | Studio N Creations Blog</title>
-	<meta name="description" content="Keep up with the latest projects and happenings here at the Studio N Creations blog" />
+	<title> | Studio N Creations Blog</title>
+	<meta name="description" content="" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 
@@ -168,20 +168,20 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-project"><span itemprop="name">New Project - Greencare Interior Plants</span></a></h1>
+					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//greencare-interior-plants-project"><span itemprop="name">New Project - Greencare Interior Plants</span></a></h1>
 					<h2 itemprop="description" class="subtitle">We're giving Greencare Interior Plants a fresh, new look</h2>
-					<time datetime="2015-03-24T08:00:00-06:00">13 December 2015</time>
+					<time datetime="2015-03-24T08:00:00-06:00">13 March 2015</time>
 					<meta itemprop="datePublished" content="2015-03-24T08:00:00-06:00"/>
-					<a itemprop="mainEntityOfPage" href="/web-design/greencare-project" class="read-more blue floating">Read More</a>
+					<a itemprop="mainEntityOfPage" href="//greencare-interior-plants-project" class="read-more blue floating">Read More</a>
 				</header>
 				<section id="hero-image">
-					<a itemprop="mainEntityOfPage" href="/web-design/greencare-project"> 
-						<img itemprop="image" src="/img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg" alt="Greencare Interior Plants Logo Update">
+					<a itemprop="mainEntityOfPage" href="//greencare-interior-plants-project"> 
+						<img itemprop="image" src="" alt="Greencare Interior Plants Logo Update">
 					</a>
 				</section>
 				<footer id="post-taxonomy">
 					<h4 id="category">Category | <a href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
-					<h4 id="tags">Tags | <a href="/tags/greencare"><span itemprop="keywords">Greencare Interior Plants</span></a></h4>
+					<h4 id="tags">Tags | <a href="/tags/greencare-interior-plants"><span itemprop="keywords">Greencare Interior Plants</span></a></h4>
 				</footer>
 			</article>
 		

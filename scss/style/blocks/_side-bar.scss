@@ -61,7 +61,8 @@ ul.widget-nav {
 	}
 }
 
-.category-title {
+.category-title,
+.tag-title {
 	background: #fff;
 	box-shadow: $z-1;
 	padding: em(16) em(8) em(8);
@@ -77,4 +78,14 @@ ul.widget-nav {
 
 #blog-roll.category-title {
 	margin-bottom: em(18);
+}
+
+#greencare.tag-title {
+	h1 {
+		font-size: rem(38);
+
+		@include media($medium) {
+			font-size: $h3-size;
+		}
+	}
 }

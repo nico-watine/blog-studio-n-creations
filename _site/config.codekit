@@ -458,6 +458,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_layouts\/post\/standard-post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/post\/standard-post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_layouts\/tags\/apps.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -593,7 +602,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/_posts\/2015-03-24-greencare-project.md": {
+	"\/_posts\/2015-03-24-greencare-interior-plants-project.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 0,
 		"enableLabels": 1,
@@ -602,9 +611,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/2015-03-24-greencare-project.md",
+		"inputAbbreviatedPath": "\/_posts\/2015-03-24-greencare-interior-plants-project.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/_posts\/2015-03-24-greencare-project.html",
+		"outputAbbreviatedPath": "\/_posts\/2015-03-24-greencare-interior-plants-project.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -1837,22 +1846,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/scss\/blog.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/scss\/blog.scss",
-		"outputAbbreviatedPath": "\/css\/blog.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 0,
-		"useLibsass": 1
-		},
 	"\/_site\/social\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1880,11 +1873,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/tags\/greencare.php": {
+	"\/_site\/tags\/greencare-interior-plants.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/tags\/greencare.php",
+		"inputAbbreviatedPath": "\/_site\/tags\/greencare-interior-plants.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1963,11 +1956,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/web-design\/greencare-project.html": {
+	"\/_site\/web-design\/greencare-interior-plants-project.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/web-design\/greencare-project.html",
+		"inputAbbreviatedPath": "\/_site\/web-design\/greencare-interior-plants-project.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3773,6 +3766,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
+	"\/scss\/style\/posts\/_standard-post.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/style\/posts\/_standard-post.scss",
+		"outputAbbreviatedPath": "\/css\/_standard-post.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
 	"\/scss\/style\/posts\/apps\/_04-09-gaget.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -4200,11 +4209,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/tags\/greencare.php": {
+	"\/tags\/greencare-interior-plants.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/tags\/greencare.php",
+		"inputAbbreviatedPath": "\/tags\/greencare-interior-plants.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
