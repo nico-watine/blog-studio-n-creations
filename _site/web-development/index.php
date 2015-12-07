@@ -72,42 +72,42 @@
 	<section class="blog-roll">
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
-				<header id="post-titles">
-					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-development/where-have-we-been"><span itemprop="name"></span></a></h1>
-					<h2 itemprop="description" class="subtitle"></h2>
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<a itemprop="mainEntityOfPage" href="/web-development/where-have-we-been" class="read-more blue floating">Read More</a>
-				</header>
-				<section id="hero-image">
-					<a itemprop="mainEntityOfPage" href="/web-development/where-have-we-been"> 
-						<img itemprop="image" src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="">
-					</a>
-				</section>
-				<footer id="post-taxonomy">
-					<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-					<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
-				</footer>
-			</article>
+	<header id="post-titles">
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//where-have-we-been"><span itemprop="name"></span></a></h1>
+		<h2 itemprop="description" class="subtitle"></h2>
+		<time datetime="T08:00:00-06:00"></time>
+		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="//where-have-we-been" class="read-more blue floating">Read More</a>
+	</header>
+	<section id="hero-image">
+		<a itemprop="mainEntityOfPage" href="//where-have-we-been"> 
+			<img itemprop="image" src="" alt="">
+		</a>
+	</section>
+	<footer id="post-taxonomy">
+		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+	</footer>
+</article>
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
-				<header id="post-titles">
-					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-development/gaget-analytics-app"><span itemprop="name"></span></a></h1>
-					<h2 itemprop="description" class="subtitle"></h2>
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<a itemprop="mainEntityOfPage" href="/web-development/gaget-analytics-app" class="read-more blue floating">Read More</a>
-				</header>
-				<section id="hero-image">
-					<a itemprop="mainEntityOfPage" href="/web-development/gaget-analytics-app"> 
-						<img itemprop="image" src="/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg" alt="">
-					</a>
-				</section>
-				<footer id="post-taxonomy">
-					<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-					<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
-				</footer>
-			</article>
+	<header id="post-titles">
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//gaget-analytics-app"><span itemprop="name"></span></a></h1>
+		<h2 itemprop="description" class="subtitle"></h2>
+		<time datetime="T08:00:00-06:00"></time>
+		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="//gaget-analytics-app" class="read-more blue floating">Read More</a>
+	</header>
+	<section id="hero-image">
+		<a itemprop="mainEntityOfPage" href="//gaget-analytics-app"> 
+			<img itemprop="image" src="" alt="">
+		</a>
+	</section>
+	<footer id="post-taxonomy">
+		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+	</footer>
+</article>
 		
 	</section>
 	<aside class="sidebar">

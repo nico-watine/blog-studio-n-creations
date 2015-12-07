@@ -72,156 +72,156 @@
 	<section class="blog-roll">
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
-				<header id="post-titles">
-					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand"><span itemprop="name"></span></a></h1>
-					<h2 itemprop="description" class="subtitle"></h2>
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand" class="read-more blue floating">Read More</a>
-				</header>
-				<section id="hero-image">
-					<a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand"> 
-						<img itemprop="image" src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="">
-					</a>
-				</section>
-				<footer id="post-taxonomy">
-					<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-					<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
-				</footer>
-			</article>
+	<header id="post-titles">
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//updating-jardin-de-france-brand"><span itemprop="name"></span></a></h1>
+		<h2 itemprop="description" class="subtitle"></h2>
+		<time datetime="T08:00:00-06:00"></time>
+		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="//updating-jardin-de-france-brand" class="read-more blue floating">Read More</a>
+	</header>
+	<section id="hero-image">
+		<a itemprop="mainEntityOfPage" href="//updating-jardin-de-france-brand"> 
+			<img itemprop="image" src="" alt="">
+		</a>
+	</section>
+	<footer id="post-taxonomy">
+		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+	</footer>
+</article>
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
-				<header id="post-titles">
-					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-post"><span itemprop="name"></span></a></h1>
-					<h2 itemprop="description" class="subtitle"></h2>
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-post" class="read-more blue floating">Read More</a>
-				</header>
-				<section id="hero-image">
-					<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-post"> 
-						<img itemprop="image" src="/img/post-attachments/projects/houston-uncovered/4-18/link-banner@2x.jpg" alt="">
-					</a>
-				</section>
-				<footer id="post-taxonomy">
-					<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-					<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
-				</footer>
-			</article>
+	<header id="post-titles">
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//houston-uncovered-post"><span itemprop="name"></span></a></h1>
+		<h2 itemprop="description" class="subtitle"></h2>
+		<time datetime="T08:00:00-06:00"></time>
+		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="//houston-uncovered-post" class="read-more blue floating">Read More</a>
+	</header>
+	<section id="hero-image">
+		<a itemprop="mainEntityOfPage" href="//houston-uncovered-post"> 
+			<img itemprop="image" src="" alt="">
+		</a>
+	</section>
+	<footer id="post-taxonomy">
+		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+	</footer>
+</article>
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
-				<header id="post-titles">
-					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/lemon-peel-facial-logo"><span itemprop="name"></span></a></h1>
-					<h2 itemprop="description" class="subtitle"></h2>
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<a itemprop="mainEntityOfPage" href="/web-design/lemon-peel-facial-logo" class="read-more blue floating">Read More</a>
-				</header>
-				<section id="hero-image">
-					<a itemprop="mainEntityOfPage" href="/web-design/lemon-peel-facial-logo"> 
-						<img itemprop="image" src="/img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg" alt="">
-					</a>
-				</section>
-				<footer id="post-taxonomy">
-					<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-					<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
-				</footer>
-			</article>
+	<header id="post-titles">
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//lemon-peel-facial-logo"><span itemprop="name"></span></a></h1>
+		<h2 itemprop="description" class="subtitle"></h2>
+		<time datetime="T08:00:00-06:00"></time>
+		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="//lemon-peel-facial-logo" class="read-more blue floating">Read More</a>
+	</header>
+	<section id="hero-image">
+		<a itemprop="mainEntityOfPage" href="//lemon-peel-facial-logo"> 
+			<img itemprop="image" src="" alt="">
+		</a>
+	</section>
+	<footer id="post-taxonomy">
+		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+	</footer>
+</article>
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
-				<header id="post-titles">
-					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-skeleton-setup"><span itemprop="name"></span></a></h1>
-					<h2 itemprop="description" class="subtitle"></h2>
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<a itemprop="mainEntityOfPage" href="/web-design/greencare-skeleton-setup" class="read-more blue floating">Read More</a>
-				</header>
-				<section id="hero-image">
-					<a itemprop="mainEntityOfPage" href="/web-design/greencare-skeleton-setup"> 
-						<img itemprop="image" src="/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg" alt="">
-					</a>
-				</section>
-				<footer id="post-taxonomy">
-					<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-					<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
-				</footer>
-			</article>
+	<header id="post-titles">
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//greencare-skeleton-setup"><span itemprop="name"></span></a></h1>
+		<h2 itemprop="description" class="subtitle"></h2>
+		<time datetime="T08:00:00-06:00"></time>
+		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="//greencare-skeleton-setup" class="read-more blue floating">Read More</a>
+	</header>
+	<section id="hero-image">
+		<a itemprop="mainEntityOfPage" href="//greencare-skeleton-setup"> 
+			<img itemprop="image" src="" alt="">
+		</a>
+	</section>
+	<footer id="post-taxonomy">
+		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+	</footer>
+</article>
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
-				<header id="post-titles">
-					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/dr-esposito-wrap-up"><span itemprop="name"></span></a></h1>
-					<h2 itemprop="description" class="subtitle"></h2>
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<a itemprop="mainEntityOfPage" href="/web-design/dr-esposito-wrap-up" class="read-more blue floating">Read More</a>
-				</header>
-				<section id="hero-image">
-					<a itemprop="mainEntityOfPage" href="/web-design/dr-esposito-wrap-up"> 
-						<img itemprop="image" src="/img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg" alt="">
-					</a>
-				</section>
-				<footer id="post-taxonomy">
-					<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-					<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
-				</footer>
-			</article>
+	<header id="post-titles">
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//dr-esposito-wrap-up"><span itemprop="name"></span></a></h1>
+		<h2 itemprop="description" class="subtitle"></h2>
+		<time datetime="T08:00:00-06:00"></time>
+		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="//dr-esposito-wrap-up" class="read-more blue floating">Read More</a>
+	</header>
+	<section id="hero-image">
+		<a itemprop="mainEntityOfPage" href="//dr-esposito-wrap-up"> 
+			<img itemprop="image" src="" alt="">
+		</a>
+	</section>
+	<footer id="post-taxonomy">
+		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+	</footer>
+</article>
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
-				<header id="post-titles">
-					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//greencare-interior-plants-project"><span itemprop="name">New Project - Greencare Interior Plants</span></a></h1>
-					<h2 itemprop="description" class="subtitle">We're giving Greencare Interior Plants a fresh, new look</h2>
-					<time datetime="2015-03-24T08:00:00-06:00">13 March 2015</time>
-					<meta itemprop="datePublished" content="2015-03-24T08:00:00-06:00"/>
-					<a itemprop="mainEntityOfPage" href="//greencare-interior-plants-project" class="read-more blue floating">Read More</a>
-				</header>
-				<section id="hero-image">
-					<a itemprop="mainEntityOfPage" href="//greencare-interior-plants-project"> 
-						<img itemprop="image" src="" alt="Greencare Interior Plants Logo Update">
-					</a>
-				</section>
-				<footer id="post-taxonomy">
-					<h4 id="category">Category | <a href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
-					<h4 id="tags">Tags | <a href="/tags/greencare-interior-plants"><span itemprop="keywords">Greencare Interior Plants</span></a></h4>
-				</footer>
-			</article>
+	<header id="post-titles">
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-project"><span itemprop="name">New Project - Greencare Interior Plants</span></a></h1>
+		<h2 itemprop="description" class="subtitle">We're giving Greencare Interior Plants a fresh, new look</h2>
+		<time datetime="2015-03-24T08:00:00-06:00">13 March 2015</time>
+		<meta itemprop="datePublished" content="2015-03-24T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-project" class="read-more blue floating">Read More</a>
+	</header>
+	<section id="hero-image">
+		<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-project"> 
+			<img itemprop="image" src="/img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg" alt="Greencare Interior Plants Logo Update">
+		</a>
+	</section>
+	<footer id="post-taxonomy">
+		<h4 id="category">Category | <a href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/greencare-interior-plants"><span itemprop="keywords">Greencare Interior Plants</span></a></h4>
+	</footer>
+</article>
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
-				<header id="post-titles">
-					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-preview"><span itemprop="name"></span></a></h1>
-					<h2 itemprop="description" class="subtitle"></h2>
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-preview" class="read-more blue floating">Read More</a>
-				</header>
-				<section id="hero-image">
-					<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-preview"> 
-						<img itemprop="image" src="/img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg" alt="">
-					</a>
-				</section>
-				<footer id="post-taxonomy">
-					<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-					<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
-				</footer>
-			</article>
+	<header id="post-titles">
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//houston-uncovered-preview"><span itemprop="name"></span></a></h1>
+		<h2 itemprop="description" class="subtitle"></h2>
+		<time datetime="T08:00:00-06:00"></time>
+		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="//houston-uncovered-preview" class="read-more blue floating">Read More</a>
+	</header>
+	<section id="hero-image">
+		<a itemprop="mainEntityOfPage" href="//houston-uncovered-preview"> 
+			<img itemprop="image" src="" alt="">
+		</a>
+	</section>
+	<footer id="post-taxonomy">
+		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+	</footer>
+</article>
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
-				<header id="post-titles">
-					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/new-lisa-esposito-project"><span itemprop="name"></span></a></h1>
-					<h2 itemprop="description" class="subtitle"></h2>
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<a itemprop="mainEntityOfPage" href="/web-design/new-lisa-esposito-project" class="read-more blue floating">Read More</a>
-				</header>
-				<section id="hero-image">
-					<a itemprop="mainEntityOfPage" href="/web-design/new-lisa-esposito-project"> 
-						<img itemprop="image" src="/img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg" alt="">
-					</a>
-				</section>
-				<footer id="post-taxonomy">
-					<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-					<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
-				</footer>
-			</article>
+	<header id="post-titles">
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//new-lisa-esposito-project"><span itemprop="name"></span></a></h1>
+		<h2 itemprop="description" class="subtitle"></h2>
+		<time datetime="T08:00:00-06:00"></time>
+		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="//new-lisa-esposito-project" class="read-more blue floating">Read More</a>
+	</header>
+	<section id="hero-image">
+		<a itemprop="mainEntityOfPage" href="//new-lisa-esposito-project"> 
+			<img itemprop="image" src="" alt="">
+		</a>
+	</section>
+	<footer id="post-taxonomy">
+		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+	</footer>
+</article>
 		
 	</section>
 	<aside class="sidebar">

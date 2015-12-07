@@ -72,61 +72,61 @@
 	<section class="blog-roll">
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
-				<header id="post-titles">
-					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/houston-oculofacial-spring-postcard"><span itemprop="name"></span></a></h1>
-					<h2 itemprop="description" class="subtitle"></h2>
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<a itemprop="mainEntityOfPage" href="/print-work/houston-oculofacial-spring-postcard" class="read-more blue floating">Read More</a>
-				</header>
-				<section id="hero-image">
-					<a itemprop="mainEntityOfPage" href="/print-work/houston-oculofacial-spring-postcard"> 
-						<img itemprop="image" src="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" alt="">
-					</a>
-				</section>
-				<footer id="post-taxonomy">
-					<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-					<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
-				</footer>
-			</article>
+	<header id="post-titles">
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//houston-oculofacial-spring-postcard"><span itemprop="name"></span></a></h1>
+		<h2 itemprop="description" class="subtitle"></h2>
+		<time datetime="T08:00:00-06:00"></time>
+		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="//houston-oculofacial-spring-postcard" class="read-more blue floating">Read More</a>
+	</header>
+	<section id="hero-image">
+		<a itemprop="mainEntityOfPage" href="//houston-oculofacial-spring-postcard"> 
+			<img itemprop="image" src="" alt="">
+		</a>
+	</section>
+	<footer id="post-taxonomy">
+		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+	</footer>
+</article>
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
-				<header id="post-titles">
-					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples"><span itemprop="name"></span></a></h1>
-					<h2 itemprop="description" class="subtitle"></h2>
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples" class="read-more blue floating">Read More</a>
-				</header>
-				<section id="hero-image">
-					<a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples"> 
-						<img itemprop="image" src="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" alt="">
-					</a>
-				</section>
-				<footer id="post-taxonomy">
-					<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-					<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
-				</footer>
-			</article>
+	<header id="post-titles">
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//jardin-de-france-tag-examples"><span itemprop="name"></span></a></h1>
+		<h2 itemprop="description" class="subtitle"></h2>
+		<time datetime="T08:00:00-06:00"></time>
+		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="//jardin-de-france-tag-examples" class="read-more blue floating">Read More</a>
+	</header>
+	<section id="hero-image">
+		<a itemprop="mainEntityOfPage" href="//jardin-de-france-tag-examples"> 
+			<img itemprop="image" src="" alt="">
+		</a>
+	</section>
+	<footer id="post-taxonomy">
+		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+	</footer>
+</article>
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
-				<header id="post-titles">
-					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/jdf-branding"><span itemprop="name"></span></a></h1>
-					<h2 itemprop="description" class="subtitle"></h2>
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<a itemprop="mainEntityOfPage" href="/print-work/jdf-branding" class="read-more blue floating">Read More</a>
-				</header>
-				<section id="hero-image">
-					<a itemprop="mainEntityOfPage" href="/print-work/jdf-branding"> 
-						<img itemprop="image" src="/img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg" alt="">
-					</a>
-				</section>
-				<footer id="post-taxonomy">
-					<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-					<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
-				</footer>
-			</article>
+	<header id="post-titles">
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//jdf-branding"><span itemprop="name"></span></a></h1>
+		<h2 itemprop="description" class="subtitle"></h2>
+		<time datetime="T08:00:00-06:00"></time>
+		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="//jdf-branding" class="read-more blue floating">Read More</a>
+	</header>
+	<section id="hero-image">
+		<a itemprop="mainEntityOfPage" href="//jdf-branding"> 
+			<img itemprop="image" src="" alt="">
+		</a>
+	</section>
+	<footer id="post-taxonomy">
+		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+	</footer>
+</article>
 		
 	</section>
 	<aside class="sidebar">

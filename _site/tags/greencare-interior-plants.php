@@ -72,32 +72,45 @@
 	<section class="blog-roll">
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
-				<header id="post-titles">
-					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-skeleton-setup"><span itemprop="name"></span></a></h1>
-					<h2 itemprop="description" class="subtitle"></h2>
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<a itemprop="mainEntityOfPage" href="/web-design/greencare-skeleton-setup" class="read-more blue floating">Read More</a>
-				</header>
-				<section id="hero-image">
-					<a itemprop="mainEntityOfPage" href="/web-design/greencare-skeleton-setup"> 
-						<img itemprop="image" src="/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg" alt="">
-					</a>
-				</section>
-				<footer id="post-taxonomy">
-					<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-					<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
-				</footer>
-			</article>
+	<header id="post-titles">
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//greencare-skeleton-setup"><span itemprop="name"></span></a></h1>
+		<h2 itemprop="description" class="subtitle"></h2>
+		<time datetime="T08:00:00-06:00"></time>
+		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="//greencare-skeleton-setup" class="read-more blue floating">Read More</a>
+	</header>
+	<section id="hero-image">
+		<a itemprop="mainEntityOfPage" href="//greencare-skeleton-setup"> 
+			<img itemprop="image" src="" alt="">
+		</a>
+	</section>
+	<footer id="post-taxonomy">
+		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+	</footer>
+</article>
+		
+			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+	<header id="post-titles">
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-project"><span itemprop="name">New Project - Greencare Interior Plants</span></a></h1>
+		<h2 itemprop="description" class="subtitle">We're giving Greencare Interior Plants a fresh, new look</h2>
+		<time datetime="2015-03-24T08:00:00-06:00">13 March 2015</time>
+		<meta itemprop="datePublished" content="2015-03-24T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-project" class="read-more blue floating">Read More</a>
+	</header>
+	<section id="hero-image">
+		<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-project"> 
+			<img itemprop="image" src="/img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg" alt="Greencare Interior Plants Logo Update">
+		</a>
+	</section>
+	<footer id="post-taxonomy">
+		<h4 id="category">Category | <a href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/greencare-interior-plants"><span itemprop="keywords">Greencare Interior Plants</span></a></h4>
+	</footer>
+</article>
 		
 	</section>
 	<aside class="sidebar">
-		<!-- <div class="category-title">
-	<div class="row">
-		<h5>TAGGED</h5>
-		<h1>Greencare Interior Plants</h1>
-	</div>
-</div> -->
 		<div id="greencare" class="tag-title">
 			<div class="row">
 				<h5>TAGGED</h5>
