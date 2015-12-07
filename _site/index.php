@@ -337,7 +337,14 @@
 		
 	</section>
 	<aside>
-		<nav class="category-nav">
+		<div id="blog-roll" class="category-title">
+	<div class="row">
+		<!-- <h5>POST CATEGORY</h5> -->
+		<h1>Home</h1>
+	</div>
+</div>
+
+<nav class="category-nav">
 	<h3>CATEGORIES</h3>
 	<ul class="widget-nav">
 		<li><a href="/web-design/" class="blue floating">Web Design</a></li>

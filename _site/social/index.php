@@ -37,7 +37,7 @@
 		
 	</section>
 	<aside class="sidebar">
-		<div class="widget" id="category-title">
+		<div class="category-title">
 	<div class="row">
 		<h5>POST CATEGORY</h5>
 		<h1>Social</h1>

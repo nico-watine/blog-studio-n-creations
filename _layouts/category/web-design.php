@@ -1,48 +1,39 @@
-{% include components/head.php %}
+{% include components/head-og.php %}
 
-<body>
+<body class="blog-index">
 {% include blocks/top-bar.html %}
+{% include blocks/nav.html %}
 
 <main class="outer-container">
 	<section class="blog-roll">
 		{% for post in site.categories.web-design %}
-			<article class="post-link">
-				<header class="row" id="post-details">
-					<div class="post-date"> 
-						<h3 id="day">{{ post.day }}</h3>
-						<h3 id="month">{{ post.month }}</h3>
-					</div>
-					<div class="post-head">
-						<a href="/{{ post.category-link }}/{{ post.slug }}" class="index-page-post-link">
-							<h2 class="link-title">{{ post.title }}</h2>
-						</a>	
-						<h4 class="link-subtitle">{{ post.excerpt }}</h4>
-					</div>
+			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+				<header id="post-titles">
+					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/{{ post.category-link }}/{{ post.slug }}"><span itemprop="name">{{ post.article-title }}</span></a></h1>
+					<h2 itemprop="description" class="subtitle">{{ post.article-subtitle }}</h2>
+					<time datetime="{{ post.article-datetime }}T08:00:00-06:00">{{ post.article-time }}</time>
+					<meta itemprop="datePublished" content="{{ post.article-datetime }}T08:00:00-06:00"/>
+					<a itemprop="mainEntityOfPage" href="/{{ post.category-link }}/{{ post.slug }}" class="read-more blue floating">Read More</a>
 				</header>
-				<div class="row" id="img-row">
-					<a href="/{{ post.category-link }}/{{ post.slug }}"> 
-						<img src="{{ site.blog_cdn }}{{ post.link-image }}" alt="">
+				<section id="hero-image">
+					<a itemprop="mainEntityOfPage" href="/{{ post.category-link }}/{{ post.slug }}"> 
+						<img itemprop="image" src="{{ site.blog_cdn }}{{ post.link-image }}" alt="{{ post.article-hero-alt }}">
 					</a>
-				</div>
-				<div class="row" id="post-taxonomy">
-					<h6>Filed Under: <a href="/{{ post.category }}/">{{ post.category }}</a></h6>
-					<h6>Tags: <a href="/tags/{{ post.tags }}">{{ post.tags }}</a></h6>
-				</div>
+				</section>
+				<footer id="post-taxonomy">
+					<h4 id="category">Category | <a href="/{{ post.article-category-link }}/"><span itemprop="genre">{{ post.article-category }}</span></a></h4>
+					<h4 id="tags">Tags | <a href="/tags/{{ post.article-tag-link }}"><span itemprop="keywords">{{ post.article-tag }}</span></a></h4>
+				</footer>
 			</article>
 		{% endfor %}
 	</section>
 	<aside class="sidebar">
 		{% include blocks/side-bar/category-title.html %}
-		{% include blocks/side-bar/category-widget.html %}
+		{% include blocks/side-bar/category-nav.html %}
 	</aside>
 </main>
 
 {% include blocks/footer.html %}
-
-{% include blocks/nav.html %}
-
 {% include components/scripts/scripts.php %}
- 
-
 </body>
 </html> 

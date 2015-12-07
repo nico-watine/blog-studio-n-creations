@@ -45,7 +45,7 @@
 		{% endfor %}
 	</section>
 	<aside>
-		{% include blocks/side-bar/category-nav.html %}
+		{% include blocks/side-bar/index-nav.html %}
 	</aside>
 </main>
 

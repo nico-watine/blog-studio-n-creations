@@ -1,6 +1,6 @@
 ---
 layout: category/web-development
-title: Web Development
+title: Web Dev
 name: web-development
 slug: web-development
 ---
