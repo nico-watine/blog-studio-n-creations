@@ -1,7 +1,7 @@
 @import "../settings/_settings.scss";
 
-$max-610: "only screen and (max-width : 38.125em)";
 $max-500: "only screen and (max-width : 31.250em)";
+
 
 .blog-index {
 	section.blog-roll {
@@ -99,38 +99,6 @@ $max-500: "only screen and (max-width : 31.250em)";
 	}
 }
 
-// @media #{$max-610} {
-// 	.blog-index {
-// 		section.blog-roll {
-// 			article.post-summary {
-// 				header#post-titles {
-// 					// margin-bottom: em(20);
-
-// 					h1 {
-// 						font-size: rem(31);
-// 					}
-
-// 					// h4,
-// 					time {
-// 						font-size: rem(16);
-// 					}
-// 				}
-
-// 				// #article-body {
-// 				// 	margin-bottom: em(20);
-
-// 				// 	img.article-hero {
-// 				// 		margin-bottom: em(30);
-// 				// 	}
-
-// 				// 	p {
-// 				// 		font-size: rem(18);
-// 				// 	}
-// 				// }
-// 			}
-// 		}
-// 	}	
-// }
 
 @media #{$max-500} {
 	.blog-index {
