@@ -15,9 +15,8 @@ $max-500: "only screen and (max-width : 31.250em)";
 			box-shadow: $z-1;
 
 			header {
-				text-align: center;
 				@include row;
-				margin-bottom: em(40);
+				margin-bottom: em(30);
 
 				h4 {
 					text-transform: uppercase;
@@ -28,10 +27,12 @@ $max-500: "only screen and (max-width : 31.250em)";
 
 				h1 {
 					font-size: rem(42);
+					margin: rem(6) 0 rem(8);
 				}
 
 				h2 {
 					font-size: rem(24);
+					margin-bottom: rem(20);
 				}
 
 				time {
@@ -48,7 +49,7 @@ $max-500: "only screen and (max-width : 31.250em)";
 
 				img.article-hero {
 					border: em(1) solid #333;
-					margin-bottom: em(40);
+					margin-bottom: em(30);
 				}
 
 				p {
@@ -58,6 +59,7 @@ $max-500: "only screen and (max-width : 31.250em)";
 
 			footer {
 				@include row;
+				text-align: left;
 			}
 		}
 
@@ -111,6 +113,10 @@ $max-500: "only screen and (max-width : 31.250em)";
 
 					h1 {
 						font-size: rem(31);
+					}
+
+					h2 {
+						margin-bottom: rem(14);
 					}
 
 					h4,

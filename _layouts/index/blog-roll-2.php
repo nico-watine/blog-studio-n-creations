@@ -26,8 +26,6 @@
 		{% for post in site.posts %}
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-<!-- 					<time datetime="{{ post.article-datetime }}T08:00:00-06:00">{{ post.article-time }}</time>
-					<meta itemprop="datePublished" content="{{ post.article-datetime }}T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/{{ post.category-link }}/{{ post.slug }}"><span itemprop="name">{{ post.article-title }}</span></a></h1>
 					<h2 itemprop="description" class="subtitle">{{ post.article-subtitle }}</h2>
 					<time datetime="{{ post.article-datetime }}T08:00:00-06:00">{{ post.article-time }}</time>

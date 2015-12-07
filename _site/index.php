@@ -90,8 +90,6 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-<!-- 					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-development/where-have-we-been"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 					<time datetime="T08:00:00-06:00"></time>
@@ -111,8 +109,6 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-<!-- 					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 					<time datetime="T08:00:00-06:00"></time>
@@ -132,8 +128,6 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-<!-- 					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-post"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 					<time datetime="T08:00:00-06:00"></time>
@@ -153,8 +147,6 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-<!-- 					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-development/gaget-analytics-app"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 					<time datetime="T08:00:00-06:00"></time>
@@ -174,8 +166,6 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-<!-- 					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/lemon-peel-facial-logo"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 					<time datetime="T08:00:00-06:00"></time>
@@ -195,8 +185,6 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-<!-- 					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/houston-oculofacial-spring-postcard"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 					<time datetime="T08:00:00-06:00"></time>
@@ -216,8 +204,6 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-<!-- 					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-skeleton-setup"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 					<time datetime="T08:00:00-06:00"></time>
@@ -237,8 +223,6 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-<!-- 					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 					<time datetime="T08:00:00-06:00"></time>
@@ -258,8 +242,6 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-<!-- 					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/dr-esposito-wrap-up"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 					<time datetime="T08:00:00-06:00"></time>
@@ -279,8 +261,6 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-<!-- 					<time datetime="2015-03-24T08:00:00-06:00">13 December 2015</time>
-					<meta itemprop="datePublished" content="2015-03-24T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-project"><span itemprop="name">New Project - Greencare Interior Plants</span></a></h1>
 					<h2 itemprop="description" class="subtitle">We're giving Greencare Interior Plants a fresh, new look</h2>
 					<time datetime="2015-03-24T08:00:00-06:00">13 December 2015</time>
@@ -300,8 +280,6 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-<!-- 					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-preview"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 					<time datetime="T08:00:00-06:00"></time>
@@ -321,8 +299,6 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-<!-- 					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/jdf-branding"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 					<time datetime="T08:00:00-06:00"></time>
@@ -342,8 +318,6 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-<!-- 					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/new-lisa-esposito-project"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 					<time datetime="T08:00:00-06:00"></time>
@@ -364,11 +338,11 @@
 	</section>
 	<aside>
 		<nav class="category-nav">
-	<h5>CATEGORIES</h5>
+	<h3>CATEGORIES</h3>
 	<ul class="widget-nav">
-		<li><a href="/web-design/" class="blue-float-button">Web Design</a></li>
-		<li><a href="/print-work/" class="blue-float-button">Print Work</a></li>
-		<li><a href="/web-development/" class="blue-float-button">Web Development</a></li>
+		<li><a href="/web-design/" class="blue floating">Web Design</a></li>
+		<li><a href="/print-work/" class="blue floating">Print Work</a></li>
+		<li><a href="/web-development/" class="blue floating">Web Development</a></li>
 	</ul>
 </nav>
 	</aside>
