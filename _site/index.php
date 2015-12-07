@@ -269,7 +269,7 @@
 				</header>
 				<section id="hero-image">
 					<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-project"> 
-						<img itemprop="image" src="" alt="Greencare Interior Plants Logo Update">
+						<img itemprop="image" src="/img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg" alt="Greencare Interior Plants Logo Update">
 					</a>
 				</section>
 				<footer id="post-taxonomy">

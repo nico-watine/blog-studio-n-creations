@@ -1,5 +1,5 @@
 ---
-layout: index/blog-roll-2
+layout: index/blog-index
 title: Blog Roll
 slug: home
 ---
