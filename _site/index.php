@@ -88,16 +88,16 @@
 <main class="outer-container">
 	<section class="blog-roll">
 		
-			<article class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
 					<time datetime="T08:00:00-06:00"></time>
 					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<h1 itemprop="headline"></h1>
+					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-development/where-have-we-been"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 				</header>
 				<section id="hero-image">
-					<a href="/web-development/where-have-we-been"> 
-						<img src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="">
+					<a itemprop="mainEntityOfPage" href="/web-development/where-have-we-been"> 
+						<img itemprop="image" src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="">
 					</a>
 				</section>
 				<footer id="post-taxonomy">
@@ -106,16 +106,16 @@
 				</footer>
 			</article>
 		
-			<article class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
 					<time datetime="T08:00:00-06:00"></time>
 					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<h1 itemprop="headline"></h1>
+					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 				</header>
 				<section id="hero-image">
-					<a href="/web-design/updating-jardin-de-france-brand"> 
-						<img src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="">
+					<a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand"> 
+						<img itemprop="image" src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="">
 					</a>
 				</section>
 				<footer id="post-taxonomy">
@@ -124,16 +124,16 @@
 				</footer>
 			</article>
 		
-			<article class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
 					<time datetime="T08:00:00-06:00"></time>
 					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<h1 itemprop="headline"></h1>
+					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-post"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 				</header>
 				<section id="hero-image">
-					<a href="/web-design/houston-uncovered-post"> 
-						<img src="/img/post-attachments/projects/houston-uncovered/4-18/link-banner@2x.jpg" alt="">
+					<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-post"> 
+						<img itemprop="image" src="/img/post-attachments/projects/houston-uncovered/4-18/link-banner@2x.jpg" alt="">
 					</a>
 				</section>
 				<footer id="post-taxonomy">
@@ -142,16 +142,16 @@
 				</footer>
 			</article>
 		
-			<article class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
 					<time datetime="T08:00:00-06:00"></time>
 					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<h1 itemprop="headline"></h1>
+					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-development/gaget-analytics-app"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 				</header>
 				<section id="hero-image">
-					<a href="/web-development/gaget-analytics-app"> 
-						<img src="/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg" alt="">
+					<a itemprop="mainEntityOfPage" href="/web-development/gaget-analytics-app"> 
+						<img itemprop="image" src="/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg" alt="">
 					</a>
 				</section>
 				<footer id="post-taxonomy">
@@ -160,16 +160,16 @@
 				</footer>
 			</article>
 		
-			<article class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
 					<time datetime="T08:00:00-06:00"></time>
 					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<h1 itemprop="headline"></h1>
+					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/lemon-peel-facial-logo"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 				</header>
 				<section id="hero-image">
-					<a href="/web-design/lemon-peel-facial-logo"> 
-						<img src="/img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg" alt="">
+					<a itemprop="mainEntityOfPage" href="/web-design/lemon-peel-facial-logo"> 
+						<img itemprop="image" src="/img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg" alt="">
 					</a>
 				</section>
 				<footer id="post-taxonomy">
@@ -178,16 +178,16 @@
 				</footer>
 			</article>
 		
-			<article class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
 					<time datetime="T08:00:00-06:00"></time>
 					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<h1 itemprop="headline"></h1>
+					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/houston-oculofacial-spring-postcard"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 				</header>
 				<section id="hero-image">
-					<a href="/print-work/houston-oculofacial-spring-postcard"> 
-						<img src="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" alt="">
+					<a itemprop="mainEntityOfPage" href="/print-work/houston-oculofacial-spring-postcard"> 
+						<img itemprop="image" src="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" alt="">
 					</a>
 				</section>
 				<footer id="post-taxonomy">
@@ -196,16 +196,16 @@
 				</footer>
 			</article>
 		
-			<article class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
 					<time datetime="T08:00:00-06:00"></time>
 					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<h1 itemprop="headline"></h1>
+					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-skeleton-setup"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 				</header>
 				<section id="hero-image">
-					<a href="/web-design/greencare-skeleton-setup"> 
-						<img src="/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg" alt="">
+					<a itemprop="mainEntityOfPage" href="/web-design/greencare-skeleton-setup"> 
+						<img itemprop="image" src="/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg" alt="">
 					</a>
 				</section>
 				<footer id="post-taxonomy">
@@ -214,16 +214,16 @@
 				</footer>
 			</article>
 		
-			<article class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
 					<time datetime="T08:00:00-06:00"></time>
 					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<h1 itemprop="headline"></h1>
+					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 				</header>
 				<section id="hero-image">
-					<a href="/print-work/jardin-de-france-tag-examples"> 
-						<img src="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" alt="">
+					<a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples"> 
+						<img itemprop="image" src="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" alt="">
 					</a>
 				</section>
 				<footer id="post-taxonomy">
@@ -232,16 +232,16 @@
 				</footer>
 			</article>
 		
-			<article class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
 					<time datetime="T08:00:00-06:00"></time>
 					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<h1 itemprop="headline"></h1>
+					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/dr-esposito-wrap-up"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 				</header>
 				<section id="hero-image">
-					<a href="/web-design/dr-esposito-wrap-up"> 
-						<img src="/img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg" alt="">
+					<a itemprop="mainEntityOfPage" href="/web-design/dr-esposito-wrap-up"> 
+						<img itemprop="image" src="/img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg" alt="">
 					</a>
 				</section>
 				<footer id="post-taxonomy">
@@ -250,16 +250,16 @@
 				</footer>
 			</article>
 		
-			<article class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
 					<time datetime="2015-03-24T08:00:00-06:00">13 March 2015</time>
 					<meta itemprop="datePublished" content="2015-03-24T08:00:00-06:00"/>
-					<h1 itemprop="headline">New Project - Greencare Interior Plants</h1>
+					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-project"><span itemprop="name">New Project - Greencare Interior Plants</span></a></h1>
 					<h2 itemprop="description" class="subtitle">We're giving Greencare Interior Plants a fresh, new look</h2>
 				</header>
 				<section id="hero-image">
-					<a href="/web-design/greencare-project"> 
-						<img src="/img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg" alt="">
+					<a itemprop="mainEntityOfPage" href="/web-design/greencare-project"> 
+						<img itemprop="image" src="/img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg" alt="Greencare Interior Plants Logo Update">
 					</a>
 				</section>
 				<footer id="post-taxonomy">
@@ -268,16 +268,16 @@
 				</footer>
 			</article>
 		
-			<article class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
 					<time datetime="T08:00:00-06:00"></time>
 					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<h1 itemprop="headline"></h1>
+					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-preview"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 				</header>
 				<section id="hero-image">
-					<a href="/web-design/houston-uncovered-preview"> 
-						<img src="/img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg" alt="">
+					<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-preview"> 
+						<img itemprop="image" src="/img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg" alt="">
 					</a>
 				</section>
 				<footer id="post-taxonomy">
@@ -286,16 +286,16 @@
 				</footer>
 			</article>
 		
-			<article class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
 					<time datetime="T08:00:00-06:00"></time>
 					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<h1 itemprop="headline"></h1>
+					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/jdf-branding"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 				</header>
 				<section id="hero-image">
-					<a href="/print-work/jdf-branding"> 
-						<img src="/img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg" alt="">
+					<a itemprop="mainEntityOfPage" href="/print-work/jdf-branding"> 
+						<img itemprop="image" src="/img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg" alt="">
 					</a>
 				</section>
 				<footer id="post-taxonomy">
@@ -304,16 +304,16 @@
 				</footer>
 			</article>
 		
-			<article class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
 					<time datetime="T08:00:00-06:00"></time>
 					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-					<h1 itemprop="headline"></h1>
+					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/new-lisa-esposito-project"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
 				</header>
 				<section id="hero-image">
-					<a href="/web-design/new-lisa-esposito-project"> 
-						<img src="/img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg" alt="">
+					<a itemprop="mainEntityOfPage" href="/web-design/new-lisa-esposito-project"> 
+						<img itemprop="image" src="/img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg" alt="">
 					</a>
 				</section>
 				<footer id="post-taxonomy">

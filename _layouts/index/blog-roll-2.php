@@ -24,16 +24,16 @@
 <main class="outer-container">
 	<section class="blog-roll">
 		{% for post in site.posts %}
-			<article class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
 					<time datetime="{{ post.article-datetime }}T08:00:00-06:00">{{ post.article-time }}</time>
 					<meta itemprop="datePublished" content="{{ post.article-datetime }}T08:00:00-06:00"/>
-					<h1 itemprop="headline">{{ post.article-title }}</h1>
+					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/{{ post.category-link }}/{{ post.slug }}"><span itemprop="name">{{ post.article-title }}</span></a></h1>
 					<h2 itemprop="description" class="subtitle">{{ post.article-subtitle }}</h2>
 				</header>
 				<section id="hero-image">
-					<a href="/{{ post.category-link }}/{{ post.slug }}"> 
-						<img src="{{ site.blog_cdn }}{{ post.link-image }}" alt="">
+					<a itemprop="mainEntityOfPage" href="/{{ post.category-link }}/{{ post.slug }}"> 
+						<img itemprop="image" src="{{ site.blog_cdn }}{{ post.link-image }}" alt="{{ post.article-hero-alt }}">
 					</a>
 				</section>
 				<footer id="post-taxonomy">
