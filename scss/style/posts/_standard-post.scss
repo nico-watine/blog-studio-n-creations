@@ -94,7 +94,7 @@ $max-500: "only screen and (max-width : 31.250em)";
 }
 
 @include media($medium) {
-	.post-layout-2 {
+	.standard-post {
 		main {
 			article,
 			aside {
@@ -105,7 +105,7 @@ $max-500: "only screen and (max-width : 31.250em)";
 }
 
 @media #{$max-610} {
-	.post-layout-2 {
+	.standard-post {
 		main {
 			article {
 				header {
@@ -142,7 +142,7 @@ $max-500: "only screen and (max-width : 31.250em)";
 }
 
 @media #{$max-500} {
-	.post-layout-2 {
+	.standard-post {
 		main {
 			article {
 				header {

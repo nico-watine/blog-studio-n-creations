@@ -61,6 +61,11 @@ code { font-family: Consolas, "Liberation Mono", Courier, monospace; font-weight
 
 header.top-bar .outer-container { padding-top: 0; }
 
+.one-half { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
+.one-half:last-child { margin-right: 0; }
+@media screen and (max-width: 46.875em) { .one-half { float: left; display: block; margin-right: 2.35765%; width: 100%; }
+  .one-half:last-child { margin-right: 0; } }
+
 body { background: #f9f9f9; }
 
 header#site-header { height: 3.4375em; padding-top: 3.4375em; width: 100%; }
@@ -178,16 +183,16 @@ ul.widget-nav { list-style: none; padding: 0; margin: 0; }
 .standard-post main aside .widget-nav li a:hover { color: #fff; }
 .standard-post main aside .widget-nav li:hover { background-color: #566270; }
 
-@media screen and (max-width: 46.875em) { .post-layout-2 main article, .post-layout-2 main aside { float: left; display: block; margin-right: 2.35765%; width: 100%; }
-  .post-layout-2 main article:last-child, .post-layout-2 main aside:last-child { margin-right: 0; } }
-@media only screen and (max-width: 38.125em) { .post-layout-2 main article header { margin-bottom: 1.25em; }
-  .post-layout-2 main article header h1 { font-size: 1.9375rem; }
-  .post-layout-2 main article header h2 { margin-bottom: 0.875rem; }
-  .post-layout-2 main article header h4, .post-layout-2 main article header time { font-size: 1rem; }
-  .post-layout-2 main article #article-body { margin-bottom: 1.25em; }
-  .post-layout-2 main article #article-body img.article-hero { margin-bottom: 1.875em; }
-  .post-layout-2 main article #article-body p { font-size: 1.125rem; } }
-@media only screen and (max-width: 31.25em) { .post-layout-2 main article header h4 { margin-bottom: 0.5rem; } }
+@media screen and (max-width: 46.875em) { .standard-post main article, .standard-post main aside { float: left; display: block; margin-right: 2.35765%; width: 100%; }
+  .standard-post main article:last-child, .standard-post main aside:last-child { margin-right: 0; } }
+@media only screen and (max-width: 38.125em) { .standard-post main article header { margin-bottom: 1.25em; }
+  .standard-post main article header h1 { font-size: 1.9375rem; }
+  .standard-post main article header h2 { margin-bottom: 0.875rem; }
+  .standard-post main article header h4, .standard-post main article header time { font-size: 1rem; }
+  .standard-post main article #article-body { margin-bottom: 1.25em; }
+  .standard-post main article #article-body img.article-hero { margin-bottom: 1.875em; }
+  .standard-post main article #article-body p { font-size: 1.125rem; } }
+@media only screen and (max-width: 31.25em) { .standard-post main article header h4 { margin-bottom: 0.5rem; } }
 .post-hero { background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); width: 100%; margin-bottom: 2.125em; padding: 1.5em 0 0.75em; }
 .post-hero .outer-container { padding-top: 0; }
 .post-hero #calendar-nav { width: 11.25em; margin: 0 0.3125em 0 0.625em; float: left; text-align: center; }
@@ -227,22 +232,6 @@ ul.widget-nav { list-style: none; padding: 0; margin: 0; }
   .post-hero #calendar-nav nav a#previous { top: 3.125rem; }
   .post-hero #calendar-nav nav a#next { top: 0.625rem; }
   .post-hero #calendar-nav nav span#divider { visibility: hidden; } }
-#lisa-esposito-project-introduction p { font-size: 1.375rem; margin-bottom: 1rem; }
-#lisa-esposito-project-introduction h3 { font-size: 1.75rem; }
-#lisa-esposito-project-introduction .row { margin-bottom: 1.875em; }
-#lisa-esposito-project-introduction figure#original-esposito-ipad, #lisa-esposito-project-introduction .verbiage { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
-#lisa-esposito-project-introduction figure#original-esposito-ipad:last-child, #lisa-esposito-project-introduction .verbiage:last-child { margin-right: 0; }
-#lisa-esposito-project-introduction #two { text-align: center; }
-@media only screen and (max-width: 56.25em) { #lisa-esposito-project-introduction p { font-size: 1.25rem; margin-bottom: 0.875rem; } }
-@media screen and (max-width: 46.875em) { #lisa-esposito-project-introduction p { font-size: 1.25rem; }
-  #lisa-esposito-project-introduction h3 { font-size: 1.375em; } }
-@media only screen and (max-width: 41.875em) { #lisa-esposito-project-introduction p { font-size: 1.125rem; } }
-@media only screen and (max-width: 33.75em) { #lisa-esposito-project-introduction figure#original-esposito-ipad, #lisa-esposito-project-introduction .verbiage { float: left; display: block; margin-right: 3.57866%; width: 100%; }
-  #lisa-esposito-project-introduction figure#original-esposito-ipad:last-child, #lisa-esposito-project-introduction .verbiage:last-child { margin-right: 0; }
-  #lisa-esposito-project-introduction figure { margin-bottom: 1.125em; }
-  #lisa-esposito-project-introduction h3 { font-size: 1.25rem; }
-  #lisa-esposito-project-introduction #two { text-align: left; } }
-
 #dr-esposito-wrap-up .row { margin-bottom: 1.5em; }
 #dr-esposito-wrap-up .verbiage { float: left; display: block; margin-right: 1.75788%; width: 23.68159%; }
 #dr-esposito-wrap-up .verbiage:last-child { margin-right: 0; }

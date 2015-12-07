@@ -318,20 +318,20 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//new-lisa-esposito-project"><span itemprop="name"></span></a></h1>
-		<h2 itemprop="description" class="subtitle"></h2>
-		<time datetime="T08:00:00-06:00"></time>
-		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-		<a itemprop="mainEntityOfPage" href="//new-lisa-esposito-project" class="read-more blue floating">Read More</a>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/new-lisa-esposito-project"><span itemprop="name">New Website for Boston-Area Artist Dr. Lisa Esposito</span></a></h1>
+		<h2 itemprop="description" class="subtitle">We're excited to build a new portfolio website for Dr. Esposito</h2>
+		<time datetime="2015-03-13T08:00:00-06:00">13 March 2015</time>
+		<meta itemprop="datePublished" content="2015-03-13T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="/web-design/new-lisa-esposito-project" class="read-more blue floating">Read More</a>
 	</header>
 	<section id="hero-image">
-		<a itemprop="mainEntityOfPage" href="//new-lisa-esposito-project"> 
-			<img itemprop="image" src="" alt="">
+		<a itemprop="mainEntityOfPage" href="/web-design/new-lisa-esposito-project"> 
+			<img itemprop="image" src="/img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg" alt="A teaser mockup of a potential home page for lisaesposito.com">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+		<h4 id="category">Category | <a href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/lisa-esposito"><span itemprop="keywords">Dr. Lisa Esposito</span></a></h4>
 	</footer>
 </article>
 		
