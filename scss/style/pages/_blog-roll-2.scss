@@ -1,0 +1,71 @@
+@import "../settings/_settings.scss";
+
+.blog-index {
+	section.blog-roll {
+		@include span-columns(12 of 16);
+
+		article.post-summary {
+			padding: em(16);
+			margin-bottom: em(26);
+			background: #fff;
+			box-shadow: $z-1;
+
+			header#post-titles {
+				@include row;
+				margin-bottom: em(12);
+
+				h1 {
+					font-size: rem(42);
+					margin: rem(8) 0;
+				}
+
+				h2 {
+					font-size: rem(24);
+				}
+
+				time {
+					font-family: $header-font-family;
+					letter-spacing: rem(1.2);
+					font-size: rem(18);
+					text-transform: uppercase;
+				}
+			}
+
+			section#hero-image {
+				@include row;
+				margin-bottom: em(20);
+
+				img {
+					border: em(1) solid #333;
+				}
+			}
+
+			footer#post-taxonomy {
+				@include row;
+
+				h4 {
+					text-transform: uppercase;
+					letter-spacing: rem(1.2);
+					font-size: rem(16);
+				}
+
+				h4#tags {
+					margin: 0;
+				}
+			}
+		}
+	}
+	aside {
+		@include span-columns(4 of 16);
+		padding-top: em(16);
+	}
+}
+
+@include media($medium) {
+	.blog-index {
+		section.blog-roll,
+		aside {
+			@include span-columns(12 of 12);
+		}
+	}
+}

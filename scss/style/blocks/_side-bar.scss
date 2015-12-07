@@ -1,5 +1,30 @@
 @import "../settings/_settings.scss";
 
+aside {
+	nav.category-nav {
+		li {
+			margin: rem(12) 0;
+			background-color: #fff;
+
+			a {
+				border: em(1) solid $dark-blue;
+				display: block;
+				text-decoration: none;
+				padding: rem(8);
+				color: $text-color;
+
+				&:hover {
+					color: #fff;
+				}
+			}
+
+			&:hover {
+				background-color: $dark-blue;
+			}
+		}
+	}	
+}
+
 
 
 ul.widget-nav {

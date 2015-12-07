@@ -6,7 +6,7 @@
 <main class="outer-container">
 	<article itemscope itemtype="http://schema.org/BlogPosting">
 		<header>
-			<h4 itemprop="genre" ><a href="/{{ page.article-category-link }}/">{{ page.article-category }}</a></h4>
+			<h4 itemprop="genre"><a href="/{{ page.article-category-link }}/">{{ page.article-category }}</a></h4>
 			<h1 itemprop="headline">{{ page.article-title }}</h1>
 			<h2 itemprop="description" class="subtitle">{{ page.article-subtitle }}</h2>
 			<time datetime="{{ page.article-datetime }}T08:00:00-06:00">{{ page.article-time }}</time>
