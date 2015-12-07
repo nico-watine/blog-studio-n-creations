@@ -24,6 +24,11 @@ article-hero: /img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg
 article-hero-alt: Greencare Interior Plants Logo Update
 article-tag: Greencare Interior Plants
 article-tag-link: greencare
+og-type: article
+og-url: /web-design/greencare-project
+og-title: New Project - Greencare Interior Plants
+og-image: /img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg
+og-description: We're giving Greencare Interior Plants a fresh, new look
 ---
 <p>We're giving Houston-based Greencare Interior Plants's website a total transformation, making it more welcoming and not so stiff. Logo differences should give an idea of the new direction. Greencare Interior Plants provides commercial and residential indoor plant care services in Houston, Texas.</p>
 <!-- <article id="greencare-project">
