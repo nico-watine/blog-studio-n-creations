@@ -1,4 +1,26 @@
 @import "../settings/_settings.scss";
 
+// .blue-float-button,
+.floating {
+	border: rem(1) solid #000;
+	// margin-left: rem(8);
+	// font-size: rem(18);
+	// padding: rem(4) rem(12);
 
+	&:hover {
+		// color: #fff;
+		text-decoration: none;
+		// background: $dark-blue;
+		box-shadow: $z-3;
+		@include transition (box-shadow 50ms ease-out 0s);
+	}
+}
 
+.blue.floating {
+	border: rem(1) solid $dark-blue;
+
+	&:hover {
+		color: #fff;
+		background: $dark-blue;
+	}
+} 

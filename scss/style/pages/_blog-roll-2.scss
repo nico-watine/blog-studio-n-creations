@@ -1,6 +1,8 @@
 @import "../settings/_settings.scss";
 
+$max-610: "only screen and (max-width : 38.125em)";
 $max-500: "only screen and (max-width : 31.250em)";
+$max-400: "only screen and (max-width : 25.000em)";
 
 
 .blog-index {
@@ -15,7 +17,7 @@ $max-500: "only screen and (max-width : 31.250em)";
 
 			header#post-titles {
 				@include row;
-				margin-bottom: em(12);
+				margin-bottom: em(16);
 
 				time {
 					font-family: $header-font-family;
@@ -26,11 +28,18 @@ $max-500: "only screen and (max-width : 31.250em)";
 
 				h1 {
 					font-size: rem(42);
-					margin: rem(8) 0;
 				}
 
 				h2 {
 					font-size: rem(24);
+					margin-bottom: rem(16);
+				}
+
+				a.read-more {
+					margin-left: rem(8);
+					font-size: rem(18);
+					padding: rem(4) rem(12);
+					display: inline-block;
 				}
 			}
 
@@ -75,13 +84,14 @@ $max-500: "only screen and (max-width : 31.250em)";
 		section.blog-roll {
 			article.post-summary {
 				header#post-titles {
-					time {
+					time,
+					a.read-more {
 						font-size: rem(16);
 					}
 
 					h1 {
 						font-size: rem(31);
-						margin: rem(4) 0;
+						margin: 0 0 rem(4);
 					}
 
 					h2 {
@@ -99,11 +109,40 @@ $max-500: "only screen and (max-width : 31.250em)";
 	}
 }
 
+@media #{$max-610} {
+	.blog-index {
+		section.blog-roll {
+			article.post-summary {
+				header#post-titles {
+					margin-bottom: em(20);
+
+					h2 {
+						margin-bottom: rem(16);
+					}
+				}
+			}
+		}
+	}
+}
 
 @media #{$max-500} {
 	.blog-index {
 		section.blog-roll {
 			article.post-summary {
+				header#post-titles {
+					h1 {
+						margin-bottom: rem(8);
+					}
+					h2 {
+						margin-bottom: rem(12);
+					}
+					a.read-more {
+						display: block;
+						width: rem(110);
+						text-align: center;
+						margin: rem(14) 0 0 0;
+					}
+				}
 				footer#post-taxonomy {
 					h4 {
 						font-size: rem(12);

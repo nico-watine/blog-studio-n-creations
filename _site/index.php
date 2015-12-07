@@ -90,10 +90,13 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+<!-- 					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-development/where-have-we-been"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
+					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+					<a itemprop="mainEntityOfPage" href="/web-development/where-have-we-been" class="read-more blue floating">Read More</a>
 				</header>
 				<section id="hero-image">
 					<a itemprop="mainEntityOfPage" href="/web-development/where-have-we-been"> 
@@ -108,10 +111,13 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+<!-- 					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
+					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+					<a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand" class="read-more blue floating">Read More</a>
 				</header>
 				<section id="hero-image">
 					<a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand"> 
@@ -126,10 +132,13 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+<!-- 					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-post"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
+					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+					<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-post" class="read-more blue floating">Read More</a>
 				</header>
 				<section id="hero-image">
 					<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-post"> 
@@ -144,10 +153,13 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+<!-- 					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-development/gaget-analytics-app"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
+					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+					<a itemprop="mainEntityOfPage" href="/web-development/gaget-analytics-app" class="read-more blue floating">Read More</a>
 				</header>
 				<section id="hero-image">
 					<a itemprop="mainEntityOfPage" href="/web-development/gaget-analytics-app"> 
@@ -162,10 +174,13 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+<!-- 					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/lemon-peel-facial-logo"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
+					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+					<a itemprop="mainEntityOfPage" href="/web-design/lemon-peel-facial-logo" class="read-more blue floating">Read More</a>
 				</header>
 				<section id="hero-image">
 					<a itemprop="mainEntityOfPage" href="/web-design/lemon-peel-facial-logo"> 
@@ -180,10 +195,13 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+<!-- 					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/houston-oculofacial-spring-postcard"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
+					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+					<a itemprop="mainEntityOfPage" href="/print-work/houston-oculofacial-spring-postcard" class="read-more blue floating">Read More</a>
 				</header>
 				<section id="hero-image">
 					<a itemprop="mainEntityOfPage" href="/print-work/houston-oculofacial-spring-postcard"> 
@@ -198,10 +216,13 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+<!-- 					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-skeleton-setup"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
+					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+					<a itemprop="mainEntityOfPage" href="/web-design/greencare-skeleton-setup" class="read-more blue floating">Read More</a>
 				</header>
 				<section id="hero-image">
 					<a itemprop="mainEntityOfPage" href="/web-design/greencare-skeleton-setup"> 
@@ -216,10 +237,13 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+<!-- 					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
+					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+					<a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples" class="read-more blue floating">Read More</a>
 				</header>
 				<section id="hero-image">
 					<a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples"> 
@@ -234,10 +258,13 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+<!-- 					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/dr-esposito-wrap-up"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
+					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+					<a itemprop="mainEntityOfPage" href="/web-design/dr-esposito-wrap-up" class="read-more blue floating">Read More</a>
 				</header>
 				<section id="hero-image">
 					<a itemprop="mainEntityOfPage" href="/web-design/dr-esposito-wrap-up"> 
@@ -252,10 +279,13 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-					<time datetime="2015-03-24T08:00:00-06:00">13 March 2015</time>
-					<meta itemprop="datePublished" content="2015-03-24T08:00:00-06:00"/>
+<!-- 					<time datetime="2015-03-24T08:00:00-06:00">13 December 2015</time>
+					<meta itemprop="datePublished" content="2015-03-24T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-project"><span itemprop="name">New Project - Greencare Interior Plants</span></a></h1>
 					<h2 itemprop="description" class="subtitle">We're giving Greencare Interior Plants a fresh, new look</h2>
+					<time datetime="2015-03-24T08:00:00-06:00">13 December 2015</time>
+					<meta itemprop="datePublished" content="2015-03-24T08:00:00-06:00"/>
+					<a itemprop="mainEntityOfPage" href="/web-design/greencare-project" class="read-more blue floating">Read More</a>
 				</header>
 				<section id="hero-image">
 					<a itemprop="mainEntityOfPage" href="/web-design/greencare-project"> 
@@ -270,10 +300,13 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+<!-- 					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-preview"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
+					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+					<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-preview" class="read-more blue floating">Read More</a>
 				</header>
 				<section id="hero-image">
 					<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-preview"> 
@@ -288,10 +321,13 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+<!-- 					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/jdf-branding"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
+					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+					<a itemprop="mainEntityOfPage" href="/print-work/jdf-branding" class="read-more blue floating">Read More</a>
 				</header>
 				<section id="hero-image">
 					<a itemprop="mainEntityOfPage" href="/print-work/jdf-branding"> 
@@ -306,10 +342,13 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 				<header id="post-titles">
-					<time datetime="T08:00:00-06:00"></time>
-					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+<!-- 					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/> -->
 					<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/new-lisa-esposito-project"><span itemprop="name"></span></a></h1>
 					<h2 itemprop="description" class="subtitle"></h2>
+					<time datetime="T08:00:00-06:00"></time>
+					<meta itemprop="datePublished" content="T08:00:00-06:00"/>
+					<a itemprop="mainEntityOfPage" href="/web-design/new-lisa-esposito-project" class="read-more blue floating">Read More</a>
 				</header>
 				<section id="hero-image">
 					<a itemprop="mainEntityOfPage" href="/web-design/new-lisa-esposito-project"> 
@@ -327,9 +366,9 @@
 		<nav class="category-nav">
 	<h5>CATEGORIES</h5>
 	<ul class="widget-nav">
-		<li><a href="/web-design/">Web Design</a></li>
-		<li><a href="/print-work/">Print Work</a></li>
-		<li><a href="/web-development/">Web Development</a></li>
+		<li><a href="/web-design/" class="blue-float-button">Web Design</a></li>
+		<li><a href="/print-work/" class="blue-float-button">Print Work</a></li>
+		<li><a href="/web-development/" class="blue-float-button">Web Development</a></li>
 	</ul>
 </nav>
 	</aside>

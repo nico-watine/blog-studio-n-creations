@@ -6,6 +6,12 @@ figure { text-align: center; }
 figure figcaption { margin-top: 0.5rem; }
 @media screen and (max-width: 46.875em) { figure figcaption { font-size: 0.875rem; } }
 
+.floating { border: 0.0625rem solid #000; }
+.floating:hover { text-decoration: none; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); -webkit-transition: box-shadow 50ms ease-out 0s; transition: box-shadow 50ms ease-out 0s; }
+
+.blue.floating { border: 0.0625rem solid #566270; }
+.blue.floating:hover { color: #fff; background: #566270; }
+
 article p { font-size: 1.375rem; margin-bottom: 0.75rem; }
 
 a.simple-underline { text-decoration: underline; color: #fff; }
@@ -117,11 +123,12 @@ ul.widget-nav { list-style: none; padding: 0; margin: 0; }
 .blog-index section.blog-roll { float: left; display: block; margin-right: 1.75788%; width: 74.56053%; }
 .blog-index section.blog-roll:last-child { margin-right: 0; }
 .blog-index section.blog-roll article.post-summary { padding: 1em; margin-bottom: 1.625em; background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
-.blog-index section.blog-roll article.post-summary header#post-titles { display: block; margin-bottom: 0.75em; }
+.blog-index section.blog-roll article.post-summary header#post-titles { display: block; margin-bottom: 1em; }
 .blog-index section.blog-roll article.post-summary header#post-titles::after { clear: both; content: ""; display: table; }
 .blog-index section.blog-roll article.post-summary header#post-titles time { font-family: "Lintel Medium", sans-serif; letter-spacing: 0.075rem; font-size: 1.125rem; text-transform: uppercase; }
-.blog-index section.blog-roll article.post-summary header#post-titles h1 { font-size: 2.625rem; margin: 0.5rem 0; }
-.blog-index section.blog-roll article.post-summary header#post-titles h2 { font-size: 1.5rem; }
+.blog-index section.blog-roll article.post-summary header#post-titles h1 { font-size: 2.625rem; }
+.blog-index section.blog-roll article.post-summary header#post-titles h2 { font-size: 1.5rem; margin-bottom: 1rem; }
+.blog-index section.blog-roll article.post-summary header#post-titles a.read-more { margin-left: 0.5rem; font-size: 1.125rem; padding: 0.25rem 0.75rem; display: inline-block; }
 .blog-index section.blog-roll article.post-summary section#hero-image { display: block; margin-bottom: 1.25em; }
 .blog-index section.blog-roll article.post-summary section#hero-image::after { clear: both; content: ""; display: table; }
 .blog-index section.blog-roll article.post-summary section#hero-image img { border: 0.0625em solid #333; }
@@ -134,11 +141,16 @@ ul.widget-nav { list-style: none; padding: 0; margin: 0; }
 
 @media screen and (max-width: 46.875em) { .blog-index section.blog-roll, .blog-index aside { float: left; display: block; margin-right: 2.35765%; width: 100%; }
   .blog-index section.blog-roll:last-child, .blog-index aside:last-child { margin-right: 0; }
-  .blog-index section.blog-roll article.post-summary header#post-titles time { font-size: 1rem; }
-  .blog-index section.blog-roll article.post-summary header#post-titles h1 { font-size: 1.9375rem; margin: 0.25rem 0; }
+  .blog-index section.blog-roll article.post-summary header#post-titles time, .blog-index section.blog-roll article.post-summary header#post-titles a.read-more { font-size: 1rem; }
+  .blog-index section.blog-roll article.post-summary header#post-titles h1 { font-size: 1.9375rem; margin: 0 0 0.25rem; }
   .blog-index section.blog-roll article.post-summary header#post-titles h2 { font-size: 1.375rem; }
   .blog-index section.blog-roll article.post-summary footer#post-taxonomy h4 { font-size: 0.875rem; } }
-@media only screen and (max-width: 31.25em) { .blog-index section.blog-roll article.post-summary footer#post-taxonomy h4 { font-size: 0.75rem; } }
+@media only screen and (max-width: 38.125em) { .blog-index section.blog-roll article.post-summary header#post-titles { margin-bottom: 1.25em; }
+  .blog-index section.blog-roll article.post-summary header#post-titles h2 { margin-bottom: 1rem; } }
+@media only screen and (max-width: 31.25em) { .blog-index section.blog-roll article.post-summary header#post-titles h1 { margin-bottom: 0.5rem; }
+  .blog-index section.blog-roll article.post-summary header#post-titles h2 { margin-bottom: 0.75rem; }
+  .blog-index section.blog-roll article.post-summary header#post-titles a.read-more { display: block; width: 6.875rem; text-align: center; margin: 0.875rem 0 0 0; }
+  .blog-index section.blog-roll article.post-summary footer#post-taxonomy h4 { font-size: 0.75rem; } }
 .page-title { text-align: center; }
 
 .post-categories { display: block; }
