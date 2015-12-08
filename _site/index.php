@@ -280,20 +280,20 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//houston-uncovered-preview"><span itemprop="name"></span></a></h1>
-		<h2 itemprop="description" class="subtitle"></h2>
-		<time datetime="T08:00:00-06:00"></time>
-		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-		<a itemprop="mainEntityOfPage" href="//houston-uncovered-preview" class="read-more blue floating">Read More</a>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-preview"><span itemprop="name">Here is a HoustonUncovered.com preview</span></a></h1>
+		<h2 itemprop="description" class="subtitle">The website is in the works, but here is a teaser mockup</h2>
+		<time datetime="2015-03-18T08:00:00-06:00">18 March 2015</time>
+		<meta itemprop="datePublished" content="2015-03-18T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-preview" class="read-more blue floating">Read More</a>
 	</header>
 	<section id="hero-image">
-		<a itemprop="mainEntityOfPage" href="//houston-uncovered-preview"> 
-			<img itemprop="image" src="" alt="">
+		<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-preview"> 
+			<img itemprop="image" src="/img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg" alt="A HoustonUncovered.com preview mockup">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+		<h4 id="category">Category | <a href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/houston-uncovered"><span itemprop="keywords">Houston Uncovered</span></a></h4>
 	</footer>
 </article>
 		
