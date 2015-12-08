@@ -27,17 +27,13 @@ og-description: We are in the process of designing a new website for artist Dr. 
 	<br>
 </div>
 <div class="row">
-	<div class="one-half">
-		<figure style="max-width: 28.125em; margin: 0 auto 2em;">
-			<img src="{{ site.blog_cdn }}/img/post-attachments/projects/lisa-esposito/3-13/index-old.png" alt="Lisa Esposito iPad Mockup">
-			<figcaption>The current <a href="http://www.lisaesposito.com" target="_blank" class="underlined">Lisa Esposito</a> home page on an iPad</figcaption>
-		</figure>
-	</div>
-	<div class="one-half">
-		<p>We've got to fix that...</p>
-		<p class="standard">You can visit her website at <a class="underlined" href="http://www.lisaesposito.com" target="_blank">www.LisaEsposito.com</a>.</p>
-		<hr>
-		<h3>Look out for <a href="/tags/lisa-esposito" class="underlined">updates</a> on this project!</h3>
-	</div>
+	<figure style="max-width: 28.125em; margin: 0 auto 2em;">
+		<img src="{{ site.blog_cdn }}/img/post-attachments/projects/lisa-esposito/3-13/index-old.png" alt="Lisa Esposito iPad Mockup">
+		<figcaption>The current <a href="http://www.lisaesposito.com" target="_blank" class="underlined">Lisa Esposito</a> home page on an iPad</figcaption>
+	</figure>
 </div>
-<!-- <br> -->
+<div class="row">
+	<p>We've got to fix that... You can visit her website at <a class="underlined" href="http://www.lisaesposito.com" target="_blank">www.LisaEsposito.com</a>.</p>
+	<hr>
+	<h3>Look out for <a href="/tags/lisa-esposito" class="underlined">updates</a> on this project!</h3>
+</div>

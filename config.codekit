@@ -515,7 +515,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/_posts\/2015-03-17-jdf-branding.md": {
+	"\/_posts\/2015-03-17-jardin-de-france-branding.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 0,
 		"enableLabels": 1,
@@ -524,9 +524,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/2015-03-17-jdf-branding.md",
+		"inputAbbreviatedPath": "\/_posts\/2015-03-17-jardin-de-france-branding.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/_posts\/2015-03-17-jdf-branding.html",
+		"outputAbbreviatedPath": "\/_posts\/2015-03-17-jardin-de-france-branding.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -1801,15 +1801,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/print-work\/jdf-branding.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/print-work\/jdf-branding.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/scss\/blog.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1977,6 +1968,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/web-design\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/web-design\/jardin-de-france-branding.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/web-design\/jardin-de-france-branding.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
