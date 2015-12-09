@@ -85,8 +85,8 @@
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="/print-work/"><span itemprop="genre">Print Work</span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/houston-oculofacial-plastic-surgery"><span itemprop="keywords">Houston Oculofacial Plastic Surgery</span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="/print-work/"><span itemprop="genre">Print Work</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/houston-oculofacial-plastic-surgery"><span itemprop="keywords">Houston Oculofacial Plastic Surgery</span></a></h4>
 	</footer>
 </article>
 		

@@ -85,8 +85,8 @@
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/jardin-de-france"><span itemprop="keywords">Jardin de France</span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/jardin-de-france"><span itemprop="keywords">Jardin de France</span></a></h4>
 	</footer>
 </article>
 		
@@ -104,8 +104,8 @@
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="/print-work/"><span itemprop="genre">Print Work</span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/jardin-de-france"><span itemprop="keywords">Jardin de France</span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="/print-work/"><span itemprop="genre">Print Work</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/jardin-de-france"><span itemprop="keywords">Jardin de France</span></a></h4>
 	</footer>
 </article>
 		
@@ -123,8 +123,8 @@
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/jardin-de-france"><span itemprop="keywords">Jardin de France</span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/jardin-de-france"><span itemprop="keywords">Jardin de France</span></a></h4>
 	</footer>
 </article>
 		

@@ -73,20 +73,20 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//lemon-peel-facial-logo"><span itemprop="name"></span></a></h1>
-		<h2 itemprop="description" class="subtitle"></h2>
-		<time datetime="T08:00:00-06:00"></time>
-		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-		<a itemprop="mainEntityOfPage" href="//lemon-peel-facial-logo" class="read-more blue floating">Read More</a>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/lemon-peel-facial-logo"><span itemprop="name">New logo for Lemon Peel Facial</span></a></h1>
+		<h2 itemprop="description" class="subtitle">We enjoyed working with Houston-based esthetician Michelle Wright</h2>
+		<time datetime="2015-04-02T08:00:00-06:00">2 April 2015</time>
+		<meta itemprop="datePublished" content="2015-04-02T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="/web-design/lemon-peel-facial-logo" class="read-more blue floating">Read More</a>
 	</header>
 	<section id="hero-image">
-		<a itemprop="mainEntityOfPage" href="//lemon-peel-facial-logo"> 
-			<img itemprop="image" src="" alt="">
+		<a itemprop="mainEntityOfPage" href="/web-design/lemon-peel-facial-logo"> 
+			<img itemprop="image" src="/img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg" alt="A detail shot of the new Lemon Peel Facial logo">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/lemon-peel-facial"><span itemprop="keywords">Lemon Peel Facial</span></a></h4>
 	</footer>
 </article>
 		

@@ -85,8 +85,8 @@
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="//"><span itemprop="genre"></span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/"><span itemprop="keywords"></span></a></h4>
 	</footer>
 </article>
 		

@@ -85,8 +85,8 @@
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/lisa-esposito"><span itemprop="keywords">Dr. Lisa Esposito</span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/lisa-esposito"><span itemprop="keywords">Dr. Lisa Esposito</span></a></h4>
 	</footer>
 </article>
 		
@@ -104,8 +104,8 @@
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/lisa-esposito"><span itemprop="keywords">Dr. Lisa Esposito</span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/lisa-esposito"><span itemprop="keywords">Dr. Lisa Esposito</span></a></h4>
 	</footer>
 </article>
 		

@@ -18,6 +18,15 @@ a.simple-underline {
 	}
 }
 
+a.simple {
+	color: $dark-blue;
+	text-decoration: none;
+
+	&:hover {
+		text-decoration: underline;
+	}
+}
+
 a.underlined-link,
 a.underlined {
 	color: $dark-blue;

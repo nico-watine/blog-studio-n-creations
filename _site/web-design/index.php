@@ -73,20 +73,20 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//updating-jardin-de-france-brand"><span itemprop="name"></span></a></h1>
-		<h2 itemprop="description" class="subtitle"></h2>
-		<time datetime="T08:00:00-06:00"></time>
-		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-		<a itemprop="mainEntityOfPage" href="//updating-jardin-de-france-brand" class="read-more blue floating">Read More</a>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand"><span itemprop="name">Updating the 'Jardin de France' brand</span></a></h1>
+		<h2 itemprop="description" class="subtitle">The houston-based antique importers are ready for a new website</h2>
+		<time datetime="2015-06-03T08:00:00-06:00">3 June 2015</time>
+		<meta itemprop="datePublished" content="2015-06-03T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand" class="read-more blue floating">Read More</a>
 	</header>
 	<section id="hero-image">
-		<a itemprop="mainEntityOfPage" href="//updating-jardin-de-france-brand"> 
-			<img itemprop="image" src="" alt="">
+		<a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand"> 
+			<img itemprop="image" src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="The new Jardin de France Facebook cover">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/jardin-de-france"><span itemprop="keywords">Jardin de France</span></a></h4>
 	</footer>
 </article>
 		
@@ -104,65 +104,65 @@
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="//"><span itemprop="genre"></span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/"><span itemprop="keywords"></span></a></h4>
 	</footer>
 </article>
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//lemon-peel-facial-logo"><span itemprop="name"></span></a></h1>
-		<h2 itemprop="description" class="subtitle"></h2>
-		<time datetime="T08:00:00-06:00"></time>
-		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-		<a itemprop="mainEntityOfPage" href="//lemon-peel-facial-logo" class="read-more blue floating">Read More</a>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/lemon-peel-facial-logo"><span itemprop="name">New logo for Lemon Peel Facial</span></a></h1>
+		<h2 itemprop="description" class="subtitle">We enjoyed working with Houston-based esthetician Michelle Wright</h2>
+		<time datetime="2015-04-02T08:00:00-06:00">2 April 2015</time>
+		<meta itemprop="datePublished" content="2015-04-02T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="/web-design/lemon-peel-facial-logo" class="read-more blue floating">Read More</a>
 	</header>
 	<section id="hero-image">
-		<a itemprop="mainEntityOfPage" href="//lemon-peel-facial-logo"> 
-			<img itemprop="image" src="" alt="">
+		<a itemprop="mainEntityOfPage" href="/web-design/lemon-peel-facial-logo"> 
+			<img itemprop="image" src="/img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg" alt="A detail shot of the new Lemon Peel Facial logo">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/lemon-peel-facial"><span itemprop="keywords">Lemon Peel Facial</span></a></h4>
 	</footer>
 </article>
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//greencare-skeleton-setup"><span itemprop="name"></span></a></h1>
-		<h2 itemprop="description" class="subtitle"></h2>
-		<time datetime="T08:00:00-06:00"></time>
-		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-		<a itemprop="mainEntityOfPage" href="//greencare-skeleton-setup" class="read-more blue floating">Read More</a>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-skeletop-setup"><span itemprop="name">Greencare Interior Plants Website Skeleton Setup</span></a></h1>
+		<h2 itemprop="description" class="subtitle">The new greencaretx.com website has a responsive site structure</h2>
+		<time datetime="2015-03-31T08:00:00-06:00">31 March 2015</time>
+		<meta itemprop="datePublished" content="2015-03-31T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-skeletop-setup" class="read-more blue floating">Read More</a>
 	</header>
 	<section id="hero-image">
-		<a itemprop="mainEntityOfPage" href="//greencare-skeleton-setup"> 
-			<img itemprop="image" src="" alt="">
+		<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-skeletop-setup"> 
+			<img itemprop="image" src="/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg" alt="">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/greencare-interior-plants"><span itemprop="keywords">Greencare Interior Plants</span></a></h4>
 	</footer>
 </article>
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//dr-esposito-wrap-up"><span itemprop="name"></span></a></h1>
-		<h2 itemprop="description" class="subtitle"></h2>
-		<time datetime="T08:00:00-06:00"></time>
-		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-		<a itemprop="mainEntityOfPage" href="//dr-esposito-wrap-up" class="read-more blue floating">Read More</a>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/dr-lisa-esposito-project-complete"><span itemprop="name">The website redesign for Dr. Lisa Esposito is complete</span></a></h1>
+		<h2 itemprop="description" class="subtitle">We've finished the project for this Boston-area artist</h2>
+		<time datetime="2015-03-27T08:00:00-06:00">27 March 2015</time>
+		<meta itemprop="datePublished" content="2015-03-27T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="/web-design/dr-lisa-esposito-project-complete" class="read-more blue floating">Read More</a>
 	</header>
 	<section id="hero-image">
-		<a itemprop="mainEntityOfPage" href="//dr-esposito-wrap-up"> 
-			<img itemprop="image" src="" alt="">
+		<a itemprop="mainEntityOfPage" href="/web-design/dr-lisa-esposito-project-complete"> 
+			<img itemprop="image" src="/img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg" alt="An iPad mockup of the new LisaEsposito.com Home Page">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/lisa-esposito"><span itemprop="keywords">Dr. Lisa Esposito</span></a></h4>
 	</footer>
 </article>
 		
@@ -180,8 +180,8 @@
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/greencare-interior-plants"><span itemprop="keywords">Greencare Interior Plants</span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/greencare-interior-plants"><span itemprop="keywords">Greencare Interior Plants</span></a></h4>
 	</footer>
 </article>
 		
@@ -199,8 +199,8 @@
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/houston-uncovered"><span itemprop="keywords">Houston Uncovered</span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/houston-uncovered"><span itemprop="keywords">Houston Uncovered</span></a></h4>
 	</footer>
 </article>
 		
@@ -218,8 +218,8 @@
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/jardin-de-france"><span itemprop="keywords">Jardin de France</span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/jardin-de-france"><span itemprop="keywords">Jardin de France</span></a></h4>
 	</footer>
 </article>
 		
@@ -237,8 +237,8 @@
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/lisa-esposito"><span itemprop="keywords">Dr. Lisa Esposito</span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/lisa-esposito"><span itemprop="keywords">Dr. Lisa Esposito</span></a></h4>
 	</footer>
 </article>
 		
