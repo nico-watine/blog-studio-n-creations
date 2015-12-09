@@ -6,16 +6,16 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="preconnect" href="http://cdn.studioncreations.com">
-	<title> | Studio N Creations Blog</title>
-	<meta name="description" content="" />
+	<title>Jardin de France Tags | Studio N Creations Blog</title>
+	<meta name="description" content="The Studio N Creations blog roll containing all posts tagged under 'Jardin de France'" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 
 	<meta property="og:type" content="" />
-	<meta property="og:url" content="" />
-	<meta property="og:title" content="" />
+	<meta property="og:url" content="http://blog.studioncreations.com/tags/jardin-de-france" />
+	<meta property="og:title" content="Jardin de France Tag | Studio N Creations Blog" />
 	<meta property="og:image" content="" />
-	<meta property="og:description" content="" />
+	<meta property="og:description" content="The Studio N Creations blog roll containing all posts tagged under 'Jardin de France'" />
 	
 	<link rel="stylesheet" href="<?php autoVer('/css/core.css'); ?>" />
 	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
@@ -71,7 +71,7 @@
 <main class="outer-container">
 	<section class="blog-roll">
 		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand"><span itemprop="name">Updating the 'Jardin de France' brand</span></a></h1>
 		<h2 itemprop="description" class="subtitle">The houston-based antique importers are ready for a new website</h2>
@@ -90,7 +90,7 @@
 	</footer>
 </article>
 		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples"><span itemprop="name">The Jardin de France Tags - Examples</span></a></h1>
 		<h2 itemprop="description" class="subtitle">The tags have been attached to the company's latest shipment of antiques</h2>
@@ -109,7 +109,7 @@
 	</footer>
 </article>
 		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/jardin-de-france-branding"><span itemprop="name">New Print Material for 'Jardin de France'</span></a></h1>
 		<h2 itemprop="description" class="subtitle">Branding a Houston-based importer of French antiques</h2>

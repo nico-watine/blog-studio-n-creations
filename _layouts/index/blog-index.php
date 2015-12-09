@@ -5,7 +5,7 @@
 {% include blocks/nav.html %}
 
 <main class="outer-container">
-	<section class="blog-roll">
+	<section itemscope itemtype="http://schema.org/Blog" class="blog-roll">
 		{% for post in site.posts %}
 			{% include blocks/article/article-post-summary.html %}
 		{% endfor %}

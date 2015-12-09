@@ -6,16 +6,16 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="preconnect" href="http://cdn.studioncreations.com">
-	<title> | Studio N Creations Blog</title>
-	<meta name="description" content="" />
+	<title>Web Design Posts | Studio N Creations Blog</title>
+	<meta name="description" content="The Studio N Creations blog roll containing all web design-related articles" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 
 	<meta property="og:type" content="" />
-	<meta property="og:url" content="" />
-	<meta property="og:title" content="" />
+	<meta property="og:url" content="http://blog.studioncreations.com/web-design/" />
+	<meta property="og:title" content="Web Design Posts Category | Studio N Creations Blog" />
 	<meta property="og:image" content="" />
-	<meta property="og:description" content="" />
+	<meta property="og:description" content="The Studio N Creations blog roll containing all web design-related articles" />
 	
 	<link rel="stylesheet" href="<?php autoVer('/css/core.css'); ?>" />
 	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
@@ -71,7 +71,7 @@
 <main class="outer-container">
 	<section class="blog-roll">
 		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand"><span itemprop="name">Updating the 'Jardin de France' brand</span></a></h1>
 		<h2 itemprop="description" class="subtitle">The houston-based antique importers are ready for a new website</h2>
@@ -90,7 +90,7 @@
 	</footer>
 </article>
 		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-post"><span itemprop="name">HoustonUncovered.com has a new post</span></a></h1>
 		<h2 itemprop="description" class="subtitle">Here is a clipping from the Houston photography blog</h2>
@@ -109,7 +109,7 @@
 	</footer>
 </article>
 		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/lemon-peel-facial-logo"><span itemprop="name">New logo for Lemon Peel Facial</span></a></h1>
 		<h2 itemprop="description" class="subtitle">We enjoyed working with Houston-based esthetician Michelle Wright</h2>
@@ -128,7 +128,7 @@
 	</footer>
 </article>
 		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-website-frame-setup"><span itemprop="name">Greencare Interior Plants Website Frame Setup</span></a></h1>
 		<h2 itemprop="description" class="subtitle">The new GreencareTX.com website has a responsive site structure</h2>
@@ -147,7 +147,7 @@
 	</footer>
 </article>
 		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/dr-lisa-esposito-project-complete"><span itemprop="name">The website redesign for Dr. Lisa Esposito is complete</span></a></h1>
 		<h2 itemprop="description" class="subtitle">We've finished the project for this Boston-area artist</h2>
@@ -166,7 +166,7 @@
 	</footer>
 </article>
 		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-project"><span itemprop="name">New Project - Greencare Interior Plants</span></a></h1>
 		<h2 itemprop="description" class="subtitle">We're giving Greencare Interior Plants a fresh, new look</h2>
@@ -185,7 +185,7 @@
 	</footer>
 </article>
 		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-preview"><span itemprop="name">Here is a HoustonUncovered.com preview</span></a></h1>
 		<h2 itemprop="description" class="subtitle">The website is in the works, but here is a teaser mockup</h2>
@@ -204,7 +204,7 @@
 	</footer>
 </article>
 		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/jardin-de-france-branding"><span itemprop="name">New Print Material for 'Jardin de France'</span></a></h1>
 		<h2 itemprop="description" class="subtitle">Branding a Houston-based importer of French antiques</h2>
@@ -223,7 +223,7 @@
 	</footer>
 </article>
 		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/new-lisa-esposito-project"><span itemprop="name">New Website for Boston-Area Artist Dr. Lisa Esposito</span></a></h1>
 		<h2 itemprop="description" class="subtitle">We're excited to build a new portfolio website for Dr. Esposito</h2>

@@ -1,16 +1,13 @@
 ---
 layout: tags/jardin-de-france
-title: Jardin de France Tags
-page-title: 
-page-description:
-tag-label: Jardin de France
-name: Tagged - Jardin de France
+page-title: Jardin de France Tags
+page-description: The Studio N Creations blog roll containing all posts tagged under 'Jardin de France'
 slug: jardin-de-france
 page-type: Tagged
 visible-title: Jardin De France
 og-type: 
-og-url: 
-og-title: 
+og-url: http://blog.studioncreations.com/tags/jardin-de-france
+og-title: Jardin de France Tag | Studio N Creations Blog
 og-image: 
-og-description: 
+og-description: The Studio N Creations blog roll containing all posts tagged under 'Jardin de France'
 ---

@@ -6,16 +6,16 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="preconnect" href="http://cdn.studioncreations.com">
-	<title> | Studio N Creations Blog</title>
-	<meta name="description" content="" />
+	<title>Houston Oculofacial Plastic Surgery Tags | Studio N Creations Blog</title>
+	<meta name="description" content="The Studio N Creations blog roll containing all posts tagged under 'Houston Oculofacial'" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 
 	<meta property="og:type" content="" />
-	<meta property="og:url" content="" />
-	<meta property="og:title" content="" />
+	<meta property="og:url" content="http://blog.studioncreations.com/tags/houston-oculofacial-plastic-surgery" />
+	<meta property="og:title" content="Houston Oculofacial Plastic Surgery Tag | Studio N Creations Blog" />
 	<meta property="og:image" content="" />
-	<meta property="og:description" content="" />
+	<meta property="og:description" content="The Studio N Creations blog roll containing all posts tagged under 'Houston Oculofacial Plastic Surgery'" />
 	
 	<link rel="stylesheet" href="<?php autoVer('/css/core.css'); ?>" />
 	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
@@ -71,7 +71,7 @@
 <main class="outer-container">
 	<section class="blog-roll">
 		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/houston-oculofacial-plastic-surgery-spring-postcard"><span itemprop="name">New promotional spring-time postcards for Houston Oculofacial Plastic Surgery</span></a></h1>
 		<h2 itemprop="description" class="subtitle">Hot off the press!</h2>
@@ -95,7 +95,7 @@
 		<div class="page-title smaller">
 	<div class="row">
 		<h5>Tagged</h5>
-		<h1>Houston Oculofacial Plastic Surgery</h1>
+		<h1></h1>
 	</div>
 </div>
 		<nav class="side-nav">

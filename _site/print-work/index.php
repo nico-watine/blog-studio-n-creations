@@ -6,16 +6,16 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="preconnect" href="http://cdn.studioncreations.com">
-	<title> | Studio N Creations Blog</title>
-	<meta name="description" content="" />
+	<title>Print Work Posts | Studio N Creations Blog</title>
+	<meta name="description" content="The Studio N Creations blog roll containing all printed work-related articles" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 
 	<meta property="og:type" content="" />
-	<meta property="og:url" content="" />
-	<meta property="og:title" content="" />
+	<meta property="og:url" content="http://blog.studioncreations.com/print-work/" />
+	<meta property="og:title" content="Print Work Posts Category | Studio N Creations Blog" />
 	<meta property="og:image" content="" />
-	<meta property="og:description" content="" />
+	<meta property="og:description" content="The Studio N Creations blog roll containing all printed work-related articles" />
 	
 	<link rel="stylesheet" href="<?php autoVer('/css/core.css'); ?>" />
 	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
@@ -71,7 +71,7 @@
 <main class="outer-container">
 	<section class="blog-roll">
 		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/houston-oculofacial-plastic-surgery-spring-postcard"><span itemprop="name">New promotional spring-time postcards for Houston Oculofacial Plastic Surgery</span></a></h1>
 		<h2 itemprop="description" class="subtitle">Hot off the press!</h2>
@@ -90,7 +90,7 @@
 	</footer>
 </article>
 		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples"><span itemprop="name">The Jardin de France Tags - Examples</span></a></h1>
 		<h2 itemprop="description" class="subtitle">The tags have been attached to the company's latest shipment of antiques</h2>

@@ -1,15 +1,14 @@
 ---
 layout: category/web-design
-title: Web Design
-page-title: 
-page-description:
+page-title: Web Design Posts
+page-description: The Studio N Creations blog roll containing all web design-related articles
 name: web-design
 slug: web-design
 page-type: Category
 visible-title: Web Design
 og-type: 
-og-url: 
-og-title: 
+og-url: http://blog.studioncreations.com/web-design/
+og-title: Web Design Posts Category | Studio N Creations Blog
 og-image: 
-og-description: 
+og-description: The Studio N Creations blog roll containing all web design-related articles
 ---

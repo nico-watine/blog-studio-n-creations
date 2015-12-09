@@ -1,16 +1,13 @@
 ---
 layout: tags/lemon-peel-facial
-title: Lemon Peel Facial Tags
-page-title: 
-page-description:
-tag-label: Lemon Peel Facial
-name: Tagged - Lemon Peel Facial
+page-title: Lemon Peel Facial Tags
+page-description: The Studio N Creations blog roll containing all posts tagged under 'Jardin de France'
 slug: lemon-peel-facial
 page-type: Tagged
 visible-title: Lemon Peel Facial
 og-type: 
-og-url: 
-og-title: 
+og-url: http://blog.studioncreations.com/tags/lemon-peel-facial
+og-title: Lemon Peel Facial Tag | Studio N Creations Blog
 og-image: 
-og-description: 
+og-description: The Studio N Creations blog roll containing all posts tagged under 'Jardin de France'
 ---

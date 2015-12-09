@@ -6,16 +6,16 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="preconnect" href="http://cdn.studioncreations.com">
-	<title> | Studio N Creations Blog</title>
-	<meta name="description" content="" />
+	<title>Greencare Interior Plants Tag | Studio N Creations Blog</title>
+	<meta name="description" content="The Studio N Creations blog roll containing all posts tagged under 'Greencare Interior Plants'" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 
 	<meta property="og:type" content="" />
-	<meta property="og:url" content="" />
-	<meta property="og:title" content="" />
+	<meta property="og:url" content="http://blog.studioncreations.com/tags/greencare-interior-plants" />
+	<meta property="og:title" content="Greencare Interior Plants Tag | Studio N Creations Blog" />
 	<meta property="og:image" content="" />
-	<meta property="og:description" content="" />
+	<meta property="og:description" content="The Studio N Creations blog roll containing all posts tagged under 'Greencare Interior Plants'" />
 	
 	<link rel="stylesheet" href="<?php autoVer('/css/core.css'); ?>" />
 	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
@@ -71,7 +71,7 @@
 <main class="outer-container">
 	<section class="blog-roll">
 		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-website-frame-setup"><span itemprop="name">Greencare Interior Plants Website Frame Setup</span></a></h1>
 		<h2 itemprop="description" class="subtitle">The new GreencareTX.com website has a responsive site structure</h2>
@@ -90,7 +90,7 @@
 	</footer>
 </article>
 		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-project"><span itemprop="name">New Project - Greencare Interior Plants</span></a></h1>
 		<h2 itemprop="description" class="subtitle">We're giving Greencare Interior Plants a fresh, new look</h2>
@@ -114,7 +114,7 @@
 		<div class="page-title smaller">
 	<div class="row">
 		<h5>Tagged</h5>
-		<h1>Greencare Interior Plants</h1>
+		<h1></h1>
 	</div>
 </div>
 		<nav class="side-nav">

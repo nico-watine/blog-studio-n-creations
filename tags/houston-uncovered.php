@@ -1,16 +1,13 @@
 ---
 layout: tags/houston-uncovered
-title: Houston Uncovered Tags
-page-title: 
-page-description:
-tag-label: Houston Uncovered
-name: Tagged - Houston Uncovered
+page-title: Houston Uncovered Tags
+page-description: The Studio N Creations blog roll containing all posts tagged under 'Houston Uncovered'
 slug: houston-uncovered
 page-type: Tagged
 visible-title: Houston Uncovered
 og-type: 
-og-url: 
-og-title: 
+og-url: http://blog.studioncreations.com/tags/houston-uncovered
+og-title: Houston Uncovered Tag | Studio N Creations Blog
 og-image: 
-og-description: 
+og-description: The Studio N Creations blog roll containing all posts tagged under 'Houston Uncovered'
 ---

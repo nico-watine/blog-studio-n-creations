@@ -12,7 +12,7 @@
 	<link type="text/plain" rel="author" href="/humans.txt">
 
 	<meta property="og:type" content="{{ page.og-type }}" />
-	<meta property="og:url" content="{{ site.base_cdn }}{{ page.og-url }}" />
+	<meta property="og:url" content="{{ site.blog_url }}{{ page.og-url }}" />
 	<meta property="og:title" content="{{ page.og-title }}" />
 	<meta property="og:image" content="{{ site.blog_cdn }}{{ page.og-image }}" />
 	<meta property="og:description" content="{{ page.og-description }}" />

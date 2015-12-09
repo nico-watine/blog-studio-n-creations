@@ -6,8 +6,8 @@ slug: home
 page-type: Page
 visible-title: Home
 og-type: 
-og-url: 
-og-title: 
+og-url: http://blog.studioncreations.com
+og-title: Home Blog Roll | Studio N Creations
 og-image: 
-og-description: 
+og-description: Keep up with the our latest posts and projects on Studio N Creations blog
 ---
