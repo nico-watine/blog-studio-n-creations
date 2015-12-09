@@ -223,20 +223,20 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//jardin-de-france-tag-examples"><span itemprop="name"></span></a></h1>
-		<h2 itemprop="description" class="subtitle"></h2>
-		<time datetime="T08:00:00-06:00"></time>
-		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-		<a itemprop="mainEntityOfPage" href="//jardin-de-france-tag-examples" class="read-more blue floating">Read More</a>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples"><span itemprop="name">The Jardin de France Tags - Examples</span></a></h1>
+		<h2 itemprop="description" class="subtitle">The tags have been attached to the company's latest shipment of antiques</h2>
+		<time datetime="2015-03-30T08:00:00-06:00">30 March 2015</time>
+		<meta itemprop="datePublished" content="2015-03-30T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples" class="read-more blue floating">Read More</a>
 	</header>
 	<section id="hero-image">
-		<a itemprop="mainEntityOfPage" href="//jardin-de-france-tag-examples"> 
-			<img itemprop="image" src="" alt="">
+		<a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples"> 
+			<img itemprop="image" src="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" alt="A close-up of a Jardin de France tag">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+		<h4 id="category">Category | <a href="/print-work/"><span itemprop="genre">Print Work</span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/jardin-de-france"><span itemprop="keywords">Jardin de France</span></a></h4>
 	</footer>
 </article>
 		

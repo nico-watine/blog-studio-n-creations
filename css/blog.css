@@ -50,6 +50,8 @@ code { font-family: Consolas, "Liberation Mono", Courier, monospace; font-weight
 
 .white-border { border: 0.125em solid #fff; }
 
+.black-border { border: 0.0625em solid #000; }
+
 .half { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
 .half:last-child { margin-right: 0; }
 @media screen and (max-width: 46.875em) { .half { float: left; display: block; margin-right: 2.35765%; width: 82.94039%; margin-left: 8.5298%; }

@@ -46,6 +46,10 @@
 	border: em(2) solid #fff;
 }
 
+.black-border {
+	border: em(1) solid #000;
+}
+
 .half {
 	@include span-columns(8 of 16);
 
