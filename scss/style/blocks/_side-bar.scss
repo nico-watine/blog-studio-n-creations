@@ -1,71 +1,42 @@
 @import "../settings/_settings.scss";
 
 aside {
-	nav.category-nav {
-		li {
-			margin: rem(12) 0;
-			background-color: #fff;
+	nav.side-nav {
+		ul.category-list {
+			list-style: none;
+			padding: 0;
+			margin: 0;
 
-			a {
-				border: em(1) solid $dark-blue;
-				display: block;
-				text-decoration: none;
-				padding: rem(8);
-				color: $text-color;
+			li {
+				margin: rem(12) 0;
+				background-color: #fff;
+
+				a {
+					border: em(1) solid $dark-blue;
+					display: block;
+					text-decoration: none;
+					padding: rem(8);
+					color: $text-color;
+
+					&:hover {
+						color: #fff;
+					}
+				}
 
 				&:hover {
-					color: #fff;
+					background-color: $dark-blue;
 				}
-			}
-
-			&:hover {
-				background-color: $dark-blue;
 			}
 		}
 	}	
 }
 
 
-
-ul.widget-nav {
-	list-style: none;
-	padding: 0;
-	margin: 0;
-}
-
-.widget#post-categories,
-.widget#snc-link {
-	text-align: center;
-
-	.widget-nav {
-		li {
-			margin: rem(12) 0;
-			background-color: #fff;
-
-			a {
-				border: em(1) solid $dark-blue;
-				display: block;
-				text-decoration: none;
-				padding: rem(8);
-				color: $text-color;
-
-				&:hover {
-					color: #fff;
-				}
-			}
-
-			&:hover {
-				background-color: $dark-blue;
-			}
-		}
-	}
-}
-
-.category-title,
-.tag-title {
+.page-title {
 	background: #fff;
 	box-shadow: $z-1;
 	padding: em(16) em(8) em(8);
+	margin-bottom: em(22);
 
 	h1 {
 		font-size: $h2-size;
@@ -76,12 +47,8 @@ ul.widget-nav {
 	}
 }
 
-#blog-roll.category-title {
-	margin-bottom: em(18);
-}
 
-#greencare.tag-title,
-#houston-oculofacial.tag-title {
+.page-title.smaller {
 	h1 {
 		font-size: rem(36);
 

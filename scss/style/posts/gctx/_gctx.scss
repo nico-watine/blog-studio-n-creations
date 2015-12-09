@@ -1,9 +1,4 @@
 @import "../../settings/_settings.scss";
 
-video#shrinking-greencare-browser {
-	max-width: 100%;
-	width: 100%;
-	border: em(1) solid #000;
-}
-// @import "_03-24.scss";
-// @import "_03-31.scss";
+
+@import "_03-31.scss"; // greencare-interior-plants-skeleton-setup

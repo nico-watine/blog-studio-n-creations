@@ -92,15 +92,15 @@
 		
 	</section>
 	<aside class="sidebar">
-		<div class="category-title">
+		<div class="page-title">
 	<div class="row">
-		<h5>POST CATEGORY</h5>
-		<h1>Web Dev</h1>
+		<h5>Category</h5>
+		<h1>Web Development</h1>
 	</div>
 </div>
-		<nav class="category-nav">
-	<!-- <h3>CATEGORIES</h3> -->
-	<ul class="widget-nav">
+		<nav class="side-nav">
+	<h3>CATEGORIES</h3>
+	<ul class="category-list">
 		<li><a href="/web-design/" class="blue floating">Web Design</a></li>
 		<li><a href="/print-work/" class="blue floating">Print Work</a></li>
 		<li><a href="/web-development/" class="blue floating">Web Development</a></li>
@@ -114,9 +114,9 @@
 		<div class="row">
 			<ul class="footer-menu">
 				<li><a href="/">HOME</a></li>
-				<li><a href="/web-design">WEB DESIGN</a></li>
-				<li><a href="/web-development">WEB DEVELOPMENT</a></li>
-				<li><a href="/print-work">PRINT WORK</a></li>
+				<li><a href="/web-design/">WEB DESIGN</a></li>
+				<li><a href="/web-development/">WEB DEVELOPMENT</a></li>
+				<li><a href="/print-work/">PRINT WORK</a></li>
 				<li><a href="http://studioncreations.com/contact/" target="_blank">CONTACT</a></li>
 			</ul>
 		</div>

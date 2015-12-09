@@ -130,14 +130,14 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-skeletop-setup"><span itemprop="name">Greencare Interior Plants Website Skeleton Setup</span></a></h1>
-		<h2 itemprop="description" class="subtitle">The new greencaretx.com website has a responsive site structure</h2>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-website-frame-setup"><span itemprop="name">Greencare Interior Plants Website Frame Setup</span></a></h1>
+		<h2 itemprop="description" class="subtitle">The new GreencareTX.com website has a responsive site structure</h2>
 		<time datetime="2015-03-31T08:00:00-06:00">31 March 2015</time>
 		<meta itemprop="datePublished" content="2015-03-31T08:00:00-06:00"/>
-		<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-skeletop-setup" class="read-more blue floating">Read More</a>
+		<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-website-frame-setup" class="read-more blue floating">Read More</a>
 	</header>
 	<section id="hero-image">
-		<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-skeletop-setup"> 
+		<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-website-frame-setup"> 
 			<img itemprop="image" src="/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg" alt="">
 		</a>
 	</section>
@@ -244,15 +244,15 @@
 		
 	</section>
 	<aside class="sidebar">
-		<div class="category-title">
+		<div class="page-title">
 	<div class="row">
-		<h5>POST CATEGORY</h5>
+		<h5>Category</h5>
 		<h1>Web Design</h1>
 	</div>
 </div>
-		<nav class="category-nav">
-	<!-- <h3>CATEGORIES</h3> -->
-	<ul class="widget-nav">
+		<nav class="side-nav">
+	<h3>CATEGORIES</h3>
+	<ul class="category-list">
 		<li><a href="/web-design/" class="blue floating">Web Design</a></li>
 		<li><a href="/print-work/" class="blue floating">Print Work</a></li>
 		<li><a href="/web-development/" class="blue floating">Web Development</a></li>
@@ -266,9 +266,9 @@
 		<div class="row">
 			<ul class="footer-menu">
 				<li><a href="/">HOME</a></li>
-				<li><a href="/web-design">WEB DESIGN</a></li>
-				<li><a href="/web-development">WEB DEVELOPMENT</a></li>
-				<li><a href="/print-work">PRINT WORK</a></li>
+				<li><a href="/web-design/">WEB DESIGN</a></li>
+				<li><a href="/web-development/">WEB DEVELOPMENT</a></li>
+				<li><a href="/print-work/">PRINT WORK</a></li>
 				<li><a href="http://studioncreations.com/contact/" target="_blank">CONTACT</a></li>
 			</ul>
 		</div>

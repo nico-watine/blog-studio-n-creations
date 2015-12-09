@@ -4,4 +4,6 @@ title: Jardin de France Tags
 tag-label: Jardin de France
 name: Tagged - Jardin de France
 slug: jardin-de-france
+page-type: Tagged
+visible-title: Jardin De France
 ---

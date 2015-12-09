@@ -28,7 +28,8 @@
 		{% endfor %}
 	</section>
 	<aside>
-		{% include blocks/side-bar/index-nav.html %}
+		{% include blocks/side-bar/page-title.html %}
+		{% include blocks/side-bar/category-nav.html %}
 	</aside>
 </main>
 
