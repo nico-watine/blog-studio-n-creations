@@ -4,6 +4,23 @@
 {% include blocks/top-bar.html %}
 {% include blocks/nav.html %}
 
+<!-- <section class="featured-container">
+	<div class="row">
+		<div class="featured-slide" id="web-design">
+			<a href="/web-design/">
+				<img src="{{ site.blog_cdn }}/img/post-attachments/web-design/featured-banner.jpg" alt="">
+				<h2>Web Design</h2>
+			</a>
+		</div>
+		<div class="featured-slide" id="print-work">
+			<a href="/print-work/">
+				<img src="{{ site.blog_cdn }}/img/post-attachments/print-work/featured-slider.jpg" alt="">
+				<h2>Print Work</h2>
+			</a>
+		</div>
+	</div>
+</section> -->
+
 <main class="outer-container">
 	<section class="blog-roll">
 		{% for post in site.posts %}
