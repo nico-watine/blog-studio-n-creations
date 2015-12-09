@@ -620,7 +620,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/_posts\/2015-03-31-greencare-skeleton-setup.md": {
+	"\/_posts\/2015-03-31-greencare-interior-plants-skeletop-setup.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 0,
 		"enableLabels": 1,
@@ -629,9 +629,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/2015-03-31-greencare-skeleton-setup.md",
+		"inputAbbreviatedPath": "\/_posts\/2015-03-31-greencare-interior-plants-skeletop-setup.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/_posts\/2015-03-31-greencare-skeleton-setup.html",
+		"outputAbbreviatedPath": "\/_posts\/2015-03-31-greencare-interior-plants-skeletop-setup.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -1936,11 +1936,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/web-design\/greencare-skeleton-setup.html": {
+	"\/_site\/web-design\/greencare-interior-plants-skeletop-setup.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/web-design\/greencare-skeleton-setup.html",
+		"inputAbbreviatedPath": "\/_site\/web-design\/greencare-interior-plants-skeletop-setup.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

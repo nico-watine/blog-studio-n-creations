@@ -4,7 +4,7 @@ page-title: Introducing the Greencare Interior Plants Project
 page-description: We're giving Greencare Interior Plants a fresh, new look
 slug: greencare-interior-plants-project
 category: web-design
-tags: greencare
+tags: greencare-interior-plants
 article-title: New Project - Greencare Interior Plants
 article-subtitle: We're giving Greencare Interior Plants a fresh, new look
 article-datetime: 2015-03-24

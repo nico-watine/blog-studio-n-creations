@@ -204,20 +204,20 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//greencare-skeleton-setup"><span itemprop="name"></span></a></h1>
-		<h2 itemprop="description" class="subtitle"></h2>
-		<time datetime="T08:00:00-06:00"></time>
-		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-		<a itemprop="mainEntityOfPage" href="//greencare-skeleton-setup" class="read-more blue floating">Read More</a>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-skeletop-setup"><span itemprop="name">Greencare Interior Plants Website Skeleton Setup</span></a></h1>
+		<h2 itemprop="description" class="subtitle">The new greencaretx.com website has a responsive site structure</h2>
+		<time datetime="2015-03-31T08:00:00-06:00">31 March 2015</time>
+		<meta itemprop="datePublished" content="2015-03-31T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-skeletop-setup" class="read-more blue floating">Read More</a>
 	</header>
 	<section id="hero-image">
-		<a itemprop="mainEntityOfPage" href="//greencare-skeleton-setup"> 
-			<img itemprop="image" src="" alt="">
+		<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-skeletop-setup"> 
+			<img itemprop="image" src="/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg" alt="">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
+		<h4 id="category">Category | <a href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a href="/tags/greencare-interior-plants"><span itemprop="keywords">Greencare Interior Plants</span></a></h4>
 	</footer>
 </article>
 		

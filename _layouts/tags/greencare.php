@@ -6,7 +6,7 @@
 
 <main class="outer-container">
 	<section class="blog-roll">
-		{% for post in site.tags.greencare %}
+		{% for post in site.tags.greencare-interior-plants %}
 			{% include blocks/article/article-post-summary.html %}
 		{% endfor %}
 	</section>
