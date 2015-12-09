@@ -112,8 +112,8 @@ ul.widget-nav { list-style: none; padding: 0; margin: 0; }
 
 #blog-roll.category-title { margin-bottom: 1.125em; }
 
-#greencare.tag-title h1 { font-size: 2.375rem; }
-@media screen and (max-width: 46.875em) { #greencare.tag-title h1 { font-size: 1.9375em; } }
+#greencare.tag-title h1, #houston-oculofacial.tag-title h1 { font-size: 2.25rem; }
+@media screen and (max-width: 46.875em) { #greencare.tag-title h1, #houston-oculofacial.tag-title h1 { font-size: 1.9375em; } }
 
 .post-link, .widget, .category { background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border-radius: 0.25em; padding: 1em; margin-bottom: 1.5625em; }
 

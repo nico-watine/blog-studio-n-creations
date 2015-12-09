@@ -80,9 +80,10 @@ ul.widget-nav {
 	margin-bottom: em(18);
 }
 
-#greencare.tag-title {
+#greencare.tag-title,
+#houston-oculofacial.tag-title {
 	h1 {
-		font-size: rem(38);
+		font-size: rem(36);
 
 		@include media($medium) {
 			font-size: $h3-size;

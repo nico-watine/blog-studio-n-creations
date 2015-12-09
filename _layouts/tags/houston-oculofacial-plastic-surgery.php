@@ -6,12 +6,17 @@
 
 <main class="outer-container">
 	<section class="blog-roll">
-		{% for post in site.tags.houston-oculofacial %}
+		{% for post in site.tags.houston-oculofacial-plastic-surgery %}
 			{% include blocks/article/article-post-summary.html %}
 		{% endfor %}
 	</section>
 	<aside class="sidebar">
-		{% include blocks/side-bar/tag-title.html %}
+		<div id="houston-oculofacial" class="tag-title">
+			<div class="row">
+				<h5>TAGGED</h5>
+				<h1>{{ page.tag-label }}</h1>
+			</div>
+		</div>
 		{% include blocks/side-bar/category-nav.html %}
 	</aside>
 </main>
