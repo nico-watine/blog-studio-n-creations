@@ -16,7 +16,7 @@
 			<img itemprop="image" class="article-hero" src="{{ site.blog_cdn }}{{ page.article-hero-img }}" alt="{{ page.article-hero-alt }}">
 			{{ content }}
 		</section>
-		<footer>
+		<footer id="post-taxonomy">
 			<h5>Tags | <a class="simple" href="/tags/{{ page.article-tag-link }}"><span itemprop="keywords">{{ page.article-tag }}</span></a></h5>
 		</footer>
 	</article>

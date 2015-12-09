@@ -12,15 +12,15 @@
 	<link type="text/plain" rel="author" href="/humans.txt">
 
 	<meta property="og:type" content="" />
-	<meta property="og:url" content="http://blog.studioncreations.com/tags/jardin-de-france" />
+	<meta property="og:url" content="http://blog.studioncreations.comhttp://blog.studioncreations.com/tags/jardin-de-france" />
 	<meta property="og:title" content="Jardin de France Tag | Studio N Creations Blog" />
-	<meta property="og:image" content="" />
+	<meta property="og:image" content="http://cdn.studioncreations.com/blog" />
 	<meta property="og:description" content="The Studio N Creations blog roll containing all posts tagged under 'Jardin de France'" />
 	
-	<link rel="stylesheet" href="<?php autoVer('/css/core.css'); ?>" />
-	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
+	<link rel="stylesheet" href="http://cdn.studioncreations.com<?php autoVer('/css/core.css'); ?>" />
+	<link rel="stylesheet" href="http://cdn.studioncreations.com/blog<?php autoVer('/css/blog.css'); ?>" />
 
-	<script src="/js/modernizr-min.js"></script>
+	<script src="http://cdn.studioncreations.com/js/modernizr-min.js"></script>
 
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" href="/css/ie.css" />
@@ -81,7 +81,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand"> 
-			<img itemprop="image" src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="The new Jardin de France Facebook cover">
+			<img itemprop="image" src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="The new Jardin de France Facebook cover">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -100,7 +100,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples"> 
-			<img itemprop="image" src="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" alt="A close-up of a Jardin de France tag">
+			<img itemprop="image" src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" alt="A close-up of a Jardin de France tag">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -119,7 +119,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/jardin-de-france-branding"> 
-			<img itemprop="image" src="/img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg" alt="A photo of a new Jardin de France price tag">
+			<img itemprop="image" src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg" alt="A photo of a new Jardin de France price tag">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -166,6 +166,6 @@
 </footer>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
-<script src="<?php autoVer('/js/nav-min.js'); ?>"></script>
+<script src="http://cdn.studioncreations.com<?php autoVer('/js/nav-min.js'); ?>"></script>
 </body>
 </html>

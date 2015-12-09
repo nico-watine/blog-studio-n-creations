@@ -12,15 +12,15 @@
 	<link type="text/plain" rel="author" href="/humans.txt">
 
 	<meta property="og:type" content="" />
-	<meta property="og:url" content="http://blog.studioncreations.com/tags/lemon-peel-facial" />
+	<meta property="og:url" content="http://blog.studioncreations.comhttp://blog.studioncreations.com/tags/lemon-peel-facial" />
 	<meta property="og:title" content="Lemon Peel Facial Tag | Studio N Creations Blog" />
-	<meta property="og:image" content="" />
+	<meta property="og:image" content="http://cdn.studioncreations.com/blog" />
 	<meta property="og:description" content="The Studio N Creations blog roll containing all posts tagged under 'Jardin de France'" />
 	
-	<link rel="stylesheet" href="<?php autoVer('/css/core.css'); ?>" />
-	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
+	<link rel="stylesheet" href="http://cdn.studioncreations.com<?php autoVer('/css/core.css'); ?>" />
+	<link rel="stylesheet" href="http://cdn.studioncreations.com/blog<?php autoVer('/css/blog.css'); ?>" />
 
-	<script src="/js/modernizr-min.js"></script>
+	<script src="http://cdn.studioncreations.com/js/modernizr-min.js"></script>
 
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" href="/css/ie.css" />
@@ -81,7 +81,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/lemon-peel-facial-logo"> 
-			<img itemprop="image" src="/img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg" alt="A detail shot of the new Lemon Peel Facial logo">
+			<img itemprop="image" src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg" alt="A detail shot of the new Lemon Peel Facial logo">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -128,6 +128,6 @@
 </footer>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
-<script src="<?php autoVer('/js/nav-min.js'); ?>"></script>
+<script src="http://cdn.studioncreations.com<?php autoVer('/js/nav-min.js'); ?>"></script>
 </body>
 </html>

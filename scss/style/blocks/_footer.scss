@@ -1,5 +1,14 @@
 @import "../settings/_settings.scss";
 
+footer#post-taxonomy {
+	background: none;
+	padding: 0;
+	box-shadow: none;
+	border: 0;
+	color: initial;
+}
+
+
 footer#page-footer {
 	margin-top: em(80);
 	

@@ -95,6 +95,8 @@ header#site-header { height: 3.4375em; padding-top: 3.4375em; width: 100%; }
 /* Effects */
 main { text-align: left; margin-top: 0; padding: 1.5625em 1em; }
 
+footer#post-taxonomy { background: none; padding: 0; box-shadow: none; border: 0; color: initial; }
+
 footer#page-footer { margin-top: 5em; }
 footer#page-footer h6 a#snc-link { color: #fff; }
 
