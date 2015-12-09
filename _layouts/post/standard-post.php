@@ -21,7 +21,12 @@
 		</footer>
 	</article>
 	<aside>
-		{% include blocks/side-bar/page-title.html %}
+		<div class="page-title">
+			<div class="row">
+				<h5>PAGE</h5>
+				<h1>Article</h1>
+			</div>
+		</div>
 		{% include blocks/side-bar/category-nav.html %}
 	</aside>
 </main>
