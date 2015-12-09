@@ -578,7 +578,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/_posts\/2015-03-27-dr-esposito-wrap-up.md": {
+	"\/_posts\/2015-03-27-dr-lisa-esposito-project-complete.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 0,
 		"enableLabels": 1,
@@ -587,9 +587,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/2015-03-27-dr-esposito-wrap-up.md",
+		"inputAbbreviatedPath": "\/_posts\/2015-03-27-dr-lisa-esposito-project-complete.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/_posts\/2015-03-27-dr-esposito-wrap-up.html",
+		"outputAbbreviatedPath": "\/_posts\/2015-03-27-dr-lisa-esposito-project-complete.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -1918,11 +1918,11 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/web-design\/dr-esposito-wrap-up.html": {
+	"\/_site\/web-design\/dr-lisa-esposito-project-complete.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/web-design\/dr-esposito-wrap-up.html",
+		"inputAbbreviatedPath": "\/_site\/web-design\/dr-lisa-esposito-project-complete.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

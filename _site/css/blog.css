@@ -232,25 +232,6 @@ ul.widget-nav { list-style: none; padding: 0; margin: 0; }
   .post-hero #calendar-nav nav a#previous { top: 3.125rem; }
   .post-hero #calendar-nav nav a#next { top: 0.625rem; }
   .post-hero #calendar-nav nav span#divider { visibility: hidden; } }
-#dr-esposito-wrap-up .row { margin-bottom: 1.5em; }
-#dr-esposito-wrap-up .verbiage { float: left; display: block; margin-right: 1.75788%; width: 23.68159%; }
-#dr-esposito-wrap-up .verbiage:last-child { margin-right: 0; }
-#dr-esposito-wrap-up .verbiage p { font-size: 1.375rem; margin-bottom: 1rem; }
-#dr-esposito-wrap-up figure { float: left; display: block; margin-right: 1.75788%; width: 74.56053%; margin-bottom: 1.5em; }
-#dr-esposito-wrap-up figure:last-child { margin-right: 0; }
-#dr-esposito-wrap-up figure img { border: 0.125em solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
-#dr-esposito-wrap-up #two { text-align: center; }
-#dr-esposito-wrap-up #two a { font-size: 1.9375em; }
-@media only screen and (max-width: 56.25em) { #dr-esposito-wrap-up .verbiage { float: left; display: block; margin-right: 1.75788%; width: 36.40133%; }
-  #dr-esposito-wrap-up .verbiage:last-child { margin-right: 0; }
-  #dr-esposito-wrap-up figure { float: left; display: block; margin-right: 1.75788%; width: 61.8408%; }
-  #dr-esposito-wrap-up figure:last-child { margin-right: 0; } }
-@media screen and (max-width: 46.875em) { #dr-esposito-wrap-up .verbiage p { font-size: 1.25rem; }
-  #dr-esposito-wrap-up #two a { font-size: 1.375em; } }
-@media only screen and (max-width: 41.875em) { #dr-esposito-wrap-up .verbiage, #dr-esposito-wrap-up figure { width: 100%; margin: 0; }
-  #dr-esposito-wrap-up figure { text-align: left; margin-bottom: 1.5em; }
-  #dr-esposito-wrap-up #two { text-align: left; } }
-
 article#jdf-branding figure { float: left; display: block; margin-right: 1.75788%; width: 61.8408%; margin-bottom: 1.25em; }
 article#jdf-branding figure:last-child { margin-right: 0; }
 article#jdf-branding figure img { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border: 0.125em solid #fff; }
@@ -267,17 +248,6 @@ article#updating-jdf-brand .row#two p { margin-bottom: 1.875rem; }
   article#updating-jdf-brand .row#one figure:last-child { margin-right: 0; }
   article#updating-jdf-brand .row#one .verbiage { margin-left: 6.47367%; float: left; display: block; margin-right: 3.57866%; width: 87.05267%; }
   article#updating-jdf-brand .row#one .verbiage:last-child { margin-right: 0; } }
-article#houston-uncovered-preview .row#one figure, article#houston-uncovered-preview .row#one .verbiage { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
-article#houston-uncovered-preview .row#one figure:last-child, article#houston-uncovered-preview .row#one .verbiage:last-child { margin-right: 0; }
-article#houston-uncovered-preview .row#one figure img { border: 0.125em solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
-article#houston-uncovered-preview .row#two { text-align: center; }
-article#houston-uncovered-preview .row#two a { font-size: 1.9375em; }
-
-@media only screen and (max-width: 41.875em) { article#houston-uncovered-preview .row#one figure { margin-bottom: 1.25em; }
-  article#houston-uncovered-preview .row#one figure, article#houston-uncovered-preview .row#one .verbiage { float: left; display: block; margin-right: 3.57866%; width: 100%; }
-  article#houston-uncovered-preview .row#one figure:last-child, article#houston-uncovered-preview .row#one .verbiage:last-child { margin-right: 0; }
-  article#houston-uncovered-preview .row#two { text-align: left; }
-  article#houston-uncovered-preview .row#two a { font-size: 1.375rem; } }
 article#houston-uncovered-post .row#one figure, article#houston-uncovered-post .row#one .verbiage { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
 article#houston-uncovered-post .row#one figure:last-child, article#houston-uncovered-post .row#one .verbiage:last-child { margin-right: 0; }
 article#houston-uncovered-post .row#one figure img { border: 0.125em solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); max-width: 43.75em; }
