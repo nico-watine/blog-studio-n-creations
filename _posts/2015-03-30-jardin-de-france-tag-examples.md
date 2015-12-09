@@ -22,11 +22,16 @@ og-title: Examples of the Jardin de France tags
 og-image: /img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg
 og-description: The tags have been attached to the company's latest shipment of antiques
 ---
-<div class="row">
-	<p>The printed Jardin de France price tags mentioned in the earlier post have been attached to their latest shipment of antiques. Here are a few shots of them.</p>
+<div class="row margin-bottom">
+	<h3 class="margin-bottom">The new <a href="http://jardindefrancetx.com" target="_blank" class="simple">Jardin de France</a> brand tags just came back from the printers.</h3>
+	<p>The tags have now been attached to Jardin de France's latest shipment of antiques. You can see our <a href="/web-design/jardin-de-france-branding" class="underlined">earlier post</a> about the project if you are unfamiliar with it. Here are a few shots of the new tags.</p>
 	<br>
 	<img src="{{ site.blog_cdn }}/img/post-attachments/projects/jdf/3-30/jdf-tag-1.jpg" class="black-border margin-bottom" alt="Jardin de France Label Tag">
 	<img src="{{ site.blog_cdn }}/img/post-attachments/projects/jdf/3-30/jdf-tag-2.jpg" class="black-border margin-bottom" alt="Jardin de France Label Tag">
 	<img src="{{ site.blog_cdn }}/img/post-attachments/projects/jdf/3-30/jdf-tag-3.jpg" class="black-border margin-bottom" alt="Jardin de France Label Tag">
 	<br>
+</div>
+<div class="row">
+	<h3 class="margin-bottom">Jardin de France is a Houston-based importer of French antiques. You can visit their shop at <a href="https://goo.gl/maps/94K5Lov32qw" class="underlined" target="_blank">4819 Blossom St, Houston, TX</a></h3>
+	<p class="header">Site Link | <a href="http://jardindefrancetx.com" class="simple" target="_blank">www.JardinDeFranceTX.com</a></p>
 </div>

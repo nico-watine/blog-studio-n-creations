@@ -22,20 +22,18 @@ og-title: The website redesign for Dr. Lisa Esposito is complete
 og-image: /img/post-attachments/projects/lisa-esposito/3-27/post-img@2x.jpg
 og-description: We've finished the project for this Boston-area artist
 ---
-<div class="row">
-	<p>Remember how to old site used to look? Check out the <a class="underlined" href="/web-design/new-lisa-esposito-project">previous post</a> on it if you're unfamiliar with it. Here's the new home page - much better we think!</p>
+<div class="row margin-bottom">
+	<h3 class="margin-bottom">Remember how Lisa Esposito's site used to look?</h3>
+	<p>Check out the <a class="underlined" href="/web-design/new-lisa-esposito-project">previous post</a> on it if you're unfamiliar with it. Here's the new home page - much better we think!</p>
 	<p>The new website is mobile-optimized to adapt to any size device. Here is mockup of a device spread to demonstrate how the home page presents nicely on a range of screen sizes.</p>
-	<br>
-	<br>
 </div>
-<div class="row">
+<div class="row margin-bottom">
 	<figure>
-		<img style="border: 1px solid #000;" src="{{ site.blog_cdn }}/img/post-attachments/projects/lisa-esposito/3-27/post-img@2x.jpg" alt="Lisa Esposito.com Home Page Device Mockups">
-		<figcaption>The new <a href="http://www.lisaesposito.com" class="underline">LisaEsposito.com</a> home page adapts to any size device</figcaption>
+		<img class="black-border" src="{{ site.blog_cdn }}/img/post-attachments/projects/lisa-esposito/3-27/post-img@2x.jpg" alt="Lisa Esposito.com Home Page Device Mockups">
+		<figcaption>The new <a href="http://www.lisaesposito.com" class="simple">LisaEsposito.com</a> home page adapts to any size device</figcaption>
 	</figure>
-	<br>
-	<br>
 </div>
 <div class="row">
-	<p>You can visit Dr. Lisa Esposito's redesigned website at <a class="underline" href="http://www.lisaesposito.com" target="_blank">www.LisaEsposito.com</a></p>
+	<p class="margin-bottom">Visit her website on your phone or tablet to see it in action!</p>
+	<p class="header">Site Link | <a href="http://www.lisaesposito.com" target="_blank" class="simple">www.LisaEsposito.com</a></p>
 </div>

@@ -22,4 +22,10 @@ og-title: New Project - Greencare Interior Plants
 og-image: /img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg
 og-description: We're giving Greencare Interior Plants a fresh, new look
 ---
-<p>We're giving Houston-based Greencare Interior Plants's website a total transformation, making it more welcoming and not so stiff. Logo differences should give an idea of the new direction. Greencare Interior Plants provides commercial and residential indoor plant care services in Houston, Texas.</p>
+<div class="row margin-bottom">
+	<h3 class="margin-bottom">We have a new project, working with Houston-based Greencare Interior Plants.</h3>
+	<p>They recently approached us, wanting a fresh look for both their brand and website. Logo differences should give an idea of the new direction. <a href="http://greencaretx.com" class="simple" target="_blank">Greencare Interior Plants</a> provides commercial and residential indoor plant care services in Houston, Texas.</p>
+</div>
+<div class="row">
+	<p class="header">Site Link | <a href="http://greencaretx.com" class="simple" target="_blank">www.GreencareTX.com</a></p>
+</div>

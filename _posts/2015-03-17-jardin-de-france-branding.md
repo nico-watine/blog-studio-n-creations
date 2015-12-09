@@ -22,5 +22,10 @@ og-title: New Print Material for 'Jardin de France'
 og-image: /img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg
 og-description: Studio N Creations is creating a brand for Jardin de France
 ---
-<p>These product tags will have price stickers on the back and be attached to each item.</p>
-<p>We'll update with a photo when they start getting applied.</p>
+<div class="row margin-bottom">
+	<h3 class="margin-bottom">We're designing some logo tags for Houston-based antique importers Jardin de France.</h3>
+	<p>These tags will have price stickers on the back and be attached to each piece. We will update with photos when they start getting applied.</p>
+</div>
+<div class="row">
+	<p class="header">Site Link | <a href="http://jardindefrancetx.com" class="simple" target="_blank">www.JardinDeFranceTX.com</a></p>
+</div>

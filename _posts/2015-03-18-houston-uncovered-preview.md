@@ -23,17 +23,16 @@ og-image: /img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.j
 og-description: Here is a teaser mockup of the upcoming HoustonUncovered.com
 ---
 <div class="row">
-	<p>My last job had me running all over the city making deliveries. I was able to get some great photos every day. The site is slowly getting set up. Check out how the <code>&lt;header&gt;</code> transforms as you scroll down.</p>
+	<h3 class="margin-bottom"><a href="http://houstonuncovered.com" target="_blank" class="simple">HoustonUncovered.com</a> is my personal blog of our fair city.</h3>
+	<p>My last job had me running all over Houston making deliveries. It gave me the opportunity to take some great photos every day, and this website will be the home of all my photographs. The site is slowly getting set up. Check out how the page <code>&lt;header&gt;</code> transforms as you scroll down.</p>
 	<br>
 </div>
-<div class="row">
+<div class="row margin-bottom">
 	<figure style="max-width: 28.125em; margin: 0 auto;">
-		<img style="border: 1px solid #000;" src="{{ site.blog_cdn }}/img/post-attachments/projects/houston-uncovered/3-18/header-scroll.gif" alt="Houston Uncovered Scrolling GIF">
-		<figcaption>The Houston | Uncovered scrolling header</figcaption>
+		<img class="black-border" src="{{ site.blog_cdn }}/img/post-attachments/projects/houston-uncovered/3-18/header-scroll.gif" alt="Houston Uncovered Scrolling GIF">
+		<figcaption>A nifty GIF of some <a href="http://houstonuncovered.com" class="simple" target="_blank">HoustonUncovered.com</a> scroll effects</figcaption>
 	</figure>
-	<br>
-	<br>
 </div>
 <div class="row">
-	<p>See the site under development at <a href="http://houstonuncovered.com" target="_blank">www.HoustonUncovered.com</a>.</p>
+	<p class="header">Site Link | <a href="http://houstonuncovered.com" target="_blank" class="simple">www.HoustonUncovered.com</a></p>
 </div>

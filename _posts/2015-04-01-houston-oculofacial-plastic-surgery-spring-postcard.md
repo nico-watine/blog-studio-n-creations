@@ -28,9 +28,10 @@ og-description: These promotional postcards were recently designed for Houston O
 <div class="row margin-bottom">
 	<figure>
 		<img src="{{ site.blog_cdn }}/img/post-attachments/projects/houston-oculofacial/4-1/post-image.jpg" class="black-border" alt="Houston Oculofacial Plastic Surgery Promotional Postcard">
-		<figcaption>The Houston Oculofacial Spring Postcard</figcaption>
+		<figcaption>The <a href="http://houstonoculofacial.com" class="simple" target="_blank">Houston Oculofacial</a> Spring Postcard</figcaption>
 	</figure>
 </div>
 <div class="row">
-	<p>We also manage Dr. Sami's website, <a href="http://houstonoculofacial.com" class="underlined-link" target="_blank">houstonoculofacial.com</a>, where you can find out more about her Houston-based practice and the services she offers.</p>
+	<p class="margin-bottom">We also help maintain Dr. Sami's website, <a href="http://houstonoculofacial.com" class="simple" target="_blank">houstonoculofacial.com</a>, where you can find out more about her Houston-based practice and the services she offers.</p>
+	<p class="header">Site Link | <a href="http://houstonoculofacial.com" class="simple" target="_blank">www.HoustonOculofacial.com</a></p>
 </div>

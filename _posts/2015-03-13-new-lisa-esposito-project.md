@@ -23,7 +23,8 @@ og-image: /img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg
 og-description: We are in the process of designing a new website for artist Dr. Lisa esposito
 ---
 <div class="row">
-	<p>We're doing a site redesign for Dr. Lisa Esposito, an abstract expressionist painter in Boston, Massachusetts. The redesign will be starting with the home page. Here's how it currently looks on an iPad, with the slide show taking up all of the visible space.</p>
+	<h3 class="margin-bottom">We're doing a site redesign for Dr. Lisa Esposito, an abstract expressionist painter in Boston, Massachusetts. </h3>
+	<p>The redesign will be starting with the home page. Here's how it currently looks on an iPad, with the slide show taking up all of the visible space. We've got to fix that...</p>
 	<br>
 </div>
 <div class="row">
@@ -33,7 +34,6 @@ og-description: We are in the process of designing a new website for artist Dr. 
 	</figure>
 </div>
 <div class="row">
-	<p>We've got to fix that... You can visit her website at <a class="underlined" href="http://www.lisaesposito.com" target="_blank">www.LisaEsposito.com</a>.</p>
-	<hr>
-	<h3>Look out for <a href="/tags/lisa-esposito" class="underlined">updates</a> on this project!</h3>
+	<h3>Look out for <a href="/tags/lisa-esposito" class="simple">updates</a> on this project!</h3>
+	<p class="header">Site Link | <a href="http://www.lisaesposito.com" target="_blank" class="simple">www.LisaEsposito.com</a></p>
 </div>
