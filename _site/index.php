@@ -185,25 +185,6 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//houston-oculofacial-spring-postcard"><span itemprop="name"></span></a></h1>
-		<h2 itemprop="description" class="subtitle"></h2>
-		<time datetime="T08:00:00-06:00"></time>
-		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-		<a itemprop="mainEntityOfPage" href="//houston-oculofacial-spring-postcard" class="read-more blue floating">Read More</a>
-	</header>
-	<section id="hero-image">
-		<a itemprop="mainEntityOfPage" href="//houston-oculofacial-spring-postcard"> 
-			<img itemprop="image" src="" alt="">
-		</a>
-	</section>
-	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a href="//"><span itemprop="genre"></span></a></h4>
-		<h4 id="tags">Tags | <a href="/tags/"><span itemprop="keywords"></span></a></h4>
-	</footer>
-</article>
-		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
-	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/houston-oculofacial-plastic-surgery-spring-postcard"><span itemprop="name">New promotional spring-time postcards for Houston Oculofacial Plastic Surgery</span></a></h1>
 		<h2 itemprop="description" class="subtitle">Hot off the press!</h2>
 		<time datetime="2015-04-01T08:00:00-06:00">1 April 2015</time>
