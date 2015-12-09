@@ -90,25 +90,6 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//where-have-we-been"><span itemprop="name"></span></a></h1>
-		<h2 itemprop="description" class="subtitle"></h2>
-		<time datetime="T08:00:00-06:00"></time>
-		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-		<a itemprop="mainEntityOfPage" href="//where-have-we-been" class="read-more blue floating">Read More</a>
-	</header>
-	<section id="hero-image">
-		<a itemprop="mainEntityOfPage" href="//where-have-we-been"> 
-			<img itemprop="image" src="" alt="">
-		</a>
-	</section>
-	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a class="simple" href="//"><span itemprop="genre"></span></a></h4>
-		<h4 id="tags">Tags | <a class="simple" href="/tags/"><span itemprop="keywords"></span></a></h4>
-	</footer>
-</article>
-		
-			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
-	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand"><span itemprop="name">Updating the 'Jardin de France' brand</span></a></h1>
 		<h2 itemprop="description" class="subtitle">The houston-based antique importers are ready for a new website</h2>
 		<time datetime="2015-06-03T08:00:00-06:00">3 June 2015</time>
@@ -128,39 +109,39 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//houston-uncovered-post"><span itemprop="name"></span></a></h1>
-		<h2 itemprop="description" class="subtitle"></h2>
-		<time datetime="T08:00:00-06:00"></time>
-		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-		<a itemprop="mainEntityOfPage" href="//houston-uncovered-post" class="read-more blue floating">Read More</a>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-post"><span itemprop="name">HoustonUncovered.com has a new post</span></a></h1>
+		<h2 itemprop="description" class="subtitle">Here is a clipping from the Houston photography blog</h2>
+		<time datetime="2015-04-18T08:00:00-06:00">18 April 2015</time>
+		<meta itemprop="datePublished" content="2015-04-18T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-post" class="read-more blue floating">Read More</a>
 	</header>
 	<section id="hero-image">
-		<a itemprop="mainEntityOfPage" href="//houston-uncovered-post"> 
-			<img itemprop="image" src="" alt="">
+		<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-post"> 
+			<img itemprop="image" src="/img/post-attachments/projects/houston-uncovered/4-18/link-banner@2x.jpg" alt="A mockup of a new post on HoustonUncovered.com">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a class="simple" href="//"><span itemprop="genre"></span></a></h4>
-		<h4 id="tags">Tags | <a class="simple" href="/tags/"><span itemprop="keywords"></span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/houston-uncovered"><span itemprop="keywords">Houston Uncovered</span></a></h4>
 	</footer>
 </article>
 		
 			<article itemscope itemtype="http://schema.org/BlogPosting" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="//gaget-analytics-app"><span itemprop="name"></span></a></h1>
-		<h2 itemprop="description" class="subtitle"></h2>
-		<time datetime="T08:00:00-06:00"></time>
-		<meta itemprop="datePublished" content="T08:00:00-06:00"/>
-		<a itemprop="mainEntityOfPage" href="//gaget-analytics-app" class="read-more blue floating">Read More</a>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-development/macintosh-os-x-gaget-analytics-app"><span itemprop="name">The new 'GAget Analytics' app</span></a></h1>
+		<h2 itemprop="description" class="subtitle">It's an excellent app for monitoring your website traffic</h2>
+		<time datetime="2015-04-09T08:00:00-06:00">9 April 2015</time>
+		<meta itemprop="datePublished" content="2015-04-09T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="/web-development/macintosh-os-x-gaget-analytics-app" class="read-more blue floating">Read More</a>
 	</header>
 	<section id="hero-image">
-		<a itemprop="mainEntityOfPage" href="//gaget-analytics-app"> 
-			<img itemprop="image" src="" alt="">
+		<a itemprop="mainEntityOfPage" href="/web-development/macintosh-os-x-gaget-analytics-app"> 
+			<img itemprop="image" src="/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg" alt="A detail shot of GAget Analytics in the 'Notification Panel'">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a class="simple" href="//"><span itemprop="genre"></span></a></h4>
-		<h4 id="tags">Tags | <a class="simple" href="/tags/"><span itemprop="keywords"></span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="/web-development/"><span itemprop="genre">Web Development</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/apps"><span itemprop="keywords">Apps</span></a></h4>
 	</footer>
 </article>
 		

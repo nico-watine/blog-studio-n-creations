@@ -7,7 +7,7 @@ figure figcaption { margin-top: 0.5rem; }
 @media screen and (max-width: 46.875em) { figure figcaption { font-size: 0.875rem; } }
 
 .floating { border: 0.0625rem solid #000; }
-.floating:hover { text-decoration: none; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); -webkit-transition: box-shadow 50ms ease-out 0s; -moz-transition: box-shadow 50ms ease-out 0s; transition: box-shadow 50ms ease-out 0s; }
+.floating:hover { text-decoration: none; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); -webkit-transition: box-shadow 50ms ease-out 0s; transition: box-shadow 50ms ease-out 0s; }
 
 .blue.floating { border: 0.0625rem solid #566270; }
 .blue.floating:hover { color: #fff; background: #566270; }
@@ -28,6 +28,8 @@ a.underlined-link:hover, a.underlined:hover { text-decoration: none; }
 code { font-family: Consolas, "Liberation Mono", Courier, monospace; font-weight: 300; color: #333; background-color: #eee; border-width: 0.0625rem; border-style: solid; border-color: #dfdfdf; padding: 0.125rem 0.3125rem 0.0625rem; }
 
 .subtitle { font-family: "Open Sans", sans-serif; font-weight: 300; }
+
+p.tiny { font-size: 0.875rem !important; }
 
 .outer-container { max-width: 75em; margin-left: auto; margin-right: auto; }
 .outer-container::after { clear: both; content: ""; display: table; }

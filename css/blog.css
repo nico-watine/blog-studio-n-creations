@@ -29,6 +29,8 @@ code { font-family: Consolas, "Liberation Mono", Courier, monospace; font-weight
 
 .subtitle { font-family: "Open Sans", sans-serif; font-weight: 300; }
 
+p.tiny { font-size: 0.875rem !important; }
+
 .outer-container { max-width: 75em; margin-left: auto; margin-right: auto; }
 .outer-container::after { clear: both; content: ""; display: table; }
 

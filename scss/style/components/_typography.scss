@@ -57,3 +57,7 @@ code {
 	font-family: $body-font-family;
 	font-weight: $body-font-weight;
 }
+
+p.tiny {
+	font-size: rem(14) !important;
+}

@@ -683,7 +683,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/_posts\/2015-04-09-gaget-analytics-app.md": {
+	"\/_posts\/2015-04-09-macintosh-os-x-gaget-analytics-app.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 0,
 		"enableLabels": 1,
@@ -692,9 +692,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/2015-04-09-gaget-analytics-app.md",
+		"inputAbbreviatedPath": "\/_posts\/2015-04-09-macintosh-os-x-gaget-analytics-app.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/_posts\/2015-04-09-gaget-analytics-app.html",
+		"outputAbbreviatedPath": "\/_posts\/2015-04-09-macintosh-os-x-gaget-analytics-app.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -737,27 +737,6 @@
 		"inputAbbreviatedPath": "\/_posts\/2015-06-03-updating-jardin-de-france-brand.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/_posts\/2015-06-03-updating-jardin-de-france-brand.html",
-		"outputFormat": 0,
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"parseMetadata": 1,
-		"processHTML": 0,
-		"randomFootnoteNumbers": 0,
-		"useCompatibilityMode": 0
-		},
-	"\/_posts\/2015-11-06-where-have-we-been.md": {
-		"criticStyle": 0,
-		"enableFootnotes": 0,
-		"enableLabels": 1,
-		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
-		"fileType": 4096,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/2015-11-06-where-have-we-been.md",
-		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/_posts\/2015-11-06-where-have-we-been.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -2008,15 +1987,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/web-development\/gaget-analytics-app.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/web-development\/gaget-analytics-app.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/web-development\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2026,11 +1996,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/web-development\/where-have-we-been.html": {
+	"\/_site\/web-development\/macintosh-os-x-gaget-analytics-app.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/web-development\/where-have-we-been.html",
+		"inputAbbreviatedPath": "\/_site\/web-development\/macintosh-os-x-gaget-analytics-app.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
