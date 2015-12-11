@@ -1360,13 +1360,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/hero-splash.jpg": {
+	"\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/jardin-de-france-hero.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 48513,
-		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/hero-splash.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/hero-splash.jpg",
+		"initialSize": 68318,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/jardin-de-france-hero.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/jardin-de-france-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/jardin-de-france-hero@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 148377,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/jardin-de-france-hero@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/jardin-de-france-hero@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1933,6 +1944,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/print-work\/jardin-de-france-branding.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/print-work\/jardin-de-france-branding.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/print-work\/jardin-de-france-tag-examples.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2091,15 +2111,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/web-design\/index.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/web-design\/jardin-de-france-branding.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/web-design\/jardin-de-france-branding.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3142,13 +3153,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/post-attachments\/projects\/jdf\/3-17\/hero-splash.jpg": {
+	"\/img\/post-attachments\/projects\/jdf\/3-17\/jardin-de-france-hero.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 48513,
-		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/3-17\/hero-splash.jpg",
-		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/3-17\/hero-splash.jpg",
+		"initialSize": 68318,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/3-17\/jardin-de-france-hero.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/3-17\/jardin-de-france-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/jdf\/3-17\/jardin-de-france-hero@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 148377,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/3-17\/jardin-de-france-hero@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/3-17\/jardin-de-france-hero@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

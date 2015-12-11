@@ -282,19 +282,19 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/jardin-de-france-branding"><span itemprop="name">New Print Material for 'Jardin de France'</span></a></h1>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-branding"><span itemprop="name">New Print Material for 'Jardin de France'</span></a></h1>
 		<h2 itemprop="description" class="subtitle">Branding a Houston-based importer of French antiques</h2>
 		<time datetime="2015-03-17T08:00:00-06:00">17 March 2015</time>
 		<meta itemprop="datePublished" content="2015-03-17T08:00:00-06:00"/>
-		<a itemprop="mainEntityOfPage" href="/web-design/jardin-de-france-branding" class="read-more blue floating">Read More</a>
+		<a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-branding" class="read-more blue floating">Read More</a>
 	</header>
 	<section id="hero-image">
-		<a itemprop="mainEntityOfPage" href="/web-design/jardin-de-france-branding"> 
-			<img itemprop="image" src="/img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg" srcset="/img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg 2x" alt="A photo of a new Jardin de France price tag">
+		<a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-branding"> 
+			<img itemprop="image" src="/img/post-attachments/projects/jdf/3-17/jardin-de-france-hero.jpg" srcset="/img/post-attachments/projects/jdf/3-17/jardin-de-france-hero@2x.jpg 2x" alt="A photo of a new Jardin de France price tag">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a class="simple" href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="category">Category | <a class="simple" href="/print-work/"><span itemprop="genre">Print Work</span></a></h4>
 		<h4 id="tags">Tags | <a class="simple" href="/tags/jardin-de-france"><span itemprop="keywords">Jardin de France</span></a></h4>
 	</footer>
 </article>
