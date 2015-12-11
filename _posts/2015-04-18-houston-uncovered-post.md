@@ -13,6 +13,7 @@ article-category: Web Design
 article-category-link: web-design
 article-time: 18 April 2015
 article-hero-img: /img/post-attachments/projects/houston-uncovered/4-18/link-banner@2x.jpg
+article-hero-img-retina: /img/post-attachments/projects/houston-uncovered/4-18/link-banner@2x.jpg
 article-hero-alt: A mockup of a new post on HoustonUncovered.com
 article-tag: Houston Uncovered
 article-tag-link: houston-uncovered

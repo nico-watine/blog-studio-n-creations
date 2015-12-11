@@ -13,6 +13,7 @@ article-category: Web Design
 article-category-link: web-design
 article-time: 17 March 2015
 article-hero-img: /img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg
+article-hero-img-retina: /img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg
 article-hero-alt: A photo of a new Jardin de France price tag
 article-tag: Jardin de France
 article-tag-link: jardin-de-france

@@ -13,6 +13,7 @@ article-category: Web Development
 article-category-link: web-development
 article-time: 9 April 2015
 article-hero-img: /img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg
+article-hero-img-retina: /img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg
 article-hero-alt: A detail shot of GAget Analytics in the 'Notification Panel'
 article-tag: Apps
 article-tag-link: apps 

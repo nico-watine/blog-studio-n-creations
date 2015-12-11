@@ -81,7 +81,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/thoughts-on-the-lemon-peel-facial-logo"> 
-			<img itemprop="image" src="/img/post-attachments/projects/lpf/12-11/lemon-peel-facial-logo-feature.jpg" alt="A detail shot of the LemonPeelFacial.com logo">
+			<img itemprop="image" src="/img/post-attachments/projects/lpf/12-11/lemon-peel-facial-logo-feature.jpg" srcset="/img/post-attachments/projects/lpf/12-11/lemon-peel-facial-logo-feature@2x.jpg 2x" alt="A detail shot of the LemonPeelFacial.com logo">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -100,7 +100,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand"> 
-			<img itemprop="image" src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" alt="The new Jardin de France Facebook cover">
+			<img itemprop="image" src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" srcset="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png 2x" alt="The new Jardin de France Facebook cover">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -119,7 +119,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-post"> 
-			<img itemprop="image" src="/img/post-attachments/projects/houston-uncovered/4-18/link-banner@2x.jpg" alt="A mockup of a new post on HoustonUncovered.com">
+			<img itemprop="image" src="/img/post-attachments/projects/houston-uncovered/4-18/link-banner@2x.jpg" srcset="/img/post-attachments/projects/houston-uncovered/4-18/link-banner@2x.jpg 2x" alt="A mockup of a new post on HoustonUncovered.com">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -138,7 +138,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-development/macintosh-os-x-gaget-analytics-app"> 
-			<img itemprop="image" src="/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg" alt="A detail shot of GAget Analytics in the 'Notification Panel'">
+			<img itemprop="image" src="/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg" srcset="/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg 2x" alt="A detail shot of GAget Analytics in the 'Notification Panel'">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -157,7 +157,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/lemon-peel-facial-logo"> 
-			<img itemprop="image" src="/img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg" alt="A detail shot of the new Lemon Peel Facial logo">
+			<img itemprop="image" src="/img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg" srcset="/img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg 2x" alt="A detail shot of the new Lemon Peel Facial logo">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -176,7 +176,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/print-work/houston-oculofacial-plastic-surgery-spring-postcard"> 
-			<img itemprop="image" src="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" alt="A closeup of the new Houston Oculofacial spring postcards">
+			<img itemprop="image" src="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" srcset="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg 2x" alt="A closeup of the new Houston Oculofacial spring postcards">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -195,7 +195,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-website-frame-setup"> 
-			<img itemprop="image" src="/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg" alt="">
+			<img itemprop="image" src="/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg" srcset="/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg 2x" alt="">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -214,7 +214,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples"> 
-			<img itemprop="image" src="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" alt="A close-up of a Jardin de France tag">
+			<img itemprop="image" src="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" srcset="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg 2x" alt="A close-up of a Jardin de France tag">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -233,7 +233,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/dr-lisa-esposito-project-complete"> 
-			<img itemprop="image" src="/img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg" alt="An iPad mockup of the new LisaEsposito.com Home Page">
+			<img itemprop="image" src="/img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg" srcset="/img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg 2x" alt="An iPad mockup of the new LisaEsposito.com Home Page">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -246,13 +246,13 @@
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-project"><span itemprop="name">New Project - Greencare Interior Plants</span></a></h1>
 		<h2 itemprop="description" class="subtitle">We're giving Greencare Interior Plants a fresh, new look</h2>
-		<time datetime="2015-03-24T08:00:00-06:00">13 March 2015</time>
+		<time datetime="2015-03-24T08:00:00-06:00">24 March 2015</time>
 		<meta itemprop="datePublished" content="2015-03-24T08:00:00-06:00"/>
 		<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-project" class="read-more blue floating">Read More</a>
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-project"> 
-			<img itemprop="image" src="/img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg" alt="Greencare Interior Plants Logo Update">
+			<img itemprop="image" src="/img/post-attachments/projects/gctx/3-24/greencare-interior-plants-hero.png" srcset="/img/post-attachments/projects/gctx/3-24/greencare-interior-plants-hero@2x.png 2x" alt="Greencare Interior Plants Logo Update">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -271,7 +271,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-preview"> 
-			<img itemprop="image" src="/img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg" alt="A HoustonUncovered.com preview mockup">
+			<img itemprop="image" src="/img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg" srcset="/img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg 2x" alt="A HoustonUncovered.com preview mockup">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -290,7 +290,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/jardin-de-france-branding"> 
-			<img itemprop="image" src="/img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg" alt="A photo of a new Jardin de France price tag">
+			<img itemprop="image" src="/img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg" srcset="/img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg 2x" alt="A photo of a new Jardin de France price tag">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -309,7 +309,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/new-lisa-esposito-project"> 
-			<img itemprop="image" src="/img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg" alt="A teaser mockup of a potential home page for lisaesposito.com">
+			<img itemprop="image" src="/img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg" srcset="/img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg 2x" alt="A teaser mockup of a potential home page for lisaesposito.com">
 		</a>
 	</section>
 	<footer id="post-taxonomy">

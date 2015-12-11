@@ -13,6 +13,7 @@ article-category: Web Design
 article-category-link: web-design
 article-time: 13 March 2015
 article-hero-img: /img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg
+article-hero-img-retina: /img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg
 article-hero-alt: A teaser mockup of a potential home page for lisaesposito.com
 article-tag: Dr. Lisa Esposito
 article-tag-link: lisa-esposito

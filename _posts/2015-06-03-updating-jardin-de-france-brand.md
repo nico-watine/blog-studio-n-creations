@@ -13,6 +13,7 @@ article-category: Web Design
 article-category-link: web-design
 article-time: 3 June 2015
 article-hero-img: /img/post-attachments/projects/jdf/6-03/jdf-facebook.png
+article-hero-img-retina: /img/post-attachments/projects/jdf/6-03/jdf-facebook.png
 article-hero-alt: The new Jardin de France Facebook cover
 article-tag: Jardin de France
 article-tag-link: jardin-de-france

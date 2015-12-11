@@ -8,7 +8,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/{{ post.article-category-link }}/{{ post.slug }}"> 
-			<img itemprop="image" src="{{ site.blog_cdn }}{{ post.article-hero-img }}" alt="{{ post.article-hero-alt }}">
+			<img itemprop="image" src="{{ site.blog_cdn }}{{ post.article-hero-img }}" srcset="{{ site.blog_cdn }}{{ post.article-hero-img-retina }} 2x" alt="{{ post.article-hero-alt }}">
 		</a>
 	</section>
 	<footer id="post-taxonomy">

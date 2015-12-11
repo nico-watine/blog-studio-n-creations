@@ -13,6 +13,7 @@ article-category: Web Design
 article-category-link: web-design
 article-time: 11 December 2015
 article-hero-img: /img/post-attachments/projects/lpf/12-11/lemon-peel-facial-logo-feature.jpg
+article-hero-img-retina: /img/post-attachments/projects/lpf/12-11/lemon-peel-facial-logo-feature@2x.jpg
 article-hero-alt: A detail shot of the LemonPeelFacial.com logo
 article-tag: Lemon Peel Facial
 article-tag-link: lemon-peel-facial

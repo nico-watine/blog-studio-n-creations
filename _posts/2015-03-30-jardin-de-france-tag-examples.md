@@ -13,6 +13,7 @@ article-category: Print Work
 article-category-link: print-work
 article-time: 30 March 2015
 article-hero-img: /img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg
+article-hero-img-retina: /img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg
 article-hero-alt: A close-up of a Jardin de France tag
 article-tag: Jardin de France
 article-tag-link: jardin-de-france

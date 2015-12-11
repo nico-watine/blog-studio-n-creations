@@ -81,7 +81,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-post"> 
-			<img itemprop="image" src="/img/post-attachments/projects/houston-uncovered/4-18/link-banner@2x.jpg" alt="A mockup of a new post on HoustonUncovered.com">
+			<img itemprop="image" src="/img/post-attachments/projects/houston-uncovered/4-18/link-banner@2x.jpg" srcset="/img/post-attachments/projects/houston-uncovered/4-18/link-banner@2x.jpg 2x" alt="A mockup of a new post on HoustonUncovered.com">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -100,7 +100,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-preview"> 
-			<img itemprop="image" src="/img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg" alt="A HoustonUncovered.com preview mockup">
+			<img itemprop="image" src="/img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg" srcset="/img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg 2x" alt="A HoustonUncovered.com preview mockup">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -148,13 +148,13 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
 <script src="<?php autoVer('/js/nav-min.js'); ?>"></script>
-<script>
+<!--<script>
 	(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
 	function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
 	e=o.createElement(i);r=o.getElementsByTagName(i)[0];
 	e.src='https://www.google-analytics.com/analytics.js';
 	r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
 	ga('create','UA-55459011-8','auto');ga('send','pageview');
-</script>
+</script>-->
 </body>
 </html>

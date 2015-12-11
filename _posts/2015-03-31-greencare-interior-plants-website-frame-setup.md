@@ -13,6 +13,7 @@ article-category: Web Design
 article-category-link: web-design
 article-time: 31 March 2015
 article-hero-img: /img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg
+article-hero-img-retina: /img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg
 article-hero-alt: 
 article-tag: Greencare Interior Plants
 article-tag-link: greencare-interior-plants

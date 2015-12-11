@@ -81,7 +81,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-development/macintosh-os-x-gaget-analytics-app"> 
-			<img itemprop="image" src="/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg" alt="A detail shot of GAget Analytics in the 'Notification Panel'">
+			<img itemprop="image" src="/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg" srcset="/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg 2x" alt="A detail shot of GAget Analytics in the 'Notification Panel'">
 		</a>
 	</section>
 	<footer id="post-taxonomy">

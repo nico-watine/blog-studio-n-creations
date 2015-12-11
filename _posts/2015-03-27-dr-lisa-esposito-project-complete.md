@@ -13,6 +13,7 @@ article-category: Web Design
 article-category-link: web-design
 article-time: 27 March 2015
 article-hero-img: /img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg
+article-hero-img-retina: /img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg
 article-hero-alt: An iPad mockup of the new LisaEsposito.com Home Page
 article-tag: Dr. Lisa Esposito
 article-tag-link: lisa-esposito

@@ -81,7 +81,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/print-work/houston-oculofacial-plastic-surgery-spring-postcard"> 
-			<img itemprop="image" src="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" alt="A closeup of the new Houston Oculofacial spring postcards">
+			<img itemprop="image" src="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" srcset="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg 2x" alt="A closeup of the new Houston Oculofacial spring postcards">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -100,7 +100,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples"> 
-			<img itemprop="image" src="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" alt="A close-up of a Jardin de France tag">
+			<img itemprop="image" src="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" srcset="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg 2x" alt="A close-up of a Jardin de France tag">
 		</a>
 	</section>
 	<footer id="post-taxonomy">

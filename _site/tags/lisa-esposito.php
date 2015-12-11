@@ -81,7 +81,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/dr-lisa-esposito-project-complete"> 
-			<img itemprop="image" src="/img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg" alt="An iPad mockup of the new LisaEsposito.com Home Page">
+			<img itemprop="image" src="/img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg" srcset="/img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg 2x" alt="An iPad mockup of the new LisaEsposito.com Home Page">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -100,7 +100,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/new-lisa-esposito-project"> 
-			<img itemprop="image" src="/img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg" alt="A teaser mockup of a potential home page for lisaesposito.com">
+			<img itemprop="image" src="/img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg" srcset="/img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg 2x" alt="A teaser mockup of a potential home page for lisaesposito.com">
 		</a>
 	</section>
 	<footer id="post-taxonomy">

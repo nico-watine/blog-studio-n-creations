@@ -13,6 +13,7 @@ article-category: Print Work
 article-category-link: print-work
 article-time: 1 April 2015
 article-hero-img: /img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg
+article-hero-img-retina: /img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg
 article-hero-alt: A closeup of the new Houston Oculofacial spring postcards
 article-tag: Houston Oculofacial Plastic Surgery
 article-tag-link: houston-oculofacial-plastic-surgery

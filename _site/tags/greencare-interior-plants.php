@@ -81,7 +81,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-website-frame-setup"> 
-			<img itemprop="image" src="/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg" alt="">
+			<img itemprop="image" src="/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg" srcset="/img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg 2x" alt="">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -94,13 +94,13 @@
 	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-project"><span itemprop="name">New Project - Greencare Interior Plants</span></a></h1>
 		<h2 itemprop="description" class="subtitle">We're giving Greencare Interior Plants a fresh, new look</h2>
-		<time datetime="2015-03-24T08:00:00-06:00">13 March 2015</time>
+		<time datetime="2015-03-24T08:00:00-06:00">24 March 2015</time>
 		<meta itemprop="datePublished" content="2015-03-24T08:00:00-06:00"/>
 		<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-project" class="read-more blue floating">Read More</a>
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-project"> 
-			<img itemprop="image" src="/img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg" alt="Greencare Interior Plants Logo Update">
+			<img itemprop="image" src="/img/post-attachments/projects/gctx/3-24/greencare-interior-plants-hero.png" srcset="/img/post-attachments/projects/gctx/3-24/greencare-interior-plants-hero@2x.png 2x" alt="Greencare Interior Plants Logo Update">
 		</a>
 	</section>
 	<footer id="post-taxonomy">

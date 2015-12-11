@@ -13,7 +13,7 @@
 			<meta itemprop="datePublished" content="{{ page.article-datetime }}T08:00:00-06:00"/>
 		</header>
 		<section itemprop="articleBody" id="article-body">
-			<img itemprop="image" class="article-hero" src="{{ site.blog_cdn }}{{ page.article-hero-img }}" alt="{{ page.article-hero-alt }}">
+			<img itemprop="image" class="article-hero" src="{{ site.blog_cdn }}{{ page.article-hero-img }}" srcset="{{ site.blog_cdn }}{{ page.article-hero-img-retina }} 2x" alt="{{ page.article-hero-alt }}">
 			{{ content }}
 		</section>
 		<footer id="post-taxonomy">

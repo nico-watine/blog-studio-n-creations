@@ -11,8 +11,9 @@ article-datetime: 2015-03-24
 article-datepublished: 2015-03-24
 article-category: Web Design
 article-category-link: web-design
-article-time: 13 March 2015
-article-hero-img: /img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg
+article-time: 24 March 2015
+article-hero-img: /img/post-attachments/projects/gctx/3-24/greencare-interior-plants-hero.png
+article-hero-img-retina: /img/post-attachments/projects/gctx/3-24/greencare-interior-plants-hero@2x.png
 article-hero-alt: Greencare Interior Plants Logo Update
 article-tag: Greencare Interior Plants
 article-tag-link: greencare-interior-plants
