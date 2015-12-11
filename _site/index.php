@@ -271,7 +271,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-preview"> 
-			<img itemprop="image" src="/img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg" srcset="/img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg 2x" alt="A HoustonUncovered.com preview mockup">
+			<img itemprop="image" src="/img/post-attachments/projects/houston-uncovered/3-18/houston-uncovered-hero.jpg" srcset="/img/post-attachments/projects/houston-uncovered/3-18/houston-uncovered-hero@2x.jpg 2x" alt="A HoustonUncovered.com preview mockup">
 		</a>
 	</section>
 	<footer id="post-taxonomy">

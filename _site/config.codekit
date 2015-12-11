@@ -1283,6 +1283,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/post-attachments\/projects\/houston-uncovered\/3-18\/houston-uncovered-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39767,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/houston-uncovered\/3-18\/houston-uncovered-hero.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/houston-uncovered\/3-18\/houston-uncovered-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/houston-uncovered\/3-18\/houston-uncovered-hero@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107709,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/houston-uncovered\/3-18\/houston-uncovered-hero@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/houston-uncovered\/3-18\/houston-uncovered-hero@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/post-attachments\/projects\/houston-uncovered\/3-18\/link-banner.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3039,6 +3061,28 @@
 		"initialSize": 240721,
 		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/houston-oculofacial\/4-1\/post-image.jpg",
 		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/houston-oculofacial\/4-1\/post-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/houston-uncovered\/3-18\/houston-uncovered-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39767,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/houston-uncovered\/3-18\/houston-uncovered-hero.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/houston-uncovered\/3-18\/houston-uncovered-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/houston-uncovered\/3-18\/houston-uncovered-hero@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107709,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/houston-uncovered\/3-18\/houston-uncovered-hero@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/houston-uncovered\/3-18\/houston-uncovered-hero@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
