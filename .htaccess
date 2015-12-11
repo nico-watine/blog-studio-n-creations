@@ -621,5 +621,5 @@ RewriteRule ^(js|css)/(.+)\.(.+)\.(js|css)$ $1/$2.$4 [L]
 AddHandler php5-script .php .html .htm
 
 # CURRENTLY ONLINE PER HOSTGATOR SETUP ---------------
-# AddHandler application/x-httpd-php5 .html .htm
+#AddHandler application/x-httpd-php5 .html .htm
 

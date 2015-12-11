@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"sta",
+				"_standard-post.scss"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
 				"_",
 				"_11-06.scss"
 			],
@@ -160,18 +168,74 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-11-06-where-have-we-been.md",
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/web-development/index.php",
 			"settings":
 			{
-				"buffer_size": 677,
+				"buffer_size": 511,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/index/blog-roll.php",
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/apps.php",
 			"settings":
 			{
-				"buffer_size": 1779,
+				"buffer_size": 394,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/houston-oculofacial-plastic-surgery.php",
+			"settings":
+			{
+				"buffer_size": 627,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/houston-uncovered.php",
+			"settings":
+			{
+				"buffer_size": 499,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/jardin-de-france.php",
+			"settings":
+			{
+				"buffer_size": 491,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/lemon-peel-facial.php",
+			"settings":
+			{
+				"buffer_size": 497,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/lisa-esposito.php",
+			"settings":
+			{
+				"buffer_size": 471,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_config.yml",
+			"settings":
+			{
+				"buffer_size": 614,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/create_sitemap.php",
+			"settings":
+			{
+				"buffer_size": 8507,
 				"line_ending": "Unix"
 			}
 		},
@@ -179,39 +243,71 @@
 			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_site/.htaccess",
 			"settings":
 			{
-				"buffer_size": 27377,
+				"buffer_size": 27376,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/web-design/index.php",
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_site/sitemap.xml",
 			"settings":
 			{
-				"buffer_size": 88,
+				"buffer_size": 3833,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/snc/_snc.scss",
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/.htaccess",
 			"settings":
 			{
-				"buffer_size": 68,
+				"buffer_size": 27376,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/snc/_11-06.scss",
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/components/scripts/google-tracking.php",
 			"settings":
 			{
-				"buffer_size": 74,
+				"buffer_size": 431,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_posts.scss",
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/components/head-og.php",
 			"settings":
 			{
-				"buffer_size": 3330,
+				"buffer_size": 1186,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/article/article-post-summary.html",
+			"settings":
+			{
+				"buffer_size": 1296,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/post/standard-post.php",
+			"settings":
+			{
+				"buffer_size": 1377,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_footer.scss",
+			"settings":
+			{
+				"buffer_size": 235,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/greencare-interior-plants.php",
+			"settings":
+			{
+				"buffer_size": 546,
 				"line_ending": "Unix"
 			}
 		}
@@ -223,17 +319,17 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 167.0,
-		"last_filter": "java",
+		"height": 287.0,
+		"last_filter": "html",
 		"selected_items":
 		[
 			[
-				"java",
-				"Set Syntax: JavaScript"
-			],
-			[
 				"html",
 				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
 			],
 			[
 				"sass",
@@ -322,142 +418,142 @@
 	"expanded_folders":
 	[
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts"
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_site"
 	],
 	"file_history":
 	[
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/components/head.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/lisa-esposito/_11-03.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_drafts/2015-11-03-lisa-esposito-site-evolution.md",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/lisa-esposito/_lisa-esposito.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/robots.txt",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_config.yml",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_site/index.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/.htaccess",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/index/blog-roll.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/js/src/nav.js",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/projects.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/social.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/web-design.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/blog.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/web-development.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-13-new-lisa-esposito-project.md",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-06-03-updating-jardin-de-france-brand.md",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-17-jdf-branding.md",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/footer.html",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_site/.htaccess",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/category-name.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/print-work.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_site/sitemap.xml",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/sitemap.xml",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/components/scripts/scripts.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-18-houston-uncovered-preview.md",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-24-greencare-project.md",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-27-dr-esposito-wrap-up.md",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-30-jardin-de-france-tag-examples.md",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-31-greencare-skeleton-setup.md",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-04-01-houston-oculofacial-spring-postcard.md",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-04-02-lemon-peel-facial-logo.md",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-04-09-gaget-analytics-app.md",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-04-18-houston-uncovered-post.md",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_feature-slider.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_main.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_posts.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_side-bar.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/components/_buttons.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/components/_utility-classes.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/apps/_apps.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/apps/_04-09-gaget.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/lpf/_lpf.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/lpf/_04-02.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/gctx/_03-31.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/gctx/_gctx.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/gctx/_03-24.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/hu/_hu.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/hu/_04-18.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/components/_typography.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/hu/_03-18.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/h-o-f/_h-o-f.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/h-o-f/_04-01.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/jdf/_06-03.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/jardin-de-france.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/jdf/_jdf.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/jdf/_03-17.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/jdf/_03-30.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/assets/neat/_grid-settings.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/img/post-attachments/projects/lisa-esposito/3-17/link-banner@2x.jpg",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/apps.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/side-bar/page-title.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/components/head-og.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/index.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/web-design/index.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/web-development/index.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/print-work/index.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/post/standard-post.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/article/article-post-summary.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/index/blog-index.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/index/blog-index-featured-1.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/lisa-esposito.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/lemon-peel-facial.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/jardin-de-france.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/houston-uncovered.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/houston-oculofacial-plastic-surgery.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/greencare-interior-plants.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/dribbble.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/apps.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/social/index.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_config.yml",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/footer.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/print-work.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/web-development.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/social.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/projects.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/web-design.php",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/dribbble.php",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/greencare.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/houston-oculofacial.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/houston-oculofacial-plastic-surgery.php",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/houston-uncovered.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/jardin-de-france.php",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/lemon-peel-facial.php",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/lisa-esposito.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/post/default.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/pages/_blog-roll.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/lisa-esposito/_03-13.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_posts-extras.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/lisa-esposito/_03-27.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/components/_resets.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/css/core.css",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/side-bar/page-title-smaller.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/side-bar/category-title.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/side-bar/tag-title-smaller.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/side-bar/tag-title.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_side-bar.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/side-bar/index-title.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/side-bar/article-title.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/side-bar/category-nav.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/side-bar/index-nav.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/lpf/_lpf.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/lisa-esposito/_lisa-esposito.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/jdf/_jdf.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/hu/_hu.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/h-o-f/_h-o-f.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/apps/_apps.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/gctx/_03-31.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/settings/_settings.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/pages/_post-default.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_esposito.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/post/_default.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/post/no-feature.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/blog.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_posts.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/hu/_03-18.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/gctx/_03-24.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/apps/_04-09-gaget.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/h-o-f/_04-01.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/lpf/_04-02.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/gctx/_gctx.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-31-greencare-interior-plants-website-frame-setup.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-04-02-lemon-peel-facial-logo.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/components/_typography.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-04-09-macintosh-os-x-gaget-analytics-app.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-04-18-houston-uncovered-post.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-04-09-gaget-analytics-app.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-04-01-houston-oculofacial-plastic-surgery-spring-postcard.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-18-houston-uncovered-preview.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-31-greencare-interior-plants-skeletop-setup.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-30-jardin-de-france-tag-examples.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-27-dr-lisa-esposito-project-complete.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-24-greencare-interior-plants-project.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-17-jardin-de-france-branding.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-13-new-lisa-esposito-project.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-06-03-updating-jardin-de-france-brand.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/pages/_blog-index.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_standard-post.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_site/web-design/new-lisa-esposito-project.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/top-bar.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_header.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_shared-styles.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_body.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/post/borderless-feature.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/components/scripts/scripts.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/components/head.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_ignores/htaccess-renames.txt",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/php.ini",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/featured.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/phpinfo.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/index.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_ignores/php-htaccess-states.txt",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_ignores/php-mamp-template.ini",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_site/php.ini",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/nav.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/index.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_ignores/current-working-htaccess.txt",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_site/htaccess.txt",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/js/src/ie.js",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/js/src/modernizr.js",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_footer.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/index.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-04-01-houston-oculofacial-spring-postcard.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/components/_utility-classes.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/img/post-attachments/projects/lisa-esposito/3-27/post-img@2x.jpg",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/lisa-esposito/_03-13.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/assets/neat/_grid-settings.scss",
+		"/Users/nico/Library/Application Support/Sublime Text 3/Packages/User/Snippets/JEKYLL/snc-article.sublime-snippet",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/post/layout-2.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-31-greencare-skeleton-setup.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/houston-oculofacial.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/article/article-standard-post.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/pages/_blog-roll-2.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_article-layout.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/index/blog-roll-2.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/components/_buttons.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/web-design-2.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/index/blog-roll.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-24-greencare-project.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/pages/_blog-roll.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/side-bar/category-widget.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/phptest.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/post/default.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/post/layout-1.php",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_nav.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/apps.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/greencare.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/houston-oculofacial.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/houston-uncovered.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/jardin-de-france.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/lemon-peel-facial.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/lisa-esposito.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/tags/dribbble.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/post/no-feature.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/post/borderless-feature.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/post/default.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/web-development.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/web-design.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/social.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/projects.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/print-work.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/index.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/category-name.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/assets/neat/settings/_disable-warnings.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/components/_fonts.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/css/blog.css",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/js/src/scripts.js",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/php/autoVer.php"
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_ignores/new-article-tags.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/components/head.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/pages/_post-layout-2.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/post.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/pages/_post-layout-1.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/css/post.css",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_footer.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/css/core.css",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/assets/neat/settings/_grid.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_body.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/snc/_11-06.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/snc/_snc.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-11-06-where-have-we-been.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/lisa-esposito/_11-03.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_drafts/2015-11-03-lisa-esposito-site-evolution.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/robots.txt",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_site/index.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/.htaccess",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/js/src/nav.js",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-17-jdf-branding.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/category/category-name.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-27-dr-esposito-wrap-up.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_feature-slider.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_main.scss"
 	],
 	"find":
 	{
-		"height": 36.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -472,6 +568,84 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"php",
+			"RewriteCond",
+			"php",
+			"Dr. ",
+			"Dr",
+			"Jardin de France",
+			"Houston Uncovered",
+			"Apps",
+			"/img",
+			"development",
+			"Design",
+			"page",
+			"nav",
+			"tag",
+			"widget",
+			"greencaretx.com",
+			"Skeleton",
+			"margin",
+			"bottom",
+			"h2",
+			"Gaget",
+			"gaget",
+			"Gaget",
+			"layout",
+			"HoustonUncovered",
+			"manage",
+			"href",
+			"h3",
+			"br",
+			"border",
+			"jpg",
+			" class=\"large-post-image white-border shadow\"",
+			"LisaEsposito",
+			"www",
+			".post-layout-2",
+			"h3",
+			"h4",
+			"h3",
+			":",
+			"excerpt",
+			">\n",
+			"h5",
+			"blue-float-button",
+			"blog",
+			"h4",
+			"page",
+			"div",
+			"blog_cdn",
+			"base_cdn",
+			"//",
+			"author",
+			"fusion",
+			"author_l",
+			"avatar",
+			"vcard",
+			"author",
+			"by",
+			"author",
+			"by",
+			"author",
+			"by",
+			"author",
+			"authorf",
+			"author",
+			"08:00:00-06:00",
+			"body.",
+			"body",
+			"section",
+			"post-layout-1",
+			"//",
+			"footer",
+			"div",
+			"tag",
+			"h4",
+			"row ",
+			"1.2",
+			"article",
+			"670",
 			"design",
 			"img",
 			"/img",
@@ -521,85 +695,7 @@
 			"main",
 			"section",
 			"main",
-			"section",
-			"main",
-			"section",
-			"main",
-			"section",
-			"blue",
-			"div",
-			"2",
-			" class=\"simple-underline\"",
-			"h3",
-			"h2",
-			"section",
-			"main",
-			"h3",
-			"htm ",
-			"php.",
-			"html",
-			"host",
-			"htm ",
-			"RewriteCond",
-			"htm ",
-			"htm",
-			"RewriteRule",
-			"RewriteCond",
-			" \n",
-			"RewriteRule",
-			"RewriteCond",
-			"RewriteRule",
-			"RewriteCond",
-			".html",
-			"text-shadow: 0 rem(2) rem(1) #000;",
-			"			<li id=\"services\">\n				<a href=\"http://studioncreations.com\" target=\"_blank\">www.studioncreations.com</a>\n			</li>\n",
-			"li",
-			"parent",
-			"1px",
-			"child",
-			"parent",
-			"top-level",
-			"sub-item",
-			"380",
-			"500",
-			"710",
-			"420",
-			"450",
-			"div",
-			"HEAD",
-			"posts",
-			"pages",
-			"blocks",
-			"components",
-			"php",
-			"/img",
-			"http://cdn.studioncreations.com",
-			"pattern",
-			"contact",
-			"default",
-			"contact",
-			"small",
-			"medium",
-			"portfolio",
-			"h3",
-			"htm ",
-			"&",
-			"h4",
-			"main",
-			"0px",
-			"header",
-			"body",
-			"0",
-			"contact",
-			"portfolio",
-			"lyri",
-			"new",
-			"new-artworks",
-			"free-intuitive-spontaneous",
-			"new-artworks",
-			"map",
-			"eee",
-			"crawfish"
+			"section"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -643,24 +739,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 11,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-11-06-where-have-we-been.md",
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/web-development/index.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 677,
+						"buffer_size": 511,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								478,
-								478
+								233,
+								233
 							]
 						],
 						"settings":
@@ -668,235 +764,850 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"open_with_edit": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/index/blog-roll.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1779,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								986,
-								986
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_site/.htaccess",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 27377,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								27270,
-								26995
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/apps.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								255,
+								289
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/houston-oculofacial-plastic-surgery.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/houston-uncovered.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								381
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/jardin-de-france.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								345,
+								374
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/lemon-peel-facial.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								380
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/lisa-esposito.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								252
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/create_sitemap.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1686,
+								1686
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_site/.htaccess",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11115,
+								11115
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
@@ -909,27 +1620,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 12457.0,
+						"translation.y": 4891.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/web-design/index.php",
+					"buffer": 10,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_site/sitemap.xml",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 88,
+						"buffer_size": 3833,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								88
+								420,
+								420
 							]
 						],
 						"settings":
@@ -937,61 +1648,685 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/.htaccess",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26734,
+								26734
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_round_content"
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 12436.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/components/scripts/google-tracking.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								431,
+								431
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/components/head-og.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								316,
+								316
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/article/article-post-summary.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								921,
+								921
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/post/standard-post.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_footer.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/greencare-interior-plants.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								181,
+								181
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
 							"syntax": "Packages/PHP/PHP.tmLanguage"
@@ -1000,273 +2335,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/snc/_snc.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 68,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								64,
-								64
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/snc/_11-06.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 74,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								74,
-								74
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_posts.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3330,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3326,
-								3326
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 4078.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
+					"stack_index": 15,
 					"type": "text"
 				}
 			]
@@ -1321,28 +2390,452 @@
 		"selected_items":
 		[
 			[
+				"ht",
+				".htaccess"
+			],
+			[
 				".ht",
-				"_site/.htaccess"
-			],
-			[
-				"hea",
-				"_includes/components/head.php"
-			],
-			[
-				"snc11",
-				"scss/style/posts/snc/_11-06.scss"
-			],
-			[
-				"lisasc",
-				"scss/style/posts/lisa-esposito/_lisa-esposito.scss"
+				".htaccess"
 			],
 			[
 				"conf",
 				"_config.yml"
 			],
 			[
+				"sihta",
+				"_site/.htaccess"
+			],
+			[
+				"hta",
+				".htaccess"
+			],
+			[
+				"hea",
+				"_includes/components/head-og.php"
+			],
+			[
+				"he",
+				"_includes/components/head-og.php"
+			],
+			[
+				"art",
+				"_includes/blocks/article/article-post-summary.html"
+			],
+			[
+				"foos",
+				"scss/style/blocks/_footer.scss"
+			],
+			[
+				"artsu",
+				"_includes/blocks/article/article-post-summary.html"
+			],
+			[
+				"con",
+				"_config.yml"
+			],
+			[
+				"pageti",
+				"_includes/blocks/side-bar/page-title.html"
+			],
+			[
+				"sta",
+				"_layouts/post/standard-post.php"
+			],
+			[
 				"in",
-				"_site/index.php"
+				"index.php"
+			],
+			[
+				"heo",
+				"_includes/components/head-og.php"
+			],
+			[
+				"layblo",
+				"_layouts/index/blog-index.php"
+			],
+			[
+				"sid",
+				"scss/style/blocks/_side-bar.scss"
+			],
+			[
+				"hof1",
+				"scss/style/posts/h-o-f/_04-01.scss"
+			],
+			[
+				"hof",
+				"scss/style/posts/h-o-f/_h-o-f.scss"
+			],
+			[
+				"lpfs",
+				"scss/style/posts/lpf/_lpf.scss"
+			],
+			[
+				"gree",
+				"tags/greencare-interior-plants.php"
+			],
+			[
+				"gctx31",
+				"scss/style/posts/gctx/_03-31.scss"
+			],
+			[
+				"gctx",
+				"scss/style/posts/gctx/_gctx.scss"
+			],
+			[
+				"bls",
+				"scss/blog.scss"
+			],
+			[
+				"set",
+				"scss/style/settings/_settings.scss"
+			],
+			[
+				"typ",
+				"scss/style/components/_typography.scss"
+			],
+			[
+				"hosur",
+				"_posts/2015-04-01-houston-oculofacial-plastic-surgery-spring-postcard.md"
+			],
+			[
+				"hous",
+				"_posts/2015-03-18-houston-uncovered-preview.md"
+			],
+			[
+				"greske",
+				"_posts/2015-03-31-greencare-interior-plants-skeletop-setup.md"
+			],
+			[
+				"jardex",
+				"_posts/2015-03-30-jardin-de-france-tag-examples.md"
+			],
+			[
+				"drlisa",
+				"_posts/2015-03-27-dr-lisa-esposito-project-complete.md"
+			],
+			[
+				"greepro",
+				"_posts/2015-03-24-greencare-interior-plants-project.md"
+			],
+			[
+				"houspre",
+				"_posts/2015-03-18-houston-uncovered-preview.md"
+			],
+			[
+				"jardinbra",
+				"_posts/2015-03-17-jardin-de-france-branding.md"
+			],
+			[
+				"newpro",
+				"_posts/2015-03-13-new-lisa-esposito-project.md"
+			],
+			[
+				"upjar",
+				"_posts/2015-06-03-updating-jardin-de-france-brand.md"
+			],
+			[
+				"possum",
+				"_includes/blocks/article/article-post-summary.html"
+			],
+			[
+				"lem",
+				"_posts/2015-04-02-lemon-peel-facial-logo.md"
+			],
+			[
+				"posts",
+				"scss/style/posts/_standard-post.scss"
+			],
+			[
+				"lemonp",
+				"tags/lemon-peel-facial.php"
+			],
+			[
+				"ty",
+				"scss/style/components/_typography.scss"
+			],
+			[
+				"layweb",
+				"_layouts/category/web-design.php"
+			],
+			[
+				"webdes",
+				"web-design/index.php"
+			],
+			[
+				"newlisa",
+				"_site/web-design/new-lisa-esposito-project.html"
+			],
+			[
+				"gre",
+				"_posts/2015-03-31-greencare-interior-plants-skeletop-setup.md"
+			],
+			[
+				"printowrph",
+				"print-work/index.php"
+			],
+			[
+				"rint",
+				"_layouts/category/print-work.php"
+			],
+			[
+				"gctxs",
+				"scss/style/posts/gctx/_gctx.scss"
+			],
+			[
+				"laygre",
+				"_layouts/tags/greencare.php"
+			],
+			[
+				"laypri",
+				"_layouts/category/print-work.php"
+			],
+			[
+				"jar",
+				"_layouts/tags/jardin-de-france.php"
+			],
+			[
+				"u",
+				"scss/style/components/_utility-classes.scss"
+			],
+			[
+				"ut",
+				"scss/style/components/_utility-classes.scss"
+			],
+			[
+				"gc31",
+				"scss/style/posts/gctx/_03-31.scss"
+			],
+			[
+				"gcsc",
+				"scss/style/posts/gctx/_gctx.scss"
+			],
+			[
+				"lisaes",
+				"tags/lisa-esposito.php"
+			],
+			[
+				"lisasc",
+				"scss/style/posts/lisa-esposito/_lisa-esposito.scss"
+			],
+			[
+				"husc",
+				"scss/style/posts/hu/_hu.scss"
+			],
+			[
+				"web",
+				"web-development/index.php"
+			],
+			[
+				"lisas",
+				"scss/style/posts/lisa-esposito/_lisa-esposito.scss"
+			],
+			[
+				"gri",
+				"assets/neat/_grid-settings.scss"
+			],
+			[
+				"webde",
+				"web-design/index.php"
+			],
+			[
+				"lisa",
+				"_posts/2015-03-13-new-lisa-esposito-project.md"
+			],
+			[
+				"lisa13",
+				"scss/style/posts/lisa-esposito/_03-13.scss"
+			],
+			[
+				"laypos",
+				"_layouts/post/standard-post.php"
+			],
+			[
+				"blogs",
+				"scss/blog.scss"
+			],
+			[
+				"green",
+				"_posts/2015-03-24-greencare-interior-plants-project.md"
+			],
+			[
+				"layblog",
+				"_layouts/index/blog-index.php"
+			],
+			[
+				"greencarinpro",
+				"_posts/2015-03-24-greencare-interior-plants-project.md"
+			],
+			[
+				"stand",
+				"_layouts/post/standard-post.php"
+			],
+			[
+				"headog",
+				"_includes/components/head-og.php"
+			],
+			[
+				"lay2",
+				"_layouts/post/layout-2.php"
+			],
+			[
+				"webin",
+				"web-design/index.php"
+			],
+			[
+				"blog2",
+				"_layouts/index/blog-roll-2.php"
+			],
+			[
+				"catna",
+				"_includes/blocks/side-bar/category-nav.html"
+			],
+			[
+				"but",
+				"scss/style/components/_buttons.scss"
+			],
+			[
+				"side",
+				"scss/style/blocks/_side-bar.scss"
+			],
+			[
+				"blogro",
+				"_layouts/index/blog-roll.php"
+			],
+			[
+				"typo",
+				"scss/style/components/_typography.scss"
+			],
+			[
+				"arts",
+				"scss/style/posts/_article-layout.scss"
+			],
+			[
+				"greenpro",
+				"_posts/2015-03-24-greencare-project.md"
+			],
+			[
+				"blgsc",
+				"scss/style/pages/_blog-roll-2.scss"
+			],
+			[
+				"bl2",
+				"scss/style/pages/_blog-roll-2.scss"
+			],
+			[
+				"blro",
+				"_layouts/index/blog-roll-2.php"
+			],
+			[
+				"bl2s",
+				"scss/style/pages/_blog-roll-2.scss"
+			],
+			[
+				"grepr",
+				"_posts/2015-03-24-greencare-project.md"
+			],
+			[
+				"lay",
+				"_layouts/post/layout-2.php"
+			],
+			[
+				"arlay",
+				"scss/style/posts/_article-layout.scss"
+			],
+			[
+				"cate",
+				"_includes/blocks/side-bar/category-nav.html"
+			],
+			[
+				"blogsc",
+				"scss/style/pages/_blog-roll.scss"
+			],
+			[
+				"catwi",
+				"_includes/blocks/side-bar/category-widget.html"
+			],
+			[
+				"lays",
+				"scss/style/posts/_article-layout.scss"
+			],
+			[
+				"pola",
+				"_layouts/post/layout-2.php"
+			],
+			[
+				"heado",
+				"_includes/components/head-og.php"
+			],
+			[
+				"heaog",
+				"_includes/components/head-og.php"
+			],
+			[
+				"lay2s",
+				"scss/style/pages/_post-layout-2.scss"
+			],
+			[
+				"postscs",
+				"scss/post.scss"
+			],
+			[
+				"la2",
+				"_layouts/post/layout-2.php"
+			],
+			[
+				"posscs",
+				"scss/post.scss"
+			],
+			[
+				"foo",
+				"_includes/blocks/footer.html"
+			],
+			[
+				"foosc",
+				"scss/style/blocks/_footer.scss"
+			],
+			[
+				"blo",
+				"_layouts/index/blog-roll.php"
+			],
+			[
+				"gr",
+				"assets/neat/_grid-settings.scss"
+			],
+			[
+				"navsc",
+				"scss/style/blocks/_nav.scss"
+			],
+			[
+				"gridse",
+				"assets/neat/_grid-settings.scss"
+			],
+			[
+				"grid",
+				"assets/neat/settings/_grid.scss"
+			],
+			[
+				"lay1",
+				"_layouts/post/layout-1.php"
+			],
+			[
+				"blog",
+				"_layouts/index/blog-roll.php"
+			],
+			[
+				"greenc",
+				"_posts/2015-03-24-greencare-project.md"
+			],
+			[
+				"bod",
+				"scss/style/blocks/_body.scss"
+			],
+			[
+				"gridscs",
+				"assets/neat/settings/_grid.scss"
+			],
+			[
+				"snc11",
+				"scss/style/posts/snc/_11-06.scss"
 			],
 			[
 				"sc",
@@ -1377,10 +2870,6 @@
 				"_posts/2015-06-03-updating-jardin-de-france-brand.md"
 			],
 			[
-				"foo",
-				"_includes/blocks/footer.html"
-			],
-			[
 				"robo",
 				"robots.txt"
 			],
@@ -1405,432 +2894,12 @@
 				"scss/style/components/_utility-classes.scss"
 			],
 			[
-				"lpfs",
-				"scss/style/posts/lpf/_lpf.scss"
-			],
-			[
 				"lpf0",
 				"scss/style/posts/lpf/_04-02.scss"
 			],
 			[
 				"lemon",
 				"_posts/2015-04-02-lemon-peel-facial-logo.md"
-			],
-			[
-				"gctx31",
-				"scss/style/posts/gctx/_03-31.scss"
-			],
-			[
-				"gct03",
-				"scss/style/posts/gctx/_03-24.scss"
-			],
-			[
-				"typo",
-				"scss/style/components/_typography.scss"
-			],
-			[
-				"ut",
-				"scss/style/components/_utility-classes.scss"
-			],
-			[
-				"jdf_0",
-				"scss/style/posts/jdf/_06-03.scss"
-			],
-			[
-				"hof0",
-				"scss/style/posts/h-o-f/_04-01.scss"
-			],
-			[
-				"poss",
-				"scss/style/posts/_posts.scss"
-			],
-			[
-				"jdfsc",
-				"scss/style/posts/jdf/_jdf.scss"
-			],
-			[
-				"jdfs",
-				"scss/style/posts/jdf/_03-17.scss"
-			],
-			[
-				"jdfs0",
-				"scss/style/posts/jdf/_03-17.scss"
-			],
-			[
-				"gri",
-				"assets/neat/_grid-settings.scss"
-			],
-			[
-				"posts",
-				"scss/style/posts/_posts.scss"
-			],
-			[
-				"jdf",
-				"_layouts/tags/jardin-de-france.php"
-			],
-			[
-				"blo",
-				"_layouts/index/blog-roll.php"
-			],
-			[
-				"postde",
-				"_layouts/post/default.php"
-			],
-			[
-				"posde",
-				"_layouts/post/default.php"
-			],
-			[
-				"espo",
-				"_posts/2015-03-13-new-lisa-esposito-project.md"
-			],
-			[
-				"possc",
-				"scss/style/posts/_posts.scss"
-			],
-			[
-				"posc",
-				"scss/style/posts/_posts.scss"
-			],
-			[
-				"posdef",
-				"_layouts/post/default.php"
-			],
-			[
-				"rese",
-				"scss/style/components/_resets.scss"
-			],
-			[
-				"corc",
-				"css/core.css"
-			],
-			[
-				"resets",
-				"scss/style/components/_resets.scss"
-			],
-			[
-				"esposc",
-				"scss/style/posts/_esposito.scss"
-			],
-			[
-				"lisa",
-				"_posts/2015-03-13-new-lisa-esposito-project.md"
-			],
-			[
-				"set",
-				"scss/style/settings/_settings.scss"
-			],
-			[
-				"blogs",
-				"scss/style/pages/_blog-roll.scss"
-			],
-			[
-				"postss",
-				"scss/style/posts/_posts.scss"
-			],
-			[
-				"new",
-				"_site/web-design/new-lisa-esposito-project.html"
-			],
-			[
-				"heads",
-				"scss/style/blocks/_header.scss"
-			],
-			[
-				"top",
-				"_includes/blocks/top-bar.html"
-			],
-			[
-				"blog",
-				"_layouts/index/blog-roll.php"
-			],
-			[
-				"blogsc",
-				"scss/style/pages/_blog-roll.scss"
-			],
-			[
-				"cat",
-				"_layouts/category/category-name.php"
-			],
-			[
-				"feats",
-				"scss/style/blocks/_feature-slider.scss"
-			],
-			[
-				"bloros",
-				"scss/style/pages/_blog-roll.scss"
-			],
-			[
-				"blogr",
-				"_layouts/index/blog-roll.php"
-			],
-			[
-				"blos",
-				"scss/blog.scss"
-			],
-			[
-				"bls",
-				"scss/blog.scss"
-			],
-			[
-				"butt",
-				"scss/style/components/_buttons.scss"
-			],
-			[
-				"blosc",
-				"scss/blog.scss"
-			],
-			[
-				"hta",
-				"_site/.htaccess"
-			],
-			[
-				"confi",
-				"_config.yml"
-			],
-			[
-				".hta",
-				"_site/.htaccess"
-			],
-			[
-				"inh",
-				"index.html"
-			],
-			[
-				"he",
-				"_includes/components/head.php"
-			],
-			[
-				"navh",
-				"_includes/blocks/nav.html"
-			],
-			[
-				"ht",
-				"_site/htaccess.txt"
-			],
-			[
-				"def",
-				"_layouts/post/default.php"
-			],
-			[
-				"lismd",
-				"_posts/2015-03-13-new-lisa-esposito-project.md"
-			],
-			[
-				"iej",
-				"js/src/ie.js"
-			],
-			[
-				"modj",
-				"js/src/modernizr.js"
-			],
-			[
-				"sch",
-				"_includes/components/scripts/scripts.html"
-			],
-			[
-				"scr",
-				"_includes/components/scripts/scripts.php"
-			],
-			[
-				"scrp",
-				"_includes/components/scripts/scripts.php"
-			],
-			[
-				"blor",
-				"_layouts/index/blog-roll.php"
-			],
-			[
-				".h",
-				".htaccess"
-			],
-			[
-				"hep",
-				"_includes/components/head.php"
-			],
-			[
-				"navsc",
-				"scss/style/blocks/_nav.scss"
-			],
-			[
-				"blsc",
-				"scss/blog.scss"
-			],
-			[
-				"scripph",
-				"_includes/components/scripts/scripts.php"
-			],
-			[
-				"blogc",
-				"css/blog.css"
-			],
-			[
-				"scrj",
-				"js/src/scripts.js"
-			],
-			[
-				"but",
-				"scss/style/components/_buttons.scss"
-			],
-			[
-				"inbo",
-				"scss/style/pages/index/_body.scss"
-			],
-			[
-				"ins",
-				"scss/style/pages/index/_index.scss"
-			],
-			[
-				"inma",
-				"scss/style/pages/index/_main.scss"
-			],
-			[
-				"inna",
-				"scss/style/pages/index/_nav.scss"
-			],
-			[
-				"porhea",
-				"scss/style/pages/portfolio/_header.scss"
-			],
-			[
-				"porma",
-				"scss/style/pages/portfolio/_main.scss"
-			],
-			[
-				"jdffea",
-				"scss/style/pages/portfolio/_jdf-feature.scss"
-			],
-			[
-				"pors",
-				"scss/style/pages/index/_portfolio.scss"
-			],
-			[
-				"porin",
-				"portfolio/index.php"
-			],
-			[
-				"jar",
-				"portfolio/jardin-de-france.php"
-			],
-			[
-				"navs",
-				"scss/style/blocks/_nav-overlay.scss"
-			],
-			[
-				"stycs",
-				"css/style.css"
-			],
-			[
-				"thank",
-				"thanks.php"
-			],
-			[
-				"conta",
-				"contact/index.php"
-			],
-			[
-				"abouin",
-				"about-us/index.php"
-			],
-			[
-				"abou",
-				"scss/style/pages/about-us/_about-us.scss"
-			],
-			[
-				"whain",
-				"what-we-do/index.php"
-			],
-			[
-				"zarain",
-				"portfolio/zaraza-design/index.php"
-			],
-			[
-				"fonts",
-				"scss/style/components/_fonts.scss"
-			],
-			[
-				"zaraza",
-				"scss/style/pages/portfolio/_zaraza.scss"
-			],
-			[
-				"sty",
-				"scss/style.scss"
-			],
-			[
-				"_ignotha",
-				"_ignores/thanks.php"
-			],
-			[
-				"incon",
-				"scss/style/pages/index/_contact.scss"
-			],
-			[
-				"send",
-				"php/sendcontact.php"
-			],
-			[
-				"por",
-				"js/src/portfolio.js"
-			],
-			[
-				"indscss",
-				"scss/style/pages/index/_index.scss"
-			],
-			[
-				"inco",
-				"scss/style/pages/index/_contact.scss"
-			],
-			[
-				"gris",
-				"assets/neat/_grid-settings.scss"
-			],
-			[
-				"inhea",
-				"scss/style/pages/index/_header.scss"
-			],
-			[
-				"st",
-				"scss/style.scss"
-			],
-			[
-				"inpor",
-				"scss/style/pages/index-2/_portfolio.scss"
-			],
-			[
-				"in2",
-				"scss/style/pages/index-2/_index-2.scss"
-			],
-			[
-				"inher",
-				"scss/style/pages/index/_header.scss"
-			],
-			[
-				"inj",
-				"js/src/index.js"
-			],
-			[
-				"contaj",
-				"js/src/contact.js"
-			],
-			[
-				"porj",
-				"js/src/portfolio.js"
-			],
-			[
-				"ty",
-				"scss/style/components/_typography.scss"
-			],
-			[
-				"typ",
-				"scss/style/components/_typography.scss"
-			],
-			[
-				"sett",
-				"scss/style/settings/_settings.scss"
-			],
-			[
-				"thanej",
-				"js/src/thanks-new.js"
 			]
 		],
 		"width": 0.0
@@ -1838,9 +2907,17 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "s",
+		"last_filter": "hu",
 		"selected_items":
 		[
+			[
+				"hu",
+				"~/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_ignores/h-u.sublime-project"
+			],
+			[
+				"hi",
+				"~/SNC Projects/Houston Interior Plants/HIP Carbon Copy/_ignores/hip-copy.sublime-project"
+			],
 			[
 				"s",
 				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
@@ -1902,10 +2979,6 @@
 				"~/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_ignores/engaged.sublime-project"
 			],
 			[
-				"hu",
-				"~/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_ignores/h-u.sublime-project"
-			],
-			[
 				"j",
 				"~/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/_ignores/jdftx.sublime-project"
 			],
@@ -1965,7 +3038,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 328.0,
+	"side_bar_width": 234.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

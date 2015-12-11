@@ -16,9 +16,13 @@ encoding:         UTF-8
 # LOCAL-DEV BRANCH
 base_cdn:         
 blog_cdn: 
-blog_url:        
+blog_url: 
+start_comment: <!--
+end_comment: -->       
 
 # CDN-PRODUCTION BRANSH
 # base_cdn:         http://cdn.studioncreations.com
 # blog_cdn:         http://cdn.studioncreations.com/blog
 # blog_url:			http://blog.studioncreations.com
+# start_comment:
+# end_comment:
