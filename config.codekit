@@ -746,6 +746,27 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/_posts\/2015-12-11-thoughts-on-the-lemon-peel-facial-logo.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_posts\/2015-12-11-thoughts-on-the-lemon-peel-facial-logo.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/_posts\/2015-12-11-thoughts-on-the-lemon-peel-facial-logo.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
 	"\/_site\/403.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1526,6 +1547,94 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-index.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48898,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-index.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-index.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-index@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 141428,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-index@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-index@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-feature.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28525,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-feature.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-feature.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-feature@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83590,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-feature@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-feature@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-rectangle.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30926,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-rectangle.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-rectangle.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-rectangle@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92470,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-rectangle@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-rectangle@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-square.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35610,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-square.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-square.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-square@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121564,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-square@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-square@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/post-attachments\/projects\/lpf\/4-2\/lemon-peel-facial-logo@2x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1965,6 +2074,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/web-design\/new-lisa-esposito-project.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/web-design\/thoughts-on-the-lemon-peel-facial-logo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/web-design\/thoughts-on-the-lemon-peel-facial-logo.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3163,6 +3281,94 @@
 		"initialSize": 201174,
 		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/lisa-esposito\/3-27\/post-img@2x.jpg",
 		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/lisa-esposito\/3-27\/post-img@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-index.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48898,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-index.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-index.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-index@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 141428,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-index@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-index@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-feature.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28525,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-feature.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-feature.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-feature@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83590,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-feature@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-feature@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-rectangle.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30926,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-rectangle.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-rectangle.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-rectangle@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92470,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-rectangle@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-rectangle@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-square.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35610,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-square.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-square.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-square@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121564,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-square@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-logo-square@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

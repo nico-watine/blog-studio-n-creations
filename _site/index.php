@@ -73,6 +73,25 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/thoughts-on-the-lemon-peel-facial-logo"><span itemprop="name">Thoughts on the LemonPeelFacial.com Logo</span></a></h1>
+		<h2 itemprop="description" class="subtitle">We had some thoughts of the new LemonPeelFacial.com logo</h2>
+		<time datetime="2015-12-11T08:00:00-06:00">11 December 2015</time>
+		<meta itemprop="datePublished" content="2015-12-11T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="/web-design/thoughts-on-the-lemon-peel-facial-logo" class="read-more blue floating">Read More</a>
+	</header>
+	<section id="hero-image">
+		<a itemprop="mainEntityOfPage" href="/web-design/thoughts-on-the-lemon-peel-facial-logo"> 
+			<img itemprop="image" src="/img/post-attachments/projects/lpf/12-11/lemon-peel-facial-logo-feature.jpg" alt="A detail shot of the LemonPeelFacial.com logo">
+		</a>
+	</section>
+	<footer id="post-taxonomy">
+		<h4 id="category">Category | <a class="simple" href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/lemon-peel-facial"><span itemprop="keywords">Lemon Peel Facial</span></a></h4>
+	</footer>
+</article>
+		
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
+	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand"><span itemprop="name">Updating the 'Jardin de France' brand</span></a></h1>
 		<h2 itemprop="description" class="subtitle">The houston-based antique importers are ready for a new website</h2>
 		<time datetime="2015-06-03T08:00:00-06:00">3 June 2015</time>
@@ -315,6 +334,11 @@
 		<li><a href="/web-development/" class="blue floating">Web Development</a></li>
 	</ul>
 </nav>
+		<!-- <div class="page-title">
+	<div class="row">
+		<p class="large">If you are interested in having an original website created, contact the Studio N Creations team and get started today. All of our websites come mobile-optimized and search engine friendly.</p>
+	</div>
+</div> -->
 	</aside>
 </main>
 
