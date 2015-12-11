@@ -18,9 +18,9 @@ article-hero-alt: Greencare Interior Plants Logo Update
 article-tag: Greencare Interior Plants
 article-tag-link: greencare-interior-plants
 og-type: article
-og-url: /web-design/greencare-project
+og-url: /web-design/greencare-interior-plants-project
 og-title: New Project - Greencare Interior Plants
-og-image: /img/post-attachments/projects/gctx/3-24/link-banner@2x.jpg
+og-image: /img/post-attachments/projects/gctx/3-24/greencare-interior-plants-hero.png
 og-description: We're giving Greencare Interior Plants a fresh, new look
 ---
 <div class="row margin-bottom">
