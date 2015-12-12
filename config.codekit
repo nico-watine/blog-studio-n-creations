@@ -1602,6 +1602,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-desktop-index.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72427,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-desktop-index.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-desktop-index.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-desktop-index@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 145834,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-desktop-index@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-desktop-index@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-index.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3391,6 +3413,28 @@
 		"initialSize": 201174,
 		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/lisa-esposito\/3-27\/post-img@2x.jpg",
 		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/lisa-esposito\/3-27\/post-img@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-desktop-index.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72427,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-desktop-index.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-desktop-index.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-desktop-index@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 145834,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-desktop-index@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/lpf\/12-11\/lemon-peel-facial-desktop-index@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

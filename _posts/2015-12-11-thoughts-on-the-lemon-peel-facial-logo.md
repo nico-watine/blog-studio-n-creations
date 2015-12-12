@@ -25,8 +25,12 @@ og-description: We had some thoughts of the new LemonPeelFacial.com logo
 ---
 <div class="row margin-bottom">
 	<h3 class="margin-bottom">Back in April we introduced the new logo we created for Michelle Wright at LemonPeelFacial.com</h3>
-	<p>We thought we would expand on that article by posting some more images of the logo that portray it more clearly (not to mention we wanted to share it on our Facebook page, too).</p>
+	<p>We thought we would expand on that article by posting some more images of the logo that portray it in context.</p>
+	<p>You can see more mockups of the logo in our Lemon Peel Facial Album on Facebook - <a href="http://facebook.com/studio.n.creations" class="simple header" target="_blank">Facebook.com/studio.n.creations</a></p>
 	<img src="{{ site.blog_cdn }}/img/post-attachments/projects/lpf/12-11/lemon-peel-facial-logo-square.jpg" srcset="{{ site.blog_cdn }}/img/post-attachments/projects/lpf/12-11/lemon-peel-facial-logo-square@2x.jpg 2x" alt="The Lemon Peel Facial Logo" class="margin-bottom black-border">
 	<img src="{{ site.blog_cdn }}/img/post-attachments/projects/lpf/12-11/lemon-peel-facial-index.jpg" srcset="{{ site.blog_cdn }}/img/post-attachments/projects/lpf/12-11/lemon-peel-facial-index@2x.jpg 2x" alt="The Lemon Peel Facial Logo" class="margin-bottom black-border">
 	<img src="{{ site.blog_cdn }}/img/post-attachments/projects/lpf/12-11/lemon-peel-facial-logo-rectangle.jpg" srcset="{{ site.blog_cdn }}/img/post-attachments/projects/lpf/12-11/lemon-peel-facial-logo-rectangle@2x.jpg 2x" alt="The Lemon Peel Facial Logo" class="margin-bottom black-border">
+</div>
+<div class="row">
+	<p class="header">Site Link | <a href="http://lemonpeelfacial.com" class="simple" target="_blank">www.LemonPeelFacial.com</a></p>
 </div>
