@@ -6,16 +6,16 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="preconnect" href="http://cdn.studioncreations.com">
-	<title>Thoughts on the LemonPeelFacial.com Logo | Studio N Creations Blog</title>
-	<meta name="description" content="We had some thoughts of the new LemonPeelFacial.com logo" />
+	<title>Houston Oculofacial Plastic Surgery Tags | Studio N Creations Blog</title>
+	<meta name="description" content="The Studio N Creations blog roll containing all posts tagged under 'Houston Oculofacial'" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 
-	<meta property="og:type" content="article" />
-	<meta property="og:url" content="web-design/summary-of-the-greencare-interior-plants-project" />
-	<meta property="og:title" content="Thoughts on the LemonPeelFacial.com Logo" />
-	<meta property="og:image" content="/img/post-attachments/projects/lpf/12-11/lemon-peel-facial-logo-square.jpg" />
-	<meta property="og:description" content="We had some thoughts of the new LemonPeelFacial.com logo" />
+	<meta property="og:type" content="" />
+	<meta property="og:url" content="http://blog.studioncreations.com/tags/houston-oculofacial-plastic-surgery" />
+	<meta property="og:title" content="Houston Oculofacial Plastic Surgery Tag | Studio N Creations Blog" />
+	<meta property="og:image" content="" />
+	<meta property="og:description" content="The Studio N Creations blog roll containing all posts tagged under 'Houston Oculofacial Plastic Surgery'" />
 	
 	<link rel="stylesheet" href="<?php autoVer('/css/core.css'); ?>" />
 	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
@@ -27,7 +27,8 @@
 		<script src="/js/ie-min.js"></script>
 	<![endif]-->
 </head>
-<body class="standard-post">
+
+<body class="blog-index">
 <header id="site-header">
 	<div class="row" id="nav-bar">
 		<a href="/" class="title" id="index-link"><span id="large">Blog.Studio N Creations</span><span id="mini">BLOG.SNC</span></a>
@@ -68,30 +69,35 @@
 </nav>
 
 <main class="outer-container">
-	<article itemscope itemtype="http://schema.org/BlogPosting">
-		<header>
-			<h4 itemprop="genre"><a class="simple" href="/web-design/">Web Design</a></h4>
-			<h1 itemprop="headline">Thoughts on the LemonPeelFacial.com Logo</h1>
-			<h2 itemprop="description" class="subtitle">We had some thoughts of the new LemonPeelFacial.com logo</h2>
-			<time datetime="2015-12-12T08:00:00-06:00">12 December 2015</time>
-			<meta itemprop="datePublished" content="2015-12-12T08:00:00-06:00"/>
-		</header>
-		<section itemprop="articleBody" id="article-body">
-			<img itemprop="image" class="article-hero" src="/img/post-attachments/projects/lpf/12-11/lemon-peel-facial-logo-feature.jpg" srcset="/img/post-attachments/projects/lpf/12-11/lemon-peel-facial-logo-feature@2x.jpg 2x" alt="A detail shot of the LemonPeelFacial.com logo">
-			
-
-		</section>
-		<footer id="post-taxonomy">
-			<h5>Tags | <a class="simple" href="/tags/lemon-peel-facial"><span itemprop="keywords">Lemon Peel Facial</span></a></h5>
-		</footer>
-	</article>
-	<aside>
-		<div class="page-title">
-			<div class="row">
-				<h5>PAGE</h5>
-				<h1>Article</h1>
-			</div>
-		</div>
+	<section class="blog-roll">
+		
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
+	<header id="post-titles">
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/print-work/houston-oculofacial-plastic-surgery-spring-postcard"><span itemprop="name">New promotional spring-time postcards for Houston Oculofacial Plastic Surgery</span></a></h1>
+		<h2 itemprop="description" class="subtitle">Hot off the press!</h2>
+		<time datetime="2015-04-01T08:00:00-06:00">1 April 2015</time>
+		<meta itemprop="datePublished" content="2015-04-01T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="/print-work/houston-oculofacial-plastic-surgery-spring-postcard" class="read-more blue floating">Read More</a>
+	</header>
+	<section id="hero-image">
+		<a itemprop="mainEntityOfPage" href="/print-work/houston-oculofacial-plastic-surgery-spring-postcard"> 
+			<img itemprop="image" src="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" srcset="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg 2x" alt="A closeup of the new Houston Oculofacial spring postcards">
+		</a>
+	</section>
+	<footer id="post-taxonomy">
+		<h4 id="category">Category | <a class="simple" href="/print-work/"><span itemprop="genre">Print Work</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/houston-oculofacial-plastic-surgery"><span itemprop="keywords">Houston Oculofacial Plastic Surgery</span></a></h4>
+	</footer>
+</article>
+		
+	</section>
+	<aside class="sidebar">
+		<div class="page-title smaller">
+	<div class="row">
+		<h5>Tagged</h5>
+		<h1>Houston Oculofacial Plastic Surgery</h1>
+	</div>
+</div>
 		<nav class="side-nav">
 	<h3>CATEGORIES</h3>
 	<ul class="category-list">
@@ -102,7 +108,6 @@
 </nav>
 	</aside>
 </main>
-
 
 <footer id="page-footer">
 	<div class="outer-container padding">
@@ -134,4 +139,3 @@
 </script>-->
 </body>
 </html>
-
