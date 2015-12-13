@@ -98,8 +98,29 @@
 
 
 		</section>
-		<footer id="post-taxonomy">
-			<h5>Tags | <a class="simple" href="/tags/houston-oculofacial-plastic-surgery"><span itemprop="keywords">Houston Oculofacial Plastic Surgery</span></a></h5>
+		<footer>
+			<hr>
+			<h5 id="post-taxonomy">Tags | <a class="simple" href="/tags/houston-oculofacial-plastic-surgery"><span itemprop="keywords">Houston Oculofacial Plastic Surgery</span></a></h5>
+			<div class="row" id="get-social">
+    <a href="https://twitter.com/share?url=http://blog.studioncreations.com//print-work/houston-oculofacial-plastic-surgery-spring-postcard">
+        <div class="share-button" id="twitter" data-share-url="http://blog.studioncreations.com//print-work/houston-oculofacial-plastic-surgery-spring-postcard">
+            <p class="icon">
+                <img src="/img/assets/social/icon-twitter.png">
+            </p>
+            <p class="shares">0</p>
+        </div>
+    </a>
+
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://blog.studioncreations.com//print-work/houston-oculofacial-plastic-surgery-spring-postcard">
+        <div class="share-button" id="facebook" data-share-url="http://blog.studioncreations.com//print-work/houston-oculofacial-plastic-surgery-spring-postcard">
+            <p class="icon">
+                <img src="/img/assets/social/icon-facebook.png">
+            </p>
+            <p class="shares">0</p>
+        </div>
+    </a>
+</div>
+
 		</footer>
 	</article>
 	<aside>
@@ -149,6 +170,51 @@
 	r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
 	ga('create','UA-55459011-8','auto');ga('send','pageview');
 </script>-->
+<script>
+var StaticShareButtons = {
+    twitterButton: document.querySelector('.share-button#twitter'),
+    facebookButton: document.querySelector('.share-button#facebook'),
+
+    init: function () {
+        this.injectScript('https://urls.api.twitter.com/1/urls/count.json?url=' +
+            encodeURI(this.twitterButton.dataset.shareUrl) + '&callback=' + 'StaticShareButtons.processTwitter');
+
+        this.injectScript('https://graph.facebook.com/?id=' +
+            encodeURI(this.facebookButton.dataset.shareUrl) + '&callback=StaticShareButtons.processFacebook');
+
+        this.injectScript('https://www.reddit.com/api/info.json?jsonp=StaticShareButtons.processReddit&url='
+            + encodeURI(this.facebookButton.dataset.shareUrl))
+    },
+
+    injectScript: function (url) {
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = url;
+        document.body.appendChild(script);
+    },
+
+    processTwitter: function (data) {
+        if (data.count != undefined) {
+            this.twitterButton.querySelector('.shares').innerHTML = data.count;
+        }
+    },
+
+    processFacebook: function (data) {
+        if (data.shares != undefined) {
+            this.facebookButton.querySelector('.shares').innerHTML = data.shares;
+        }
+    },
+
+    processReddit: function (data) {
+        if(data.data != undefined){
+            if (data.data.children.length > 0) {
+                this.redditButton.querySelector('.shares').innerHTML = data.data.children[0].data.score;
+            }
+        }
+    }
+};
+
+StaticShareButtons.init();
+</script>
 </body>
 </html>
-

@@ -14,8 +14,8 @@
 	<meta property="og:type" content="" />
 	<meta property="og:url" content="http://blog.studioncreations.com" />
 	<meta property="og:title" content="Home Blog Roll | Studio N Creations" />
-	<meta property="og:image" content="" />
-	<meta property="og:description" content="Keep up with the our latest posts and projects on Studio N Creations blog" />
+	<meta property="og:image" content="/img/post-attachments/projects/houston-uncovered/3-18/houston-uncovered-hero.jpg" />
+	<meta property="og:description" content="Keep up with the our latest posts and projects on the Studio N Creations blog" />
 	
 	<link rel="stylesheet" href="<?php autoVer('/css/core.css'); ?>" />
 	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />

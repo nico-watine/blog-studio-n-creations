@@ -60,6 +60,11 @@ $max-500: "only screen and (max-width : 31.250em)";
 			footer {
 				@include row;
 				text-align: left;
+				
+				#post-taxonomy {
+					margin-bottom: rem(18);
+				}
+
 			}
 		}
 
