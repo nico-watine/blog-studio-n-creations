@@ -1,0 +1,1 @@
+<script src="{{ site.blog_cdn }}<?php autoVer('/js/article-scripts-min.js'); ?>"></script>

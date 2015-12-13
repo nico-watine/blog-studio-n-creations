@@ -20,7 +20,7 @@ article-tag-link: houston-uncovered
 og-type: article
 og-url: /web-design/houston-uncovered-preview
 og-title: A HoustonUncovered.com Preview
-og-image: /img/post-attachments/projects/houston-uncovered/3-18/link-banner@2x.jpg
+og-image: /img/post-attachments/projects/houston-uncovered/3-18/houston-uncovered-hero@2x.jpg
 og-description: Here is a teaser mockup of the upcoming HoustonUncovered.com
 ---
 <div class="row">

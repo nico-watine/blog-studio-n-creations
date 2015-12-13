@@ -374,6 +374,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_includes\/components\/scripts\/article-scripts.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/components\/scripts\/article-scripts.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_includes\/components\/scripts\/google-tracking.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2036,6 +2045,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/js\/article-scripts-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/article-scripts-min.js",
+		"outputAbbreviatedPath": "\/_site\/article-scripts-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/_site\/js\/ie-min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -2064,6 +2084,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/js\/nav-min.js",
 		"outputAbbreviatedPath": "\/_site\/nav-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/src\/article-scripts.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/src\/article-scripts.js",
+		"outputAbbreviatedPath": "\/_site\/js\/article-scripts-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -4005,6 +4036,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/js\/article-scripts-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/article-scripts-min.js",
+		"outputAbbreviatedPath": "\/article-scripts-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/ie-min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -4033,6 +4075,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/nav-min.js",
 		"outputAbbreviatedPath": "\/nav-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/src\/article-scripts.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/src\/article-scripts.js",
+		"outputAbbreviatedPath": "\/js\/article-scripts-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

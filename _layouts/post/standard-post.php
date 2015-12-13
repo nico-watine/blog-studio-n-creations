@@ -36,6 +36,5 @@
 
 {% include blocks/footer.html %}
 {% include components/scripts/scripts.php %}
-{% include components/scripts/static-share-buttons-script.html %}
 </body>
 </html>

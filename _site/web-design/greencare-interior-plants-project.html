@@ -154,6 +154,7 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
 <script src="<?php autoVer('/js/nav-min.js'); ?>"></script>
+<script src="<?php autoVer('/js/article-scripts-min.js'); ?>"></script>
 <!--<script>
 	(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
 	function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
@@ -162,51 +163,5 @@
 	r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
 	ga('create','UA-55459011-8','auto');ga('send','pageview');
 </script>-->
-<script>
-var StaticShareButtons = {
-    twitterButton: document.querySelector('.share-button#twitter'),
-    facebookButton: document.querySelector('.share-button#facebook'),
-
-    init: function () {
-        this.injectScript('https://urls.api.twitter.com/1/urls/count.json?url=' +
-            encodeURI(this.twitterButton.dataset.shareUrl) + '&callback=' + 'StaticShareButtons.processTwitter');
-
-        this.injectScript('https://graph.facebook.com/?id=' +
-            encodeURI(this.facebookButton.dataset.shareUrl) + '&callback=StaticShareButtons.processFacebook');
-
-        this.injectScript('https://www.reddit.com/api/info.json?jsonp=StaticShareButtons.processReddit&url='
-            + encodeURI(this.facebookButton.dataset.shareUrl))
-    },
-
-    injectScript: function (url) {
-        var script = document.createElement('script');
-        script.async = true;
-        script.src = url;
-        document.body.appendChild(script);
-    },
-
-    processTwitter: function (data) {
-        if (data.count != undefined) {
-            this.twitterButton.querySelector('.shares').innerHTML = data.count;
-        }
-    },
-
-    processFacebook: function (data) {
-        if (data.shares != undefined) {
-            this.facebookButton.querySelector('.shares').innerHTML = data.shares;
-        }
-    },
-
-    processReddit: function (data) {
-        if(data.data != undefined){
-            if (data.data.children.length > 0) {
-                this.redditButton.querySelector('.shares').innerHTML = data.data.children[0].data.score;
-            }
-        }
-    }
-};
-
-StaticShareButtons.init();
-</script>
 </body>
 </html>
