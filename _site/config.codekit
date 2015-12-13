@@ -1210,6 +1210,15 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/_site\/beta-article.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/beta-article.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/css\/blog.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -2045,12 +2054,12 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/js\/article-scripts-min.js": {
+	"\/_site\/js\/custom-pinterest-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/js\/article-scripts-min.js",
-		"outputAbbreviatedPath": "\/_site\/article-scripts-min-min.js",
+		"inputAbbreviatedPath": "\/_site\/js\/custom-pinterest-min.js",
+		"outputAbbreviatedPath": "\/_site\/custom-pinterest-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -2089,12 +2098,12 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/js\/src\/article-scripts.js": {
+	"\/_site\/js\/src\/custom-pinterest.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/js\/src\/article-scripts.js",
-		"outputAbbreviatedPath": "\/_site\/js\/article-scripts-min.js",
+		"inputAbbreviatedPath": "\/_site\/js\/src\/custom-pinterest.js",
+		"outputAbbreviatedPath": "\/_site\/js\/custom-pinterest-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3192,6 +3201,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
+	"\/beta-article.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/beta-article.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/config.rb": {
 		"fileType": 131072,
 		"ignore": 0,
@@ -4047,6 +4065,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/js\/custom-pinterest-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/custom-pinterest-min.js",
+		"outputAbbreviatedPath": "\/custom-pinterest-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/ie-min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -4086,6 +4115,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/src\/article-scripts.js",
 		"outputAbbreviatedPath": "\/js\/article-scripts-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/src\/custom-pinterest.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/src\/custom-pinterest.js",
+		"outputAbbreviatedPath": "\/js\/custom-pinterest-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

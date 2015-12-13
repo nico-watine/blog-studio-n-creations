@@ -1,6 +1,7 @@
 var StaticShareButtons = {
     twitterButton: document.querySelector('.share-button#twitter'),
     facebookButton: document.querySelector('.share-button#facebook'),
+    pinterestButton: document.querySelector('.share-button#pinterest'),
 
     init: function () {
         this.injectScript('https://urls.api.twitter.com/1/urls/count.json?url=' +
@@ -8,9 +9,6 @@ var StaticShareButtons = {
 
         this.injectScript('https://graph.facebook.com/?id=' +
             encodeURI(this.facebookButton.dataset.shareUrl) + '&callback=StaticShareButtons.processFacebook');
-
-        this.injectScript('https://www.reddit.com/api/info.json?jsonp=StaticShareButtons.processReddit&url='
-            + encodeURI(this.facebookButton.dataset.shareUrl))
     },
 
     injectScript: function (url) {
@@ -21,22 +19,14 @@ var StaticShareButtons = {
     },
 
     processTwitter: function (data) {
-        if (data.count != undefined) {
+        if (data.count !==undefined) {
             this.twitterButton.querySelector('.shares').innerHTML = data.count;
         }
     },
 
     processFacebook: function (data) {
-        if (data.shares != undefined) {
+        if (data.shares !==undefined) {
             this.facebookButton.querySelector('.shares').innerHTML = data.shares;
-        }
-    },
-
-    processReddit: function (data) {
-        if(data.data != undefined){
-            if (data.data.children.length > 0) {
-                this.redditButton.querySelector('.shares').innerHTML = data.data.children[0].data.score;
-            }
         }
     }
 };
