@@ -5,7 +5,7 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<link rel="preconnect" href="http://cdn.studioncreations.com">
+	<!--<link rel="preconnect" href="http://cdn.studioncreations.com">-->
 	<title>Print Work Posts | Studio N Creations Blog</title>
 	<meta name="description" content="The Studio N Creations blog roll containing all printed work-related articles" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">

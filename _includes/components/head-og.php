@@ -5,7 +5,7 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<link rel="preconnect" href="http://cdn.studioncreations.com">
+	{{ site.start_comment }}<link rel="preconnect" href="http://cdn.studioncreations.com">{{ site.end_comment }}
 	<title>{{ page.page-title }} | Studio N Creations Blog</title>
 	<meta name="description" content="{{ page.page-description }}" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,7 +23,7 @@
 	<script src="{{ site.base_cdn }}/js/modernizr-min.js"></script>
 
 	<!--[if lt IE 9]>
-		<link rel="stylesheet" href="/css/ie.css" />
-		<script src="/js/ie-min.js"></script>
+		<link rel="stylesheet" href="{{ site.blog_cdn }}/css/ie.css" />
+		<script src="{{ site.base_cdn }}/js/ie-min.js"></script>
 	<![endif]-->
 </head>
