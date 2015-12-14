@@ -1,0 +1,13 @@
+on <aside> side bar, underneath the categories <nav> maybe have the generic Pinterest button to just 'follow' our boards?
+on the same note, have a 'like' button via facebook (is that possible?)
+
+optimize studioncreations.com/css/core.css so that it is literally just CORE styes
+	this way, the blog isn't downloading extra, unneccesary file styles
+	that would require reorganizing SNC SCSS files
+
+create new favicon and icons to represent the new logo look
+also create new facebook cover and profile image to use the new white hero on the snc index page
+the profile image can either be similar to the new favicons or be like the current style, where it is a continuation of the cover photo
+
+confirm the SNC location registration via the google code that came in the mail
+	don't wait to long, this expires at some point i think
