@@ -17,7 +17,7 @@
 	<meta property="og:image" content="{{ site.blog_cdn }}{{ page.og-image }}" />
 	<meta property="og:description" content="{{ page.og-description }}" />
 	
-	<link rel="stylesheet" href="{{ site.base_cdn }}<?php autoVer('/css/core.css'); ?>" />
+	<link rel="stylesheet" href="http://cdn.studioncreations.com<?php autoVer('/css/core.css'); ?>" />
 	<link rel="stylesheet" href="{{ site.blog_cdn }}<?php autoVer('/css/blog.css'); ?>" />
 
 	<script src="{{ site.base_cdn }}/js/modernizr-min.js"></script>

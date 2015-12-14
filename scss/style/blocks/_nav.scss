@@ -9,6 +9,9 @@ $height-600: "only screen and (max-height : 37.5em)";
 $height-500: "only screen and (max-height : 31.25em)";
 $height-380: "only screen and (max-height : 23.75em)";
 
+.row#nav-bar {
+	z-index: 10000000; //necessary big number so floating 'pin it' button does not float over header
+}
 
 .overlay {
 	position: fixed;
@@ -25,6 +28,8 @@ $height-380: "only screen and (max-height : 23.75em)";
 
 .overlay ul {
 	list-style: none;
+	text-align: center;
+	float: none;
 	padding: 0;
 	margin: em(80) auto 0;
 	display: inline-block;

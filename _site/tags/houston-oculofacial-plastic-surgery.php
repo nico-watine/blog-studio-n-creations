@@ -17,7 +17,7 @@
 	<meta property="og:image" content="" />
 	<meta property="og:description" content="The Studio N Creations blog roll containing all posts tagged under 'Houston Oculofacial Plastic Surgery'" />
 	
-	<link rel="stylesheet" href="<?php autoVer('/css/core.css'); ?>" />
+	<link rel="stylesheet" href="http://cdn.studioncreations.com<?php autoVer('/css/core.css'); ?>" />
 	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
 
 	<script src="/js/modernizr-min.js"></script>
