@@ -43,5 +43,5 @@ og-description: This is an excellent app for monitoring website traffic on your 
 	<p class="header">Check it out on the App Store | <a href="https://itunes.apple.com/us/app/gaget-simple-widget-for-google/id968487158?mt=12" class="simple" target="_blank">Direct App Store Link</a></p>
 </div>
 <div class="row">
-	<p class="tiny">(That sweet background photo was taken on our street)</p>
+	<p class="tiny">*(That sweet background photo was taken on our street)</p>
 </div>
