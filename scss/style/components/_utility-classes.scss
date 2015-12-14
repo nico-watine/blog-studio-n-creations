@@ -39,7 +39,7 @@
 }
 
 .shadow {
-	box-shadow: 0px 0px rem(2) 0px #333;
+	box-shadow: 0 0 rem(2) 0 #333;
 }
 
 .white-border {
@@ -64,12 +64,6 @@
 	@include media($small) {
 		@include shift(0);
 		@include span-columns(8 of 8);
-	}
-}
-
-header.top-bar {
-	.outer-container {
-		padding-top: 0;
 	}
 }
 

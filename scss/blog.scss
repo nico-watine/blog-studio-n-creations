@@ -21,8 +21,6 @@
 @import "style/blocks/_main.scss";
 @import "style/blocks/_footer.scss";
 @import "style/blocks/_side-bar.scss"; 
-// @import "style/blocks/_shared-styles.scss";
-// @import "style/blocks/_feature-slider.scss";
 @import "style/blocks/_static-share-buttons.scss";
 
 // INDIVIDUAL PAGE STYLES
@@ -31,9 +29,9 @@
 // INDIVIDUAL POST STYLES
 @import "style/posts/_posts.scss";
 
+// USED TO BE IMPORTED BACK WHEN BLOG-ROLL HAD A FEATURE BANNER ACROSS THE TOP (DON'T DELETE - MAY END UP USING A FEATURE-BANNER AGAIN SOON)
+// @import "style/blocks/_shared-styles.scss";
+// @import "style/blocks/_feature-slider.scss";
+
 // LASTLY IMPORT DEVELOPMENT STYLES, TO BE REMOVED UPON PRODUCTION
 // @import "settings/_development-styles.scss";
-
-// 15,526
-// 14,064
-// 14,042

@@ -35,7 +35,7 @@ og-description: We recently designed a new logo for Houston-based esthetician Mi
 </div>
 <div class="row margin-bottom">
 	<figure>
-		<img  style="max-height: 28.125em; width: auto; margin: 0 auto;" src="{{ site.blog_cdn }}/img/post-attachments/projects/lpf/4-2/old-lemon-peel-facial-logo.jpg" alt="The Original Lemon Peel Facial Logo">
+		<img  style="max-height: 28.125em; width: auto; max-width: 100%; margin: 0 auto;" src="{{ site.blog_cdn }}/img/post-attachments/projects/lpf/4-2/old-lemon-peel-facial-logo.jpg" alt="The Original Lemon Peel Facial Logo">
 		<figcaption>The original LemonPeelFacial.com logo</figcaption>
 	</figure>
 </div>
