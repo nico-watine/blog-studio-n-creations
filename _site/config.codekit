@@ -1230,79 +1230,112 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/img\/assets\/social\/facebook.png": {
+	"\/_site\/img\/assets\/icons\/html5\/html5-shield.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1003,
-		"inputAbbreviatedPath": "\/_site\/img\/assets\/social\/facebook.png",
-		"outputAbbreviatedPath": "\/_site\/img\/assets\/social\/facebook.png",
+		"initialSize": 506,
+		"inputAbbreviatedPath": "\/_site\/img\/assets\/icons\/html5\/html5-shield.png",
+		"outputAbbreviatedPath": "\/_site\/img\/assets\/icons\/html5\/html5-shield.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/assets\/social\/facebook@2x.png": {
+	"\/_site\/img\/assets\/icons\/html5\/html5-shield@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1134,
-		"inputAbbreviatedPath": "\/_site\/img\/assets\/social\/facebook@2x.png",
-		"outputAbbreviatedPath": "\/_site\/img\/assets\/social\/facebook@2x.png",
+		"initialSize": 832,
+		"inputAbbreviatedPath": "\/_site\/img\/assets\/icons\/html5\/html5-shield@2x.png",
+		"outputAbbreviatedPath": "\/_site\/img\/assets\/icons\/html5\/html5-shield@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/assets\/social\/icon-facebook.png": {
+	"\/_site\/img\/assets\/icons\/social\/facebook\/facebook-round.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 144,
-		"inputAbbreviatedPath": "\/_site\/img\/assets\/social\/icon-facebook.png",
-		"outputAbbreviatedPath": "\/_site\/img\/assets\/social\/icon-facebook.png",
+		"initialSize": 302,
+		"inputAbbreviatedPath": "\/_site\/img\/assets\/icons\/social\/facebook\/facebook-round.png",
+		"outputAbbreviatedPath": "\/_site\/img\/assets\/icons\/social\/facebook\/facebook-round.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/assets\/social\/icon-reddit.png": {
+	"\/_site\/img\/assets\/icons\/social\/facebook\/facebook-round@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 456,
-		"inputAbbreviatedPath": "\/_site\/img\/assets\/social\/icon-reddit.png",
-		"outputAbbreviatedPath": "\/_site\/img\/assets\/social\/icon-reddit.png",
+		"initialSize": 458,
+		"inputAbbreviatedPath": "\/_site\/img\/assets\/icons\/social\/facebook\/facebook-round@2x.png",
+		"outputAbbreviatedPath": "\/_site\/img\/assets\/icons\/social\/facebook\/facebook-round@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/assets\/social\/icon-twitter.png": {
+	"\/_site\/img\/assets\/icons\/social\/facebook\/facebook.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 287,
-		"inputAbbreviatedPath": "\/_site\/img\/assets\/social\/icon-twitter.png",
-		"outputAbbreviatedPath": "\/_site\/img\/assets\/social\/icon-twitter.png",
+		"initialSize": 175,
+		"inputAbbreviatedPath": "\/_site\/img\/assets\/icons\/social\/facebook\/facebook.png",
+		"outputAbbreviatedPath": "\/_site\/img\/assets\/icons\/social\/facebook\/facebook.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/assets\/social\/pinterest.png": {
+	"\/_site\/img\/assets\/icons\/social\/facebook\/facebook@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1438,
-		"inputAbbreviatedPath": "\/_site\/img\/assets\/social\/pinterest.png",
-		"outputAbbreviatedPath": "\/_site\/img\/assets\/social\/pinterest.png",
+		"initialSize": 213,
+		"inputAbbreviatedPath": "\/_site\/img\/assets\/icons\/social\/facebook\/facebook@2x.png",
+		"outputAbbreviatedPath": "\/_site\/img\/assets\/icons\/social\/facebook\/facebook@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/assets\/social\/pinterest@2x.png": {
+	"\/_site\/img\/assets\/icons\/social\/pinterest\/pinterest.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2151,
-		"inputAbbreviatedPath": "\/_site\/img\/assets\/social\/pinterest@2x.png",
-		"outputAbbreviatedPath": "\/_site\/img\/assets\/social\/pinterest@2x.png",
+		"initialSize": 300,
+		"inputAbbreviatedPath": "\/_site\/img\/assets\/icons\/social\/pinterest\/pinterest.png",
+		"outputAbbreviatedPath": "\/_site\/img\/assets\/icons\/social\/pinterest\/pinterest.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/assets\/icons\/social\/pinterest\/pinterest@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 502,
+		"inputAbbreviatedPath": "\/_site\/img\/assets\/icons\/social\/pinterest\/pinterest@2x.png",
+		"outputAbbreviatedPath": "\/_site\/img\/assets\/icons\/social\/pinterest\/pinterest@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/assets\/icons\/social\/twitter\/twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 226,
+		"inputAbbreviatedPath": "\/_site\/img\/assets\/icons\/social\/twitter\/twitter.png",
+		"outputAbbreviatedPath": "\/_site\/img\/assets\/icons\/social\/twitter\/twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/assets\/icons\/social\/twitter\/twitter@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 300,
+		"inputAbbreviatedPath": "\/_site\/img\/assets\/icons\/social\/twitter\/twitter@2x.png",
+		"outputAbbreviatedPath": "\/_site\/img\/assets\/icons\/social\/twitter\/twitter@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3279,79 +3312,112 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/img\/assets\/social\/facebook.png": {
+	"\/img\/assets\/icons\/html5\/html5-shield.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1003,
-		"inputAbbreviatedPath": "\/img\/assets\/social\/facebook.png",
-		"outputAbbreviatedPath": "\/img\/assets\/social\/facebook.png",
+		"initialSize": 1394,
+		"inputAbbreviatedPath": "\/img\/assets\/icons\/html5\/html5-shield.png",
+		"outputAbbreviatedPath": "\/img\/assets\/icons\/html5\/html5-shield.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/assets\/social\/facebook@2x.png": {
+	"\/img\/assets\/icons\/html5\/html5-shield@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1134,
-		"inputAbbreviatedPath": "\/img\/assets\/social\/facebook@2x.png",
-		"outputAbbreviatedPath": "\/img\/assets\/social\/facebook@2x.png",
+		"initialSize": 987,
+		"inputAbbreviatedPath": "\/img\/assets\/icons\/html5\/html5-shield@2x.png",
+		"outputAbbreviatedPath": "\/img\/assets\/icons\/html5\/html5-shield@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/assets\/social\/icon-facebook.png": {
+	"\/img\/assets\/icons\/social\/facebook\/facebook-round.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 144,
-		"inputAbbreviatedPath": "\/img\/assets\/social\/icon-facebook.png",
-		"outputAbbreviatedPath": "\/img\/assets\/social\/icon-facebook.png",
+		"initialSize": 302,
+		"inputAbbreviatedPath": "\/img\/assets\/icons\/social\/facebook\/facebook-round.png",
+		"outputAbbreviatedPath": "\/img\/assets\/icons\/social\/facebook\/facebook-round.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/assets\/social\/icon-reddit.png": {
+	"\/img\/assets\/icons\/social\/facebook\/facebook-round@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 456,
-		"inputAbbreviatedPath": "\/img\/assets\/social\/icon-reddit.png",
-		"outputAbbreviatedPath": "\/img\/assets\/social\/icon-reddit.png",
+		"initialSize": 458,
+		"inputAbbreviatedPath": "\/img\/assets\/icons\/social\/facebook\/facebook-round@2x.png",
+		"outputAbbreviatedPath": "\/img\/assets\/icons\/social\/facebook\/facebook-round@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/assets\/social\/icon-twitter.png": {
+	"\/img\/assets\/icons\/social\/facebook\/facebook.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 287,
-		"inputAbbreviatedPath": "\/img\/assets\/social\/icon-twitter.png",
-		"outputAbbreviatedPath": "\/img\/assets\/social\/icon-twitter.png",
+		"initialSize": 175,
+		"inputAbbreviatedPath": "\/img\/assets\/icons\/social\/facebook\/facebook.png",
+		"outputAbbreviatedPath": "\/img\/assets\/icons\/social\/facebook\/facebook.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/assets\/social\/pinterest.png": {
+	"\/img\/assets\/icons\/social\/facebook\/facebook@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1438,
-		"inputAbbreviatedPath": "\/img\/assets\/social\/pinterest.png",
-		"outputAbbreviatedPath": "\/img\/assets\/social\/pinterest.png",
+		"initialSize": 213,
+		"inputAbbreviatedPath": "\/img\/assets\/icons\/social\/facebook\/facebook@2x.png",
+		"outputAbbreviatedPath": "\/img\/assets\/icons\/social\/facebook\/facebook@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/assets\/social\/pinterest@2x.png": {
+	"\/img\/assets\/icons\/social\/pinterest\/pinterest.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2151,
-		"inputAbbreviatedPath": "\/img\/assets\/social\/pinterest@2x.png",
-		"outputAbbreviatedPath": "\/img\/assets\/social\/pinterest@2x.png",
+		"initialSize": 300,
+		"inputAbbreviatedPath": "\/img\/assets\/icons\/social\/pinterest\/pinterest.png",
+		"outputAbbreviatedPath": "\/img\/assets\/icons\/social\/pinterest\/pinterest.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/icons\/social\/pinterest\/pinterest@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 502,
+		"inputAbbreviatedPath": "\/img\/assets\/icons\/social\/pinterest\/pinterest@2x.png",
+		"outputAbbreviatedPath": "\/img\/assets\/icons\/social\/pinterest\/pinterest@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/icons\/social\/twitter\/twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 226,
+		"inputAbbreviatedPath": "\/img\/assets\/icons\/social\/twitter\/twitter.png",
+		"outputAbbreviatedPath": "\/img\/assets\/icons\/social\/twitter\/twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/icons\/social\/twitter\/twitter@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 300,
+		"inputAbbreviatedPath": "\/img\/assets\/icons\/social\/twitter\/twitter@2x.png",
+		"outputAbbreviatedPath": "\/img\/assets\/icons\/social\/twitter\/twitter@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
