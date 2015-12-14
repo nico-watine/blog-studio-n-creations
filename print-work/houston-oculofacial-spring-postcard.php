@@ -98,8 +98,32 @@
 
 
 		</section>
-		<footer id="post-taxonomy">
-			<h5>Tags | <a class="simple" href="/tags/houston-oculofacial-plastic-surgery"><span itemprop="keywords">Houston Oculofacial Plastic Surgery</span></a></h5>
+		<footer id="article-footer">
+			<hr>
+			<h5 id="post-tags">Tags | <a class="simple" href="/tags/houston-oculofacial-plastic-surgery"><span itemprop="keywords">Houston Oculofacial Plastic Surgery</span></a></h5>
+			<div class="row" id="get-social">
+			    <a id="twitter-share" href="https://twitter.com/share?url=http://blog.studioncreations.com/print-work/houston-oculofacial-plastic-surgery-spring-postcard">
+			        <div class="share-button" id="twitter" data-share-url="http://blog.studioncreations.com/print-work/houston-oculofacial-plastic-surgery-spring-postcard">
+			            <p class="icon">
+			                <img src="http://cdn.studioncreations.com/img/assets/icons/social/twitter/twitter.png" srcset="http://cdn.studioncreations.com/img/assets/icons/social/twitter/twitter@2x.png 2x" alt="Twitter Share Button">
+			            </p>
+			            <p class="shares">0</p>
+			        </div>
+			    </a>
+
+			    <a id="facebook-share" href="https://www.facebook.com/sharer/sharer.php?u=http://blog.studioncreations.com/print-work/houston-oculofacial-plastic-surgery-spring-postcard">
+			        <div class="share-button" id="facebook" data-share-url="http://blog.studioncreations.com/print-work/houston-oculofacial-plastic-surgery-spring-postcard">
+			            <p class="icon">
+			                <img src="http://cdn.studioncreations.com/img/assets/icons/social/facebook/facebook.png" srcset="http://cdn.studioncreations.com/img/assets/icons/social/facebook/facebook@2x.png 2x" alt="Facebook Share Button">
+			            </p>
+			            <p class="shares">0</p>
+			        </div>
+			    </a>
+
+			    <a data-pin-do="buttonBookmark" id="pinterest-share" data-pin-count="above" data-pin-custom="true" href="https://www.pinterest.com/pin/create/button/">
+			        <img src="http://cdn.studioncreations.com/img/assets/icons/social/pinterest/pinterest.png" srcset="http://cdn.studioncreations.com/img/assets/icons/social/pinterest/pinterest@2x.png 2x" alt="Pinterest Share Button">
+			    </a>
+			</div>
 		</footer>
 	</article>
 	<aside>
@@ -120,7 +144,6 @@
 	</aside>
 </main>
 
-
 <footer id="page-footer">
 	<div class="outer-container padding">
 		<div class="row">
@@ -133,8 +156,8 @@
 			</ul>
 		</div>
 		<div class="row">
-			<h6>&copy; <a href="http://studioncreations.com" target="_blank" id="snc-link">STUDIO N CREATIONS</a> | 2015 <a href="https://www.facebook.com/studio.n.creations" target="_blank"><img id="facebook" src="http://cdn.studioncreations.com/img/footer/facebook.png" alt="Facebook Link"></a></h6>
-			<h6 id="html5-powered">powered by <img src="http://cdn.studioncreations.com/img/footer/html5-shield.png" alt="HTML5 Shield"></h6>
+			<h6>&copy; <a href="http://studioncreations.com" target="_blank" id="snc-link">STUDIO N CREATIONS</a> | 2015 <a href="https://www.facebook.com/studio.n.creations" target="_blank"><img id="facebook" src="http://cdn.studioncreations.com/img/assets/icons/social/facebook/facebook-round.png" srcset="http://cdn.studioncreations.com/img/assets/icons/social/facebook/facebook-round@2x.png 2x" alt="Facebook Link"></a></h6>
+			<h6 id="html5-powered">powered by <img src="http://cdn.studioncreations.com/img/assets/icons/html5/html5-shield.png" srcset="http://cdn.studioncreations.com/img/assets/icons/html5/html5-shield@2x.png 2x" alt="HTML5 Shield"></h6>
 		</div>
 	</div>
 </footer>
