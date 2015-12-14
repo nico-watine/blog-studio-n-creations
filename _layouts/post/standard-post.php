@@ -16,9 +16,9 @@
 			<img itemprop="image" class="article-hero" src="{{ site.blog_cdn }}{{ page.article-hero-img }}" srcset="{{ site.blog_cdn }}{{ page.article-hero-img-retina }} 2x" alt="{{ page.article-hero-alt }}">
 			{{ content }}
 		</section>
-		<footer>
+		<footer id="article-footer">
 			<hr>
-			<h5 id="post-taxonomy">Tags | <a class="simple" href="/tags/{{ page.article-tag-link }}"><span itemprop="keywords">{{ page.article-tag }}</span></a></h5>
+			<h5 id="post-tags">Tags | <a class="simple" href="/tags/{{ page.article-tag-link }}"><span itemprop="keywords">{{ page.article-tag }}</span></a></h5>
 			{% include blocks/article/static-share-buttons.html %}
 		</footer>
 	</article>

@@ -1,5 +1,6 @@
 @import "../settings/_settings.scss";
 
+footer#article-footer,
 footer#post-taxonomy {
 	background: none;
 	padding: 0;
@@ -7,7 +8,6 @@ footer#post-taxonomy {
 	border: 0;
 	color: initial;
 }
-
 
 footer#page-footer {
 	margin-top: em(80);
