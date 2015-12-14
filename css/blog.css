@@ -130,27 +130,28 @@ aside nav.side-nav ul.category-list li:hover { background-color: #566270; }
 .featured-slide a h2 { text-shadow: none; width: 100%; margin: 0; padding: 0.3125rem; }
 .featured-slide:hover a { text-decoration: underline; }
 
-.row#get-social { height: 5em; margin-bottom: 1.125em; }
-.row#get-social a { text-decoration: none; }
+.row#get-social { height: 5.375em; margin-bottom: 1.125em; }
+.row#get-social a { text-decoration: none; width: 5rem; text-align: center; }
+.row#get-social a img { width: 1.5625rem; height: 1.5625rem; }
 
-.share-button { width: 5rem; height: 3.4375rem; margin-bottom: 0; display: inline-block; transition: all 150ms; -webkit-transition: all 150ms; }
+.share-button { width: 5rem; height: 3.4375rem; margin-bottom: 0; transition: all 150ms; -webkit-transition: all 150ms; }
 
 .share-button:hover { height: 5rem; margin-bottom: 0; }
 
-.share-button .shares { opacity: 0; transition: opacity 150ms; -webkit-transition: opacity 150ms; color: #fff; text-align: center; margin-top: 0.4375rem; }
+.share-button .shares { opacity: 0; transition: opacity 150ms; -webkit-transition: opacity 150ms; color: #fff; margin-top: 0.4375rem; }
 
 .share-button:hover .shares { opacity: 1; }
 
-.share-button p { margin: 0; padding: 0; }
+.share-button .icon { margin: 0; padding: 0.8125rem 0 0; }
 
-.share-button p.icon { text-align: center; padding-top: 0.8125rem; }
-.share-button p.icon img { width: 1.5rem; height: 1.5rem; }
+.share-button#facebook { background-color: #435D96; }
 
 .share-button#twitter { background-color: #5BC2F0; }
 
-.share-button#pinterest { background-color: red; }
+a#facebook-share, a#twitter-share { float: left; margin-right: 0.75rem; }
 
-.share-button#facebook { background-color: #435D96; }
+a#pinterest-share { background-color: #BE091C; height: 3.4375rem; float: left; padding-top: 0.875rem; margin-bottom: 0; }
+a#pinterest-share:hover { cursor: pointer; cursor: hand; }
 
 .blog-index section.blog-roll { float: left; display: block; margin-right: 1.75788%; width: 74.56053%; }
 .blog-index section.blog-roll:last-child { margin-right: 0; }

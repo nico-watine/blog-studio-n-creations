@@ -98,31 +98,28 @@
 			<hr>
 			<h5 id="post-taxonomy">Tags | <a class="simple" href="/tags/lemon-peel-facial"><span itemprop="keywords">Lemon Peel Facial</span></a></h5>
 			<div class="row" id="get-social">
-    <a href="https://twitter.com/share?url=http://blog.studioncreations.com/web-design/thoughts-on-the-lemon-peel-facial-logo">
-        <div class="share-button" id="twitter" data-share-url="http://blog.studioncreations.com/web-design/thoughts-on-the-lemon-peel-facial-logo">
-            <p class="icon">
-                <img src="/img/assets/social/icon-twitter.png">
-            </p>
-            <p class="shares">0</p>
-        </div>
-    </a>
+			    <a id="twitter-share" href="https://twitter.com/share?url=http://blog.studioncreations.com/web-design/thoughts-on-the-lemon-peel-facial-logo">
+			        <div class="share-button" id="twitter" data-share-url="http://blog.studioncreations.com/web-design/thoughts-on-the-lemon-peel-facial-logo">
+			            <p class="icon">
+			                <img src="/img/assets/social/icon-twitter.png">
+			            </p>
+			            <p class="shares">0</p>
+			        </div>
+			    </a>
 
-    <a href="https://www.facebook.com/sharer/sharer.php?u=http://blog.studioncreations.com/web-design/thoughts-on-the-lemon-peel-facial-logo">
-        <div class="share-button" id="facebook" data-share-url="http://blog.studioncreations.com/web-design/thoughts-on-the-lemon-peel-facial-logo">
-            <p class="icon">
-                <img src="/img/assets/social/icon-facebook.png">
-            </p>
-            <p class="shares">0</p>
-        </div>
-    </a>
+			    <a id="facebook-share" href="https://www.facebook.com/sharer/sharer.php?u=http://blog.studioncreations.com/web-design/thoughts-on-the-lemon-peel-facial-logo">
+			        <div class="share-button" id="facebook" data-share-url="http://blog.studioncreations.com/web-design/thoughts-on-the-lemon-peel-facial-logo">
+			            <p class="icon">
+			                <img src="/img/assets/social/facebook@2x.png">
+			            </p>
+			            <p class="shares">0</p>
+			        </div>
+			    </a>
 
-    <a data-pin-do="buttonBookmark" data-pin-count="above" href="https://www.pinterest.com/pin/create/button/">
-        <img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" />
-    </a>
-</div>
-
-
-
+				<a data-pin-do="buttonBookmark" id="pinterest-share" data-pin-count="above" data-pin-custom="true" href="https://www.pinterest.com/pin/create/button/">
+					<img src="/img/assets/social/pinterest@2x.png" alt="">
+				</a>
+			</div>
 		</footer>
 	</article>
 	<aside>
@@ -165,16 +162,6 @@
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
 <script src="<?php autoVer('/js/nav-min.js'); ?>"></script>
 <script src="<?php autoVer('/js/article-scripts-min.js'); ?>"></script>
-<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
-<script src="/js/custom-pinterest-min.js"></script>
-
-<!--<script>
-	(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-	function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-	e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-	e.src='https://www.google-analytics.com/analytics.js';
-	r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-	ga('create','UA-55459011-8','auto');ga('send','pageview');
-</script>-->
+<script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script>
 </body>
 </html>

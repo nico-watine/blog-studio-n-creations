@@ -18,5 +18,6 @@
 
 {% include blocks/footer.html %}
 {% include components/scripts/scripts.php %}
+{% include components/scripts/google-tracking.php %}
 </body>
 </html>

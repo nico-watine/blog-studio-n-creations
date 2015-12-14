@@ -1,34 +1,23 @@
 .row#get-social {
-    height: em(80);
+    height: em(86);
     margin-bottom: em(18);
 
     a {
         text-decoration: none;
+        width: rem(80);
+        text-align: center;
+
+        img {
+            width: rem(25);
+            height: rem(25);
+        }
     }
-}
-
-.share-button-wrapper {
-    // height: rem(80);
-    // text-align:center;
-}
-
-.share-button-wrapper a{
-    // text-decoration: none;
-}
-
-.share-button-container{
-    // text-align: center;
-    // margin: 20px 0;
-    // padding: 10px 0;
-    // border-top: solid 1px #e4e4e4;
-    // border-bottom: solid 1px #e4e4e4;
 }
 
 .share-button {
     width: rem(80);
     height: rem(55);
     margin-bottom: 0;
-    display: inline-block;
 
     transition: all 150ms;
     -webkit-transition: all 150ms;
@@ -44,7 +33,6 @@
     transition: opacity 150ms;
     -webkit-transition: opacity 150ms;
     color: #fff;
-    text-align: center;
     margin-top: rem(7);
 }
 
@@ -52,29 +40,36 @@
     opacity: 1;
 }
 
-.share-button p {
+.share-button .icon {
     margin: 0;
-    padding: 0;
+    padding: rem(13) 0 0;
 }
 
-.share-button p.icon {
-    text-align: center;
-    padding-top: rem(13);
-
-    img {
-        width: rem(24);
-        height: rem(24);
-    }
+.share-button#facebook {
+    background-color: #435D96;
 }
 
 .share-button#twitter {
     background-color: #5BC2F0;
 }
 
-.share-button#pinterest {
-    background-color: red;
+a#facebook-share,
+a#twitter-share {
+    float: left;
+    margin-right: rem(12);
 }
 
-.share-button#facebook {
-    background-color: #435D96;
+a#pinterest-share {
+    background-color: #BE091C;
+    height: rem(55);
+    float: left;
+    padding-top: rem(14);
+    margin-bottom: 0;
+
+    &:hover {
+        cursor: pointer;
+        cursor: hand;
+    }
 }
+
+

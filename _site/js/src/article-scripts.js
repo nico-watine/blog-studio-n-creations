@@ -1,7 +1,6 @@
 var StaticShareButtons = {
     twitterButton: document.querySelector('.share-button#twitter'),
     facebookButton: document.querySelector('.share-button#facebook'),
-    pinterestButton: document.querySelector('.share-button#pinterest'),
 
     init: function () {
         this.injectScript('https://urls.api.twitter.com/1/urls/count.json?url=' +

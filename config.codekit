@@ -428,24 +428,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_layouts\/category\/projects.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_layouts\/category\/projects.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_layouts\/category\/social.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_layouts\/category\/social.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_layouts\/category\/web-design.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1275,6 +1257,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/img\/assets\/social\/facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1003,
+		"inputAbbreviatedPath": "\/_site\/img\/assets\/social\/facebook.png",
+		"outputAbbreviatedPath": "\/_site\/img\/assets\/social\/facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/assets\/social\/facebook@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1134,
+		"inputAbbreviatedPath": "\/_site\/img\/assets\/social\/facebook@2x.png",
+		"outputAbbreviatedPath": "\/_site\/img\/assets\/social\/facebook@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/assets\/social\/icon-facebook.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1304,6 +1308,28 @@
 		"initialSize": 287,
 		"inputAbbreviatedPath": "\/_site\/img\/assets\/social\/icon-twitter.png",
 		"outputAbbreviatedPath": "\/_site\/img\/assets\/social\/icon-twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/assets\/social\/pinterest.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1438,
+		"inputAbbreviatedPath": "\/_site\/img\/assets\/social\/pinterest.png",
+		"outputAbbreviatedPath": "\/_site\/img\/assets\/social\/pinterest.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/assets\/social\/pinterest@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2151,
+		"inputAbbreviatedPath": "\/_site\/img\/assets\/social\/pinterest@2x.png",
+		"outputAbbreviatedPath": "\/_site\/img\/assets\/social\/pinterest@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2054,6 +2080,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/js\/article-scripts-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/article-scripts-min.js",
+		"outputAbbreviatedPath": "\/_site\/article-scripts-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/_site\/js\/custom-pinterest-min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -2093,6 +2130,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/js\/nav-min.js",
 		"outputAbbreviatedPath": "\/_site\/nav-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/src\/article-scripts.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/src\/article-scripts.js",
+		"outputAbbreviatedPath": "\/_site\/js\/article-scripts-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3275,6 +3323,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/assets\/social\/facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1003,
+		"inputAbbreviatedPath": "\/img\/assets\/social\/facebook.png",
+		"outputAbbreviatedPath": "\/img\/assets\/social\/facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/social\/facebook@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1134,
+		"inputAbbreviatedPath": "\/img\/assets\/social\/facebook@2x.png",
+		"outputAbbreviatedPath": "\/img\/assets\/social\/facebook@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/assets\/social\/icon-facebook.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3304,6 +3374,28 @@
 		"initialSize": 287,
 		"inputAbbreviatedPath": "\/img\/assets\/social\/icon-twitter.png",
 		"outputAbbreviatedPath": "\/img\/assets\/social\/icon-twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/social\/pinterest.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1438,
+		"inputAbbreviatedPath": "\/img\/assets\/social\/pinterest.png",
+		"outputAbbreviatedPath": "\/img\/assets\/social\/pinterest.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/social\/pinterest@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2151,
+		"inputAbbreviatedPath": "\/img\/assets\/social\/pinterest@2x.png",
+		"outputAbbreviatedPath": "\/img\/assets\/social\/pinterest@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
