@@ -73,6 +73,25 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/some-mockups-of-the-finished-jardin-de-france-tx-website"><span itemprop="name">Some Mockups of the finished Jardin de France Website</span></a></h1>
+		<h2 itemprop="description" class="subtitle">Here is a collection of mockups of the completed jardindefrancetx.com site rendered on various devices</h2>
+		<time datetime="2015-12-15T08:00:00-06:00">15 December 2015</time>
+		<meta itemprop="datePublished" content="2015-12-15T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="/web-design/some-mockups-of-the-finished-jardin-de-france-tx-website" class="read-more blue floating">Read More</a>
+	</header>
+	<section id="hero-image">
+		<a itemprop="mainEntityOfPage" href="/web-design/some-mockups-of-the-finished-jardin-de-france-tx-website"> 
+			<img itemprop="image" src="/img/post-attachments/projects/jdf/12-15/link-banner.jpg" srcset="/img/post-attachments/projects/jdf/12-15/link-banner@2x.jpg 2x" alt="A closeup of the Jarin de France website on an iPhone">
+		</a>
+	</section>
+	<footer id="post-taxonomy">
+		<h4 id="category">Category | <a class="simple" href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
+		<h4 id="tags">Tags | <a class="simple" href="/tags/jardin-de-france"><span itemprop="keywords">Jardin de France</span></a></h4>
+	</footer>
+</article>
+		
+			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
+	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/thoughts-on-the-lemon-peel-facial-logo"><span itemprop="name">Thoughts on the LemonPeelFacial.com Logo</span></a></h1>
 		<h2 itemprop="description" class="subtitle">We had some thoughts of the new LemonPeelFacial.com logo</h2>
 		<time datetime="2015-12-11T08:00:00-06:00">11 December 2015</time>
