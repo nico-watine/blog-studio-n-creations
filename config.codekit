@@ -1627,6 +1627,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/post-attachments\/projects\/jdf\/12-15\/laptop-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120816,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/12-15\/laptop-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/12-15\/laptop-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/jdf\/12-15\/laptop-1@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 206804,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/12-15\/laptop-1@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/12-15\/laptop-1@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/post-attachments\/projects\/jdf\/12-15\/link-banner.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3727,6 +3749,28 @@
 		"initialSize": 269444,
 		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/houston-uncovered\/4-18\/post-mockup@2x.jpg",
 		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/houston-uncovered\/4-18\/post-mockup@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/jdf\/12-15\/laptop-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120816,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/12-15\/laptop-1.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/12-15\/laptop-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/jdf\/12-15\/laptop-1@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 206804,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/12-15\/laptop-1@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/12-15\/laptop-1@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
