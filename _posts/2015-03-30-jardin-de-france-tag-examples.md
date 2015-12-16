@@ -18,7 +18,7 @@ article-hero-alt: A close-up of a Jardin de France tag
 article-tag: Jardin de France
 article-tag-link: jardin-de-france
 og-type: article
-og-url: /print-work/jardin-de-france-tag-examples
+og-url: print-work/jardin-de-france-tag-examples
 og-title: Examples of the Jardin de France tags
 og-image: /img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg
 og-description: The tags have been attached to the company's latest shipment of antiques

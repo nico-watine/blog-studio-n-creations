@@ -18,7 +18,7 @@ article-hero-alt: A teaser mockup of a potential home page for lisaesposito.com
 article-tag: Dr. Lisa Esposito
 article-tag-link: lisa-esposito
 og-type: article
-og-url: /web-design/new-lisa-esposito-project
+og-url: web-design/new-lisa-esposito-project
 og-title: Working With Artist Dr. Lisa Esposito
 og-image: /img/post-attachments/projects/lisa-esposito/3-13/link-banner@2x.jpg
 og-description: We are in the process of designing a new website for artist Dr. Lisa esposito

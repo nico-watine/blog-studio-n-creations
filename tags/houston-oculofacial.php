@@ -12,7 +12,7 @@
 	<link type="text/plain" rel="author" href="/humans.txt">
 
 	<meta property="og:type" content="" />
-	<meta property="og:url" content="http://blog.studioncreations.comhttp://blog.studioncreations.com/tags/houston-oculofacial-plastic-surgery" />
+	<meta property="og:url" content="http://blog.studioncreations.com/tags/houston-oculofacial-plastic-surgery" />
 	<meta property="og:title" content="Houston Oculofacial Plastic Surgery Tag | Studio N Creations Blog" />
 	<meta property="og:image" content="http://cdn.studioncreations.com/blog" />
 	<meta property="og:description" content="The Studio N Creations blog roll containing all posts tagged under 'Houston Oculofacial Plastic Surgery'" />

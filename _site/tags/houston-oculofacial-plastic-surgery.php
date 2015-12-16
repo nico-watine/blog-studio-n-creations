@@ -5,7 +5,7 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<!--<link rel="preconnect" href="http://cdn.studioncreations.com">-->
+	<link rel="preconnect" href="http://cdn.studioncreations.com">
 	<title>Houston Oculofacial Plastic Surgery Tags | Studio N Creations Blog</title>
 	<meta name="description" content="The Studio N Creations blog roll containing all posts tagged under 'Houston Oculofacial'" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,17 +14,17 @@
 	<meta property="og:type" content="" />
 	<meta property="og:url" content="http://blog.studioncreations.com/tags/houston-oculofacial-plastic-surgery" />
 	<meta property="og:title" content="Houston Oculofacial Plastic Surgery Tag | Studio N Creations Blog" />
-	<meta property="og:image" content="" />
+	<meta property="og:image" content="http://cdn.studioncreations.com/blog" />
 	<meta property="og:description" content="The Studio N Creations blog roll containing all posts tagged under 'Houston Oculofacial Plastic Surgery'" />
 	
 	<link rel="stylesheet" href="http://cdn.studioncreations.com<?php autoVer('/css/core.css'); ?>" />
-	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
+	<link rel="stylesheet" href="http://cdn.studioncreations.com/blog<?php autoVer('/css/blog.css'); ?>" />
 
-	<script src="/js/modernizr-min.js"></script>
+	<script src="http://cdn.studioncreations.com/js/modernizr-min.js"></script>
 
 	<!--[if lt IE 9]>
-		<link rel="stylesheet" href="/css/ie.css" />
-		<script src="/js/ie-min.js"></script>
+		<link rel="stylesheet" href="http://cdn.studioncreations.com/blog/css/ie.css" />
+		<script src="http://cdn.studioncreations.com/js/ie-min.js"></script>
 	<![endif]-->
 </head>
 
@@ -81,7 +81,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/print-work/houston-oculofacial-plastic-surgery-spring-postcard"> 
-			<img itemprop="image" src="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" srcset="/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg 2x" alt="A closeup of the new Houston Oculofacial spring postcards">
+			<img itemprop="image" src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" srcset="http://cdn.studioncreations.com/blog/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg 2x" alt="A closeup of the new Houston Oculofacial spring postcards">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -128,14 +128,14 @@
 </footer>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
-<script src="<?php autoVer('/js/nav-min.js'); ?>"></script>
-<!--<script>
+<script src="http://cdn.studioncreations.com<?php autoVer('/js/nav-min.js'); ?>"></script>
+<script>
 	(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
 	function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
 	e=o.createElement(i);r=o.getElementsByTagName(i)[0];
 	e.src='https://www.google-analytics.com/analytics.js';
 	r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
 	ga('create','UA-55459011-8','auto');ga('send','pageview');
-</script>-->
+</script>
 </body>
 </html>

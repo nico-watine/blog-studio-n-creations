@@ -18,7 +18,7 @@ article-hero-alt: A mockup of a new post on HoustonUncovered.com
 article-tag: Houston Uncovered
 article-tag-link: houston-uncovered
 og-type: article
-og-url: /web-design/houston-uncovered-post
+og-url: web-design/houston-uncovered-post
 og-title: A new HoustonUncovered.com Post
 og-image: /img/post-attachments/projects/houston-uncovered/4-18/link-banner@2x.jpg
 og-description: Here is a page clipping from the Houston photography blog

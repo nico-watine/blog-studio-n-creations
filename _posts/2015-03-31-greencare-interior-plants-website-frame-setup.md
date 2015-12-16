@@ -18,7 +18,7 @@ article-hero-alt:
 article-tag: Greencare Interior Plants
 article-tag-link: greencare-interior-plants
 og-type: article
-og-url: /web-design/greencare-interior-plants-website-frame-setup
+og-url: web-design/greencare-interior-plants-website-frame-setup
 og-title: Greencare Interior Plants Website Frame Setup
 og-image: /img/post-attachments/projects/gctx/3-31/link-banner@2x.jpg
 og-description: The new GreencareTX.com website has a responsive site structure

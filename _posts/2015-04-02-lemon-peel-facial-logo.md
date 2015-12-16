@@ -18,7 +18,7 @@ article-hero-alt: A detail shot of the new Lemon Peel Facial logo
 article-tag: Lemon Peel Facial
 article-tag-link: lemon-peel-facial
 og-type: article
-og-url: /web-design/lemon-peel-facial-logo
+og-url: web-design/lemon-peel-facial-logo
 og-title: New custom logo for Lemon Peel Facial
 og-image: /img/post-attachments/projects/lpf/4-2/link-banner@2x.jpg
 og-description: We recently designed a new logo for Houston-based esthetician Michelle Wright

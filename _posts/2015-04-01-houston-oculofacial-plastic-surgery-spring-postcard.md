@@ -18,7 +18,7 @@ article-hero-alt: A closeup of the new Houston Oculofacial spring postcards
 article-tag: Houston Oculofacial Plastic Surgery
 article-tag-link: houston-oculofacial-plastic-surgery
 og-type: article
-og-url: /print-work/houston-oculofacial-plastic-surgery-spring-postcard
+og-url: print-work/houston-oculofacial-plastic-surgery-spring-postcard
 og-title: New promotional spring-time postcards for Houston Oculofacial Plastic Surgery
 og-image: /img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg
 og-description: These promotional postcards were recently designed for Houston Oculofacial Plastic Surgery

@@ -7,7 +7,7 @@ slug: web-design
 page-type: Category
 visible-title: Web Design
 og-type: 
-og-url: http://blog.studioncreations.com/web-design/
+og-url: web-design/
 og-title: Web Design Posts Category | Studio N Creations Blog
 og-image: 
 og-description: The Studio N Creations blog roll containing all web design-related articles

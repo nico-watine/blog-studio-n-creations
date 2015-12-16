@@ -18,7 +18,7 @@ article-hero-alt: An iPad mockup of the new LisaEsposito.com Home Page
 article-tag: Dr. Lisa Esposito
 article-tag-link: lisa-esposito
 og-type: article
-og-url: /web-design/dr-lisa-esposito-project-complete
+og-url: web-design/dr-lisa-esposito-project-complete
 og-title: The website redesign for Dr. Lisa Esposito is complete
 og-image: /img/post-attachments/projects/lisa-esposito/3-27/post-img@2x.jpg
 og-description: We've finished the project for this Boston-area artist

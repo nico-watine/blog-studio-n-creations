@@ -7,7 +7,7 @@ slug: web-development
 page-type: Category
 visible-title: Web Dev
 og-type: 
-og-url: http://blog.studioncreations.com/web-development/
+og-url: web-development/
 og-title: Web Development Posts Category | Studio N Creations Blog
 og-image: 
 og-description: The Studio N Creations blog roll containing all web development-related articles

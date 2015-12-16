@@ -18,7 +18,7 @@ article-hero-alt: A photo of a new Jardin de France price tag
 article-tag: Jardin de France
 article-tag-link: jardin-de-france
 og-type: article
-og-url: /print-work/jardin-de-france-branding
+og-url: print-work/jardin-de-france-branding
 og-title: New Print Material for 'Jardin de France'
 og-image: /img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg
 og-description: Studio N Creations is creating a brand for Jardin de France

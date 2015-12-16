@@ -6,7 +6,7 @@ slug: houston-oculofacial-plastic-surgery
 page-type: Tagged
 visible-title: Houston Oculofacial Plastic Surgery
 og-type: 
-og-url: http://blog.studioncreations.com/tags/houston-oculofacial-plastic-surgery
+og-url: tags/houston-oculofacial-plastic-surgery
 og-title: Houston Oculofacial Plastic Surgery Tag | Studio N Creations Blog
 og-image: 
 og-description: The Studio N Creations blog roll containing all posts tagged under 'Houston Oculofacial Plastic Surgery'

@@ -18,7 +18,7 @@ article-hero-alt: A detail shot of GAget Analytics in the 'Notification Panel'
 article-tag: Apps
 article-tag-link: apps 
 og-type: article
-og-url: /web-development/macintosh-os-x-gaget-analytics-app
+og-url: web-development/macintosh-os-x-gaget-analytics-app
 og-title: The new OS X GAget Analytics App
 og-image: /img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg
 og-description: This is an excellent app for monitoring website traffic on your Macintosh
