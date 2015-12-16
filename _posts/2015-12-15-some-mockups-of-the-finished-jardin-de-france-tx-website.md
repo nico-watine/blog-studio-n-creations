@@ -5,7 +5,7 @@ page-description: Mockups of the completed Jardin de France website rendered on 
 slug: some-mockups-of-the-finished-jardin-de-france-tx-website
 category: web-design
 tags: jardin-de-france
-article-title: Some Mockups of the finished Jardin de France Website
+article-title: Some Mockups of the finished Jardin de France TX Website
 article-subtitle: Here is a collection of mockups of the completed jardindefrancetx.com site rendered on various devices
 article-datetime: 2015-12-15
 article-datepublished: 2015-12-15
@@ -19,7 +19,7 @@ article-tag: Jardin de France
 article-tag-link: jardin-de-france
 og-type: article
 og-url: web-design/some-mockups-of-the-finished-jardin-de-france-tx-website
-og-title: Some Mockups of the finished Jardin de France Website
+og-title: Some Mockups of the finished Jardin de France TX Website
 og-image: /img/post-attachments/projects/jdf/12-15/link-banner.jpg
 og-description: Here is a collection of mockups of the completed jardindefrancetx.com site rendered on various devices
 ---
@@ -28,12 +28,15 @@ og-description: Here is a collection of mockups of the completed jardindefrancet
 	<p>We have put together a collection of cool mockups that display the website on different devices and in different settings. You can see more of the album on our Facebook page.</p>
 </div>
 <div class="row margin-bottom">
-	<img src="/img/post-attachments/projects/jdf/12-15/laptop-1.jpg" srcset="/img/post-attachments/projects/jdf/12-15/laptop-1@2x.jpg 2x" alt="The JardinDeFranceTX.com home page, viewed on a laptop" class="black-border margin-bottom">
+	<img src="{{ site.blog_cdn }}/img/post-attachments/projects/jdf/12-15/laptop-1.jpg" srcset="{{ site.blog_cdn }}/img/post-attachments/projects/jdf/12-15/laptop-1@2x.jpg 2x" alt="The JardinDeFranceTX.com home page, viewed on a laptop" class="black-border margin-bottom">
 	<p>Did we mention it has a full screen video background?</p>
 	<figure style="max-width: 38.125em; width: 100%; margin: 0 auto;">
-		<img src="/img/post-attachments/projects/jdf/12-15/ipad-vid.gif" alt="The JardindeFranceTX.com website on an iPad">
+		<img src="{{ site.blog_cdn }}/img/post-attachments/projects/jdf/12-15/ipad-vid.gif" alt="The JardindeFranceTX.com website on an iPad">
 		<figcaption><a href="http://jardindefrancetx.com/" target="_blank" class="simple">JardinDeFranceTX.com</a> on an iPad with a background video</figcaption>
 	</figure>
+</div>
+<div class="row margin-bottom">
+	<img src="{{ site.blog_cdn }}/img/post-attachments/projects/jdf/12-15/phone-1.jpg" srcset="/img/post-attachments/projects/jdf/12-15/phone-1@2x.jpg 2x" alt="An angle shot of the Jardin de France Houston website on an iPhone" class="black-border">
 </div>
 <div class="row margin-bottom">
 	<p class="margin-bottom">We created a featured profile page for this project in our portfolio. You can read up on the details of the project at the link below.

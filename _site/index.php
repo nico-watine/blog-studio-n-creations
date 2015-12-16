@@ -73,7 +73,7 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/some-mockups-of-the-finished-jardin-de-france-tx-website"><span itemprop="name">Some Mockups of the finished Jardin de France Website</span></a></h1>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/some-mockups-of-the-finished-jardin-de-france-tx-website"><span itemprop="name">Some Mockups of the finished Jardin de France TX Website</span></a></h1>
 		<h2 itemprop="description" class="subtitle">Here is a collection of mockups of the completed jardindefrancetx.com site rendered on various devices</h2>
 		<time datetime="2015-12-15T08:00:00-06:00">15 December 2015</time>
 		<meta itemprop="datePublished" content="2015-12-15T08:00:00-06:00"/>
