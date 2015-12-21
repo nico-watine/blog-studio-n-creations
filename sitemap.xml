@@ -26,12 +26,27 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://blog.studioncreations.com/web-design/updating-jardin-de-france-brand</loc>
+  <loc>http://blog.studioncreations.com/web-design/mockups-of-the-finished-jardin-de-france-tx-website</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://blog.studioncreations.com/tags/jardin-de-france</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://blog.studioncreations.com/web-design/thoughts-on-the-lemon-peel-facial-logo</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://blog.studioncreations.com/tags/lemon-peel-facial</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://blog.studioncreations.com/web-design/updating-jardin-de-france-brand</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
@@ -57,11 +72,6 @@
 </url>
 <url>
   <loc>http://blog.studioncreations.com/web-design/lemon-peel-facial-logo</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://blog.studioncreations.com/tags/lemon-peel-facial</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
@@ -111,7 +121,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://blog.studioncreations.com/web-design/jardin-de-france-branding</loc>
+  <loc>http://blog.studioncreations.com/print-work/jardin-de-france-branding</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
@@ -119,5 +129,10 @@
   <loc>http://blog.studioncreations.com/web-design/new-lisa-esposito-project</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://blog.studioncreations.com/web-design/jardin-de-france-branding</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
 </url>
 </urlset>

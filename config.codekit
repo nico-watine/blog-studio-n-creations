@@ -104,6 +104,27 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/_drafts\/2015-12-15-some-mockups-of-the-finished-jardin-de-france-tx-website.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_drafts\/2015-12-15-some-mockups-of-the-finished-jardin-de-france-tx-website.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/_drafts\/2015-12-15-some-mockups-of-the-finished-jardin-de-france-tx-website.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
 	"\/_drafts\/a-look-back-at-last-years-favicons.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 0,
@@ -800,7 +821,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/_posts\/2015-12-15-some-mockups-of-the-finished-jardin-de-france-tx-website.md": {
+	"\/_posts\/2015-12-16-mockups-of-the-finished-jardin-de-france-tx-website.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 0,
 		"enableLabels": 1,
@@ -809,9 +830,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/2015-12-15-some-mockups-of-the-finished-jardin-de-france-tx-website.md",
+		"inputAbbreviatedPath": "\/_posts\/2015-12-16-mockups-of-the-finished-jardin-de-france-tx-website.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/_posts\/2015-12-15-some-mockups-of-the-finished-jardin-de-france-tx-website.html",
+		"outputAbbreviatedPath": "\/_posts\/2015-12-16-mockups-of-the-finished-jardin-de-france-tx-website.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -1693,6 +1714,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/post-attachments\/projects\/jdf\/12-16\/laptop-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120816,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/12-16\/laptop-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/12-16\/laptop-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/jdf\/12-16\/laptop-1@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 206804,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/12-16\/laptop-1@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/12-16\/laptop-1@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/jdf\/12-16\/link-banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75729,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/12-16\/link-banner.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/12-16\/link-banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/jdf\/12-16\/link-banner@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140397,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/12-16\/link-banner@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/12-16\/link-banner@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/jdf\/12-16\/phone-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79097,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/12-16\/phone-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/12-16\/phone-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/jdf\/12-16\/phone-1@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 179978,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/12-16\/phone-1@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/jdf\/12-16\/phone-1@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/post-attachments\/projects\/jdf\/3-17\/jardin-de-france-hero.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2533,20 +2620,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/web-design\/mockups-of-the-finished-jardin-de-france-tx-website.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/web-design\/mockups-of-the-finished-jardin-de-france-tx-website.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/web-design\/new-lisa-esposito-project.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/web-design\/new-lisa-esposito-project.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/web-design\/some-mockups-of-the-finished-jardin-de-france-tx-website.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/web-design\/some-mockups-of-the-finished-jardin-de-france-tx-website.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3846,6 +3933,72 @@
 		"initialSize": 179978,
 		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/12-15\/phone-1@2x.jpg",
 		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/12-15\/phone-1@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/jdf\/12-16\/laptop-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120816,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/12-16\/laptop-1.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/12-16\/laptop-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/jdf\/12-16\/laptop-1@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 206804,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/12-16\/laptop-1@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/12-16\/laptop-1@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/jdf\/12-16\/link-banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75729,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/12-16\/link-banner.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/12-16\/link-banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/jdf\/12-16\/link-banner@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140397,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/12-16\/link-banner@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/12-16\/link-banner@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/jdf\/12-16\/phone-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79097,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/12-16\/phone-1.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/12-16\/phone-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/jdf\/12-16\/phone-1@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 179978,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/12-16\/phone-1@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/jdf\/12-16\/phone-1@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

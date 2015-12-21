@@ -1,12 +1,12 @@
 ---
 layout: post/standard-post
-page-title: Jardin de France Website Mockups
+page-title: Some mockups of the finished Jardin de France TX Website
 page-description: Mockups of the completed Jardin de France website rendered on various devices
 slug: some-mockups-of-the-finished-jardin-de-france-tx-website
 category: web-design
 tags: jardin-de-france
-article-title: Some Mockups of the finished Jardin de France TX Website
-article-subtitle: Here is a collection of mockups of the completed jardindefrancetx.com site rendered on various devices
+article-title: Some mockups of the finished Jardin de France TX Website
+article-subtitle: Mockups of the completed Jardin de France website rendered on various devices
 article-datetime: 2015-12-15
 article-datepublished: 2015-12-15
 article-category: Web Design
@@ -19,9 +19,9 @@ article-tag: Jardin de France
 article-tag-link: jardin-de-france
 og-type: article
 og-url: web-design/some-mockups-of-the-finished-jardin-de-france-tx-website
-og-title: Some Mockups of the finished Jardin de France TX Website
+og-title: Some mockups of the finished Jardin de France TX Website
 og-image: /img/post-attachments/projects/jdf/12-15/link-banner.jpg
-og-description: Here is a collection of mockups of the completed jardindefrancetx.com site rendered on various devices
+og-description: Mockups of the completed Jardin de France website rendered on various devices
 ---
 <div class="row margin-bottom">
 	<h3 class="margin-bottom">The <a href="http://jardindefrancetx.com/" target="_blank" class="simple">Jardin de France TX</a> website has been completed for some time now, but we never presented the finished site in a post.</h3>

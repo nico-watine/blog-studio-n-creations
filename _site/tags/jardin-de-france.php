@@ -5,7 +5,7 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<link rel="preconnect" href="http://cdn.studioncreations.com">
+	<!--<link rel="preconnect" href="http://cdn.studioncreations.com">-->
 	<title>Jardin de France Tags | Studio N Creations Blog</title>
 	<meta name="description" content="The Studio N Creations blog roll containing all posts tagged under 'Jardin de France'" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,17 +14,17 @@
 	<meta property="og:type" content="" />
 	<meta property="og:url" content="http://blog.studioncreations.com/tags/jardin-de-france" />
 	<meta property="og:title" content="Jardin de France Tag | Studio N Creations Blog" />
-	<meta property="og:image" content="http://cdn.studioncreations.com/blog" />
+	<meta property="og:image" content="" />
 	<meta property="og:description" content="The Studio N Creations blog roll containing all posts tagged under 'Jardin de France'" />
 	
 	<link rel="stylesheet" href="http://cdn.studioncreations.com<?php autoVer('/css/core.css'); ?>" />
-	<link rel="stylesheet" href="http://cdn.studioncreations.com/blog<?php autoVer('/css/blog.css'); ?>" />
+	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
 
-	<script src="http://cdn.studioncreations.com/js/modernizr-min.js"></script>
+	<script src="/js/modernizr-min.js"></script>
 
 	<!--[if lt IE 9]>
-		<link rel="stylesheet" href="http://cdn.studioncreations.com/blog/css/ie.css" />
-		<script src="http://cdn.studioncreations.com/js/ie-min.js"></script>
+		<link rel="stylesheet" href="/css/ie.css" />
+		<script src="/js/ie-min.js"></script>
 	<![endif]-->
 </head>
 
@@ -73,15 +73,15 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/some-mockups-of-the-finished-jardin-de-france-tx-website"><span itemprop="name">Some Mockups of the finished Jardin de France TX Website</span></a></h1>
-		<h2 itemprop="description" class="subtitle">Here is a collection of mockups of the completed jardindefrancetx.com site rendered on various devices</h2>
-		<time datetime="2015-12-15T08:00:00-06:00">15 December 2015</time>
-		<meta itemprop="datePublished" content="2015-12-15T08:00:00-06:00"/>
-		<a itemprop="mainEntityOfPage" href="/web-design/some-mockups-of-the-finished-jardin-de-france-tx-website" class="read-more blue floating">Read More</a>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/mockups-of-the-finished-jardin-de-france-tx-website"><span itemprop="name">Some mockups of the finished Jardin de France TX Website</span></a></h1>
+		<h2 itemprop="description" class="subtitle">These are mockups of the completed Jardin de France website rendered on various devices</h2>
+		<time datetime="2015-12-16T08:00:00-06:00">16 December 2015</time>
+		<meta itemprop="datePublished" content="2015-12-16T08:00:00-06:00"/>
+		<a itemprop="mainEntityOfPage" href="/web-design/mockups-of-the-finished-jardin-de-france-tx-website" class="read-more blue floating">Read More</a>
 	</header>
 	<section id="hero-image">
-		<a itemprop="mainEntityOfPage" href="/web-design/some-mockups-of-the-finished-jardin-de-france-tx-website"> 
-			<img itemprop="image" src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/12-15/link-banner.jpg" srcset="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/12-15/link-banner@2x.jpg 2x" alt="A closeup of the Jarin de France website on an iPhone">
+		<a itemprop="mainEntityOfPage" href="/web-design/mockups-of-the-finished-jardin-de-france-tx-website"> 
+			<img itemprop="image" src="/img/post-attachments/projects/jdf/12-16/link-banner.jpg" srcset="/img/post-attachments/projects/jdf/12-16/link-banner@2x.jpg 2x" alt="A closeup of the Jarin de France website on an iPhone">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -100,7 +100,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand"> 
-			<img itemprop="image" src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" srcset="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/6-03/jdf-facebook.png 2x" alt="The new Jardin de France Facebook cover">
+			<img itemprop="image" src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" srcset="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png 2x" alt="The new Jardin de France Facebook cover">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -119,7 +119,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples"> 
-			<img itemprop="image" src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" srcset="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg 2x" alt="A close-up of a Jardin de France tag">
+			<img itemprop="image" src="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" srcset="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg 2x" alt="A close-up of a Jardin de France tag">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -138,7 +138,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-branding"> 
-			<img itemprop="image" src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/3-17/jardin-de-france-hero.jpg" srcset="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/3-17/jardin-de-france-hero@2x.jpg 2x" alt="A photo of a new Jardin de France price tag">
+			<img itemprop="image" src="/img/post-attachments/projects/jdf/3-17/jardin-de-france-hero.jpg" srcset="/img/post-attachments/projects/jdf/3-17/jardin-de-france-hero@2x.jpg 2x" alt="A photo of a new Jardin de France price tag">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -185,14 +185,14 @@
 </footer>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
-<script src="http://cdn.studioncreations.com<?php autoVer('/js/nav-min.js'); ?>"></script>
-<script>
+<script src="<?php autoVer('/js/nav-min.js'); ?>"></script>
+<!--<script>
 	(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
 	function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
 	e=o.createElement(i);r=o.getElementsByTagName(i)[0];
 	e.src='https://www.google-analytics.com/analytics.js';
 	r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
 	ga('create','UA-55459011-8','auto');ga('send','pageview');
-</script>
+</script>-->
 </body>
 </html>
