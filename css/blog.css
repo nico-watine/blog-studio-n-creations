@@ -179,6 +179,8 @@ a#pinterest-share:hover { cursor: pointer; cursor: hand; }
 .standard-post main article #article-body img.article-hero { border: 0.0625em solid #333; margin-bottom: 1.875em; }
 .standard-post main article #article-body p { font-size: 1.25rem; }
 .standard-post main article #article-body h4#contact-c2a { margin-top: 1.75rem; }
+.standard-post main article #article-body h4#contact-c2a a span { text-decoration: underline; }
+.standard-post main article #article-body h4#contact-c2a a:hover span { text-decoration: none; }
 .standard-post main article footer#article-footer { display: block; text-align: left; }
 .standard-post main article footer#article-footer::after { clear: both; content: ""; display: table; }
 .standard-post main article footer#article-footer #post-tags { margin-bottom: 1.125rem; }

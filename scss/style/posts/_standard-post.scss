@@ -57,6 +57,17 @@ $max-500: "only screen and (max-width : 31.250em)";
 		
 				h4#contact-c2a {
 					margin-top: rem(28);
+
+					a {
+						span {
+							text-decoration: underline;
+						}
+						&:hover {
+							span {
+								text-decoration: none;
+							}
+						}
+					}
 				}
 			}
 
