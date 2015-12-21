@@ -54,6 +54,10 @@ $max-500: "only screen and (max-width : 31.250em)";
 				p {
 					font-size: rem(20);
 				}
+		
+				h4#contact-c2a {
+					margin-top: rem(28);
+				}
 			}
 
 			footer#article-footer {
@@ -138,6 +142,11 @@ $max-500: "only screen and (max-width : 31.250em)";
 
 					p {
 						font-size: rem(18);
+					}
+
+					h4#contact-c2a {
+						font-size: rem(20);
+						line-height: rem(26);
 					}
 				}
 			}

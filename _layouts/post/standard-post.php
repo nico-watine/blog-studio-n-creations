@@ -15,6 +15,7 @@
 		<section itemprop="articleBody" id="article-body">
 			<img itemprop="image" class="article-hero" src="{{ site.blog_cdn }}{{ page.article-hero-img }}" srcset="{{ site.blog_cdn }}{{ page.article-hero-img-retina }} 2x" alt="{{ page.article-hero-alt }}">
 			{{ content }}
+			<h4 id="contact-c2a">If you are interested in having an original website created, contact the <span class="inline">Studio N Creations</span> team and get started today.</h4>
 		</section>
 		<footer id="article-footer">
 			<hr>

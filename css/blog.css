@@ -177,6 +177,7 @@ a#pinterest-share:hover { cursor: pointer; cursor: hand; }
 .standard-post main article #article-body::after { clear: both; content: ""; display: table; }
 .standard-post main article #article-body img.article-hero { border: 0.0625em solid #333; margin-bottom: 1.875em; }
 .standard-post main article #article-body p { font-size: 1.25rem; }
+.standard-post main article #article-body h4#contact-c2a { margin-top: 1.75rem; }
 .standard-post main article footer#article-footer { display: block; text-align: left; }
 .standard-post main article footer#article-footer::after { clear: both; content: ""; display: table; }
 .standard-post main article footer#article-footer #post-tags { margin-bottom: 1.125rem; }
@@ -195,6 +196,7 @@ a#pinterest-share:hover { cursor: pointer; cursor: hand; }
   .standard-post main article header h4, .standard-post main article header time { font-size: 1rem; }
   .standard-post main article #article-body { margin-bottom: 1.25em; }
   .standard-post main article #article-body img.article-hero { margin-bottom: 1.875em; }
-  .standard-post main article #article-body p { font-size: 1.125rem; } }
+  .standard-post main article #article-body p { font-size: 1.125rem; }
+  .standard-post main article #article-body h4#contact-c2a { font-size: 1.25rem; line-height: 1.625rem; } }
 @media only screen and (max-width: 31.25em) { .standard-post main article header h4 { margin-bottom: 0.5rem; } }
 video#shrinking-greencare-browser { max-width: 100%; width: 100%; border: 0.0625em solid #000; }
