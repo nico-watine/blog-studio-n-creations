@@ -1,5 +1,9 @@
+---
+body-class: standard-post
+---
+
 {% include components/head-og.php %}
-<body class="standard-post">
+{% include components/body-tag.html %}
 {% include blocks/top-bar.html %}
 {% include blocks/nav.html %}
 

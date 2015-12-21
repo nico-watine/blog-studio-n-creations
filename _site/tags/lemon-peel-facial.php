@@ -2,7 +2,7 @@
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
-<html class="no-js" lang="en">
+<html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
 <head>
 	<meta charset="utf-8">
 	<!--<link rel="preconnect" href="http://cdn.studioncreations.com">-->
@@ -73,7 +73,7 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/thoughts-on-the-lemon-peel-facial-logo"><span itemprop="name">Thoughts on the LemonPeelFacial.com Logo</span></a></h1>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/thoughts-on-the-lemon-peel-facial-logo"><span itemprop="name">Thoughts on the <span class="inline">LemonPeelFacial</span>.com Logo</span></a></h1>
 		<h2 itemprop="description" class="subtitle">We had some thoughts of the new LemonPeelFacial.com logo</h2>
 		<time datetime="2015-12-11T08:00:00-06:00">11 December 2015</time>
 		<meta itemprop="datePublished" content="2015-12-11T08:00:00-06:00"/>
