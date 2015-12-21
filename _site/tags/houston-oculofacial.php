@@ -10,8 +10,9 @@
 	<meta name="description" content="The Studio N Creations blog roll containing all posts tagged under 'Houston Oculofacial'" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
+	<link rel="canonical" href="http://blog.studioncreations.com/tags/houston-oculofacial-plastic-surgery">
 
-	<meta property="og:type" content="" />
+	<meta property="og:type" content="website" />
 	<meta property="og:url" content="http://blog.studioncreations.com/tags/houston-oculofacial-plastic-surgery" />
 	<meta property="og:title" content="Houston Oculofacial Plastic Surgery Tag | Studio N Creations Blog" />
 	<meta property="og:image" content="http://cdn.studioncreations.com/blog" />
@@ -27,8 +28,7 @@
 		<script src="/js/ie-min.js"></script>
 	<![endif]-->
 </head>
-
-<body class="blog-index">
+<body itemscope itemtype="http://schema.org/WebPage" class="blog-index">
 <header id="site-header">
 	<div class="row" id="nav-bar">
 		<a href="/" class="title" id="index-link"><span id="large">Blog.Studio N Creations</span><span id="mini">BLOG.SNC</span></a>
