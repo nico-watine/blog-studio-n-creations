@@ -27,8 +27,7 @@
 		<script src="/js/ie-min.js"></script>
 	<![endif]-->
 </head>
-
-<body class="blog-index">
+<body itemscope itemtype="http://schema.org/WebPage" class="blog-index">
 <header id="site-header">
 	<div class="row" id="nav-bar">
 		<a href="/" class="title" id="index-link"><span id="large">Blog.Studio N Creations</span><span id="mini">BLOG.SNC</span></a>

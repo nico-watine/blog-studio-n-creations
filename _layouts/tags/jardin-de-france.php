@@ -1,6 +1,9 @@
-{% include components/head-og.php %}
+---
+body-class: blog-index
+---
 
-<body class="blog-index">
+{% include components/head-og.php %}
+{% include components/body-tag.html %}
 {% include blocks/top-bar.html %}
 {% include blocks/nav.html %}
 
