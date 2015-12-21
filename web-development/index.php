@@ -6,7 +6,7 @@ name: web-development
 slug: web-development
 page-type: Category
 visible-title: Web Dev
-og-type: 
+og-type: website
 og-url: web-development/
 og-title: Web Development Posts Category | Studio N Creations Blog
 og-image: 

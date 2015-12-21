@@ -5,7 +5,7 @@ page-description: The Studio N Creations blog roll containing all posts tagged u
 slug: jardin-de-france
 page-type: Tagged
 visible-title: Jardin De France
-og-type: 
+og-type: website
 og-url: tags/jardin-de-france
 og-title: Jardin de France Tag | Studio N Creations Blog
 og-image: 

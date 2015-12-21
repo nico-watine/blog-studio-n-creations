@@ -5,7 +5,7 @@ page-description: The Studio N Creations blog roll containing all posts tagged u
 slug: lemon-peel-facial
 page-type: Tagged
 visible-title: Lemon Peel Facial
-og-type: 
+og-type: website
 og-url: tags/lemon-peel-facial
 og-title: Lemon Peel Facial Tag | Studio N Creations Blog
 og-image: 

@@ -5,7 +5,7 @@ page-description: Keep up with the our latest posts and projects on Studio N Cre
 slug: home
 page-type: Page
 visible-title: Home
-og-type: 
+og-type: website
 og-url:
 og-title: Home Blog Roll | Studio N Creations
 og-image: /img/post-attachments/projects/houston-uncovered/3-18/houston-uncovered-hero.jpg

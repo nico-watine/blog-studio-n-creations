@@ -5,7 +5,7 @@ page-description: The Studio N Creations blog roll containing all posts tagged u
 slug: houston-uncovered
 page-type: Tagged
 visible-title: Houston Uncovered
-og-type: 
+og-type: website
 og-url: tags/houston-uncovered
 og-title: Houston Uncovered Tag | Studio N Creations Blog
 og-image: 

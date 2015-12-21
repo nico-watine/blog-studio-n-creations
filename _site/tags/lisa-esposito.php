@@ -11,7 +11,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 
-	<meta property="og:type" content="" />
+	<meta property="og:type" content="website" />
 	<meta property="og:url" content="http://blog.studioncreations.com/tags/lisa-esposito" />
 	<meta property="og:title" content="Lisa Esposito Tag | Studio N Creations Blog" />
 	<meta property="og:image" content="" />

@@ -5,7 +5,7 @@ page-description: The Studio N Creations blog roll containing all posts tagged u
 slug: greencare-interior-plants
 page-type: Tagged
 visible-title: Greencare Interior Plants
-og-type: 
+og-type: website
 og-url: tags/greencare-interior-plants
 og-title: Greencare Interior Plants Tag | Studio N Creations Blog
 og-image: 

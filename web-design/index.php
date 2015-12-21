@@ -6,7 +6,7 @@ name: web-design
 slug: web-design
 page-type: Category
 visible-title: Web Design
-og-type: 
+og-type: website
 og-url: web-design/
 og-title: Web Design Posts Category | Studio N Creations Blog
 og-image: 
