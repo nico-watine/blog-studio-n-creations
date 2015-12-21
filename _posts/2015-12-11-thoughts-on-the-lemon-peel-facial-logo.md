@@ -5,7 +5,7 @@ page-description: We had some thoughts of the new LemonPeelFacial.com logo
 slug: thoughts-on-the-lemon-peel-facial-logo
 category: web-design
 tags: lemon-peel-facial
-article-title: Thoughts on the LemonPeelFacial.com Logo
+article-title: Thoughts on the <span class="inline">LemonPeelFacial</span>.com Logo
 article-subtitle: We had some thoughts of the new LemonPeelFacial.com logo
 article-datetime: 2015-12-11
 article-datepublished: 2015-12-11

@@ -5,7 +5,7 @@ page-description: Here is a clipping of a new HoustonUncovered.com photo post
 slug: houston-uncovered-post
 category: web-design
 tags: houston-uncovered
-article-title: HoustonUncovered.com has a new post
+article-title: <span class="inline">HoustonUncovered</span>.com has a new post
 article-subtitle: Here is a clipping from the Houston photography blog
 article-datetime: 2015-04-18
 article-datepublished: 2015-04-18

@@ -120,6 +120,8 @@ $max-400: "only screen and (max-width : 25.000em)";
 	.blog-index {
 		section.blog-roll {
 			article.post-summary {
+				padding: em(16) em(12);
+
 				header#post-titles {
 					margin-bottom: em(20);
 

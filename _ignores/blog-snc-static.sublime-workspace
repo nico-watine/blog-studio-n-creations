@@ -273,18 +273,26 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com"
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/post",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts"
 	],
 	"file_history":
 	[
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-12-16-mockups-of-the-finished-jardin-de-france-tx-website.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/index.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/components/_utility-classes.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/components/head-og.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_standard-post.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/post/standard-post.php",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_config.yml",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/components/scripts/google-tracking.php",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/settings/_settings.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/components/head-og.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-12-16-mockups-of-the-finished-jardin-de-france-tx-website.md",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/sitemap.xml",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_config.yml",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/tags/jardin-de-france.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/index.php",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_drafts/2015-12-15-some-mockups-of-the-finished-jardin-de-france-tx-website.md",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_site/web-design/some-mockups-of-the-finished-jardin-de-france-tx-website.html",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-31-greencare-interior-plants-website-frame-setup.md",
@@ -316,7 +324,6 @@
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/web-design/jardin-de-france-branding.html",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_posts/2015-03-18-jardin-de-france-branding.md",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/footer.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_layouts/post/standard-post.php",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_ignores/blog-ideas.txt",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/print-work/houston-oculofacial-spring-postcard.php",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/top-bar.html",
@@ -327,14 +334,12 @@
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/css/ie.css",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_nav.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/blog.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/components/_utility-classes.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/assets/neat/_grid-settings.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/components/_resets.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/components/_typography.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_footer.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_shared-styles.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_header.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/posts/_standard-post.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/blocks/_static-share-buttons.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_includes/blocks/article/article-post-summary.html",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/scss/style/pages/_blog-index.scss",
@@ -654,6 +659,14 @@
 				"_includes/components/head-og.php"
 			],
 			[
+				"ut",
+				"scss/style/components/_utility-classes.scss"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
 				"conf",
 				"_config.yml"
 			],
@@ -672,10 +685,6 @@
 			[
 				"jard",
 				"tags/jardin-de-france.php"
-			],
-			[
-				"in",
-				"index.php"
 			],
 			[
 				"static",
@@ -1115,10 +1124,6 @@
 			],
 			[
 				"u",
-				"scss/style/components/_utility-classes.scss"
-			],
-			[
-				"ut",
 				"scss/style/components/_utility-classes.scss"
 			],
 			[

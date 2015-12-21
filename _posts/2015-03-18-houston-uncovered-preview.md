@@ -5,7 +5,7 @@ page-description: Here is a preview of the upcoming www.HoustonUncovered.com
 slug: houston-uncovered-preview
 category: web-design
 tags: houston-uncovered
-article-title: Here is a HoustonUncovered.com preview
+article-title: Here is a <span class="inline">HoustonUncovered</span>.com preview
 article-subtitle: The website is in the works, but here is a teaser mockup
 article-datetime: 2015-03-18
 article-datepublished: 2015-03-18

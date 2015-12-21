@@ -116,6 +116,8 @@ $max-500: "only screen and (max-width : 31.250em)";
 	.standard-post {
 		main {
 			article {
+				padding: em(12);
+				
 				header {
 					margin-bottom: em(20);
 

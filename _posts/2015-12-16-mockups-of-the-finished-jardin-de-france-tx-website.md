@@ -38,9 +38,8 @@ og-description: Some mockups of the completed Jardin de France website rendered 
 <div class="row margin-bottom">
 	<img src="{{ site.blog_cdn }}/img/post-attachments/projects/jdf/12-16/phone-1.jpg" srcset="/img/post-attachments/projects/jdf/12-16/phone-1@2x.jpg 2x" alt="An angle shot of the Jardin de France Houston website on an iPhone" class="black-border">
 </div>
-<!-- <div class="row margin-bottom"> -->
 <div class="row">
 	<p class="margin-bottom">We created a featured profile page for this project in our portfolio. You can read up on the details of the project at the link below.
-	<p class="header margin-bottom">Featured Profile Page: <a href="http://studioncreations.com/portfolio/jardin-de-france" class="simple">www.studioncreations.com/portfolio/jardin-de-france</a></p>
+	<p class="header margin-bottom">Featured Profile Page: <a href="http://studioncreations.com/portfolio/jardin-de-france" class="simple">www.studioncreations.com/portfolio/<span class="inline">jardin-de-france</span></a></p>
 	<p class="header">Site Link: <a href="http://jardindefrancetx.com/" target="_blank" class="simple">www.JardinDeFranceTX.com</a></p>
 </div>

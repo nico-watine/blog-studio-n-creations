@@ -92,7 +92,7 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/thoughts-on-the-lemon-peel-facial-logo"><span itemprop="name">Thoughts on the LemonPeelFacial.com Logo</span></a></h1>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/thoughts-on-the-lemon-peel-facial-logo"><span itemprop="name">Thoughts on the <span class="inline">LemonPeelFacial</span>.com Logo</span></a></h1>
 		<h2 itemprop="description" class="subtitle">We had some thoughts of the new LemonPeelFacial.com logo</h2>
 		<time datetime="2015-12-11T08:00:00-06:00">11 December 2015</time>
 		<meta itemprop="datePublished" content="2015-12-11T08:00:00-06:00"/>
@@ -130,7 +130,7 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-post"><span itemprop="name">HoustonUncovered.com has a new post</span></a></h1>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-post"><span itemprop="name"><span class="inline">HoustonUncovered</span>.com has a new post</span></a></h1>
 		<h2 itemprop="description" class="subtitle">Here is a clipping from the Houston photography blog</h2>
 		<time datetime="2015-04-18T08:00:00-06:00">18 April 2015</time>
 		<meta itemprop="datePublished" content="2015-04-18T08:00:00-06:00"/>
@@ -282,7 +282,7 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-preview"><span itemprop="name">Here is a HoustonUncovered.com preview</span></a></h1>
+		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/houston-uncovered-preview"><span itemprop="name">Here is a <span class="inline">HoustonUncovered</span>.com preview</span></a></h1>
 		<h2 itemprop="description" class="subtitle">The website is in the works, but here is a teaser mockup</h2>
 		<time datetime="2015-03-18T08:00:00-06:00">18 March 2015</time>
 		<meta itemprop="datePublished" content="2015-03-18T08:00:00-06:00"/>
