@@ -83,48 +83,6 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/_drafts\/2015-12-12-summary-of-the-greencare-interior-plants-project.md": {
-		"criticStyle": 0,
-		"enableFootnotes": 0,
-		"enableLabels": 1,
-		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
-		"fileType": 4096,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_drafts\/2015-12-12-summary-of-the-greencare-interior-plants-project.md",
-		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/_drafts\/2015-12-12-summary-of-the-greencare-interior-plants-project.html",
-		"outputFormat": 0,
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"parseMetadata": 1,
-		"processHTML": 0,
-		"randomFootnoteNumbers": 0,
-		"useCompatibilityMode": 0
-		},
-	"\/_drafts\/2015-12-15-some-mockups-of-the-finished-jardin-de-france-tx-website.md": {
-		"criticStyle": 0,
-		"enableFootnotes": 0,
-		"enableLabels": 1,
-		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
-		"fileType": 4096,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_drafts\/2015-12-15-some-mockups-of-the-finished-jardin-de-france-tx-website.md",
-		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/_drafts\/2015-12-15-some-mockups-of-the-finished-jardin-de-france-tx-website.html",
-		"outputFormat": 0,
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"parseMetadata": 1,
-		"processHTML": 0,
-		"randomFootnoteNumbers": 0,
-		"useCompatibilityMode": 0
-		},
 	"\/_drafts\/a-look-back-at-last-years-favicons.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 0,
@@ -860,6 +818,27 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/_posts\/2015-12-23-summary-of-the-greencare-interior-plants-project.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_posts\/2015-12-23-summary-of-the-greencare-interior-plants-project.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/_posts\/2015-12-23-summary-of-the-greencare-interior-plants-project.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
 	"\/_site\/403.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1453,6 +1432,28 @@
 		"initialSize": 48815,
 		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/print-work\/featured-slider.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/print-work\/featured-slider.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/gctx\/12-23\/greencare-spread.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104561,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/gctx\/12-23\/greencare-spread.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/gctx\/12-23\/greencare-spread.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/gctx\/12-23\/greencare-spread@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 296744,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/gctx\/12-23\/greencare-spread@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/gctx\/12-23\/greencare-spread@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2501,6 +2502,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/tags\/houston-oculofacial.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tags\/houston-oculofacial.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/tags\/houston-uncovered.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2643,6 +2653,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/web-design\/new-lisa-esposito-project.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/web-design\/summary-of-the-greencare-interior-plants-project.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/web-design\/summary-of-the-greencare-interior-plants-project.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3667,6 +3686,28 @@
 		"initialSize": 48815,
 		"inputAbbreviatedPath": "\/img\/post-attachments\/print-work\/featured-slider.jpg",
 		"outputAbbreviatedPath": "\/img\/post-attachments\/print-work\/featured-slider.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/gctx\/12-23\/greencare-spread.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104561,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/gctx\/12-23\/greencare-spread.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/gctx\/12-23\/greencare-spread.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/gctx\/12-23\/greencare-spread@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 296744,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/gctx\/12-23\/greencare-spread@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/gctx\/12-23\/greencare-spread@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
