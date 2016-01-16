@@ -17,7 +17,7 @@
 	<meta property="og:image" content="/img/post-attachments/projects/houston-uncovered/3-18/houston-uncovered-hero.jpg" />
 	<meta property="og:description" content="Keep up with the our latest posts and projects on the Studio N Creations blog" />
 	
-	<link rel="stylesheet" href="http://cdn.studioncreations.com<?php autoVer('/css/core.css'); ?>" />
+	<link rel="stylesheet" href="<?php autoVer('/css/core.css'); ?>" />
 	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
 
 	<script src="/js/modernizr-min.js"></script>
@@ -28,44 +28,22 @@
 	<![endif]-->
 </head>
 <body itemscope itemtype="http://schema.org/WebPage" class="blog-index">
-<header id="site-header">
+<header>
 	<div class="row" id="nav-bar">
+		<!-- <a href="/" class="title" id="index-link"><span id="large">Studio N Creations</span><span id="mini">SNC</span></a> -->
 		<a href="/" class="title" id="index-link"><span id="large">Blog.Studio N Creations</span><span id="mini">BLOG.SNC</span></a>
-		<div id="button-wrapper">
-			<button id="menu-toggle" type="button"><span id="word">Menu</span><span id="hamburger"></span></button>
-		</div>
+		<nav class="nav-collapse">
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/what-we-do/">Services</a></li>
+				<li><a href="/portfolio/">Portfolio</a></li>
+				<li class="active"><a href="/about-us">About Us</a></li>
+				<li><a href="http://blog.studioncreations.com">Blog</a></li>
+				<li><a href="/contact/">Contact</a></li>
+			</ul>
+		</nav>
 	</div>
 </header>
-<nav class="overlay overlay-slidedown">
-	<ul>
-		<li class="blog-link">
-			<a href="/">Home<span>Blog Roll</span></a>
-		</li>
-		<li class="blog-link">
-			<a href="/web-design/">Web Design<span>Category</span></a>
-		</li>
-		<li class="blog-link">
-			<a href="/web-development/">Web Development<span>Category</span></a>
-		</li>
-		<li class="blog-link">
-			<a href="/print-work/">Print Work<span>Category</span></a>
-		</li>
-		<ul class="snc-links">
-			<li id="services">
-				<a href="http://studioncreations.com/what-we-do/" target="_blank">Services<span>Our Services</span></a>
-			</li>
-			<li id="portfolio">
-				<a href="http://studioncreations.com/portfolio/" target="_blank">Portfolio<span>Our Portfolio</span></a>
-			</li>
-			<li id="about">
-				<a href="http://studioncreations.com/about-us" target="_blank">About<span>About Us</span></a>
-			</li>
-			<li id="email">
-				<a href="http://studioncreations.com/contact/" target="_blank">Contact<span>Get In Touch</span></a>
-			</li>
-		</ul>
-	</ul>
-</nav>
 
 <main class="outer-container">
 	<section itemscope itemtype="http://schema.org/Blog" class="blog-roll">
@@ -371,11 +349,6 @@
 		<li><a href="/web-development/" class="blue floating">Web Development</a></li>
 	</ul>
 </nav>
-		<!-- <div class="page-title">
-	<div class="row">
-		<p class="large">If you are interested in having an original website created, contact the Studio N Creations team and get started today. All of our websites come mobile-optimized and search engine friendly.</p>
-	</div>
-</div> -->
 	</aside>
 </main>
 
@@ -398,7 +371,16 @@
 </footer>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
-<script src="<?php autoVer('/js/nav-min.js'); ?>"></script>
+<script src="<?php autoVer('/js/nav-top-bar-min.js'); ?>"></script>
+<!--<script src="<?php autoVer('/js/nav-min.js'); ?>"></script>-->
+
+<!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
+<script src="/js/src/nav/responsive-nav.js"></script>
+<script src="/js/src/nav/fastclick.js"></script>
+<script src="/js/src/nav/scroll.js"></script>
+<script src="/js/src/nav/fixed-responsive-nav.js"></script> -->
+
 <!--<script>
 	(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
 	function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;

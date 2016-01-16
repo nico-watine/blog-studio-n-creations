@@ -5,7 +5,7 @@ body-class: blog-index
 {% include components/head-og.php %}
 {% include components/body-tag.html %}
 {% include blocks/top-bar.html %}
-{% include blocks/nav.html %}
+<!-- {% include blocks/nav.html %} -->
 
 <main class="outer-container">
 	<section itemscope itemtype="http://schema.org/Blog" class="blog-roll">

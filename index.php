@@ -1,5 +1,5 @@
 ---
-layout: index/blog-index
+layout: index/new-nav
 page-title: Blog Roll
 page-description: Keep up with the our latest posts and projects on Studio N Creations blog
 slug: home

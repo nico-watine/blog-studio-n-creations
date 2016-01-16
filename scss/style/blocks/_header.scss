@@ -2,6 +2,16 @@
 
 header#site-header {
     height: em(55);
-    // padding-top: em(55);
-    // width: 100%;
+
+    #nav-bar {
+    	* {
+	    	color: initial;
+	    	text-shadow: initial;
+    	}
+    	
+    	#index-link * {
+    		color: #fff;
+    		text-shadow: $text-shadow #000;
+    	}
+    }
 }

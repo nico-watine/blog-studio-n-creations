@@ -17,7 +17,7 @@
 	<meta property="og:image" content="/img/post-attachments/projects/jdf/3-17/link-banner@2x.jpg" />
 	<meta property="og:description" content="Studio N Creations is creating a brand for Jardin de France" />
 	
-	<link rel="stylesheet" href="http://cdn.studioncreations.com<?php autoVer('/css/core.css'); ?>" />
+	<link rel="stylesheet" href="<?php autoVer('/css/core.css'); ?>" />
 	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
 
 	<script src="/js/modernizr-min.js"></script>
@@ -28,12 +28,28 @@
 	<![endif]-->
 </head>
 <body itemscope itemtype="http://schema.org/WebPage" class="standard-post">
-<header id="site-header">
+<!-- <header id="site-header">
 	<div class="row" id="nav-bar">
 		<a href="/" class="title" id="index-link"><span id="large">Blog.Studio N Creations</span><span id="mini">BLOG.SNC</span></a>
 		<div id="button-wrapper">
 			<button id="menu-toggle" type="button"><span id="word">Menu</span><span id="hamburger"></span></button>
 		</div>
+	</div>
+</header> -->
+<header>
+	<div class="row" id="nav-bar">
+		<!-- <a href="/" class="title" id="index-link"><span id="large">Studio N Creations</span><span id="mini">SNC</span></a> -->
+		<a href="/" class="title" id="index-link"><span id="large">Blog.Studio N Creations</span><span id="mini">BLOG.SNC</span></a>
+		<nav class="nav-collapse">
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/what-we-do/">Services</a></li>
+				<li><a href="/portfolio/">Portfolio</a></li>
+				<li class="active"><a href="/about-us">About Us</a></li>
+				<li><a href="http://blog.studioncreations.com">Blog</a></li>
+				<li><a href="/contact/">Contact</a></li>
+			</ul>
+		</nav>
 	</div>
 </header>
 <nav class="overlay overlay-slidedown">
@@ -157,7 +173,8 @@
 </footer>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
-<script src="<?php autoVer('/js/nav-min.js'); ?>"></script>
+<script src="<?php autoVer('/js/nav-top-bar-min.js'); ?>"></script>
+<!--<script src="<?php autoVer('/js/nav-min.js'); ?>"></script>-->
 <script src="<?php autoVer('/js/article-min.js'); ?>"></script>
 <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script>
 <!--<script>

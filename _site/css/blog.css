@@ -74,26 +74,41 @@ p.tiny { font-size: 0.875rem !important; }
 body { background: #f9f9f9; }
 
 header#site-header { height: 3.4375em; }
+header#site-header #nav-bar * { color: initial; text-shadow: initial; }
+header#site-header #nav-bar #index-link * { color: #fff; text-shadow: 0.0625rem 0.0625rem 0.1875rem #000; }
 
-.row#nav-bar { z-index: 10000000; }
+#nav-bar { background: #fff url("/img/nav/top-bar/nav-detail.png") no-repeat left; background-size: 400px 100%; height: 3.4375em; position: fixed; z-index: 100; width: 100%; top: 0; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+#nav-bar * { color: initial; text-shadow: initial; }
 
-.overlay { position: fixed; text-align: center; z-index: 55; width: 100%; height: 100%; top: 0; left: 0; background: #566270; background: rgba(115, 133, 151, 0.85); overflow: scroll; }
+#menu-toggle { font-size: 1.75rem; position: absolute; top: 0.5rem; right: 2rem; outline: none; background: none; padding: 0; }
+#menu-toggle:hover { margin-top: 0.125rem; text-shadow: 0 0.0625rem 0.0625rem #000; }
+#menu-toggle #word { font-family: "Lintel ExtraBold", sans-serif; text-transform: uppercase; letter-spacing: 0.0625em; }
 
-.overlay ul { list-style: none; text-align: center; float: none; padding: 0; margin: 5em auto 0; display: inline-block; height: auto; position: relative; }
-.overlay ul li.blog-link * { color: #fff; display: block; text-shadow: 0 0.125rem 0.0625rem #000; }
-.overlay ul li.blog-link a { font-size: 2.375rem; font-family: "Lintel ExtraBold", sans-serif; letter-spacing: 0.0625rem; text-transform: uppercase; margin: 0.625rem 0; padding: 0.3125rem 0.5rem 0.5rem; }
-.overlay ul li.blog-link a span { font-family: "Lintel Medium", sans-serif; letter-spacing: 0.075rem; font-size: 0.75rem; text-shadow: 0 0.0625rem 0.0625rem #000; }
-.overlay ul li.blog-link:hover a { color: #000; text-decoration: none; text-shadow: none; background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border-radius: 0.3125rem; }
-.overlay ul li.blog-link:hover a span { color: #333; text-shadow: none; }
-.overlay ul ul.snc-links { height: auto; margin: 1.375rem auto 1.125rem; }
-.overlay ul ul.snc-links li { display: inline-block; }
-.overlay ul ul.snc-links li a { font-size: 1.9375rem; font-family: "Lintel Medium", sans-serif; letter-spacing: 0.075rem; text-transform: uppercase; margin: 0 0.625rem; padding: 0.5rem; text-shadow: 0 0.0625rem 0.0625rem #000; }
-.overlay ul ul.snc-links li a span { display: block; visibility: hidden; font-size: 0.875rem; }
-.overlay ul ul.snc-links li:hover a { color: #000; background: #fff; text-shadow: none; }
-.overlay ul ul.snc-links li:hover a span { visibility: visible; }
+#hamburger:before { font-family: "nav"; content: "\2261"; padding-left: 0.5rem; }
 
-/* Effects */
-main { text-align: left; margin-top: 0; padding: 1.375em 0.75em; }
+#hamburger.active:before { margin-right: -0.25rem; content: "\78"; }
+
+#index-link { font-size: 1.875rem; position: absolute; top: 0.625rem; left: 1rem; }
+#index-link * { color: #fff; text-shadow: 0 0.0625rem 0.125rem #000; }
+#index-link #mini { visibility: hidden; display: none; }
+#index-link:hover { text-decoration: none; }
+
+@media only screen and (max-width: 60em) { #nav-bar { background: #fff url("/img/nav/top-bar/nav-detail.png") no-repeat left; background-size: 18.75em 100%; height: 3.125em; }
+  #index-link { font-size: 1.625rem; left: 0.75rem; top: 0.625rem; } }
+@media only screen and (max-width: 58.125em) { #index-link #large { visibility: hidden; display: none; }
+  #index-link #mini { visibility: visible; display: block; } }
+@media only screen and (max-width: 53.125em) { #nav-bar { background: #fff url("/img/nav/top-bar/nav-detail.png") no-repeat left; background-size: 11.875em 100%; height: 3.125em; }
+  #index-link { left: 0.625rem; } }
+@media screen and (max-width: 46.875em) { #nav-bar { background: #fff url("/img/nav/top-bar/nav-detail@750.png") no-repeat left; background-size: 9.375em 100%; height: 3.125em; } }
+@media only screen and (max-width: 43.688em) { #nav-bar { background: #fff url("/img/nav/top-bar/nav-detail.png") no-repeat left; background-size: 400px 100%; }
+  #index-link #large { visibility: visible; display: block; }
+  #index-link #mini { visibility: hidden; display: none; } }
+@media only screen and (max-width: 28.125em) { #nav-bar { background: #fff url("/img/nav/top-bar/nav-detail.png") no-repeat left; background-size: 120% 100%; }
+  #index-link #large { visibility: hidden; display: none; }
+  #index-link #mini { visibility: visible; display: block; } }
+@media only screen and (max-width: 26.25em) { #menu-toggle { text-shadow: 0 0.0625rem 0.125rem #000; }
+  #menu-toggle:hover { text-shadow: 0 0.0625rem 0.0625rem #000; } }
+main { text-align: left; padding: 1.375em 0.75em; }
 
 footer#article-footer, footer#post-taxonomy { background: none; padding: 0; box-shadow: none; border: 0; color: initial; }
 
