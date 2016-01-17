@@ -4,8 +4,7 @@ body-class: blog-index
 
 {% include components/head-og.php %}
 {% include components/body-tag.html %}
-{% include blocks/top-bar.html %}
-<!-- {% include blocks/nav.html %} -->
+{% include blocks/nav/standard-nav.html %}
 
 <main class="outer-container">
 	<section itemscope itemtype="http://schema.org/Blog" class="blog-roll">
@@ -14,9 +13,13 @@ body-class: blog-index
 		{% endfor %}
 	</section>
 	<aside>
-		{% include blocks/side-bar/page-title.html %}
-		{% include blocks/side-bar/category-nav.html %}
-		<!-- {% include blocks/side-bar/snc-c2a.html %} -->
+		<!-- {% include blocks/side-bar/page-title.html %} -->
+		<div class="aside-content">
+			<!-- <div class="padding-container"> -->
+			{% include blocks/side-bar/page-title-smaller.html %}
+			{% include blocks/side-bar/blog-menu.html %}
+			<!-- </div> -->
+		</div>
 	</aside>
 </main>
 

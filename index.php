@@ -1,10 +1,10 @@
 ---
-layout: index/new-nav
+layout: index/standard-nav
 page-title: Blog Roll
 page-description: Keep up with the our latest posts and projects on Studio N Creations blog
 slug: home
 page-type: Page
-visible-title: Home
+visible-title: Blog Home
 og-type: website
 og-url:
 og-title: Home Blog Roll | Studio N Creations

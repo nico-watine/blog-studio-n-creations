@@ -1,6 +1,12 @@
 @import "../settings/_settings.scss";
 
 aside {
+	// position: fixed;
+ //    right: 0;
+ //    top: 0%;
+ //    transform: translateX(-10%);
+	// padding-right: 2%;
+
 	nav.side-nav {
 		ul.category-list {
 			list-style: none;
@@ -55,5 +61,11 @@ aside {
 		@include media($medium) {
 			font-size: $h3-size;
 		}
+	}
+}
+
+@include media($medium) {
+	aside {
+		position: initial;
 	}
 }

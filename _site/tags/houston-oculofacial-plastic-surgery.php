@@ -28,17 +28,8 @@
 	<![endif]-->
 </head>
 <body itemscope itemtype="http://schema.org/WebPage" class="blog-index">
-<!-- <header id="site-header">
-	<div class="row" id="nav-bar">
-		<a href="/" class="title" id="index-link"><span id="large">Blog.Studio N Creations</span><span id="mini">BLOG.SNC</span></a>
-		<div id="button-wrapper">
-			<button id="menu-toggle" type="button"><span id="word">Menu</span><span id="hamburger"></span></button>
-		</div>
-	</div>
-</header> -->
 <header>
 	<div class="row" id="nav-bar">
-		<!-- <a href="/" class="title" id="index-link"><span id="large">Studio N Creations</span><span id="mini">SNC</span></a> -->
 		<a href="/" class="title" id="index-link"><span id="large">Blog.Studio N Creations</span><span id="mini">BLOG.SNC</span></a>
 		<nav class="nav-collapse">
 			<ul>
@@ -144,7 +135,6 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
 <script src="<?php autoVer('/js/nav-top-bar-min.js'); ?>"></script>
-<!--<script src="<?php autoVer('/js/nav-min.js'); ?>"></script>-->
 <!--<script>
 	(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
 	function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;

@@ -1447,7 +1447,7 @@ span.family {
   background-size: 400px 100%;
   height: 3.4375em;
   position: fixed;
-  z-index: 100;
+  z-index: 86753090;
   width: 100%;
   top: 0;
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
@@ -1484,7 +1484,8 @@ span.family {
   font-size: 1.875rem;
   position: absolute;
   top: 0.625rem;
-  left: 1rem; }
+  left: 1rem;
+  z-index: 86783090; }
   #index-link * {
     color: #fff;
     text-shadow: 0 0.0625rem 0.125rem #000; }

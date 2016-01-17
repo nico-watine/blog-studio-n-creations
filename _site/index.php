@@ -30,16 +30,15 @@
 <body itemscope itemtype="http://schema.org/WebPage" class="blog-index">
 <header>
 	<div class="row" id="nav-bar">
-		<!-- <a href="/" class="title" id="index-link"><span id="large">Studio N Creations</span><span id="mini">SNC</span></a> -->
 		<a href="/" class="title" id="index-link"><span id="large">Blog.Studio N Creations</span><span id="mini">BLOG.SNC</span></a>
 		<nav class="nav-collapse">
 			<ul>
-				<li><a href="/">Home</a></li>
-				<li><a href="/what-we-do/">Services</a></li>
-				<li><a href="/portfolio/">Portfolio</a></li>
-				<li class="active"><a href="/about-us">About Us</a></li>
-				<li><a href="http://blog.studioncreations.com">Blog</a></li>
-				<li><a href="/contact/">Contact</a></li>
+				<li><a href="http://studioncreations.com/">Home</a></li>
+				<li><a href="http://studioncreations.com/what-we-do/">Services</a></li>
+				<li><a href="http://studioncreations.com/portfolio/">Portfolio</a></li>
+				<li><a href="http://studioncreations.com/about-us">About Us</a></li>
+				<li class="active"><a href="http://blog.studioncreations.com">Blog</a></li>
+				<li><a href="http://studioncreations.com/contact/">Contact</a></li>
 			</ul>
 		</nav>
 	</div>
@@ -335,20 +334,31 @@
 		
 	</section>
 	<aside>
-		<div class="page-title">
+		<!-- <div class="page-title">
 	<div class="row">
 		<h5>Page</h5>
-		<h1>Home</h1>
+		<h1>Blog Home</h1>
+	</div>
+</div> -->
+		<div class="aside-content">
+			<!-- <div class="padding-container"> -->
+			<div class="page-title smaller">
+	<div class="row">
+		<h5>Page</h5>
+		<h1>Blog Home</h1>
 	</div>
 </div>
-		<nav class="side-nav">
-	<h3>CATEGORIES</h3>
+			<nav class="side-nav">
+	<h3>BLOG MENU</h3>
 	<ul class="category-list">
+		<li><a href="/" class="blue floating">Blog Home</a></li>
 		<li><a href="/web-design/" class="blue floating">Web Design</a></li>
 		<li><a href="/print-work/" class="blue floating">Print Work</a></li>
 		<li><a href="/web-development/" class="blue floating">Web Development</a></li>
 	</ul>
 </nav>
+			<!-- </div> -->
+		</div>
 	</aside>
 </main>
 
@@ -372,15 +382,6 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
 <script src="<?php autoVer('/js/nav-top-bar-min.js'); ?>"></script>
-<!--<script src="<?php autoVer('/js/nav-min.js'); ?>"></script>-->
-
-<!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
-<script src="/js/src/nav/responsive-nav.js"></script>
-<script src="/js/src/nav/fastclick.js"></script>
-<script src="/js/src/nav/scroll.js"></script>
-<script src="/js/src/nav/fixed-responsive-nav.js"></script> -->
-
 <!--<script>
 	(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
 	function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;

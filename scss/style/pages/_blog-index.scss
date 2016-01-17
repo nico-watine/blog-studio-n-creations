@@ -1,5 +1,6 @@
 @import "../settings/_settings.scss";
 
+$max-1210: "only screen and (max-width : 75.625em)";
 $max-610: "only screen and (max-width : 38.125em)";
 $max-500: "only screen and (max-width : 31.250em)";
 $max-400: "only screen and (max-width : 25.000em)";
@@ -78,14 +79,34 @@ $max-400: "only screen and (max-width : 25.000em)";
 	aside {
 		@include span-columns(4 of 16);
 		padding-top: em(16);
+
+		.aside-content {
+			background: red;
+			max-width: em(280);
+			width: 100%;
+			position: fixed;
+			height: 800px;
+
+			@media #{$max-1210} {
+				max-width: em(240);
+			}
+		}
 	}
 }
 
-@include media($medium) {
+@include media($medium) {  // 750px
 	.blog-index {
 		section.blog-roll,
 		aside {
 			@include span-columns(12 of 12);
+		}
+
+		aside {
+			@include shift(-12);
+		}
+
+		section.blog-roll {
+			margin-top: em(380);
 		}
 
 		section.blog-roll {
