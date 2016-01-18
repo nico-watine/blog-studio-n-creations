@@ -145,6 +145,7 @@
 		<nav class="side-nav">
 	<h3>CATEGORIES</h3>
 	<ul class="category-list">
+		<li><a href="/" class="blue floating">Blog Home</a></li>
 		<li><a href="/web-design/" class="blue floating">Web Design</a></li>
 		<li><a href="/print-work/" class="blue floating">Print Work</a></li>
 		<li><a href="/web-development/" class="blue floating">Web Development</a></li>

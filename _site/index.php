@@ -334,14 +334,7 @@
 		
 	</section>
 	<aside>
-		<!-- <div class="page-title">
-	<div class="row">
-		<h5>Page</h5>
-		<h1>Blog Home</h1>
-	</div>
-</div> -->
 		<div class="aside-content">
-			<!-- <div class="padding-container"> -->
 			<div class="page-title smaller">
 	<div class="row">
 		<h5>Page</h5>
@@ -357,7 +350,6 @@
 		<li><a href="/web-development/" class="blue floating">Web Development</a></li>
 	</ul>
 </nav>
-			<!-- </div> -->
 		</div>
 	</aside>
 </main>

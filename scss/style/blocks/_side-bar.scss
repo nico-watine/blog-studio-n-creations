@@ -1,12 +1,8 @@
 @import "../settings/_settings.scss";
 
-aside {
-	// position: fixed;
- //    right: 0;
- //    top: 0%;
- //    transform: translateX(-10%);
-	// padding-right: 2%;
+$width-400: "only screen and (max-width : 25.000em)";
 
+aside {
 	nav.side-nav {
 		ul.category-list {
 			list-style: none;
@@ -67,5 +63,52 @@ aside {
 @include media($medium) {
 	aside {
 		position: initial;
+
+		nav.side-nav {
+			ul.category-list {
+				// list-style: none;
+				// padding: 0;
+				// margin: 0;
+
+				li {
+					// margin: rem(12) 0;
+					// background-color: #fff;
+					// display: inline-block;
+					@include span-columns(6 of 12);
+					@include omega(2n);
+
+					a {
+					// 	border: em(1) solid $dark-blue;
+					// 	display: block;
+					// display: inline-block;
+					// 	text-decoration: none;
+					// 	padding: rem(8);
+					// 	color: $text-color;
+
+					// 	&:hover {
+					// 		color: #fff;
+					// 	}
+					}
+
+					// &:hover {
+					// 	background-color: $dark-blue;
+					// }
+				}
+			}
+		}
+	}
+}
+
+@media #{$width-400} {
+	aside {
+		nav.side-nav {
+			ul.category-list {
+				li {
+					@include omega-reset(2n);
+					@include span-columns(8 of 8);
+					margin-bottom: 0;
+				}
+			}
+		}
 	}
 }

@@ -28,13 +28,15 @@ body-class: standard-post
 		</footer>
 	</article>
 	<aside>
-		<div class="page-title">
-			<div class="row">
-				<h5>PAGE</h5>
-				<h1>Article</h1>
+		<div class="aside-content">
+			<div class="page-title">
+				<div class="row">
+					<h5>PAGE</h5>
+					<h1>Article</h1>
+				</div>
 			</div>
+			{% include blocks/side-bar/blog-menu.html %}
 		</div>
-		{% include blocks/side-bar/category-nav.html %}
 	</aside>
 </main>
 

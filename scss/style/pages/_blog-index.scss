@@ -6,7 +6,8 @@ $max-500: "only screen and (max-width : 31.250em)";
 $max-400: "only screen and (max-width : 25.000em)";
 
 
-.blog-index {
+.blog-index,
+.standard-post {
 	section.blog-roll {
 		@include span-columns(12 of 16);
 
@@ -81,11 +82,9 @@ $max-400: "only screen and (max-width : 25.000em)";
 		padding-top: em(16);
 
 		.aside-content {
-			background: red;
 			max-width: em(280);
 			width: 100%;
 			position: fixed;
-			height: 800px;
 
 			@media #{$max-1210} {
 				max-width: em(240);
@@ -95,7 +94,8 @@ $max-400: "only screen and (max-width : 25.000em)";
 }
 
 @include media($medium) {  // 750px
-	.blog-index {
+	.blog-index,
+	.standard-post {
 		section.blog-roll,
 		aside {
 			@include span-columns(12 of 12);
@@ -103,10 +103,16 @@ $max-400: "only screen and (max-width : 25.000em)";
 
 		aside {
 			@include shift(-12);
+			padding: 0;
+
+			.aside-content {
+				max-width: none;
+				position: initial;
+			}
 		}
 
 		section.blog-roll {
-			margin-top: em(380);
+			margin-top: em(300);
 		}
 
 		section.blog-roll {
@@ -156,7 +162,8 @@ $max-400: "only screen and (max-width : 25.000em)";
 }
 
 @media #{$max-500} {
-	.blog-index {
+	.blog-index,
+	.standard-post {
 		section.blog-roll {
 			article.post-summary {
 				header#post-titles {
@@ -179,6 +186,19 @@ $max-400: "only screen and (max-width : 25.000em)";
 					}
 				}
 			}
+		}
+	}
+}
+
+@media #{$max-400} {
+	.blog-index {
+		section.blog-roll {
+			margin-top: em(360);
+		}
+	}
+	.standard-post {
+		article {
+			margin-top: em(370);
 		}
 	}
 }

@@ -13,12 +13,9 @@ body-class: blog-index
 		{% endfor %}
 	</section>
 	<aside>
-		<!-- {% include blocks/side-bar/page-title.html %} -->
 		<div class="aside-content">
-			<!-- <div class="padding-container"> -->
 			{% include blocks/side-bar/page-title-smaller.html %}
 			{% include blocks/side-bar/blog-menu.html %}
-			<!-- </div> -->
 		</div>
 	</aside>
 </main>

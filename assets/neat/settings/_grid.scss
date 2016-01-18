@@ -49,3 +49,38 @@ $default-feature: max-width; // Default @media feature for the breakpoint() mixi
 ///@type String
 
 $default-layout-direction: LTR !default;
+
+// ALL CUSTOM ADDITIONS BELOW THIS LINE
+// ------------------------------------------------------------
+
+// -------------------------------------------------------------------
+// Omega Reset for Bourbon Neat
+//
+// http://joshfry.me/notes/omega-reset-for-bourbon-neat
+// 
+// Had been necessary for omega-reset to work with old bourbon versions::
+// $fg-column: $column;
+// $fg-gutter: $gutter;
+// -------------------------------------------------------------------
+
+
+@mixin omega-reset($nth) {
+  &:nth-child(#{$nth}) { margin-right: flex-gutter($grid-columns, $gutter); }
+  &:nth-child(#{$nth}+1) { clear: none }
+}
+
+
+// ------------------------------------------------------------
+// '@include omega-reset' example
+// ------------------------------------------------------------
+// .div {
+// 	@include span-columns(2 of 12);
+// 	@include omega(6n); // end row at 6th div
+
+// 	@include media($default-break) {
+// 		@include omega-reset(6n); // set this equal to original @include omega(Xn) value
+// 		@include span-columns(4 of 16); // new div width
+// 		@include omega(4n); // set new omega at 4th div
+// 	}
+// }
+// ------------------------------------------------------------
