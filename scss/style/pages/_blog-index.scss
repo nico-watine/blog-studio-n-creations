@@ -80,7 +80,6 @@ $max-400: "only screen and (max-width : 25.000em)";
 	}
 	aside {
 		@include span-columns(4 of 16);
-		padding-top: em(16);
 
 		.aside-content {
 			padding: 0 em(12) 0 0;
@@ -97,6 +96,10 @@ $max-400: "only screen and (max-width : 25.000em)";
 @include media($medium) {  // 750px
 	.blog-index,
 	.standard-post {
+		section.blog-roll {
+			margin-top: em(280);
+		}
+
 		section.blog-roll,
 		aside {
 			@include span-columns(12 of 12);
@@ -109,10 +112,6 @@ $max-400: "only screen and (max-width : 25.000em)";
 				padding: 0;
 				position: initial;
 			}
-		}
-
-		section.blog-roll {
-			margin-top: em(300);
 		}
 
 		section.blog-roll {
@@ -190,15 +189,15 @@ $max-400: "only screen and (max-width : 25.000em)";
 	}
 }
 
-@media #{$max-400} {
-	.blog-index {
-		section.blog-roll {
-			margin-top: em(280);
-		}
-	}
-	.standard-post {
-		article {
-			margin-top: em(280);
-		}
-	}
-}
+// @media #{$max-400} {
+// 	.blog-index {
+// 		section.blog-roll {
+// 			margin-top: em(280);
+// 		}
+// 	}
+// 	.standard-post {
+// 		article {
+// 			margin-top: em(280);
+// 		}
+// 	}
+// }
