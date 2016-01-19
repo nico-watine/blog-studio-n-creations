@@ -4,8 +4,7 @@ body-class: standard-post
 
 {% include components/head-og.php %}
 {% include components/body-tag.html %}
-{% include blocks/top-bar.html %}
-{% include blocks/nav.html %}
+{% include blocks/nav/standard-nav.html %}
 
 <main class="outer-container">
 	<article itemscope itemtype="http://schema.org/BlogPosting">

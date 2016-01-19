@@ -1,6 +1,7 @@
 @import "../settings/_settings.scss";
 
 $width-400: "only screen and (max-width : 25.000em)";
+$max-380: "only screen and (max-width : 23.750em)";
 
 aside {
 	nav.side-nav {
@@ -22,6 +23,11 @@ aside {
 
 					&:hover {
 						color: #fff;
+					}
+
+					#small {
+						display: none;
+						visiblity: hidden;
 					}
 				}
 
@@ -61,52 +67,42 @@ aside {
 }
 
 @include media($medium) {
+	.page-title {
+		margin-bottom: em(12);
+	}
+
 	aside {
 		position: initial;
 
 		nav.side-nav {
 			ul.category-list {
-				// list-style: none;
-				// padding: 0;
-				// margin: 0;
 
 				li {
-					// margin: rem(12) 0;
-					// background-color: #fff;
-					// display: inline-block;
 					@include span-columns(6 of 12);
 					@include omega(2n);
-
-					a {
-					// 	border: em(1) solid $dark-blue;
-					// 	display: block;
-					// display: inline-block;
-					// 	text-decoration: none;
-					// 	padding: rem(8);
-					// 	color: $text-color;
-
-					// 	&:hover {
-					// 		color: #fff;
-					// 	}
-					}
-
-					// &:hover {
-					// 	background-color: $dark-blue;
-					// }
+					margin-top: 0;
 				}
 			}
 		}
 	}
 }
 
-@media #{$width-400} {
+
+@media #{$max-380} {
 	aside {
 		nav.side-nav {
 			ul.category-list {
 				li {
-					@include omega-reset(2n);
-					@include span-columns(8 of 8);
-					margin-bottom: 0;
+					a {
+						#large {
+							display: none;
+							visibility: hidden;
+						}
+						#small {
+							display: block;
+							visibility: visible;
+						}
+					}
 				}
 			}
 		}

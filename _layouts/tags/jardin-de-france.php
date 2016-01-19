@@ -4,8 +4,7 @@ body-class: blog-index
 
 {% include components/head-og.php %}
 {% include components/body-tag.html %}
-{% include blocks/top-bar.html %}
-{% include blocks/nav.html %}
+{% include blocks/nav/standard-nav.html %}
 
 <main class="outer-container">
 	<section class="blog-roll">
@@ -13,9 +12,11 @@ body-class: blog-index
 			{% include blocks/article/article-post-summary.html %}
 		{% endfor %}
 	</section>
-	<aside class="sidebar">
-		{% include blocks/side-bar/page-title.html %}
-		{% include blocks/side-bar/category-nav.html %}
+	<aside>
+		<div class="aside-content">
+			{% include blocks/side-bar/page-title-smaller.html %}
+			{% include blocks/side-bar/blog-menu.html %}
+		</div>
 	</aside>
 </main>
 

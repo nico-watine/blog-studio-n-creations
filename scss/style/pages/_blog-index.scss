@@ -1,6 +1,7 @@
 @import "../settings/_settings.scss";
 
 $max-1210: "only screen and (max-width : 75.625em)";
+$min-1020: "only screen and (min-width : 63.750em)";
 $max-610: "only screen and (max-width : 38.125em)";
 $max-500: "only screen and (max-width : 31.250em)";
 $max-400: "only screen and (max-width : 25.000em)";
@@ -82,12 +83,12 @@ $max-400: "only screen and (max-width : 25.000em)";
 		padding-top: em(16);
 
 		.aside-content {
-			max-width: em(280);
-			width: 100%;
+			padding: 0 em(12) 0 0;
 			position: fixed;
 
-			@media #{$max-1210} {
-				max-width: em(240);
+			@media #{$min-1020} {
+				max-width: em(280);
+				min-width: em(230);
 			}
 		}
 	}
@@ -103,10 +104,9 @@ $max-400: "only screen and (max-width : 25.000em)";
 
 		aside {
 			@include shift(-12);
-			padding: 0;
 
 			.aside-content {
-				max-width: none;
+				padding: 0;
 				position: initial;
 			}
 		}
@@ -193,12 +193,12 @@ $max-400: "only screen and (max-width : 25.000em)";
 @media #{$max-400} {
 	.blog-index {
 		section.blog-roll {
-			margin-top: em(360);
+			margin-top: em(280);
 		}
 	}
 	.standard-post {
 		article {
-			margin-top: em(370);
+			margin-top: em(280);
 		}
 	}
 }

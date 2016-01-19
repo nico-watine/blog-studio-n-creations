@@ -37,7 +37,7 @@
 				<li><a href="http://studioncreations.com/what-we-do/">Services</a></li>
 				<li><a href="http://studioncreations.com/portfolio/">Portfolio</a></li>
 				<li><a href="http://studioncreations.com/about-us">About Us</a></li>
-				<li class="active"><a href="http://blog.studioncreations.com">Blog</a></li>
+				<li class="active"><a href="/">Blog</a></li>
 				<li><a href="http://studioncreations.com/contact/">Contact</a></li>
 			</ul>
 		</nav>
@@ -347,7 +347,7 @@
 		<li><a href="/" class="blue floating">Blog Home</a></li>
 		<li><a href="/web-design/" class="blue floating">Web Design</a></li>
 		<li><a href="/print-work/" class="blue floating">Print Work</a></li>
-		<li><a href="/web-development/" class="blue floating">Web Development</a></li>
+		<li><a href="/web-development/" class="blue floating"><span id="large">Web Development</span><span id="small">Web Dev</span></a></li>
 	</ul>
 </nav>
 		</div>

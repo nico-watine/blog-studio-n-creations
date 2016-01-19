@@ -33,46 +33,16 @@
 		<a href="/" class="title" id="index-link"><span id="large">Blog.Studio N Creations</span><span id="mini">BLOG.SNC</span></a>
 		<nav class="nav-collapse">
 			<ul>
-				<li><a href="/">Home</a></li>
-				<li><a href="/what-we-do/">Services</a></li>
-				<li><a href="/portfolio/">Portfolio</a></li>
-				<li class="active"><a href="/about-us">About Us</a></li>
-				<li><a href="http://blog.studioncreations.com">Blog</a></li>
-				<li><a href="/contact/">Contact</a></li>
+				<li><a href="http://studioncreations.com/">Home</a></li>
+				<li><a href="http://studioncreations.com/what-we-do/">Services</a></li>
+				<li><a href="http://studioncreations.com/portfolio/">Portfolio</a></li>
+				<li><a href="http://studioncreations.com/about-us">About Us</a></li>
+				<li class="active"><a href="/">Blog</a></li>
+				<li><a href="http://studioncreations.com/contact/">Contact</a></li>
 			</ul>
 		</nav>
 	</div>
 </header>
-<nav class="overlay overlay-slidedown">
-	<ul>
-		<li class="blog-link">
-			<a href="/">Home<span>Blog Roll</span></a>
-		</li>
-		<li class="blog-link">
-			<a href="/web-design/">Web Design<span>Category</span></a>
-		</li>
-		<li class="blog-link">
-			<a href="/web-development/">Web Development<span>Category</span></a>
-		</li>
-		<li class="blog-link">
-			<a href="/print-work/">Print Work<span>Category</span></a>
-		</li>
-		<ul class="snc-links">
-			<li id="services">
-				<a href="http://studioncreations.com/what-we-do/" target="_blank">Services<span>Our Services</span></a>
-			</li>
-			<li id="portfolio">
-				<a href="http://studioncreations.com/portfolio/" target="_blank">Portfolio<span>Our Portfolio</span></a>
-			</li>
-			<li id="about">
-				<a href="http://studioncreations.com/about-us" target="_blank">About<span>About Us</span></a>
-			</li>
-			<li id="email">
-				<a href="http://studioncreations.com/contact/" target="_blank">Contact<span>Get In Touch</span></a>
-			</li>
-		</ul>
-	</ul>
-</nav>
 
 <main class="outer-container">
 	<section class="blog-roll">
@@ -287,22 +257,24 @@
 </article>
 		
 	</section>
-	<aside class="sidebar">
-		<div class="page-title">
+	<aside>
+		<div class="aside-content">
+			<div class="page-title smaller">
 	<div class="row">
 		<h5>Category</h5>
 		<h1>Web Design</h1>
 	</div>
 </div>
-		<nav class="side-nav">
-	<h3>CATEGORIES</h3>
+			<nav class="side-nav">
+	<h3>BLOG MENU</h3>
 	<ul class="category-list">
 		<li><a href="/" class="blue floating">Blog Home</a></li>
 		<li><a href="/web-design/" class="blue floating">Web Design</a></li>
 		<li><a href="/print-work/" class="blue floating">Print Work</a></li>
-		<li><a href="/web-development/" class="blue floating">Web Development</a></li>
+		<li><a href="/web-development/" class="blue floating"><span id="large">Web Development</span><span id="small">Web Dev</span></a></li>
 	</ul>
 </nav>
+		</div>
 	</aside>
 </main>
 

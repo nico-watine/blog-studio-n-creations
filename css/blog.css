@@ -120,6 +120,7 @@ aside nav.side-nav ul.category-list { list-style: none; padding: 0; margin: 0; }
 aside nav.side-nav ul.category-list li { margin: 0.75rem 0; background-color: #fff; }
 aside nav.side-nav ul.category-list li a { border: 0.0625em solid #566270; display: block; text-decoration: none; padding: 0.5rem; color: #333; }
 aside nav.side-nav ul.category-list li a:hover { color: #fff; }
+aside nav.side-nav ul.category-list li a #small { display: none; visiblity: hidden; }
 aside nav.side-nav ul.category-list li:hover { background-color: #566270; }
 
 .page-title { background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); padding: 1em 0.5em 0.5em; margin-bottom: 1.375em; }
@@ -129,15 +130,14 @@ aside nav.side-nav ul.category-list li:hover { background-color: #566270; }
 .page-title.smaller h1 { font-size: 2.25rem; }
 @media screen and (max-width: 46.875em) { .page-title.smaller h1 { font-size: 1.9375em; } }
 
-@media screen and (max-width: 46.875em) { aside { position: initial; }
-  aside nav.side-nav ul.category-list li { float: left; display: block; margin-right: 2.35765%; width: 48.82117%; }
+@media screen and (max-width: 46.875em) { .page-title { margin-bottom: 0.75em; }
+  aside { position: initial; }
+  aside nav.side-nav ul.category-list li { float: left; display: block; margin-right: 2.35765%; width: 48.82117%; margin-top: 0; }
   aside nav.side-nav ul.category-list li:last-child { margin-right: 0; }
   aside nav.side-nav ul.category-list li:nth-child(2n) { margin-right: 0; }
   aside nav.side-nav ul.category-list li:nth-child(2n+1) { clear: left; } }
-@media only screen and (max-width: 25em) { aside nav.side-nav ul.category-list li { float: left; display: block; margin-right: 3.57866%; width: 100%; margin-bottom: 0; }
-  aside nav.side-nav ul.category-list li:nth-child(2n) { margin-right: 1.75788%; }
-  aside nav.side-nav ul.category-list li:nth-child(2n+1) { clear: none; }
-  aside nav.side-nav ul.category-list li:last-child { margin-right: 0; } }
+@media only screen and (max-width: 23.75em) { aside nav.side-nav ul.category-list li a #large { display: none; visibility: hidden; }
+  aside nav.side-nav ul.category-list li a #small { display: block; visibility: visible; } }
 .row#get-social { height: 5.375em; margin-bottom: 1.125em; }
 .row#get-social a { text-decoration: none; width: 5rem; text-align: center; }
 .row#get-social a img { width: 1.5625rem; height: 1.5625rem; }
@@ -177,13 +177,13 @@ a#pinterest-share:hover { cursor: pointer; cursor: hand; }
 .blog-index section.blog-roll article.post-summary footer#post-taxonomy h4#tags, .standard-post section.blog-roll article.post-summary footer#post-taxonomy h4#tags { margin: 0; }
 .blog-index aside, .standard-post aside { float: left; display: block; margin-right: 1.75788%; width: 23.68159%; padding-top: 1em; }
 .blog-index aside:last-child, .standard-post aside:last-child { margin-right: 0; }
-.blog-index aside .aside-content, .standard-post aside .aside-content { max-width: 17.5em; width: 100%; position: fixed; }
-@media only screen and (max-width: 75.625em) { .blog-index aside .aside-content, .standard-post aside .aside-content { max-width: 15em; } }
+.blog-index aside .aside-content, .standard-post aside .aside-content { padding: 0 0.75em 0 0; position: fixed; }
+@media only screen and (min-width: 63.75em) { .blog-index aside .aside-content, .standard-post aside .aside-content { max-width: 17.5em; min-width: 14.375em; } }
 
 @media screen and (max-width: 46.875em) { .blog-index section.blog-roll, .blog-index aside, .standard-post section.blog-roll, .standard-post aside { float: left; display: block; margin-right: 2.35765%; width: 100%; }
   .blog-index section.blog-roll:last-child, .blog-index aside:last-child, .standard-post section.blog-roll:last-child, .standard-post aside:last-child { margin-right: 0; }
-  .blog-index aside, .standard-post aside { margin-left: -102.35765%; padding: 0; }
-  .blog-index aside .aside-content, .standard-post aside .aside-content { max-width: none; position: initial; }
+  .blog-index aside, .standard-post aside { margin-left: -102.35765%; }
+  .blog-index aside .aside-content, .standard-post aside .aside-content { padding: 0; position: initial; }
   .blog-index section.blog-roll, .standard-post section.blog-roll { margin-top: 18.75em; }
   .blog-index section.blog-roll article.post-summary header#post-titles time, .blog-index section.blog-roll article.post-summary header#post-titles a.read-more, .standard-post section.blog-roll article.post-summary header#post-titles time, .standard-post section.blog-roll article.post-summary header#post-titles a.read-more { font-size: 1rem; }
   .blog-index section.blog-roll article.post-summary header#post-titles h1, .standard-post section.blog-roll article.post-summary header#post-titles h1 { font-size: 1.9375rem; margin: 0 0 0.25rem; }
@@ -196,8 +196,8 @@ a#pinterest-share:hover { cursor: pointer; cursor: hand; }
   .blog-index section.blog-roll article.post-summary header#post-titles h2, .standard-post section.blog-roll article.post-summary header#post-titles h2 { margin-bottom: 0.75rem; }
   .blog-index section.blog-roll article.post-summary header#post-titles a.read-more, .standard-post section.blog-roll article.post-summary header#post-titles a.read-more { display: block; width: 6.875rem; text-align: center; margin: 0.875rem 0 0 0; }
   .blog-index section.blog-roll article.post-summary footer#post-taxonomy h4, .standard-post section.blog-roll article.post-summary footer#post-taxonomy h4 { font-size: 0.75rem; } }
-@media only screen and (max-width: 25em) { .blog-index section.blog-roll { margin-top: 22.5em; }
-  .standard-post article { margin-top: 22.5em; } }
+@media only screen and (max-width: 25em) { .blog-index section.blog-roll { margin-top: 17.5em; }
+  .standard-post article { margin-top: 17.5em; } }
 .standard-post main article { float: left; display: block; margin-right: 1.75788%; width: 74.56053%; padding: 1em; margin-bottom: 1.625em; background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
 .standard-post main article:last-child { margin-right: 0; }
 .standard-post main article header { display: block; margin-bottom: 1.875em; }
@@ -230,5 +230,5 @@ a#pinterest-share:hover { cursor: pointer; cursor: hand; }
   .standard-post main article #article-body p { font-size: 1.125rem; }
   .standard-post main article #article-body h4#contact-c2a { font-size: 1.25rem; line-height: 1.625rem; } }
 @media only screen and (max-width: 31.25em) { .standard-post main article header h4 { margin-bottom: 0.5rem; } }
-@media only screen and (max-width: 25em) { .standard-post main article { margin-top: 23.125em; } }
+@media only screen and (max-width: 25em) { .standard-post main article { margin-top: 17.5em; } }
 video#shrinking-greencare-browser { max-width: 100%; width: 100%; border: 0.0625em solid #000; }
