@@ -1,86 +1,112 @@
 @import "../settings/_settings.scss";
 
-$width-400: "only screen and (max-width : 25.000em)";
+
+$min-1020: "only screen and (min-width : 63.750em)";
 $max-380: "only screen and (max-width : 23.750em)";
 
-aside {
-	nav.side-nav {
-		ul.category-list {
-			list-style: none;
-			padding: 0;
-			margin: 0;
+.blog-index,
+.standard-post {
+	aside {
+		@include span-columns(4 of 16);
 
-			li {
-				margin: rem(12) 0;
-				background-color: #fff;
+		.aside-content {
+			padding: 0 em(12) 0 0;
+			position: fixed;
 
-				a {
-					border: em(1) solid $dark-blue;
-					display: block;
-					text-decoration: none;
-					padding: rem(8);
-					color: $text-color;
+			@media #{$min-1020} {
+				max-width: em(280);
+				min-width: em(230);
+			}
+		}
 
-					&:hover {
-						color: #fff;
-					}
+		.page-title {
+			background: #fff;
+			box-shadow: $z-1;
+			padding: em(16) em(8) em(8);
+			margin-bottom: em(22);
 
-					#small {
-						display: none;
-						visiblity: hidden;
-					}
-				}
+			h1 {
+				font-size: $h2-size;
 
-				&:hover {
-					background-color: $dark-blue;
+				@include media($medium) {
+					font-size: $h3-size;
 				}
 			}
 		}
+
+		.page-title.smaller {
+			h1 {
+				font-size: rem(36);
+
+				@include media($medium) {
+					font-size: $h3-size;
+				}
+			}
+		}
+
+		nav.side-nav {
+			ul.category-list {
+				list-style: none;
+				padding: 0;
+				margin: 0;
+
+				li {
+					margin: rem(12) 0;
+					background-color: #fff;
+
+					a {
+						border: em(1) solid $dark-blue;
+						display: block;
+						text-decoration: none;
+						padding: rem(8);
+						color: $text-color;
+
+						&:hover {
+							color: #fff;
+						}
+
+						#small {
+							display: none;
+							visiblity: hidden;
+						}
+					}
+
+					&:hover {
+						background-color: $dark-blue;
+					}
+				}
+			}
+		}	
 	}	
 }
 
 
-.page-title {
-	background: #fff;
-	box-shadow: $z-1;
-	padding: em(16) em(8) em(8);
-	margin-bottom: em(22);
-
-	h1 {
-		font-size: $h2-size;
-
-		@include media($medium) {
-			font-size: $h3-size;
-		}
-	}
-}
-
-
-.page-title.smaller {
-	h1 {
-		font-size: rem(36);
-
-		@include media($medium) {
-			font-size: $h3-size;
-		}
-	}
-}
-
 @include media($medium) {
-	.page-title {
-		margin-bottom: em(12);
-	}
 
-	aside {
-		position: initial;
+	.blog-index,
+	.standard-post {
+		aside {
+			position: initial;
+			@include span-columns(12 of 12);
+			@include shift(-12);
 
-		nav.side-nav {
-			ul.category-list {
+			.aside-content {
+				padding: 0;
+				position: initial;
+			}
 
-				li {
-					@include span-columns(6 of 12);
-					@include omega(2n);
-					margin-top: 0;
+			.page-title {
+				margin-bottom: em(12);
+			}
+
+			nav.side-nav {
+				ul.category-list {
+
+					li {
+						@include span-columns(6 of 12);
+						@include omega(2n);
+						margin-top: 0;
+					}
 				}
 			}
 		}
@@ -89,18 +115,21 @@ aside {
 
 
 @media #{$max-380} {
-	aside {
-		nav.side-nav {
-			ul.category-list {
-				li {
-					a {
-						#large {
-							display: none;
-							visibility: hidden;
-						}
-						#small {
-							display: block;
-							visibility: visible;
+	.blog-index,
+	.standard-post {
+		aside {
+			nav.side-nav {
+				ul.category-list {
+					li {
+						a {
+							#large {
+								display: none;
+								visibility: hidden;
+							}
+							#small {
+								display: block;
+								visibility: visible;
+							}
 						}
 					}
 				}

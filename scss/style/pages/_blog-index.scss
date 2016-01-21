@@ -1,14 +1,12 @@
 @import "../settings/_settings.scss";
 
-$max-1210: "only screen and (max-width : 75.625em)";
-$min-1020: "only screen and (min-width : 63.750em)";
+
+
 $max-610: "only screen and (max-width : 38.125em)";
 $max-500: "only screen and (max-width : 31.250em)";
-$max-400: "only screen and (max-width : 25.000em)";
 
 
-.blog-index,
-.standard-post {
+.blog-index {
 	section.blog-roll {
 		@include span-columns(12 of 16);
 
@@ -78,19 +76,6 @@ $max-400: "only screen and (max-width : 25.000em)";
 			}
 		}
 	}
-	aside {
-		@include span-columns(4 of 16);
-
-		.aside-content {
-			padding: 0 em(12) 0 0;
-			position: fixed;
-
-			@media #{$min-1020} {
-				max-width: em(280);
-				min-width: em(230);
-			}
-		}
-	}
 }
 
 @include media($medium) {  // 750px
@@ -98,23 +83,8 @@ $max-400: "only screen and (max-width : 25.000em)";
 	.standard-post {
 		section.blog-roll {
 			margin-top: em(280);
-		}
-
-		section.blog-roll,
-		aside {
 			@include span-columns(12 of 12);
-		}
 
-		aside {
-			@include shift(-12);
-
-			.aside-content {
-				padding: 0;
-				position: initial;
-			}
-		}
-
-		section.blog-roll {
 			article.post-summary {
 				header#post-titles {
 					time,
@@ -161,8 +131,7 @@ $max-400: "only screen and (max-width : 25.000em)";
 }
 
 @media #{$max-500} {
-	.blog-index,
-	.standard-post {
+	.blog-index {
 		section.blog-roll {
 			article.post-summary {
 				header#post-titles {
@@ -189,15 +158,3 @@ $max-400: "only screen and (max-width : 25.000em)";
 	}
 }
 
-// @media #{$max-400} {
-// 	.blog-index {
-// 		section.blog-roll {
-// 			margin-top: em(280);
-// 		}
-// 	}
-// 	.standard-post {
-// 		article {
-// 			margin-top: em(280);
-// 		}
-// 	}
-// }

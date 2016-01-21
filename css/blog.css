@@ -77,7 +77,7 @@ header#site-header { height: 3.4375em; }
 header#site-header #nav-bar * { color: initial; text-shadow: initial; }
 header#site-header #nav-bar #index-link * { color: #fff; text-shadow: 0.0625rem 0.0625rem 0.1875rem #000; }
 
-#nav-bar { background: #fff url("/img/nav/top-bar/nav-detail.png") no-repeat left; background-size: 400px 100%; height: 3.4375em; position: fixed; width: 100%; top: 0; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+#nav-bar { background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail.png") no-repeat left; background-size: 400px 100%; height: 3.4375em; position: fixed; width: 100%; top: 0; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
 #nav-bar * { color: initial; text-shadow: initial; }
 
 #menu-toggle { font-size: 1.75rem; position: absolute; top: 0.5rem; right: 2rem; outline: none; background: none; padding: 0; }
@@ -93,17 +93,17 @@ header#site-header #nav-bar #index-link * { color: #fff; text-shadow: 0.0625rem 
 #index-link #mini { visibility: hidden; display: none; }
 #index-link:hover { text-decoration: none; }
 
-@media only screen and (max-width: 60em) { #nav-bar { background: #fff url("/img/nav/top-bar/nav-detail.png") no-repeat left; background-size: 18.75em 100%; height: 3.125em; }
+@media only screen and (max-width: 60em) { #nav-bar { background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail.png") no-repeat left; background-size: 18.75em 100%; height: 3.125em; }
   #index-link { font-size: 1.625rem; left: 0.75rem; top: 0.625rem; } }
 @media only screen and (max-width: 58.125em) { #index-link #large { visibility: hidden; display: none; }
   #index-link #mini { visibility: visible; display: block; } }
-@media only screen and (max-width: 53.125em) { #nav-bar { background: #fff url("/img/nav/top-bar/nav-detail.png") no-repeat left; background-size: 11.875em 100%; height: 3.125em; }
+@media only screen and (max-width: 53.125em) { #nav-bar { background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail.png") no-repeat left; background-size: 11.875em 100%; height: 3.125em; }
   #index-link { left: 0.625rem; } }
-@media screen and (max-width: 46.875em) { #nav-bar { background: #fff url("/img/nav/top-bar/nav-detail@750.png") no-repeat left; background-size: 9.375em 100%; height: 3.125em; } }
-@media only screen and (max-width: 43.688em) { #nav-bar { background: #fff url("/img/nav/top-bar/nav-detail.png") no-repeat left; background-size: 400px 100%; }
+@media screen and (max-width: 46.875em) { #nav-bar { background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail@750.png") no-repeat left; background-size: 9.375em 100%; height: 3.125em; } }
+@media only screen and (max-width: 43.688em) { #nav-bar { background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail.png") no-repeat left; background-size: 400px 100%; }
   #index-link #large { visibility: visible; display: block; }
   #index-link #mini { visibility: hidden; display: none; } }
-@media only screen and (max-width: 28.125em) { #nav-bar { background: #fff url("/img/nav/top-bar/nav-detail.png") no-repeat left; background-size: 120% 100%; }
+@media only screen and (max-width: 28.125em) { #nav-bar { background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail.png") no-repeat left; background-size: 120% 100%; }
   #index-link #large { visibility: hidden; display: none; }
   #index-link #mini { visibility: visible; display: block; } }
 @media only screen and (max-width: 26.25em) { #menu-toggle { text-shadow: 0 0.0625rem 0.125rem #000; }
@@ -116,28 +116,32 @@ footer#article-footer, footer#post-taxonomy { background: none; padding: 0; box-
 footer#page-footer { margin-top: 5em; }
 footer#page-footer h6 a#snc-link { color: #fff; }
 
-aside nav.side-nav ul.category-list { list-style: none; padding: 0; margin: 0; }
-aside nav.side-nav ul.category-list li { margin: 0.75rem 0; background-color: #fff; }
-aside nav.side-nav ul.category-list li a { border: 0.0625em solid #566270; display: block; text-decoration: none; padding: 0.5rem; color: #333; }
-aside nav.side-nav ul.category-list li a:hover { color: #fff; }
-aside nav.side-nav ul.category-list li a #small { display: none; visiblity: hidden; }
-aside nav.side-nav ul.category-list li:hover { background-color: #566270; }
+.blog-index aside, .standard-post aside { float: left; display: block; margin-right: 1.75788%; width: 23.68159%; }
+.blog-index aside:last-child, .standard-post aside:last-child { margin-right: 0; }
+.blog-index aside .aside-content, .standard-post aside .aside-content { padding: 0 0.75em 0 0; position: fixed; }
+@media only screen and (min-width: 63.75em) { .blog-index aside .aside-content, .standard-post aside .aside-content { max-width: 17.5em; min-width: 14.375em; } }
+.blog-index aside .page-title, .standard-post aside .page-title { background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); padding: 1em 0.5em 0.5em; margin-bottom: 1.375em; }
+.blog-index aside .page-title h1, .standard-post aside .page-title h1 { font-size: 2.8125em; }
+@media screen and (max-width: 46.875em) { .blog-index aside .page-title h1, .standard-post aside .page-title h1 { font-size: 1.9375em; } }
+.blog-index aside .page-title.smaller h1, .standard-post aside .page-title.smaller h1 { font-size: 2.25rem; }
+@media screen and (max-width: 46.875em) { .blog-index aside .page-title.smaller h1, .standard-post aside .page-title.smaller h1 { font-size: 1.9375em; } }
+.blog-index aside nav.side-nav ul.category-list, .standard-post aside nav.side-nav ul.category-list { list-style: none; padding: 0; margin: 0; }
+.blog-index aside nav.side-nav ul.category-list li, .standard-post aside nav.side-nav ul.category-list li { margin: 0.75rem 0; background-color: #fff; }
+.blog-index aside nav.side-nav ul.category-list li a, .standard-post aside nav.side-nav ul.category-list li a { border: 0.0625em solid #566270; display: block; text-decoration: none; padding: 0.5rem; color: #333; }
+.blog-index aside nav.side-nav ul.category-list li a:hover, .standard-post aside nav.side-nav ul.category-list li a:hover { color: #fff; }
+.blog-index aside nav.side-nav ul.category-list li a #small, .standard-post aside nav.side-nav ul.category-list li a #small { display: none; visiblity: hidden; }
+.blog-index aside nav.side-nav ul.category-list li:hover, .standard-post aside nav.side-nav ul.category-list li:hover { background-color: #566270; }
 
-.page-title { background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); padding: 1em 0.5em 0.5em; margin-bottom: 1.375em; }
-.page-title h1 { font-size: 2.8125em; }
-@media screen and (max-width: 46.875em) { .page-title h1 { font-size: 1.9375em; } }
-
-.page-title.smaller h1 { font-size: 2.25rem; }
-@media screen and (max-width: 46.875em) { .page-title.smaller h1 { font-size: 1.9375em; } }
-
-@media screen and (max-width: 46.875em) { .page-title { margin-bottom: 0.75em; }
-  aside { position: initial; }
-  aside nav.side-nav ul.category-list li { float: left; display: block; margin-right: 2.35765%; width: 48.82117%; margin-top: 0; }
-  aside nav.side-nav ul.category-list li:last-child { margin-right: 0; }
-  aside nav.side-nav ul.category-list li:nth-child(2n) { margin-right: 0; }
-  aside nav.side-nav ul.category-list li:nth-child(2n+1) { clear: left; } }
-@media only screen and (max-width: 23.75em) { aside nav.side-nav ul.category-list li a #large { display: none; visibility: hidden; }
-  aside nav.side-nav ul.category-list li a #small { display: block; visibility: visible; } }
+@media screen and (max-width: 46.875em) { .blog-index aside, .standard-post aside { position: initial; float: left; display: block; margin-right: 2.35765%; width: 100%; margin-left: -102.35765%; }
+  .blog-index aside:last-child, .standard-post aside:last-child { margin-right: 0; }
+  .blog-index aside .aside-content, .standard-post aside .aside-content { padding: 0; position: initial; }
+  .blog-index aside .page-title, .standard-post aside .page-title { margin-bottom: 0.75em; }
+  .blog-index aside nav.side-nav ul.category-list li, .standard-post aside nav.side-nav ul.category-list li { float: left; display: block; margin-right: 2.35765%; width: 48.82117%; margin-top: 0; }
+  .blog-index aside nav.side-nav ul.category-list li:last-child, .standard-post aside nav.side-nav ul.category-list li:last-child { margin-right: 0; }
+  .blog-index aside nav.side-nav ul.category-list li:nth-child(2n), .standard-post aside nav.side-nav ul.category-list li:nth-child(2n) { margin-right: 0; }
+  .blog-index aside nav.side-nav ul.category-list li:nth-child(2n+1), .standard-post aside nav.side-nav ul.category-list li:nth-child(2n+1) { clear: left; } }
+@media only screen and (max-width: 23.75em) { .blog-index aside nav.side-nav ul.category-list li a #large, .standard-post aside nav.side-nav ul.category-list li a #large { display: none; visibility: hidden; }
+  .blog-index aside nav.side-nav ul.category-list li a #small, .standard-post aside nav.side-nav ul.category-list li a #small { display: block; visibility: visible; } }
 .row#get-social { height: 5.375em; margin-bottom: 1.125em; }
 .row#get-social a { text-decoration: none; width: 5rem; text-align: center; }
 .row#get-social a img { width: 1.5625rem; height: 1.5625rem; }
@@ -158,33 +162,26 @@ a#facebook-share, a#twitter-share { float: left; margin-right: 0.75rem; }
 a#pinterest-share { background-color: #BE091C; height: 3.4375rem; float: left; padding-top: 0.875rem; margin-bottom: 0; }
 a#pinterest-share:hover { cursor: pointer; cursor: hand; }
 
-.blog-index section.blog-roll, .standard-post section.blog-roll { float: left; display: block; margin-right: 1.75788%; width: 74.56053%; }
-.blog-index section.blog-roll:last-child, .standard-post section.blog-roll:last-child { margin-right: 0; }
-.blog-index section.blog-roll article.post-summary, .standard-post section.blog-roll article.post-summary { padding: 1em; margin-bottom: 1.625em; background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
-.blog-index section.blog-roll article.post-summary header#post-titles, .standard-post section.blog-roll article.post-summary header#post-titles { display: block; margin-bottom: 1em; }
-.blog-index section.blog-roll article.post-summary header#post-titles::after, .standard-post section.blog-roll article.post-summary header#post-titles::after { clear: both; content: ""; display: table; }
-.blog-index section.blog-roll article.post-summary header#post-titles time, .standard-post section.blog-roll article.post-summary header#post-titles time { font-family: "Lintel Medium", sans-serif; letter-spacing: 0.075rem; font-size: 1.125rem; text-transform: uppercase; }
-.blog-index section.blog-roll article.post-summary header#post-titles h1, .standard-post section.blog-roll article.post-summary header#post-titles h1 { font-size: 2.625rem; }
-.blog-index section.blog-roll article.post-summary header#post-titles h1 a:hover, .standard-post section.blog-roll article.post-summary header#post-titles h1 a:hover { color: #566270; text-decoration: none; }
-.blog-index section.blog-roll article.post-summary header#post-titles h2, .standard-post section.blog-roll article.post-summary header#post-titles h2 { font-size: 1.5rem; margin-bottom: 1rem; }
-.blog-index section.blog-roll article.post-summary header#post-titles a.read-more, .standard-post section.blog-roll article.post-summary header#post-titles a.read-more { margin-left: 0.5rem; font-size: 1.125rem; padding: 0.25rem 0.75rem; display: inline-block; }
-.blog-index section.blog-roll article.post-summary section#hero-image, .standard-post section.blog-roll article.post-summary section#hero-image { display: block; margin-bottom: 1.25em; }
-.blog-index section.blog-roll article.post-summary section#hero-image::after, .standard-post section.blog-roll article.post-summary section#hero-image::after { clear: both; content: ""; display: table; }
-.blog-index section.blog-roll article.post-summary section#hero-image img, .standard-post section.blog-roll article.post-summary section#hero-image img { border: 0.0625em solid #333; }
-.blog-index section.blog-roll article.post-summary footer#post-taxonomy, .standard-post section.blog-roll article.post-summary footer#post-taxonomy { display: block; text-align: left; }
-.blog-index section.blog-roll article.post-summary footer#post-taxonomy::after, .standard-post section.blog-roll article.post-summary footer#post-taxonomy::after { clear: both; content: ""; display: table; }
-.blog-index section.blog-roll article.post-summary footer#post-taxonomy h4, .standard-post section.blog-roll article.post-summary footer#post-taxonomy h4 { text-transform: uppercase; letter-spacing: 0.075rem; font-size: 1rem; }
-.blog-index section.blog-roll article.post-summary footer#post-taxonomy h4#tags, .standard-post section.blog-roll article.post-summary footer#post-taxonomy h4#tags { margin: 0; }
-.blog-index aside, .standard-post aside { float: left; display: block; margin-right: 1.75788%; width: 23.68159%; }
-.blog-index aside:last-child, .standard-post aside:last-child { margin-right: 0; }
-.blog-index aside .aside-content, .standard-post aside .aside-content { padding: 0 0.75em 0 0; position: fixed; }
-@media only screen and (min-width: 63.75em) { .blog-index aside .aside-content, .standard-post aside .aside-content { max-width: 17.5em; min-width: 14.375em; } }
+.blog-index section.blog-roll { float: left; display: block; margin-right: 1.75788%; width: 74.56053%; }
+.blog-index section.blog-roll:last-child { margin-right: 0; }
+.blog-index section.blog-roll article.post-summary { padding: 1em; margin-bottom: 1.625em; background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+.blog-index section.blog-roll article.post-summary header#post-titles { display: block; margin-bottom: 1em; }
+.blog-index section.blog-roll article.post-summary header#post-titles::after { clear: both; content: ""; display: table; }
+.blog-index section.blog-roll article.post-summary header#post-titles time { font-family: "Lintel Medium", sans-serif; letter-spacing: 0.075rem; font-size: 1.125rem; text-transform: uppercase; }
+.blog-index section.blog-roll article.post-summary header#post-titles h1 { font-size: 2.625rem; }
+.blog-index section.blog-roll article.post-summary header#post-titles h1 a:hover { color: #566270; text-decoration: none; }
+.blog-index section.blog-roll article.post-summary header#post-titles h2 { font-size: 1.5rem; margin-bottom: 1rem; }
+.blog-index section.blog-roll article.post-summary header#post-titles a.read-more { margin-left: 0.5rem; font-size: 1.125rem; padding: 0.25rem 0.75rem; display: inline-block; }
+.blog-index section.blog-roll article.post-summary section#hero-image { display: block; margin-bottom: 1.25em; }
+.blog-index section.blog-roll article.post-summary section#hero-image::after { clear: both; content: ""; display: table; }
+.blog-index section.blog-roll article.post-summary section#hero-image img { border: 0.0625em solid #333; }
+.blog-index section.blog-roll article.post-summary footer#post-taxonomy { display: block; text-align: left; }
+.blog-index section.blog-roll article.post-summary footer#post-taxonomy::after { clear: both; content: ""; display: table; }
+.blog-index section.blog-roll article.post-summary footer#post-taxonomy h4 { text-transform: uppercase; letter-spacing: 0.075rem; font-size: 1rem; }
+.blog-index section.blog-roll article.post-summary footer#post-taxonomy h4#tags { margin: 0; }
 
-@media screen and (max-width: 46.875em) { .blog-index section.blog-roll, .standard-post section.blog-roll { margin-top: 17.5em; }
-  .blog-index section.blog-roll, .blog-index aside, .standard-post section.blog-roll, .standard-post aside { float: left; display: block; margin-right: 2.35765%; width: 100%; }
-  .blog-index section.blog-roll:last-child, .blog-index aside:last-child, .standard-post section.blog-roll:last-child, .standard-post aside:last-child { margin-right: 0; }
-  .blog-index aside, .standard-post aside { margin-left: -102.35765%; }
-  .blog-index aside .aside-content, .standard-post aside .aside-content { padding: 0; position: initial; }
+@media screen and (max-width: 46.875em) { .blog-index section.blog-roll, .standard-post section.blog-roll { margin-top: 17.5em; float: left; display: block; margin-right: 2.35765%; width: 100%; }
+  .blog-index section.blog-roll:last-child, .standard-post section.blog-roll:last-child { margin-right: 0; }
   .blog-index section.blog-roll article.post-summary header#post-titles time, .blog-index section.blog-roll article.post-summary header#post-titles a.read-more, .standard-post section.blog-roll article.post-summary header#post-titles time, .standard-post section.blog-roll article.post-summary header#post-titles a.read-more { font-size: 1rem; }
   .blog-index section.blog-roll article.post-summary header#post-titles h1, .standard-post section.blog-roll article.post-summary header#post-titles h1 { font-size: 1.9375rem; margin: 0 0 0.25rem; }
   .blog-index section.blog-roll article.post-summary header#post-titles h2, .standard-post section.blog-roll article.post-summary header#post-titles h2 { font-size: 1.375rem; }
@@ -192,10 +189,10 @@ a#pinterest-share:hover { cursor: pointer; cursor: hand; }
 @media only screen and (max-width: 38.125em) { .blog-index section.blog-roll article.post-summary { padding: 1em 0.75em; }
   .blog-index section.blog-roll article.post-summary header#post-titles { margin-bottom: 1.25em; }
   .blog-index section.blog-roll article.post-summary header#post-titles h2 { margin-bottom: 1rem; } }
-@media only screen and (max-width: 31.25em) { .blog-index section.blog-roll article.post-summary header#post-titles h1, .standard-post section.blog-roll article.post-summary header#post-titles h1 { margin-bottom: 0.5rem; }
-  .blog-index section.blog-roll article.post-summary header#post-titles h2, .standard-post section.blog-roll article.post-summary header#post-titles h2 { margin-bottom: 0.75rem; }
-  .blog-index section.blog-roll article.post-summary header#post-titles a.read-more, .standard-post section.blog-roll article.post-summary header#post-titles a.read-more { display: block; width: 6.875rem; text-align: center; margin: 0.875rem 0 0 0; }
-  .blog-index section.blog-roll article.post-summary footer#post-taxonomy h4, .standard-post section.blog-roll article.post-summary footer#post-taxonomy h4 { font-size: 0.75rem; } }
+@media only screen and (max-width: 31.25em) { .blog-index section.blog-roll article.post-summary header#post-titles h1 { margin-bottom: 0.5rem; }
+  .blog-index section.blog-roll article.post-summary header#post-titles h2 { margin-bottom: 0.75rem; }
+  .blog-index section.blog-roll article.post-summary header#post-titles a.read-more { display: block; width: 6.875rem; text-align: center; margin: 0.875rem 0 0 0; }
+  .blog-index section.blog-roll article.post-summary footer#post-taxonomy h4 { font-size: 0.75rem; } }
 .standard-post main article { float: left; display: block; margin-right: 1.75788%; width: 74.56053%; padding: 1em; margin-bottom: 1.625em; background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
 .standard-post main article:last-child { margin-right: 0; }
 .standard-post main article header { display: block; margin-bottom: 1.875em; }

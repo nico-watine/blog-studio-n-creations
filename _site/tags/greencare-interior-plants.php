@@ -49,25 +49,6 @@
 		
 			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
 	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/summary-of-the-greencare-interior-plants-project"><span itemprop="name">Summary of the Greencare Interior Plants Project</span></a></h1>
-		<h2 itemprop="description" class="subtitle">A look back on the final GreencareTX.com website and how it has aided the client</h2>
-		<time datetime="2015-12-23T08:00:00-06:00">23 December 2015</time>
-		<meta itemprop="datePublished" content="2015-12-23T08:00:00-06:00"/>
-		<a itemprop="mainEntityOfPage" href="/web-design/summary-of-the-greencare-interior-plants-project" class="read-more blue floating">Read More</a>
-	</header>
-	<section id="hero-image">
-		<a itemprop="mainEntityOfPage" href="/web-design/summary-of-the-greencare-interior-plants-project"> 
-			<img itemprop="image" src="/img/post-attachments/projects/gctx/12-23/greencare-spread.jpg" srcset="/img/post-attachments/projects/gctx/12-23/greencare-spread@2x.jpg 2x" alt="A detail shot of the GreencareTX.com website">
-		</a>
-	</section>
-	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a class="simple" href="/web-design/"><span itemprop="genre">Web Design</span></a></h4>
-		<h4 id="tags">Tags | <a class="simple" href="/tags/greencare-interior-plants"><span itemprop="keywords">Greencare Interior Plants</span></a></h4>
-	</footer>
-</article>
-		
-			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
-	<header id="post-titles">
 		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-design/greencare-interior-plants-website-frame-setup"><span itemprop="name">Greencare Interior Plants Website Frame Setup</span></a></h1>
 		<h2 itemprop="description" class="subtitle">The new GreencareTX.com website has a responsive site structure</h2>
 		<time datetime="2015-03-31T08:00:00-06:00">31 March 2015</time>
