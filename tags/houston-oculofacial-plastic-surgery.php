@@ -1,5 +1,6 @@
 ---
 layout: tags/houston-oculofacial-plastic-surgery
+body-class: blog-index
 page-title: Houston Oculofacial Plastic Surgery Tags
 page-description: The Studio N Creations blog roll containing all posts tagged under 'Houston Oculofacial'
 slug: houston-oculofacial-plastic-surgery

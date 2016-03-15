@@ -1,5 +1,6 @@
 ---
 layout: post/standard-post
+body-class: standard-post
 page-title: Houston Oculofacial Plastic Surgery Spring Postcard
 page-description: We recently designed a spring-time promotional postcard for Houston Oculofacial
 slug: houston-oculofacial-plastic-surgery-spring-postcard

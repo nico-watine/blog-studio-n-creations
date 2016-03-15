@@ -1,5 +1,6 @@
 ---
 layout: tags/lisa-esposito
+body-class: blog-index
 page-title: Lisa Esposito Tags
 page-description: The Studio N Creations blog roll containing all posts tagged under 'Lisa Esposito'
 slug: lisa-esposito

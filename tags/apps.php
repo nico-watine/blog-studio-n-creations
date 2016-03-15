@@ -1,5 +1,6 @@
 ---
 layout: tags/apps
+body-class: blog-index
 page-title: Apps Tag
 page-description: The Studio N Creations blog roll containing all posts tagged under 'Apps'
 slug: apps

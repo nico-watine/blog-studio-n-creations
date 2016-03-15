@@ -1,5 +1,6 @@
 ---
 layout: post/standard-post
+body-class: standard-post
 page-title: The Jardin de France Tags - Examples
 page-description: The tags have been attached to the company's latest shipment of antiques
 slug: jardin-de-france-tag-examples

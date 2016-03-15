@@ -1,5 +1,6 @@
 ---
 layout: tags/jardin-de-france
+body-class: blog-index
 page-title: Jardin de France Tags
 page-description: The Studio N Creations blog roll containing all posts tagged under 'Jardin de France'
 slug: jardin-de-france

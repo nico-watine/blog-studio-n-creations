@@ -1,5 +1,6 @@
 ---
 layout: post/standard-post
+body-class: standard-post
 page-title: Working With Artist Dr. Lisa Esposito
 page-description: We are in the process of designing a new website for artist Dr. Lisa esposito
 slug: new-lisa-esposito-project

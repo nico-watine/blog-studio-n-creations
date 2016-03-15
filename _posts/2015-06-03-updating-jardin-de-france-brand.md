@@ -1,5 +1,6 @@
 ---
 layout: post/standard-post
+body-class: standard-post
 page-title: Updating the 'Jardin de France' brand
 page-description: The houston-based antique importers are ready for a new website
 slug: updating-jardin-de-france-brand

@@ -1,7 +1,3 @@
----
-body-class: blog-index
----
-
 {% include components/head-og.php %}
 {% include components/body-tag.html %}
 {% include blocks/nav/standard-nav.html %}

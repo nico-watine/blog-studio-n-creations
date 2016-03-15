@@ -1,5 +1,6 @@
 ---
 layout: post/standard-post
+body-class: standard-post
 page-title: New Lemon Peel Facial Logo
 page-description: We recently designed a custom logo for Houston-based esthetician Michelle Wright of Lemon Peel Facial
 slug: lemon-peel-facial-logo

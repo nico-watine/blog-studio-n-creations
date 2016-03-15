@@ -1,5 +1,6 @@
 ---
 layout: category/web-design
+body-class: blog-index
 page-title: Web Design Posts
 page-description: The Studio N Creations blog roll containing all web design-related articles
 name: web-design

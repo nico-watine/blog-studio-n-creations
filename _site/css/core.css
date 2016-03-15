@@ -365,25 +365,25 @@ html {
 
 @font-face {
   font-family: 'Lintel ExtraBold';
-  src: url("/fonts/lintel/extrabold/lintel-extrabold.eot");
+  src: url("http://cdn.studioncreations.com/fonts/lintel/extrabold/lintel-extrabold.eot");
   /* IE9 Compat Modes */
-  src: url("/fonts/lintel/extrabold/lintel-extrabold.eot?#iefix") format("embedded-opentype"), url("/fonts/lintel/extrabold/lintel-extrabold.woff") format("woff"), url("/fonts/lintel/extrabold/lintel-extrabold.ttf") format("truetype"), url("/fonts/lintel/extrabold/lintel-extrabold.svg#f3f18877729637ca062da71f13f54fb5") format("svg");
+  src: url("http://cdn.studioncreations.com/fonts/lintel/extrabold/lintel-extrabold.eot?#iefix") format("embedded-opentype"), url("http://cdn.studioncreations.com/fonts/lintel/extrabold/lintel-extrabold.woff") format("woff"), url("http://cdn.studioncreations.com/fonts/lintel/extrabold/lintel-extrabold.ttf") format("truetype"), url("http://cdn.studioncreations.com/fonts/lintel/extrabold/lintel-extrabold.svg#f3f18877729637ca062da71f13f54fb5") format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: 700; }
 @font-face {
   font-family: 'Lintel Medium';
-  src: url("/fonts/lintel/medium/lintel-medium.eot");
+  src: url("http://cdn.studioncreations.com/fonts/lintel/medium/lintel-medium.eot");
   /* IE9 Compat Modes */
-  src: url("/fonts/lintel/medium/lintel-medium.eot?#iefix") format("embedded-opentype"), url("/fonts/lintel/medium/lintel-medium.woff") format("woff"), url("/fonts/lintel/medium/lintel-medium.ttf") format("truetype"), url("/fonts/lintel/medium/lintel-medium.svg#33079ef64bb800f14888bef97abf5441") format("svg");
+  src: url("http://cdn.studioncreations.com/fonts/lintel/medium/lintel-medium.eot?#iefix") format("embedded-opentype"), url("http://cdn.studioncreations.com/fonts/lintel/medium/lintel-medium.woff") format("woff"), url("http://cdn.studioncreations.com/fonts/lintel/medium/lintel-medium.ttf") format("truetype"), url("http://cdn.studioncreations.com/fonts/lintel/medium/lintel-medium.svg#33079ef64bb800f14888bef97abf5441") format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: 400; }
 @font-face {
   font-family: 'nav';
-  src: url("/fonts/nav/nav.eot");
+  src: url("http://cdn.studioncreations.com/fonts/nav/nav.eot");
   /* IE9 Compat Modes */
-  src: url("/fonts/nav/nav.eot?#iefix") format("embedded-opentype"), url("/fonts/nav/nav.woff") format("woff"), url("/fonts/nav/nav.ttf") format("truetype"), url("/fonts/nav/nav.svg#1da3456e837ae6ef244abd56d21c2bc6") format("svg");
+  src: url("http://cdn.studioncreations.com/fonts/nav/nav.eot?#iefix") format("embedded-opentype"), url("http://cdn.studioncreations.com/fonts/nav/nav.woff") format("woff"), url("http://cdn.studioncreations.com/fonts/nav/nav.ttf") format("truetype"), url("http://cdn.studioncreations.com/fonts/nav/nav.svg#1da3456e837ae6ef244abd56d21c2bc6") format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: 400; }
@@ -1188,7 +1188,7 @@ body {
   background: #f9f9f9; }
 
 #nav-bar {
-  background: #fff url("/img/nav/top-bar/nav-detail.png") no-repeat left;
+  background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail.png") no-repeat left;
   background-size: auto 100%;
   height: 3.4375em;
   position: fixed;
@@ -1199,7 +1199,7 @@ body {
   #nav-bar #button-wrapper {
     position: absolute;
     right: 0;
-    background: url("/img/nav/top-bar/button-wrapper.png") no-repeat right;
+    background: url("http://cdn.studioncreations.com/img/nav/top-bar/button-wrapper.png") no-repeat right;
     background-size: auto 100%;
     height: 100%;
     width: 11.25em; }
@@ -1443,7 +1443,7 @@ span.family {
         top: 9.375rem; } }
 
 #nav-bar {
-  background: #fff url("/img/nav/top-bar/nav-detail.png") no-repeat left;
+  background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail.png") no-repeat left;
   background-size: 400px 100%;
   height: 3.4375em;
   position: fixed;
@@ -1497,7 +1497,7 @@ span.family {
 
 @media only screen and (max-width: 60em) {
   #nav-bar {
-    background: #fff url("/img/nav/top-bar/nav-detail.png") no-repeat left;
+    background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail.png") no-repeat left;
     background-size: 18.75em 100%;
     height: 3.125em; }
 
@@ -1514,7 +1514,7 @@ span.family {
     display: block; } }
 @media only screen and (max-width: 53.125em) {
   #nav-bar {
-    background: #fff url("/img/nav/top-bar/nav-detail.png") no-repeat left;
+    background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail.png") no-repeat left;
     background-size: 11.875em 100%;
     height: 3.125em; }
 
@@ -1522,12 +1522,12 @@ span.family {
     left: 0.625rem; } }
 @media screen and (max-width: 46.875em) {
   #nav-bar {
-    background: #fff url("/img/nav/top-bar/nav-detail@750.png") no-repeat left;
+    background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail@750.png") no-repeat left;
     background-size: 9.375em 100%;
     height: 3.125em; } }
 @media only screen and (max-width: 43.688em) {
   #nav-bar {
-    background: #fff url("/img/nav/top-bar/nav-detail.png") no-repeat left;
+    background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail.png") no-repeat left;
     background-size: 400px 100%; }
 
   #index-link #large {
@@ -1538,7 +1538,7 @@ span.family {
     display: none; } }
 @media only screen and (max-width: 28.125em) {
   #nav-bar {
-    background: #fff url("/img/nav/top-bar/nav-detail.png") no-repeat left;
+    background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail.png") no-repeat left;
     background-size: 120% 100%; }
 
   #index-link #large {

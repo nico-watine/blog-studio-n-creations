@@ -1,5 +1,6 @@
 ---
 layout: post/standard-post
+body-class: standard-post
 page-title: New Print Material for 'Jardin de France'
 page-description: We're creating a brand for a French-antiques import company
 slug: jardin-de-france-branding

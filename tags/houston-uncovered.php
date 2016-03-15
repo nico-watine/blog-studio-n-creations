@@ -1,5 +1,6 @@
 ---
 layout: tags/houston-uncovered
+body-class: blog-index
 page-title: Houston Uncovered Tags
 page-description: The Studio N Creations blog roll containing all posts tagged under 'Houston Uncovered'
 slug: houston-uncovered

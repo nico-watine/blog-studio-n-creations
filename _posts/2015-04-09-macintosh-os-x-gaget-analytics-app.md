@@ -1,5 +1,6 @@
 ---
 layout: post/standard-post
+body-class: standard-post
 page-title: OS X Gaget Analytics App
 page-description: Gaget Analytics is a new and excellent app for monitoring website traffic from your Macintosh
 slug: macintosh-os-x-gaget-analytics-app

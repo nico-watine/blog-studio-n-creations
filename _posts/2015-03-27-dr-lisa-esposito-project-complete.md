@@ -1,5 +1,6 @@
 ---
 layout: post/standard-post
+body-class: standard-post
 page-title:  www.LisaEsposito.com Site Redesign Complete
 page-description: We've finished the website redesign for Dr. Lisa Esposito
 slug: dr-lisa-esposito-project-complete

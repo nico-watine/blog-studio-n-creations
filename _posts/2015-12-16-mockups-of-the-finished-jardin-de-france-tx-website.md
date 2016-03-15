@@ -1,5 +1,6 @@
 ---
 layout: post/standard-post
+body-class: standard-post
 page-title: Mockups of the finished Jardin de France TX Website
 page-description: Some mockups of the completed Jardin de France website rendered on various devices
 slug: mockups-of-the-finished-jardin-de-france-tx-website

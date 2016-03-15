@@ -1,5 +1,6 @@
 ---
 layout: post/standard-post
+body-class: standard-post
 page-title: A HoustonUncovered.com Preview
 page-description: Here is a preview of the upcoming www.HoustonUncovered.com
 slug: houston-uncovered-preview

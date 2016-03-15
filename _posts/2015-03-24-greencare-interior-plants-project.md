@@ -1,5 +1,6 @@
 ---
 layout: post/standard-post
+body-class: standard-post
 page-title: Introducing the Greencare Interior Plants Project
 page-description: We're giving Greencare Interior Plants a fresh, new look
 slug: greencare-interior-plants-project

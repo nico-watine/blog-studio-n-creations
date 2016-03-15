@@ -1,5 +1,6 @@
 ---
 layout: category/print-work
+body-class: blog-index
 page-title: Print Work Posts
 page-description: The Studio N Creations blog roll containing all printed work-related articles
 name: Print Work

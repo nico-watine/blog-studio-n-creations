@@ -1,5 +1,6 @@
 ---
 layout: post/standard-post
+body-class: standard-post
 page-title: HoustonUncovered.com Post
 page-description: Here is a clipping of a new HoustonUncovered.com photo post
 slug: houston-uncovered-post

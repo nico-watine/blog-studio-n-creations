@@ -1,5 +1,6 @@
 ---
 layout: post/standard-post
+body-class: standard-post
 page-title: Greencare Interior Plants Website Frame Setup
 page-description: The new GreencareTX.com website has a responsive site structure
 slug: greencare-interior-plants-website-frame-setup

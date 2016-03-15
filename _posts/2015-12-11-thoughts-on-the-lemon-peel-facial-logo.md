@@ -1,5 +1,6 @@
 ---
 layout: post/standard-post
+body-class: standard-post
 page-title: Thoughts on the LemonPeelFacial.com Logo
 page-description: We had some thoughts of the new LemonPeelFacial.com logo
 slug: thoughts-on-the-lemon-peel-facial-logo
