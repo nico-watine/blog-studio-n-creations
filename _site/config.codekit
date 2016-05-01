@@ -104,6 +104,27 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/_drafts\/2016-03-20-new-clements-high-school-athletic-booster-club-website.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_drafts\/2016-03-20-new-clements-high-school-athletic-booster-club-website.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/_drafts\/2016-03-20-new-clements-high-school-athletic-booster-club-website.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
 	"\/_drafts\/a-look-back-at-last-years-favicons.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 0,
@@ -227,6 +248,15 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/_ignores\/article-image-sizes.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_ignores\/article-image-sizes.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_ignores\/browser-upgrade-snippet.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -241,6 +271,26 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_ignores\/css-references.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_ignores\/facebook-javascript-sdk.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/_ignores\/facebook-javascript-sdk.js",
+		"outputAbbreviatedPath": "\/facebook-javascript-sdk-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
+	"\/_ignores\/favicon-linking.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_ignores\/favicon-linking.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -283,6 +333,28 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
+		},
+	"\/_ignores\/Rectangle-211.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24360,
+		"inputAbbreviatedPath": "\/_ignores\/Rectangle-211.png",
+		"outputAbbreviatedPath": "\/_ignores\/Rectangle-211.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_ignores\/SNC-Icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61703,
+		"inputAbbreviatedPath": "\/_ignores\/SNC-Icon.png",
+		"outputAbbreviatedPath": "\/_ignores\/SNC-Icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/_includes\/blocks\/article\/article-post-summary.html": {
 		"fileType": 8192,
@@ -518,11 +590,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_layouts\/tags\/clements-athletic-booster-club.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/tags\/clements-athletic-booster-club.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_layouts\/tags\/dribbble.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_layouts\/tags\/dribbble.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_layouts\/tags\/essential-sound-production.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/tags\/essential-sound-production.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -875,6 +965,27 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/_posts\/2016-04-25-new-essential-sound-production-project.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_posts\/2016-04-25-new-essential-sound-production-project.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/_posts\/2016-04-25-new-essential-sound-production-project.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
 	"\/_site\/403.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -893,46 +1004,178 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/apple-touch-icon-120x120-precomposed.png": {
+	"\/_site\/android-chrome-144x144.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1395,
-		"inputAbbreviatedPath": "\/_site\/apple-touch-icon-120x120-precomposed.png",
-		"outputAbbreviatedPath": "\/_site\/apple-touch-icon-120x120-precomposed.png",
+		"initialSize": 5262,
+		"inputAbbreviatedPath": "\/_site\/android-chrome-144x144.png",
+		"outputAbbreviatedPath": "\/_site\/android-chrome-144x144.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/apple-touch-icon-152x152-precomposed.png": {
+	"\/_site\/android-chrome-192x192.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1658,
-		"inputAbbreviatedPath": "\/_site\/apple-touch-icon-152x152-precomposed.png",
-		"outputAbbreviatedPath": "\/_site\/apple-touch-icon-152x152-precomposed.png",
+		"initialSize": 7678,
+		"inputAbbreviatedPath": "\/_site\/android-chrome-192x192.png",
+		"outputAbbreviatedPath": "\/_site\/android-chrome-192x192.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/apple-touch-icon-180x180-precomposed.png": {
+	"\/_site\/android-chrome-36x36.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1919,
-		"inputAbbreviatedPath": "\/_site\/apple-touch-icon-180x180-precomposed.png",
-		"outputAbbreviatedPath": "\/_site\/apple-touch-icon-180x180-precomposed.png",
+		"initialSize": 1396,
+		"inputAbbreviatedPath": "\/_site\/android-chrome-36x36.png",
+		"outputAbbreviatedPath": "\/_site\/android-chrome-36x36.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/apple-touch-icon-76x76-precomposed.png": {
+	"\/_site\/android-chrome-48x48.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1032,
-		"inputAbbreviatedPath": "\/_site\/apple-touch-icon-76x76-precomposed.png",
-		"outputAbbreviatedPath": "\/_site\/apple-touch-icon-76x76-precomposed.png",
+		"initialSize": 1723,
+		"inputAbbreviatedPath": "\/_site\/android-chrome-48x48.png",
+		"outputAbbreviatedPath": "\/_site\/android-chrome-48x48.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/android-chrome-72x72.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2497,
+		"inputAbbreviatedPath": "\/_site\/android-chrome-72x72.png",
+		"outputAbbreviatedPath": "\/_site\/android-chrome-72x72.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/android-chrome-96x96.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3001,
+		"inputAbbreviatedPath": "\/_site\/android-chrome-96x96.png",
+		"outputAbbreviatedPath": "\/_site\/android-chrome-96x96.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/apple-touch-icon-114x114.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3603,
+		"inputAbbreviatedPath": "\/_site\/apple-touch-icon-114x114.png",
+		"outputAbbreviatedPath": "\/_site\/apple-touch-icon-114x114.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/apple-touch-icon-120x120.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3966,
+		"inputAbbreviatedPath": "\/_site\/apple-touch-icon-120x120.png",
+		"outputAbbreviatedPath": "\/_site\/apple-touch-icon-120x120.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/apple-touch-icon-144x144.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5262,
+		"inputAbbreviatedPath": "\/_site\/apple-touch-icon-144x144.png",
+		"outputAbbreviatedPath": "\/_site\/apple-touch-icon-144x144.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/apple-touch-icon-152x152.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5356,
+		"inputAbbreviatedPath": "\/_site\/apple-touch-icon-152x152.png",
+		"outputAbbreviatedPath": "\/_site\/apple-touch-icon-152x152.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/apple-touch-icon-180x180.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6975,
+		"inputAbbreviatedPath": "\/_site\/apple-touch-icon-180x180.png",
+		"outputAbbreviatedPath": "\/_site\/apple-touch-icon-180x180.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/apple-touch-icon-57x57.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2096,
+		"inputAbbreviatedPath": "\/_site\/apple-touch-icon-57x57.png",
+		"outputAbbreviatedPath": "\/_site\/apple-touch-icon-57x57.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/apple-touch-icon-60x60.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2129,
+		"inputAbbreviatedPath": "\/_site\/apple-touch-icon-60x60.png",
+		"outputAbbreviatedPath": "\/_site\/apple-touch-icon-60x60.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/apple-touch-icon-72x72.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2497,
+		"inputAbbreviatedPath": "\/_site\/apple-touch-icon-72x72.png",
+		"outputAbbreviatedPath": "\/_site\/apple-touch-icon-72x72.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/apple-touch-icon-76x76.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2569,
+		"inputAbbreviatedPath": "\/_site\/apple-touch-icon-76x76.png",
+		"outputAbbreviatedPath": "\/_site\/apple-touch-icon-76x76.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/apple-touch-icon-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7714,
+		"inputAbbreviatedPath": "\/_site\/apple-touch-icon-precomposed.png",
+		"outputAbbreviatedPath": "\/_site\/apple-touch-icon-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -941,7 +1184,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1658,
+		"initialSize": 6975,
 		"inputAbbreviatedPath": "\/_site\/apple-touch-icon.png",
 		"outputAbbreviatedPath": "\/_site\/apple-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
@@ -1276,13 +1519,13 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/favicon.png": {
+	"\/_site\/favicon-96x96.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 389,
-		"inputAbbreviatedPath": "\/_site\/favicon.png",
-		"outputAbbreviatedPath": "\/_site\/favicon.png",
+		"initialSize": 3001,
+		"inputAbbreviatedPath": "\/_site\/favicon-96x96.png",
+		"outputAbbreviatedPath": "\/_site\/favicon-96x96.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1428,6 +1671,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/index\/og\/snc-blog-posts.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 574281,
+		"inputAbbreviatedPath": "\/_site\/img\/index\/og\/snc-blog-posts.png",
+		"outputAbbreviatedPath": "\/_site\/img\/index\/og\/snc-blog-posts.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/nav\/top-bar\/bg.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1490,6 +1744,94 @@
 		"initialSize": 48815,
 		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/print-work\/featured-slider.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/print-work\/featured-slider.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/cabc\/3-20\/cabc-ipad.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134167,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/cabc\/3-20\/cabc-ipad.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/cabc\/3-20\/cabc-ipad.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/cabc\/3-20\/cabc-ipad@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 253889,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/cabc\/3-20\/cabc-ipad@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/cabc\/3-20\/cabc-ipad@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/cabc\/3-20\/link-banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 153684,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/cabc\/3-20\/link-banner.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/cabc\/3-20\/link-banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/cabc\/3-20\/link-banner@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 245645,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/cabc\/3-20\/link-banner@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/cabc\/3-20\/link-banner@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/esp\/4-25\/link-banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76408,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/esp\/4-25\/link-banner.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/esp\/4-25\/link-banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/esp\/4-25\/link-banner@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128121,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/esp\/4-25\/link-banner@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/esp\/4-25\/link-banner@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/esp\/4-25\/post-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94357,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/esp\/4-25\/post-image.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/esp\/4-25\/post-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/projects\/esp\/4-25\/post-image@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 224191,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/esp\/4-25\/post-image@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/projects\/esp\/4-25\/post-image@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2493,6 +2835,72 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/_site\/manifest.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/manifest.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/_site\/manifest-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/_site\/mstile-144x144.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2779,
+		"inputAbbreviatedPath": "\/_site\/mstile-144x144.png",
+		"outputAbbreviatedPath": "\/_site\/mstile-144x144.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/mstile-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2119,
+		"inputAbbreviatedPath": "\/_site\/mstile-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/mstile-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/mstile-310x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2149,
+		"inputAbbreviatedPath": "\/_site\/mstile-310x150.png",
+		"outputAbbreviatedPath": "\/_site\/mstile-310x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/mstile-310x310.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5589,
+		"inputAbbreviatedPath": "\/_site\/mstile-310x310.png",
+		"outputAbbreviatedPath": "\/_site\/mstile-310x310.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/mstile-70x70.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1664,
+		"inputAbbreviatedPath": "\/_site\/mstile-70x70.png",
+		"outputAbbreviatedPath": "\/_site\/mstile-70x70.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/php\/autoVer.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2597,6 +3005,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/tags\/clements-athletic-booster-club.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tags\/clements-athletic-booster-club.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/tags\/essential-sound-production.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tags\/essential-sound-production.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/tags\/greencare-interior-plants.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2668,17 +3094,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/touch-icon-192x192.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2054,
-		"inputAbbreviatedPath": "\/_site\/touch-icon-192x192.png",
-		"outputAbbreviatedPath": "\/_site\/touch-icon-192x192.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		},
 	"\/_site\/web-design\/dr-lisa-esposito-project-complete.html": {
 		"fileType": 8192,
@@ -2761,6 +3176,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/web-design\/new-essential-sound-production-project.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/web-design\/new-essential-sound-production-project.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/web-design\/new-lisa-esposito-project.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2806,46 +3230,178 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/apple-touch-icon-120x120-precomposed.png": {
+	"\/android-chrome-144x144.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1395,
-		"inputAbbreviatedPath": "\/apple-touch-icon-120x120-precomposed.png",
-		"outputAbbreviatedPath": "\/apple-touch-icon-120x120-precomposed.png",
+		"initialSize": 5262,
+		"inputAbbreviatedPath": "\/android-chrome-144x144.png",
+		"outputAbbreviatedPath": "\/android-chrome-144x144.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/apple-touch-icon-152x152-precomposed.png": {
+	"\/android-chrome-192x192.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1658,
-		"inputAbbreviatedPath": "\/apple-touch-icon-152x152-precomposed.png",
-		"outputAbbreviatedPath": "\/apple-touch-icon-152x152-precomposed.png",
+		"initialSize": 7678,
+		"inputAbbreviatedPath": "\/android-chrome-192x192.png",
+		"outputAbbreviatedPath": "\/android-chrome-192x192.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/apple-touch-icon-180x180-precomposed.png": {
+	"\/android-chrome-36x36.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1919,
-		"inputAbbreviatedPath": "\/apple-touch-icon-180x180-precomposed.png",
-		"outputAbbreviatedPath": "\/apple-touch-icon-180x180-precomposed.png",
+		"initialSize": 1396,
+		"inputAbbreviatedPath": "\/android-chrome-36x36.png",
+		"outputAbbreviatedPath": "\/android-chrome-36x36.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/apple-touch-icon-76x76-precomposed.png": {
+	"\/android-chrome-48x48.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1032,
-		"inputAbbreviatedPath": "\/apple-touch-icon-76x76-precomposed.png",
-		"outputAbbreviatedPath": "\/apple-touch-icon-76x76-precomposed.png",
+		"initialSize": 1723,
+		"inputAbbreviatedPath": "\/android-chrome-48x48.png",
+		"outputAbbreviatedPath": "\/android-chrome-48x48.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/android-chrome-72x72.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2497,
+		"inputAbbreviatedPath": "\/android-chrome-72x72.png",
+		"outputAbbreviatedPath": "\/android-chrome-72x72.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/android-chrome-96x96.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3001,
+		"inputAbbreviatedPath": "\/android-chrome-96x96.png",
+		"outputAbbreviatedPath": "\/android-chrome-96x96.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon-114x114.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3603,
+		"inputAbbreviatedPath": "\/apple-touch-icon-114x114.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-114x114.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon-120x120.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3966,
+		"inputAbbreviatedPath": "\/apple-touch-icon-120x120.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-120x120.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon-144x144.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5262,
+		"inputAbbreviatedPath": "\/apple-touch-icon-144x144.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-144x144.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon-152x152.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5356,
+		"inputAbbreviatedPath": "\/apple-touch-icon-152x152.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-152x152.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon-180x180.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6975,
+		"inputAbbreviatedPath": "\/apple-touch-icon-180x180.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-180x180.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon-57x57.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2096,
+		"inputAbbreviatedPath": "\/apple-touch-icon-57x57.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-57x57.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon-60x60.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2129,
+		"inputAbbreviatedPath": "\/apple-touch-icon-60x60.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-60x60.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon-72x72.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2497,
+		"inputAbbreviatedPath": "\/apple-touch-icon-72x72.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-72x72.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon-76x76.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2569,
+		"inputAbbreviatedPath": "\/apple-touch-icon-76x76.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-76x76.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7714,
+		"inputAbbreviatedPath": "\/apple-touch-icon-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2854,7 +3410,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1658,
+		"initialSize": 6975,
 		"inputAbbreviatedPath": "\/apple-touch-icon.png",
 		"outputAbbreviatedPath": "\/apple-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
@@ -3598,13 +4154,13 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/favicon.png": {
+	"\/favicon-96x96.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 389,
-		"inputAbbreviatedPath": "\/favicon.png",
-		"outputAbbreviatedPath": "\/favicon.png",
+		"initialSize": 3001,
+		"inputAbbreviatedPath": "\/favicon-96x96.png",
+		"outputAbbreviatedPath": "\/favicon-96x96.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3750,6 +4306,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/index\/og\/snc-blog-posts.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 574281,
+		"inputAbbreviatedPath": "\/img\/index\/og\/snc-blog-posts.png",
+		"outputAbbreviatedPath": "\/img\/index\/og\/snc-blog-posts.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/nav\/top-bar\/bg.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3812,6 +4379,94 @@
 		"initialSize": 48815,
 		"inputAbbreviatedPath": "\/img\/post-attachments\/print-work\/featured-slider.jpg",
 		"outputAbbreviatedPath": "\/img\/post-attachments\/print-work\/featured-slider.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/cabc\/3-20\/cabc-ipad.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134167,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/cabc\/3-20\/cabc-ipad.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/cabc\/3-20\/cabc-ipad.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/cabc\/3-20\/cabc-ipad@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 253889,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/cabc\/3-20\/cabc-ipad@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/cabc\/3-20\/cabc-ipad@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/cabc\/3-20\/link-banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 153684,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/cabc\/3-20\/link-banner.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/cabc\/3-20\/link-banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/cabc\/3-20\/link-banner@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 245645,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/cabc\/3-20\/link-banner@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/cabc\/3-20\/link-banner@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/esp\/4-25\/link-banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76408,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/esp\/4-25\/link-banner.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/esp\/4-25\/link-banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/esp\/4-25\/link-banner@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128121,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/esp\/4-25\/link-banner@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/esp\/4-25\/link-banner@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/esp\/4-25\/post-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94357,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/esp\/4-25\/post-image.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/esp\/4-25\/post-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/projects\/esp\/4-25\/post-image@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 224191,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/projects\/esp\/4-25\/post-image@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/projects\/esp\/4-25\/post-image@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4815,6 +5470,72 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/manifest.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/manifest.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/manifest-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/mstile-144x144.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2779,
+		"inputAbbreviatedPath": "\/mstile-144x144.png",
+		"outputAbbreviatedPath": "\/mstile-144x144.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/mstile-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2119,
+		"inputAbbreviatedPath": "\/mstile-150x150.png",
+		"outputAbbreviatedPath": "\/mstile-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/mstile-310x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2149,
+		"inputAbbreviatedPath": "\/mstile-310x150.png",
+		"outputAbbreviatedPath": "\/mstile-310x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/mstile-310x310.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5589,
+		"inputAbbreviatedPath": "\/mstile-310x310.png",
+		"outputAbbreviatedPath": "\/mstile-310x310.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/mstile-70x70.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1664,
+		"inputAbbreviatedPath": "\/mstile-70x70.png",
+		"outputAbbreviatedPath": "\/mstile-70x70.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/php\/autoVer.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5372,6 +6093,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/tags\/clements-athletic-booster-club.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tags\/clements-athletic-booster-club.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/tags\/essential-sound-production.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tags\/essential-sound-production.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/tags\/greencare-interior-plants.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5443,17 +6182,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/touch-icon-192x192.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2049,
-		"inputAbbreviatedPath": "\/touch-icon-192x192.png",
-		"outputAbbreviatedPath": "\/touch-icon-192x192.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		},
 	"\/web-design\/index.php": {
 		"fileType": 8192,

@@ -9,6 +9,6 @@ visible-title: Dr. Lisa Esposito
 og-type: website
 og-url: tags/lisa-esposito
 og-title: Lisa Esposito Tag | Studio N Creations Blog
-og-image: 
+og-image: /img/post-attachments/projects/lisa-esposito/3-27/link-banner@2x.jpg
 og-description: The Studio N Creations blog roll containing all posts tagged under 'Lisa Esposito'
 ---

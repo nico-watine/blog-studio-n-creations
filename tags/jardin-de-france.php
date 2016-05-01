@@ -9,6 +9,6 @@ visible-title: Jardin De France
 og-type: website
 og-url: tags/jardin-de-france
 og-title: Jardin de France Tag | Studio N Creations Blog
-og-image: 
+og-image: /img/post-attachments/projects/jdf/12-16/link-banner@2x.jpg
 og-description: The Studio N Creations blog roll containing all posts tagged under 'Jardin de France'
 ---

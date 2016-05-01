@@ -18,7 +18,7 @@ body-class: standard-post
 		<section itemprop="articleBody" id="article-body">
 			<img itemprop="image" class="article-hero" src="{{ site.blog_cdn }}{{ page.article-hero-img }}" srcset="{{ site.blog_cdn }}{{ page.article-hero-img-retina }} 2x" alt="{{ page.article-hero-alt }}">
 			{{ content }}
-			<h4 id="contact-c2a">If you are interested in having an original website created, <a href="http://studioncreations.com/contact" class="underlined">contact the <span class="inline">Studio N Creations</span> team</a> and get started today.</h4>
+			<h4 id="contact-c2a">If you are interested in having a bespoke website created, <a href="http://studioncreations.com/contact" class="underlined">contact the <span class="inline">Studio N Creations</span> team</a> and get started today.</h4>
 		</section>
 		<footer id="article-footer">
 			<hr>

@@ -1,10 +1,10 @@
 var StaticShareButtons = {
-    twitterButton: document.querySelector('.share-button#twitter'),
+    // twitterButton: document.querySelector('.share-button#twitter'),
     facebookButton: document.querySelector('.share-button#facebook'),
 
     init: function () {
-        this.injectScript('https://urls.api.twitter.com/1/urls/count.json?url=' +
-            encodeURI(this.twitterButton.dataset.shareUrl) + '&callback=' + 'StaticShareButtons.processTwitter');
+        // this.injectScript('https://urls.api.twitter.com/1/urls/count.json?url=' +
+            // encodeURI(this.twitterButton.dataset.shareUrl) + '&callback=' + 'StaticShareButtons.processTwitter');
 
         this.injectScript('https://graph.facebook.com/?id=' +
             encodeURI(this.facebookButton.dataset.shareUrl) + '&callback=StaticShareButtons.processFacebook');
@@ -17,11 +17,11 @@ var StaticShareButtons = {
         document.body.appendChild(script);
     },
 
-    processTwitter: function (data) {
-        if (data.count !==undefined) {
-            this.twitterButton.querySelector('.shares').innerHTML = data.count;
-        }
-    },
+    // processTwitter: function (data) {
+    //     if (data.count !==undefined) {
+    //         this.twitterButton.querySelector('.shares').innerHTML = data.count;
+    //     }
+    // },
 
     processFacebook: function (data) {
         if (data.shares !==undefined) {

@@ -10,6 +10,6 @@ visible-title: Web Design
 og-type: website
 og-url: web-design/
 og-title: Web Design Posts Category | Studio N Creations Blog
-og-image: 
+og-image: /img/index/og/snc-blog-posts.png
 og-description: The Studio N Creations blog roll containing all web design-related articles
 ---

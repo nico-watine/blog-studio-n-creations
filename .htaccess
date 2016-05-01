@@ -623,3 +623,15 @@ AddHandler php5-script .php .html .htm
 # CURRENTLY ONLINE PER HOSTGATOR SETUP ---------------
 #AddHandler application/x-httpd-php5 .html .htm
 
+
+# ------------------------------------------------------------------------------
+# | Redirects for old HOFPS posts & tags
+# ------------------------------------------------------------------------------
+
+#RewriteCond %{HTTP_HOST} ^blog\.studioncreations\.com$ [OR]
+#RewriteCond %{HTTP_HOST} ^www\.blog\.studioncreations\.com$
+#RewriteRule ^tags\/houston\-oculofacial$ "http\:\/\/blog\.studioncreations\.com\/tags\/houston\-oculofacial\-plastic\-surgery" [R=301,L]
+
+#RewriteCond %{HTTP_HOST} ^blog\.studioncreations\.com$ [OR]
+#RewriteCond %{HTTP_HOST} ^www\.blog\.studioncreations\.com$
+#RewriteRule ^print\-work\/houston\-oculofacial\-spring\-postcard$ "http\:\/\/blog\.studioncreations\.com\/print\-work\/houston\-oculofacial\-plastic\-surgery\-spring\-postcard" [R=301,L]

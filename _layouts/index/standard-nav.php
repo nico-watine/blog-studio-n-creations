@@ -1,5 +1,7 @@
 {% include components/head-og.php %}
 {% include components/body-tag.html %}
+<meta itemprop="datePublished" content="2015-03-13">
+<meta itemprop="dateModified" content="{{ page.date-modified }}">
 {% include blocks/nav/standard-nav.html %}
 
 <main class="outer-container">
