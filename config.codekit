@@ -545,29 +545,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_layouts\/index\/overlay-nav.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_layouts\/index\/overlay-nav.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_layouts\/index\/standard-nav.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_layouts\/index\/standard-nav.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_layouts\/post\/post-no-c2a.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_layouts\/post\/post-no-c2a.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -2692,28 +2674,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/js\/modernizr-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/js\/modernizr-min.js",
-		"outputAbbreviatedPath": "\/_site\/modernizr-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/js\/nav-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/js\/nav-min.js",
-		"outputAbbreviatedPath": "\/_site\/nav-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/_site\/js\/nav-top-bar-min.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -2742,17 +2702,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/js\/src\/ie.js",
 		"outputAbbreviatedPath": "\/_site\/js\/ie-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/js\/src\/modernizr.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/js\/src\/modernizr.js",
-		"outputAbbreviatedPath": "\/_site\/js\/modernizr-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -2819,17 +2768,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/js\/src\/nav\/scroll.js",
 		"outputAbbreviatedPath": "\/_site\/js\/src\/scroll-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/js\/vendor\/jquery\/1-11-3\/jquery-min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/js\/vendor\/jquery\/1-11-3\/jquery-min.js",
-		"outputAbbreviatedPath": "\/_site\/js\/vendor\/jquery\/jquery-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5327,32 +5265,10 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/js\/modernizr-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/modernizr-min.js",
-		"outputAbbreviatedPath": "\/modernizr-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/nav-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/nav-min.js",
-		"outputAbbreviatedPath": "\/nav-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/js\/nav-top-bar-min.js": {
 		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/js\/nav-top-bar-min.js",
 		"outputAbbreviatedPath": "\/nav-top-bar-min-min.js",
 		"outputPathIsOutsideProject": 0,
@@ -5377,17 +5293,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/src\/ie.js",
 		"outputAbbreviatedPath": "\/js\/ie-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/src\/modernizr.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/src\/modernizr.js",
-		"outputAbbreviatedPath": "\/js\/modernizr-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5454,17 +5359,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/src\/nav\/scroll.js",
 		"outputAbbreviatedPath": "\/js\/src\/scroll-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/vendor\/jquery\/1-11-3\/jquery-min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/vendor\/jquery\/1-11-3\/jquery-min.js",
-		"outputAbbreviatedPath": "\/js\/vendor\/jquery\/jquery-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6236,7 +6130,7 @@
 	"bowerAbbreviatedPath": "assets",
 	"displayValue": "SNC \/ Blog (Jekyll)",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "\/apple-touch-icon-180x180-precomposed.png"
+	"iconImageName": "\/apple-touch-icon-180x180.png"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 1,
