@@ -6,10 +6,10 @@
 <head>
 	<meta charset="utf-8">
 	<!--<link rel="preconnect" href="http://cdn.studioncreations.com">-->
-	<title>Web Development Posts | Studio N Creations Blog</title>
-	<meta name="description" content="The Studio N Creations blog roll containing all web development-related articles" />
+	<title>Website Hosting Tag | Studio N Creations Blog</title>
+	<meta name="description" content="The Studio N Creations blog roll containing all posts tagged under 'Website Hosting'" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="canonical" href="http://blog.studioncreations.com/web-development/" />
+	<link rel="canonical" href="http://blog.studioncreations.com/tags/website-hosting" />
 	<link rel="author" href="/humans.txt">
 
 	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
@@ -33,10 +33,10 @@
 
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="http://blog.studioncreations.com/web-development/" />
-	<meta property="og:title" content="Web Development Posts Category | Studio N Creations Blog" />
-	<meta property="og:image" content="/img/index/og/snc-blog-posts.png" />
-	<meta property="og:description" content="The Studio N Creations blog roll containing all web development-related articles" />
+	<meta property="og:url" content="http://blog.studioncreations.com/tags/website-hosting" />
+	<meta property="og:title" content="Website Hosting Tag | Studio N Creations Blog" />
+	<meta property="og:image" content="/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg" />
+	<meta property="og:description" content="The Studio N Creations blog roll containing all posts tagged under 'Website Hosting'" />
 	<meta property="og:site_name" content="Studio N Creations Blog" />
 	<meta property="fb:app_id" content="985598931535022">
 	
@@ -82,32 +82,13 @@
 	</footer>
 </article>
 		
-			<article itemscope itemtype="http://schema.org/BlogPost" class="post-summary">
-	<header id="post-titles">
-		<h1 itemprop="headline"><a itemprop="mainEntityOfPage" href="/web-development/macintosh-os-x-gaget-analytics-app"><span itemprop="name">The new 'GAget Analytics' app</span></a></h1>
-		<h2 itemprop="description" class="subtitle">It's an excellent app for monitoring your website traffic</h2>
-		<time datetime="2015-04-09T08:00:00-06:00">9 April 2015</time>
-		<meta itemprop="datePublished" content="2015-04-09T08:00:00-06:00"/>
-		<a itemprop="mainEntityOfPage" href="/web-development/macintosh-os-x-gaget-analytics-app" class="read-more blue floating">Read More</a>
-	</header>
-	<section id="hero-image">
-		<a itemprop="mainEntityOfPage" href="/web-development/macintosh-os-x-gaget-analytics-app"> 
-			<img itemprop="image" src="/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg" srcset="/img/post-attachments/web-development/gaget/4-9/link-banner@2x.jpg 2x" alt="A detail shot of GAget Analytics in the 'Notification Panel'">
-		</a>
-	</section>
-	<footer id="post-taxonomy">
-		<h4 id="category">Category | <a class="simple" href="/web-development/"><span itemprop="genre">Web Development</span></a></h4>
-		<h4 id="tags">Tags | <a class="simple" href="/tags/apps"><span itemprop="keywords">Apps</span></a></h4>
-	</footer>
-</article>
-		
 	</section>
 	<aside>
 		<div class="aside-content">
 			<div class="page-title smaller">
 	<div class="row">
-		<h5>Category</h5>
-		<h1>Web Dev</h1>
+		<h5>Tagged</h5>
+		<h1>Website Hosting</h1>
 	</div>
 </div>
 			<nav class="side-nav">
@@ -150,4 +131,4 @@
 	ga('create','UA-55459011-8','auto');ga('send','pageview');
 </script>-->
 </body>
-</html> 
+</html>

@@ -5,7 +5,7 @@
 <html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
 <head>
 	<meta charset="utf-8">
-	<link rel="preconnect" href="http://cdn.studioncreations.com">
+	<!--<link rel="preconnect" href="http://cdn.studioncreations.com">-->
 	<title>Jardin de France Tags | Studio N Creations Blog</title>
 	<meta name="description" content="The Studio N Creations blog roll containing all posts tagged under 'Jardin de France'" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -35,13 +35,13 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="http://blog.studioncreations.com/tags/jardin-de-france" />
 	<meta property="og:title" content="Jardin de France Tag | Studio N Creations Blog" />
-	<meta property="og:image" content="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/12-16/link-banner@2x.jpg" />
+	<meta property="og:image" content="/img/post-attachments/projects/jdf/12-16/link-banner@2x.jpg" />
 	<meta property="og:description" content="The Studio N Creations blog roll containing all posts tagged under 'Jardin de France'" />
 	<meta property="og:site_name" content="Studio N Creations Blog" />
 	<meta property="fb:app_id" content="985598931535022">
 	
-	<link rel="stylesheet" href="http://cdn.studioncreations.com<?php autoVer('/css/core.css'); ?>" />
-	<link rel="stylesheet" href="http://cdn.studioncreations.com/blog<?php autoVer('/css/blog.css'); ?>" />
+	<link rel="stylesheet" href="<?php autoVer('/css/core.css'); ?>" />
+	<link rel="stylesheet" href="<?php autoVer('/css/blog.css'); ?>" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage" class="blog-index">
 <header>
@@ -73,7 +73,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/mockups-of-the-finished-jardin-de-france-tx-website"> 
-			<img itemprop="image" src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/12-16/link-banner.jpg" srcset="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/12-16/link-banner@2x.jpg 2x" alt="A closeup of the Jarin de France website on an iPhone">
+			<img itemprop="image" src="/img/post-attachments/projects/jdf/12-16/link-banner.jpg" srcset="/img/post-attachments/projects/jdf/12-16/link-banner@2x.jpg 2x" alt="A closeup of the Jarin de France website on an iPhone">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -92,7 +92,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/web-design/updating-jardin-de-france-brand"> 
-			<img itemprop="image" src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" srcset="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/6-03/jdf-facebook.png 2x" alt="The new Jardin de France Facebook cover">
+			<img itemprop="image" src="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png" srcset="/img/post-attachments/projects/jdf/6-03/jdf-facebook.png 2x" alt="The new Jardin de France Facebook cover">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -111,7 +111,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-tag-examples"> 
-			<img itemprop="image" src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" srcset="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg 2x" alt="A close-up of a Jardin de France tag">
+			<img itemprop="image" src="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg" srcset="/img/post-attachments/projects/jdf/3-30/link-banner@2x.jpg 2x" alt="A close-up of a Jardin de France tag">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -130,7 +130,7 @@
 	</header>
 	<section id="hero-image">
 		<a itemprop="mainEntityOfPage" href="/print-work/jardin-de-france-branding"> 
-			<img itemprop="image" src="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/3-17/jardin-de-france-hero.jpg" srcset="http://cdn.studioncreations.com/blog/img/post-attachments/projects/jdf/3-17/jardin-de-france-hero@2x.jpg 2x" alt="A photo of a new Jardin de France price tag">
+			<img itemprop="image" src="/img/post-attachments/projects/jdf/3-17/jardin-de-france-hero.jpg" srcset="/img/post-attachments/projects/jdf/3-17/jardin-de-france-hero@2x.jpg 2x" alt="A photo of a new Jardin de France price tag">
 		</a>
 	</section>
 	<footer id="post-taxonomy">
@@ -173,19 +173,19 @@
 			</ul>
 		</div>
 		<div class="row">
-			<h6>&copy; <a href="http://studioncreations.com" target="_blank" id="snc-link">STUDIO N CREATIONS</a> | 2015 <a href="https://www.facebook.com/studio.n.creations" target="_blank"><img id="facebook" src="http://cdn.studioncreations.com/img/assets/icons/social/facebook/facebook-round.png" srcset="http://cdn.studioncreations.com/img/assets/icons/social/facebook/facebook-round@2x.png 2x" alt="Facebook Link"></a></h6>
-			<h6 id="html5-powered">powered by <img src="http://cdn.studioncreations.com/img/assets/icons/html5/html5-shield.png" srcset="http://cdn.studioncreations.com/img/assets/icons/html5/html5-shield@2x.png 2x" alt="HTML5 Shield"></h6>
+			<h6>&copy; <a href="http://studioncreations.com" target="_blank" id="snc-link">STUDIO N CREATIONS</a> | 2015 <a href="https://www.facebook.com/studio.n.creations" target="_blank"><img id="facebook" src="/img/assets/icons/social/facebook/facebook-round.png" srcset="/img/assets/icons/social/facebook/facebook-round@2x.png 2x" alt="Facebook Link"></a></h6>
+			<h6 id="html5-powered">powered by <img src="/img/assets/icons/html5/html5-shield.png" srcset="/img/assets/icons/html5/html5-shield@2x.png 2x" alt="HTML5 Shield"></h6>
 		</div>
 	</div>
 </footer>
-<script src="http://cdn.studioncreations.com<?php autoVer('/js/nav-top-bar-min.js'); ?>"></script>
-<script>
+<script src="<?php autoVer('/js/nav-top-bar-min.js'); ?>"></script>
+<!--<script>
 	(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
 	function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
 	e=o.createElement(i);r=o.getElementsByTagName(i)[0];
 	e.src='https://www.google-analytics.com/analytics.js';
 	r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
 	ga('create','UA-55459011-8','auto');ga('send','pageview');
-</script>
+</script>-->
 </body>
 </html>

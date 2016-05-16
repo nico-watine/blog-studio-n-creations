@@ -653,6 +653,36 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_layouts\/tags\/website-hosting.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/tags\/website-hosting.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_plugins\/jekyll-uncss\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_plugins\/jekyll-uncss\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/_plugins\/jekyll-uncss\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
 	"\/_posts\/2015-03-13-new-lisa-esposito-project.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 0,
@@ -959,6 +989,27 @@
 		"inputAbbreviatedPath": "\/_posts\/2016-04-25-new-essential-sound-production-project.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/_posts\/2016-04-25-new-essential-sound-production-project.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/_posts\/2016-05-10-flywheel-wordpress-hosting-review.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_posts\/2016-05-10-flywheel-wordpress-hosting-review.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/_posts\/2016-05-10-flywheel-wordpress-hosting-review.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -1473,6 +1524,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/css\/blog.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/css\/blog.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/_site\/css\/core.css": {
 		"fileType": 16,
@@ -2590,6 +2650,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/post-attachments\/web-development\/flywheel\/2016\/05-10\/link-banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104365,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/web-development\/flywheel\/2016\/05-10\/link-banner.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/web-development\/flywheel\/2016\/05-10\/link-banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/post-attachments\/web-development\/flywheel\/2016\/05-10\/link-banner@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 109009,
+		"inputAbbreviatedPath": "\/_site\/img\/post-attachments\/web-development\/flywheel\/2016\/05-10\/link-banner@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/post-attachments\/web-development\/flywheel\/2016\/05-10\/link-banner@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/post-attachments\/web-development\/gaget\/4-9\/app-store.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2893,6 +2975,22 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/scss\/blog.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/scss\/blog.scss",
+		"outputAbbreviatedPath": "\/css\/blog.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
 	"\/_site\/scss\/ie.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -3004,6 +3102,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/tags\/lisa-esposito.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/tags\/website-hosting.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tags\/website-hosting.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3121,6 +3228,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/web-design\/updating-jardin-de-france-brand.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/web-development\/flywheel-wordpress-hosting-review.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/web-development\/flywheel-wordpress-hosting-review.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5165,6 +5281,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/post-attachments\/web-development\/flywheel\/2016\/05-10\/link-banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104365,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/web-development\/flywheel\/2016\/05-10\/link-banner.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/web-development\/flywheel\/2016\/05-10\/link-banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/post-attachments\/web-development\/flywheel\/2016\/05-10\/link-banner@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 109009,
+		"inputAbbreviatedPath": "\/img\/post-attachments\/web-development\/flywheel\/2016\/05-10\/link-banner@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/post-attachments\/web-development\/flywheel\/2016\/05-10\/link-banner@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/post-attachments\/web-development\/gaget\/4-9\/app-store.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5452,7 +5590,7 @@
 		"outputAbbreviatedPath": "\/css\/blog.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 3,
+		"outputStyle": 1,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -6048,6 +6186,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/tags\/lisa-esposito.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/tags\/website-hosting.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tags\/website-hosting.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
