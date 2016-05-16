@@ -1,8 +1,8 @@
-
-
-
+config.codekit
+*.sublime-project
+*.sublime-workspace
 .jekyll-metadata
-
-*.codekit
-
-*.codekit
+node_modules
+assets
+_site
+_ignores/plugins/jekyll-uncss/
