@@ -11,5 +11,5 @@ og-url: tags/essential-sound-production
 og-title: Essential Sound Production Tag | Studio N Creations Blog
 og-image: /img/post-attachments/projects/esp/4-25/link-banner@2x.jpg
 og-description: The Studio N Creations blog roll containing all posts tagged under 'Essential Sound Production'
-date-modified: 2016-04-30
+date-modified: 2016-05-18
 ---

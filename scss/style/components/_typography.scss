@@ -1,5 +1,4 @@
 @import "../settings/_settings.scss";
-@import "_fonts.scss";
 @import "_buttons.scss";
 
 
@@ -9,6 +8,7 @@ article {
 		margin-bottom: rem(12);
 	}
 }
+
 a.simple-underline {
 	text-decoration: underline;
 	color: #fff;

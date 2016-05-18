@@ -20,12 +20,10 @@
     margin-bottom: 0;
 
     transition: all 150ms;
-    -webkit-transition: all 150ms;
 
     .shares {
         opacity: 0;
         transition: opacity 150ms;
-        -webkit-transition: opacity 150ms;
         color: #fff;
         margin-top: rem(7); 
     }
@@ -40,32 +38,6 @@
     }
 }
 
-// .share-button {
-//     width: rem(80);
-//     height: rem(55);
-//     margin-bottom: 0;
-
-//     transition: all 150ms;
-//     -webkit-transition: all 150ms;
-// }
-
-// .share-button:hover {
-//     height: rem(80);
-//     margin-bottom: 0;
-// }
-
-// .share-button .shares {
-//     opacity: 0;
-//     transition: opacity 150ms;
-//     -webkit-transition: opacity 150ms;
-//     color: #fff;
-//     margin-top: rem(7);
-// }
-
-// .share-button:hover .shares {
-//     opacity: 1;
-// }
-
 .share-button .icon {
     margin: 0;
     padding: rem(13) 0 0;
@@ -75,12 +47,7 @@
     background-color: #435D96;
 }
 
-.share-button#twitter {
-    background-color: #5BC2F0;
-}
-
-a#facebook-share,
-a#twitter-share {
+a#facebook-share {
     float: left;
     margin-right: rem(12);
 }
@@ -94,7 +61,6 @@ a#pinterest-share {
 
     &:hover {
         cursor: pointer;
-        cursor: hand;
     }
 }
 

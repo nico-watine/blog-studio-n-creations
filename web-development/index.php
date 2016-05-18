@@ -12,5 +12,5 @@ og-url: web-development/
 og-title: Web Development Posts Category | Studio N Creations Blog
 og-image: /img/index/og/snc-blog-posts.png
 og-description: The Studio N Creations blog roll containing all web development-related articles
-date-modified: 2016-04-30
+date-modified: 2016-05-18
 ---
