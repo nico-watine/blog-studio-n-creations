@@ -2,71 +2,49 @@
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
-<html class="no-js" lang="en">
-<head>
+<html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
+<head itemscope itemtype="http://schema.org/WebSite">
 	<meta charset="utf-8">
 	<link rel="preconnect" href="http://cdn.studioncreations.com">
 	<title>Houston Oculofacial Plastic Surgery Tags | Studio N Creations Blog</title>
 	<meta name="description" content="The Studio N Creations blog roll containing all posts tagged under 'Houston Oculofacial'" />
+	<link rel="canonical" href="http://blog.studioncreations.com/tags/houston-oculofacial-plastic-surgery" itemprop="url">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link type="text/plain" rel="author" href="/humans.txt">
-	<link rel="canonical" href="http://blog.studioncreations.com/tags/houston-oculofacial-plastic-surgery">
+	<link rel="author" href="/humans.txt">
 
+	<link rel="icon" sizes="192x192" href="/touch-icon-192x192.png">
+
+	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="http://blog.studioncreations.com/tags/houston-oculofacial-plastic-surgery" />
 	<meta property="og:title" content="Houston Oculofacial Plastic Surgery Tag | Studio N Creations Blog" />
-	<meta property="og:image" content="http://cdn.studioncreations.com/blog" />
 	<meta property="og:description" content="The Studio N Creations blog roll containing all posts tagged under 'Houston Oculofacial Plastic Surgery'" />
+	<meta property="og:url" content="http://blog.studioncreations.com/tags/houston-oculofacial-plastic-surgery" />
+	<meta property="og:site_name" content="Studio N Creations Blog" />
+	<meta property="og:image" content="http://cdn.studioncreations.com/blog/img/post-attachments/projects/houston-oculofacial/4-1/link-banner@2x.jpg" />
+	<meta property="fb:app_id" content="985598931535022">
 	
 	<link rel="stylesheet" href="http://cdn.studioncreations.com<?php autoVer('/css/core.css'); ?>" />
 	<link rel="stylesheet" href="http://cdn.studioncreations.com/blog<?php autoVer('/css/blog.css'); ?>" />
-
-	<script src="http://cdn.studioncreations.com/js/modernizr-min.js"></script>
-
-	<!--[if lt IE 9]>
-		<link rel="stylesheet" href="/css/ie.css" />
-		<script src="/js/ie-min.js"></script>
-	<![endif]-->
 </head>
 <body itemscope itemtype="http://schema.org/WebPage" class="blog-index">
-<header id="site-header">
-	<div class="row" id="nav-bar">
-		<a href="/" class="title" id="index-link"><span id="large">Blog.Studio N Creations</span><span id="mini">BLOG.SNC</span></a>
-		<div id="button-wrapper">
-			<button id="menu-toggle" type="button"><span id="word">Menu</span><span id="hamburger"></span></button>
-		</div>
+<meta itemprop="datePublished" content="2015-03-13">
+<meta itemprop="dateModified" content="2016-04-30">
+
+<div class="row" id="nav-bar">
+	<div class="vertical-wrapper">
+		<a itemprop="url" href="/" class="title" id="index-link"><span itemprop="name" id="large">Blog.Studio N Creations</span><span itemprop="name" id="mini">BLOG.SNC</span></a>
 	</div>
-</header>
-<nav class="overlay overlay-slidedown">
-	<ul>
-		<li class="blog-link">
-			<a href="/">Home<span>Blog Roll</span></a>
-		</li>
-		<li class="blog-link">
-			<a href="/web-design/">Web Design<span>Category</span></a>
-		</li>
-		<li class="blog-link">
-			<a href="/web-development/">Web Development<span>Category</span></a>
-		</li>
-		<li class="blog-link">
-			<a href="/print-work/">Print Work<span>Category</span></a>
-		</li>
-		<ul class="snc-links">
-			<li id="services">
-				<a href="http://studioncreations.com/what-we-do/" target="_blank">Services<span>Our Services</span></a>
-			</li>
-			<li id="portfolio">
-				<a href="http://studioncreations.com/portfolio/" target="_blank">Portfolio<span>Our Portfolio</span></a>
-			</li>
-			<li id="about">
-				<a href="http://studioncreations.com/about-us" target="_blank">About<span>About Us</span></a>
-			</li>
-			<li id="email">
-				<a href="http://studioncreations.com/contact/" target="_blank">Contact<span>Get In Touch</span></a>
-			</li>
+	<nav class="nav-collapse">
+		<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+			<li itemprop="name"><a itemprop="url" href="http://studioncreations.com/">Home</a></li>
+			<li itemprop="name"><a itemprop="url" href="http://studioncreations.com/what-we-do/">Services</a></li>
+			<li itemprop="name"><a itemprop="url" href="http://studioncreations.com/portfolio/">Portfolio</a></li>
+			<li itemprop="name"><a itemprop="url" href="http://studioncreations.com/about-us">About Us</a></li>
+			<li itemprop="name" class="active"><a itemprop="url" href="/">Blog</a></li>
+			<li itemprop="name"><a itemprop="url" href="http://studioncreations.com/contact/">Contact</a></li>
 		</ul>
-	</ul>
-</nav>
+	</nav>
+</div>
 
 <main class="outer-container">
 	<section class="blog-roll">
@@ -91,21 +69,24 @@
 </article>
 		
 	</section>
-	<aside class="sidebar">
-		<div class="page-title smaller">
+	<aside>
+		<div class="aside-content">
+			<div class="page-title smaller">
 	<div class="row">
 		<h5>Tagged</h5>
 		<h1>Houston Oculofacial Plastic Surgery</h1>
 	</div>
 </div>
-		<nav class="side-nav">
-	<h3>CATEGORIES</h3>
+			<nav class="side-nav">
+	<h3>BLOG MENU</h3>
 	<ul class="category-list">
+		<li><a href="/" class="blue floating">Blog Home</a></li>
 		<li><a href="/web-design/" class="blue floating">Web Design</a></li>
 		<li><a href="/print-work/" class="blue floating">Print Work</a></li>
-		<li><a href="/web-development/" class="blue floating">Web Development</a></li>
+		<li><a href="/web-development/" class="blue floating"><span id="large">Web Development</span><span id="small">Web Dev</span></a></li>
 	</ul>
 </nav>
+		</div>
 	</aside>
 </main>
 
@@ -121,14 +102,13 @@
 			</ul>
 		</div>
 		<div class="row">
-			<h6>&copy; <a href="http://studioncreations.com" target="_blank" id="snc-link">STUDIO N CREATIONS</a> | 2015 <a href="https://www.facebook.com/studio.n.creations" target="_blank"><img id="facebook" src="http://cdn.studioncreations.com/img/footer/facebook.png" alt="Facebook Link"></a></h6>
-			<h6 id="html5-powered">powered by <img src="http://cdn.studioncreations.com/img/footer/html5-shield.png" alt="HTML5 Shield"></h6>
+			<h6>&copy; <a href="http://studioncreations.com" target="_blank" id="snc-link">STUDIO N CREATIONS</a> | 2015 <a href="https://www.facebook.com/studio.n.creations" target="_blank"><img id="facebook" src="http://cdn.studioncreations.com/img/assets/icons/social/facebook/facebook-round.png" srcset="http://cdn.studioncreations.com/img/assets/icons/social/facebook/facebook-round@2x.png 2x" alt="Facebook Link"></a></h6>
+			<h6 id="html5-powered">powered by <img src="http://cdn.studioncreations.com/img/assets/icons/html5/html5-shield.png" srcset="http://cdn.studioncreations.com/img/assets/icons/html5/html5-shield@2x.png 2x" alt="HTML5 Shield"></h6>
 		</div>
 	</div>
 </footer>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
-<script src="http://cdn.studioncreations.com<?php autoVer('/js/nav-min.js'); ?>"></script>
+<div class="mask"></div>
+<script src="http://cdn.studioncreations.com<?php autoVer('/js/responsive_nav-min.js'); ?>"></script>
 <script>
 	(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
 	function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
