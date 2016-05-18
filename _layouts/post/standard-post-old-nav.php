@@ -4,8 +4,7 @@ body-class: standard-post
 
 {% include components/head-og.php %}
 {% include components/body-tag.html %}
-
-{% include blocks/responsive-nav.html %}
+{% include blocks/nav/standard-nav.html %}
 
 <main class="outer-container">
 	<article itemscope itemtype="http://schema.org/BlogPosting">
@@ -42,8 +41,7 @@ body-class: standard-post
 
 
 {% include blocks/footer.html %}
-
-{% include components/scripts/responsive-nav.php %}
+{% include components/scripts/scripts.php %}
 {% include components/scripts/article-scripts.php %}
 {% include components/scripts/google-tracking.php %}
 </body>

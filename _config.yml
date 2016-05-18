@@ -16,7 +16,7 @@ encoding:         UTF-8
 # LOCAL-DEV BRANCH
 base_cdn:
 blog_cdn:
-blog_url: 
+blog_url: /
 start_comment: <!--
 end_comment: -->       
 

@@ -4,7 +4,10 @@ body-class: blog-index
 
 {% include components/head-og.php %}
 {% include components/body-tag.html %}
-{% include blocks/nav/standard-nav.html %}
+<meta itemprop="datePublished" content="2015-03-13">
+<meta itemprop="dateModified" content="{{ page.date-modified }}">
+
+{% include blocks/responsive-nav.html %}
 
 <main class="outer-container">
 	<section class="blog-roll">

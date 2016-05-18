@@ -1,7 +1,3 @@
----
-body-class: blog-index
----
-
 {% include components/head-og.php %}
 {% include components/body-tag.html %}
 <meta itemprop="datePublished" content="2015-03-13">
@@ -10,8 +6,8 @@ body-class: blog-index
 {% include blocks/responsive-nav.html %}
 
 <main class="outer-container">
-	<section class="blog-roll">
-		{% for post in site.tags.lemon-peel-facial %}
+	<section itemscope itemtype="http://schema.org/Blog" class="blog-roll">
+		{% for post in site.posts %}
 			{% include blocks/article/article-post-summary.html %}
 		{% endfor %}
 	</section>

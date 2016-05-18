@@ -1,5 +1,5 @@
 ---
-layout: index/standard-nav
+layout: index/responsive-nav
 body-class: blog-index
 page-title: Blog Roll
 page-description: Keep up with the our latest posts and projects on Studio N Creations blog

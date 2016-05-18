@@ -236,147 +236,56 @@ header#site-header #nav-bar #index-link * {
   text-shadow: 0.0625rem 0.0625rem 0.1875rem #000;
 }
 
-#nav-bar {
-  background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail.png") no-repeat left;
-  background-size: 400px 100%;
-  height: 3.4375em;
-  position: fixed;
-  width: 100%;
-  top: 0;
-  box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-}
-#nav-bar * {
-  color: initial;
-  text-shadow: initial;
-}
-
-#menu-toggle {
-  font-size: 1.75rem;
-  position: absolute;
-  top: 0.5rem;
-  right: 2rem;
-  outline: none;
-  background: none;
-  padding: 0;
-}
-#menu-toggle:hover {
-  margin-top: 0.125rem;
-  text-shadow: 0 0.0625rem 0.0625rem #000;
-}
-#menu-toggle #word {
-  font-family: "Lintel ExtraBold", sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 0.0625em;
-}
-
-#hamburger:before {
-  font-family: "nav";
-  content: "\2261";
-  padding-left: 0.5rem;
-}
-
-#hamburger.active:before {
-  margin-right: -0.25rem;
-  content: "\78";
-}
-
-#index-link {
-  font-size: 1.875rem;
-  position: absolute;
-  top: 0.625rem;
-  left: 1rem;
-}
-#index-link * {
-  color: #fff;
-  text-shadow: 0 0.0625rem 0.125rem #000;
-}
-#index-link #mini {
-  visibility: hidden;
-  display: none;
-}
-#index-link:hover {
-  text-decoration: none;
-}
-
-@media only screen and (max-width: 60em) {
+@media only screen and (max-width: 59.375em) {
   #nav-bar {
-    background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail.png") no-repeat left;
-    background-size: 18.75em 100%;
+    background-size: auto 100%;
+    background-position: -200px;
+  }
+  #nav-bar .vertical-wrapper a#index-link span#large {
+    display: none;
+    visibility: hidden;
+  }
+  #nav-bar .vertical-wrapper a#index-link span#mini {
+    display: block;
+    visibility: visible;
+  }
+}
+@media only screen and (max-width: 50em) {
+  #nav-bar {
+    background-position: -250px;
+  }
+}
+@media only screen and (max-width: 46.875em) {
+  #nav-bar {
+    background-position: left;
     height: 3.125em;
   }
-
-  #index-link {
-    font-size: 1.625rem;
-    left: 0.75rem;
-    top: 0.625rem;
+  #nav-bar .vertical-wrapper {
+    line-height: 3.125em;
   }
-}
-@media only screen and (max-width: 58.125em) {
-  #index-link #large {
-    visibility: hidden;
-    display: none;
-  }
-  #index-link #mini {
-    visibility: visible;
+  #nav-bar .vertical-wrapper a#index-link span#large {
     display: block;
-  }
-}
-@media only screen and (max-width: 53.125em) {
-  #nav-bar {
-    background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail.png") no-repeat left;
-    background-size: 11.875em 100%;
-    height: 3.125em;
-  }
-
-  #index-link {
-    left: 0.625rem;
-  }
-}
-@media screen and (max-width: 46.875em) {
-  #nav-bar {
-    background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail@750.png") no-repeat left;
-    background-size: 9.375em 100%;
-    height: 3.125em;
-  }
-}
-@media only screen and (max-width: 43.688em) {
-  #nav-bar {
-    background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail.png") no-repeat left;
-    background-size: 400px 100%;
-  }
-
-  #index-link #large {
     visibility: visible;
-    display: block;
   }
-  #index-link #mini {
-    visibility: hidden;
+  #nav-bar .vertical-wrapper a#index-link span#mini {
     display: none;
+    visibility: hidden;
   }
 }
-@media only screen and (max-width: 28.125em) {
+@media only screen and (max-width: 31.25em) {
   #nav-bar {
-    background: #fff url("http://cdn.studioncreations.com/img/nav/top-bar/nav-detail.png") no-repeat left;
-    background-size: 120% 100%;
+    background-position: -160px;
   }
-
-  #index-link #large {
-    visibility: hidden;
+  #nav-bar .vertical-wrapper a#index-link span#large {
     display: none;
+    visibility: hidden;
   }
-  #index-link #mini {
-    visibility: visible;
+  #nav-bar .vertical-wrapper a#index-link span#mini {
     display: block;
+    visibility: visible;
   }
 }
-@media only screen and (max-width: 26.25em) {
-  #menu-toggle {
-    text-shadow: 0 0.0625rem 0.125rem #000;
-  }
-  #menu-toggle:hover {
-    text-shadow: 0 0.0625rem 0.0625rem #000;
-  }
-}
+
 main {
   text-align: left;
   padding: 1.375em 0.75em;
