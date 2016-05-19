@@ -1,0 +1,1 @@
+Maybe make a gif of a jpeg rendering, but would it be clear enough to make out the effect with it being a gif?
