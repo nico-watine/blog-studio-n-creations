@@ -11,5 +11,5 @@ og-url:
 og-title: Home Blog Roll | Studio N Creations
 og-image: /img/index/og/snc-blog-posts.png
 og-description: Keep up with our latest posts and projects on the Studio N Creations blog
-date-modified: 2016-05-18
+date-modified: 2016-07-05
 ---

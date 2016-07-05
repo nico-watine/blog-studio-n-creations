@@ -27,3 +27,15 @@ base_cdn:         http://cdn.studioncreations.com
 # start_comment:
 # end_comment: 
 
+
+# UNCSS
+uncss:
+  stylesheets:            # a list of stylesheets to be processed; mandatory
+    - css/blog.css
+  files:                  # html files to consider, globs are supported; default: **/*.html
+    - "**/*.php"
+    - "**/*.html"
+  ignoreSheets: 
+    - "/fonts.googleapis/"
+  compress: true          # compress resulting css with sass; default- false
+  # ignore:                 # always keep rules for these selectors; default: none

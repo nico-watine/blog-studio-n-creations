@@ -5,7 +5,7 @@
 <html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
 <head itemscope itemtype="http://schema.org/WebSite">
 	<meta charset="utf-8">
-	{{ site.start_comment }}<link rel="preconnect" href="http://cdn.studioncreations.com">{{ site.end_comment }}
+	<link rel="preconnect" href="http://cdn.studioncreations.com">
 	<title>{{ page.page-title }} | Studio N Creations Blog</title>
 	<meta name="description" content="{{ page.page-description }}" />
 	<link rel="canonical" href="http://blog.studioncreations.com/{{ page.og-url }}" itemprop="url">
